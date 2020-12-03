@@ -62,11 +62,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
 
   return {
-    templateFormats: ["md", "njk", "html", "png", "jpg"],
+    templateFormats: ["md", "njk", "html", "png", "jpg", "ico"],
     passthroughFileCopy: true,
     markdownTemplateEngine: "liquid",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     pathPrefix: "/",
+    favicons: "/",
   };
 };
