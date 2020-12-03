@@ -8,7 +8,7 @@
   "feed": {
     "subtitle": "Miscellaneous writings on various subjects.",
     "filename": "feed.xml",
-    "path": "/feed/feed.xml",
+    "path": "/feed.xml",
     "id": "https://www.erichgrunewald.com/"
   }
 }
