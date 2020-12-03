@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+---
+<div>
+    {% for post in collections.post | sort(attribute = 'date') | reverse %}
+        <div class="post-abbrev-body">
+            <h2 class="post-abbrev-title">
+                <a href="{{ post.url }}">{{  post.data.title }}</a>
+            </h2>
+            <em>{{ post.date | readableDate }}</em>
+            <div>{{ post.templateContent | abbrev | safe }}</div>
+            <div><a href="{{ post.url }}">Read more →</a></div>
+        </div>
+    {% endfor %}
+</div>
