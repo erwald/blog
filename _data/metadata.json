@@ -1,8 +1,14 @@
 {
   "title": "Erich Grunewald's Blog",
-  "url": "http://www.erichgrunewald.com",
+  "url": "https://www.erichgrunewald.com",
   "description": "Writings on philosophy, poetry, literature, history, politics, science, programming & music.",
   "author": {
     "name": "Erich Grunewald"
+  },
+  "feed": {
+    "subtitle": "Miscellaneous writings on various subjects.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://www.erichgrunewald.com/"
   }
 }

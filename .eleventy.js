@@ -58,6 +58,9 @@ module.exports = function (eleventyConfig) {
     return withoutTitleAndQuote.split(/<\/p>/).slice(0, 2).join("</p>");
   });
 
+  // Add RSS plugin.
+  eleventyConfig.addPlugin(pluginRss);
+
   return {
     templateFormats: ["md", "njk", "html", "png", "jpg"],
     passthroughFileCopy: true,
