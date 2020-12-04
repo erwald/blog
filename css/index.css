@@ -43,7 +43,6 @@ footer p {
 
 main {
   display: flex;
-  flex-direction: row;
 }
 
 #breadcrumbs {
@@ -66,6 +65,19 @@ main {
 
 #content img {
   width: 100%;
+}
+
+@media only screen and (max-width: 640px) {
+  main {
+    flex-direction: column;
+  }
+  #sidebar {
+    width: 100%;
+  }
+  #content {
+    width: 100%;
+    padding: 0;
+  }
 }
 
 h1 {

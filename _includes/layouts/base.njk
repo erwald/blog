@@ -47,7 +47,7 @@
         <header>
             <div id='breadcrumbs'>
                 <div><a href="/">~</a> {{ '/ ' + page.fileSlug if title else '' }}</div>
-                {{ 'posted on ' + date | readableDate if date else '' }}
+                <div>{{ 'posted on ' + date | readableDate if date else '' }}</div>
             </div>
         </header>
 
