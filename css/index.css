@@ -98,6 +98,13 @@ h2 {
   font-weight: normal;
 }
 
+h3 {
+  padding-top: 1ch;
+  font-size: 14pt;
+  font-weight: normal;
+  font-style: italic;
+}
+
 .post-abbrev-body {
   padding-bottom: 40px;
 }
@@ -136,6 +143,19 @@ code {
   padding: 2px;
   margin: -2px;
   color: #0c0;
+  background-color: #efe;
+}
+
+pre {
+  padding: 2px 2px;
+  margin: -2px 0;
+  overflow-x: auto;
+  overflow-y: clip;
+  white-space: pre-wrap; /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  word-wrap: break-word; /* Internet Explorer 5.5+ */
   background-color: #efe;
 }
 
