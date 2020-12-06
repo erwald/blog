@@ -73,6 +73,7 @@ main {
   }
   #sidebar {
     width: 100%;
+    padding-top: 20px;
   }
   #content {
     width: 100%;
