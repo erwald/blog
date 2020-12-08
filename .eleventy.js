@@ -47,7 +47,7 @@ module.exports = function (eleventyConfig) {
     // Remove the title & footnote references.
     const withoutTitle = str
       .replace(/<h\d.+<\/h\d>\s+/, "")
-      .replace(/<sup class="footnote-ref">(?!<sup).+<\/sup>/g, "");
+      .replace(/<sup class="footnote-ref">[^s]*<\/sup>/g, "");
 
     // If there's an opening quote, remove that, too.
     const withoutTitleAndQuote = withoutTitle.match(/^<blockquote>/)
