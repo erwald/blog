@@ -11,7 +11,7 @@ body {
   padding: 20px 0;
   margin: 0;
   font-family: serif;
-  font-size: 16pt;
+  font-size: 18px;
   color: var(--black);
   background-color: var(--white);
 }
@@ -30,12 +30,12 @@ main,
 footer {
   margin: 0 auto;
   padding: 0 20px;
-  max-width: 900px;
+  max-width: 800px;
 }
 
 footer {
   padding-top: 40px;
-  max-width: 720px;
+  max-width: 650px;
 }
 footer p {
   text-align: center;
@@ -89,19 +89,19 @@ hr {
 
 h1 {
   margin: 0;
-  font-size: 26pt;
+  font-size: 32px;
   font-weight: normal;
 }
 
 h2 {
   padding-top: 1ch;
-  font-size: 20pt;
+  font-size: 24px;
   font-weight: normal;
 }
 
 h3 {
   padding-top: 1ch;
-  font-size: 18pt;
+  font-size: 22px;
   font-weight: normal;
   font-style: italic;
 }
@@ -141,7 +141,7 @@ strong {
 
 code {
   font-family: monospace;
-  font-size: 12pt;
+  font-size: 14px;
   padding: 2px;
   margin: -2px;
   color: #0c0;
@@ -150,8 +150,8 @@ code {
 
 pre {
   text-indent: -40px;
-  padding: 2px 2px 2px 42px;
-  margin: -2px 0;
+  padding: 10px 20px 10px 60px;
+  margin: 0 -20px;
   overflow-x: auto;
   overflow-y: clip;
   white-space: pre-wrap; /* Since CSS 2.1 */
@@ -167,7 +167,7 @@ blockquote {
 
 .email {
   font-family: monospace;
-  font-size: 10pt;
+  font-size: 14px;
   padding: 2px;
   margin: -2px;
   background-color: var(--light-grey);
