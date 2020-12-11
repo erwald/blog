@@ -11,7 +11,7 @@ body {
   padding: 20px 0;
   margin: 0;
   font-family: serif;
-  font-size: 14pt;
+  font-size: 16pt;
   color: var(--black);
   background-color: var(--white);
 }
@@ -89,19 +89,19 @@ hr {
 
 h1 {
   margin: 0;
-  font-size: 22pt;
+  font-size: 26pt;
   font-weight: normal;
 }
 
 h2 {
   padding-top: 1ch;
-  font-size: 18pt;
+  font-size: 20pt;
   font-weight: normal;
 }
 
 h3 {
   padding-top: 1ch;
-  font-size: 16pt;
+  font-size: 18pt;
   font-weight: normal;
   font-style: italic;
 }
@@ -141,7 +141,7 @@ strong {
 
 code {
   font-family: monospace;
-  font-size: 10pt;
+  font-size: 12pt;
   padding: 2px;
   margin: -2px;
   color: #0c0;
