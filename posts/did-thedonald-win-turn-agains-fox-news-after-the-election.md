@@ -9,7 +9,7 @@ tags: post
 
 It must take a special kind of self-restraint for American liberals not to revel in the MAGA faction's apparent mutiny against Fox News, perhaps for the same reason that the neocon mutiny against Trump was a kind of heroin for them. There's nothing better than a divided enemy. And there's no tranquilliser more powerful than the confirmation of those on the other side.
 
-To drink this potent elixir you're best off going to the source, which in the case of MAGA has to be [thedonald.win](thedonald.win/). I'll happily admit to have started checking in on the reluctant orchestra myself at intervals since Election Day. It's all kind of fascinating & probably not a worse way of spending one's time than watching some or another Netflix show or whatever. You can't have spent any time there recently & not have noticed that these people hate Fox News. But when did that begin? Did it start around 11:20 p.m. on election night when Fox called Arizona?[^1] That question came up recently & I wanted to answer it quantitatively.
+To drink this potent elixir you're best off going to the source, which in the case of MAGA has to be [thedonald.win](https://thedonald.win/). I'll happily admit to have started checking in on the reluctant orchestra myself at intervals since Election Day. It's all kind of fascinating & probably not a worse way of spending one's time than watching some or another Netflix show or whatever. You can't have spent any time there recently & not have noticed that these people hate Fox News. But when did that begin? Did it start around 11:20 p.m. on election night when Fox called Arizona?[^1] That question came up recently & I wanted to answer it quantitatively.
 
 ## Methodology
 
