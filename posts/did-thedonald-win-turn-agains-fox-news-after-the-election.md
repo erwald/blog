@@ -55,9 +55,9 @@ Here's how Fox News compared to OANN & Newsmax across the whole data set.
 
 The area of the Fox News density is much larger than the others because I scaled the three groups to be proportional to their sample sizes: there are many more comments about Fox News in the data set than there are about the other two. There's not much more to say here. I don't know why the three distributions have different shapes. If there are any effects here, they are pretty small & it's hard to tell from the graphs alone if there's really something there or not.
 
-Which is why I also modelled the problem, using sentiment & voting score to infer attitude. Of course a Bayesian model spits out posterior probability distributions. To compare two groups we calculate the difference between their posterior distributions. That's called the **contrast**. Here I wanted to know the contrast between the post-election & pre-election groups. This plot shows just that for each of the three news channels, with 93% percentile intervals.
+Which is why I also modelled the problem, using sentiment & voting score to infer attitude. Of course a Bayesian model spits out posterior probability distributions. To compare two groups we calculate the difference between their posterior distributions. That's called the **contrast**. Here I wanted to know the contrast between the post-election & pre-election groups. This plot shows just that for each of the three news channels, with 89% percentile intervals.
 
-![Mean & 93% percentile interval contrasts between post/pre-election attitude posteriors.]({{ '/img/model_contrasts.png' | url }})
+![Mean & 89% percentile interval contrasts between post/pre-election attitude posteriors.]({{ '/img/model_contrasts.png' | url }})
 
 In numbers, the model is
 
