@@ -11,7 +11,7 @@ body {
   padding: 20px 0;
   margin: 0;
   font-family: serif;
-  font-size: 18px;
+  font-size: 19px;
   color: var(--black);
   background-color: var(--white);
 }
@@ -45,13 +45,21 @@ main {
   display: flex;
 }
 
-#breadcrumbs {
+#overview {
   padding: 4px 0;
   margin-bottom: 20px;
-  border-bottom: 1px solid;
-  border-bottom-color: var(--grey);
+  border-bottom: 2px solid;
+  border-bottom-color: var(--light-grey);
   display: flex;
   justify-content: space-between;
+}
+
+#breadcrumbs {
+  padding: 0 8px 0 0;
+}
+
+#date {
+  text-align: right;
 }
 
 #sidebar {
@@ -83,8 +91,8 @@ main {
 
 hr {
   border: none;
-  border-top: 1px solid;
-  border-top-color: var(--grey);
+  border-top: 2px solid;
+  border-top-color: var(--light-grey);
 }
 
 h1 {
@@ -95,7 +103,7 @@ h1 {
 
 h2 {
   padding-top: 1ch;
-  font-size: 24px;
+  font-size: 26px;
   font-weight: normal;
 }
 
@@ -128,6 +136,15 @@ li {
   text-align: justify;
   line-height: 2.5ch;
   hyphens: auto;
+}
+
+blockquote p {
+  font-size: 18px;
+  line-height: 2.3ch;
+}
+
+blockquote .footnote-ref {
+  font-size: 14px;
 }
 
 sup {

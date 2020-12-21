@@ -45,9 +45,9 @@
     </head>
     <body>
         <header>
-            <div id='breadcrumbs'>
-                <div><a href="/">~</a> {{ '/ ' + page.fileSlug if title else '' }}</div>
-                <div>{{ 'posted on ' + date | readableDate if date else '' }}</div>
+            <div id='overview'>
+                <div id='breadcrumbs'><a href="/">~</a> {{ '/ ' + page.fileSlug if title else '' }}</div>
+                <div id='date'>{{ 'posted on ' + date | readableDate if date else '' }}</div>
             </div>
         </header>
 

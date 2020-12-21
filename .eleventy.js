@@ -13,7 +13,7 @@ module.exports = function (eleventyConfig) {
 
   // Make sure we have readable dates.
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("d MMMM y");
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("d MMM y");
   });
 
   // Configure footnotes.
