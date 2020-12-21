@@ -62,7 +62,7 @@ Which is why I also modelled the problem, using sentiment & voting score to infe
 In numbers, the model is
 
 - 89% sure that attitudes towards Fox News deteriorated after election;
-- 85% sure that attitudes towards OANN improved after election; and
+- 85% sure that attitudes towards OANN improved after election; &
 - 54% sure that attitudes towards Newsmax deteriorated after election.
 
 Of course this is under all of the previously stated assumptions. There are very few comments about only Newsmax or only OANN before the election (N = 5 & N = 16 respectively, compared to N = 239 for Fox News). That's why the uncertainty bands are larger for those two. But most fatal is probably the iffiness of the sentiment analysis, which is noisy & has both false positives & false negatives. If I'd had more time, I would have considered labelling the data manually. But there it is. Make of all of this what you will.
