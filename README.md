@@ -12,5 +12,6 @@ The code for this site is licensed under [MIT](https://en.wikipedia.org/wiki/MIT
 
 - Use italics for emphasis, titles of works & terms & phrases in non-English languages.
 - Use bold (styled as underlined) for key terms & phrases & for content warnings.
-- Explanatory or clarifying sentences may be put in parentheses and italics.
+- Explanatory or clarifying sentences & phrases may be put in parentheses and italics.
 - Code snippets & anything that might appear in code may be put in code tags.
+- Spell out cardinal & ordinal numbers under 11.
