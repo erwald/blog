@@ -6,6 +6,8 @@ const markdownItSup = require("@gerhobbelt/markdown-it-sup");
 const markdownItSub = require("@gerhobbelt/markdown-it-sub");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
+const removeTitle = (str) => str.replace(/<h\d.+<\/h\d>\s+/, "");
+
 module.exports = function (eleventyConfig) {
   // Copy images & css to site dir.
   eleventyConfig.addPassthroughCopy("img");
@@ -45,9 +47,10 @@ module.exports = function (eleventyConfig) {
   // Add filter for extracting the first 2 paragraphs from a string of HTML.
   eleventyConfig.addNunjucksFilter("abbrev", (str) => {
     // Remove the title & footnote references.
-    const withoutTitle = str
-      .replace(/<h\d.+<\/h\d>\s+/, "")
-      .replace(/<sup class="footnote-ref">[^s]*<\/sup>/g, "");
+    const withoutTitle = removeTitle(str).replace(
+      /<sup class="footnote-ref">[^s]*<\/sup>/g,
+      ""
+    );
 
     // If there's an opening quote, remove that, too.
     const withoutTitleAndQuote = withoutTitle.match(/^<blockquote>/)
@@ -57,6 +60,9 @@ module.exports = function (eleventyConfig) {
     // Return just the first 2 paragraphs.
     return withoutTitleAndQuote.split(/<\/p>/).slice(0, 2).join("</p>");
   });
+
+  // Add filter for removing title header from content (for RSS feed).
+  eleventyConfig.addNunjucksFilter("removeTitle", (str) => removeTitle(str));
 
   // Add RSS plugin.
   eleventyConfig.addPlugin(pluginRss);
