@@ -4,6 +4,7 @@ title: Introduction
 date: 2020-12-04
 tags: post
 ---
+
 # Introduction
 
 > Let Pallas live in the city that she founded.
@@ -26,7 +27,7 @@ That said, I think there is something special about outsiders, after all. Which 
 
 Two things favour the forest-dweller. The first is the freedom of not engaging in the ever-shifting trends & ideas of the city. Whether you want it or not those trends & ideas have a tendency to eat your mind. The second is the freedom of not having to compete. If you want to make it in a highly competitive environment, you will need to compromise; compromise usually involves a movement towards the mean. (Of course there's a tension here in that Athens was the forge & founding place for much of the kind of intellectual pursuit that I enjoy. I don't know how to resolve that though as so often it appears one must strike a balance.)
 
-So much for the spirit of this blog & its reason for being. The introduction draws to an end.  But before it comes to an end I want to leave you with an idea of what to expect in the future.
+So much for the spirit of this blog & its reason for being. The introduction draws to an end. But before it comes to an end I want to leave you with an idea of what to expect in the future.
 
 First, I've decided to make things simple for myself & so will simply write about whatever I'm interested in at any moment. "I learned to trust my obsessions."[^4] That may or may not include things like philosophy, poetry, literature, history, politics, science, programming & music. If those aren't your thing, you can probably go back to reading _The Guardian_ or whatever.
 
@@ -34,10 +35,7 @@ Second, I will try to write short pieces, 500 to 2000 words, which should make f
 
 Third & final, I speak for no one but myself. Other people speak for other people, but I don't know what gives them the right. No popular movement, no democratic process, no Quakerish consensus-making has put me here. I am alone in my forest & don't expect anyone to hear my lamentations. But being a mammal I should of course not be displeased to learn that somebody does.
 
-[^1]:	Virgil. & Ferry, D. (2000). _The eclogues of Virgil : a translation_. New York: Farrar, Straus, and Giroux.
-
-[^2]:	Singer, P. (2011). _The expanding circle : ethics, evolution, and moral progress_. Princeton, NJ: Princeton University Press.
-
-[^3]:	Virgil. & Ferry, D. (2000). _The eclogues of Virgil : a translation_. New York: Farrar, Straus, and Giroux.
-
-[^4]:	That's something Robert Bly once said or wrote, but I wasn't able to find the exact source.
+[^1]: Virgil & Ferry, D. (2000). _The eclogues of Virgil : a translation_. New York: Farrar, Straus, and Giroux.
+[^2]: Singer, P. (2011). _The expanding circle : ethics, evolution, and moral progress_. Princeton, NJ: Princeton University Press.
+[^3]: Virgil & Ferry, D. (2000). _The eclogues of Virgil : a translation_. New York: Farrar, Straus, and Giroux.
+[^4]: That's something Robert Bly once said or wrote, but I wasn't able to find the exact source.
