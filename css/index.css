@@ -30,7 +30,7 @@ main,
 footer {
   margin: 0 auto;
   padding: 0 20px;
-  max-width: 800px;
+  max-width: 840px;
 }
 
 footer {
@@ -63,7 +63,22 @@ main {
 }
 
 #sidebar {
-  width: 25%;
+  width: 30%;
+}
+#sidebar h1 {
+  padding-top: 2ch;
+  font-size: 19px;
+  font-weight: normal;
+  text-decoration: underline;
+}
+#sidebar ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+#sidebar li {
+  padding-bottom: 1ch;
+  text-align: left;
+  hyphens: none;
 }
 
 #content {
