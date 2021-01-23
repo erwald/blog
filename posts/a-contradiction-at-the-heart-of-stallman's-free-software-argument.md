@@ -13,7 +13,7 @@ tags: post
 
 Let me begin with a throat clearing. I'm all for free (as in free speech) software. I have contributed, in small ways at least, to free & open source projects, I admire many of its proponents & contributors & am increasingly trading out proprietary tools & services for free ones. The [code for this website](https://github.com/erwald/blog) is free. Nearly every other software project I have undertaken privately is also free. I think that [making software free is good for innovation]({{ '/posts/evolution-of-programming-language-traits/' | url }}). It's good for programmers. It's good for people. It's the kind of thing that everybody can get behind.
 
-But (and you knew there was going to be a "but") the philosophy that Richard Stallman presents in _[Why Software Should Be Free](https://www.gnu.org/philosophy/shouldbefree.en.html)_ goes too far for me. It goes so far that it bends into a circle & eats its own tail, like [the world-serpent of the Norse sagas](https://en.wikipedia.org/wiki/J%C3%B6rmungandr). That is to say, there is a contradiction at its heart, precisely where its theory meets its praxis.
+But (& you knew there was going to be a "but") the philosophy that Richard Stallman presents in _[Why Software Should Be Free](https://www.gnu.org/philosophy/shouldbefree.en.html)_ goes too far for me. It goes so far that it bends into a circle & eats its own tail, like [the world-serpent of the Norse sagas](https://en.wikipedia.org/wiki/J%C3%B6rmungandr). That is to say, there is a contradiction at its heart, precisely where its theory meets its praxis.
 
 I will explain what I mean by that soon enough. But first I will try to summarise Stallman's argument as clearly & sympathetically as I can. The argument goes something like this:
 
