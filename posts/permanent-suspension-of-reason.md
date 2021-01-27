@@ -10,7 +10,7 @@ tags: post
 > A man found some gold and left a noose in its place.  
 > The owner, finding his treasure gone, donned the noose.[^1]
 >
-> Plato (or elsewhere Statyllius Flaccus)
+> – Plato (or elsewhere Statyllius Flaccus)
 
 The storming of the U.S. Capitol shocked me but it did not surprise me. It was a spectacle, a farce & an embarrassment all at once, bundled, packaged & distributed for an international audience. What shocked me about it as I watched the coverage was the fact that news, in this day & age, can in fact appear spontaneously, without human intervention. Good thing for our decadent West that today's revolutionaries only plan far enough to get themselves up on the barricade; having reached that place, they forget at once why they climbed it in the first place. But that is only a minor consolation.
 
