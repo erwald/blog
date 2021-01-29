@@ -35,13 +35,7 @@ module.exports = function (eleventyConfig) {
     .use(markdownItFootnote)
     .use(markdownItSup)
     .use(markdownItSub);
-  markdownLibrary.renderer.rules.footnote_caption = (tokens, idx) => {
-    let n = Number(tokens[idx].meta.id + 1).toString();
-    if (tokens[idx].meta.subId > 0) {
-      n += ":" + tokens[idx].meta.subId;
-    }
-    return n;
-  };
+
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Add filter for extracting the first 2 paragraphs from a string of HTML.
