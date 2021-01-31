@@ -49,7 +49,7 @@ McMullen & Halteman[^14] mention some further reasons to believe that moral vege
 We are fewer than 8 billion people in this world but every year we slaughter [80 billion non-human animals](https://ourworldindata.org/meat-production#number-of-animals-slaughtered) for meat. If that's wrong, it's a wrong of truly staggering proportions. It's also one that is growing & will continue to grow as humans across the world get more prosperous. And it's not something that technology will solve (though technology can & does help); what's needed is nothing less than a great moral revolution on the order of abolitionism. That, if for no other reason, is why these questions matter.
 
 [^1]: Clare, J. & Farley, P. (2011). _John Clare: poems_. London: Faber and Faber.
-[^2]: I owe this observation to Korsgaard, _Fellow Creatures: Our Obligations to the Other Animals_.
+[^2]: I owe this observation to Korsgaard, _[Getting Animals in View](https://thepointmag.com/examined-life/getting-animals-view/)_.
 [^3]: Specifically they concern act consequentialism. Other variants, like rule consequentialism, escape unharmed from these arguments.
 [^4]: Gallet, C. A. (2010). _Meat Meets Meta: A Quantitative Review of the Price Elasticity of Meat_. American Journal of Agricultural Economics, 92(1), 258–272.
 [^5]: Selvanathan, E. A., Jayasinghe, M., Hossain, M. M., & Selvanathan, S. (2020). _Modelling the Demand for Meat in Bangladesh_. In Science and Technology Innovation for a Sustainable Economy (pp. 135–151). Springer International Publishing.
