@@ -35,7 +35,7 @@ The scene is set. The village of Apri, of which the three women were natives, wa
 
 The three women mention that Apri was nearly nine tenths Kurdish. Another source in the same book puts the number at three quarters.[^7] This was not unique in the area but from what I can tell the split was usually more even. The Kurds often show up in these accounts. Their role in the genocide spans a wide spectrum. In some places they were deeply complicit in the massacres & other crimes, but elsewhere Kurds went to great length to protect their Armenian neighbours from the Ottoman Turks.
 
-![Map of the area around the village of Apri.]({{ '/img/armenian_genocide_map_1.png' | url }})
+![Map of the area around the village of Apri.]({{ '/img/armenian_genocide_map_1.jpeg' | url }})
 
 These events took place in 1915. Astute readers will know that this was the second year of the First World War. That means we're only in the very early stages of the genocide. And of course war is a great distraction which allows nations to go ahead and do what they had already wanted to do; & just as it's easier for a person to change their habits when moving to a different country, so it is also easier for a country to carry out programs when large changes are happening & things are in flux.
 
@@ -65,7 +65,7 @@ At this point the two accounts fork as Salvi Margarian is taken away & the other
 
 The road from Apri to Khashkhaldagh on the Euphrates is, according to Google Maps, something like 15-16 hours by foot & involves crossing a mountain ridge. Ablbuhar, Tsronk, Sheikhbrim and Sulukh do indeed follow a line to Khashkhaldagh from a reasonable point of descent into the Mush valley (I couldn't find Herkert on the map). The Kurds here have the same modus operandi in both accounts: first they kill all the men, then they separate women by their looks before finally putting the rejected women (& in one account children) into hay lofts & immolating them with hay & kerosene. And again, the Kurds' interruption by the Russians in Apri is how Havso Margarian & Kyulizar Karapetian could survive & give their account.
 
-![Map of the area around Mush.]({{ '/img/armenian_genocide_map_2.png' | url }})
+![Map of the area around Mush.]({{ '/img/armenian_genocide_map_2.jpeg' | url }})
 
 > **Margarians & Karapetian:** The Russians entered the village [of Apri], freed the rest of the people and took them to the Manazkert fortress. From there, together with other refugees, they reached Etchmiadzin and were placed in the following villages: Hamamlu – 4 households, Bash-Aparan – 1 household, Etchmiadzin – 3 households, Tiflis – 2 households, Kars – 1 household, Jermalu (Kars) – 1 household. In all, about 80 people survived: twelve men who had in advance moved to the Caucasus are now volunteers. There are also 11 boys up to 10, and 3 elderly men. All the rest are women and girls. There are now 27 women and girls in captivity as well as about 15 boys up to the age of 15. Two women were recently freed from captivity.
 
