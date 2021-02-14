@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/post.njk
 title: Four Ways of Not Writing Software Bugs
 date: 2021-02-06
 tags: post

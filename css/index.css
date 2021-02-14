@@ -87,7 +87,6 @@ main {
   width: 75%;
   padding-right: 40px;
 }
-
 #content img {
   width: 100%;
 }
@@ -160,13 +159,26 @@ li {
   hyphens: auto;
 }
 
+#series {
+  font-size: 17px;
+  font-style: italic;
+}
+#series p {
+  margin: 0;
+}
+#series ul {
+  list-style-type: none;
+}
+#series .series-unpublished {
+  color: var(--grey);
+}
+
 blockquote p,
 blockquote ul,
 blockquote li {
   font-size: 18px;
   line-height: 2.3ch;
 }
-
 blockquote .footnote-ref {
   font-size: 14px;
 }

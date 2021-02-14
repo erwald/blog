@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/post.njk
 title: Tolstoy in Ryazan
 date: 2021-01-09
 tags: post

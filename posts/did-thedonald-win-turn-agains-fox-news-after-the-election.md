@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/post.njk
 title: Did thedonald.win Turn against Fox News after the Election?
 date: 2020-12-12
 tags: post

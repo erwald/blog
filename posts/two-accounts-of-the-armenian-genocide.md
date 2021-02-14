@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/post.njk
 title: Two Accounts of the Armenian Genocide
 date: 2020-12-26
 tags: post

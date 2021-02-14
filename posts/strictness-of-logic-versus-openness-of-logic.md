@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/post.njk
 title: Strictness of Logic versus Openness of Logic
 date: 2020-12-18
 tags: post

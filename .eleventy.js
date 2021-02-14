@@ -7,6 +7,19 @@ const markdownItSub = require("@gerhobbelt/markdown-it-sub");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const removeTitle = (str) => str.replace(/<h\d.+<\/h\d>\s+/, "");
+const removeTitleAndQuotesAndFootnotes = (str) => {
+  // Remove the title & footnote references.
+  const withoutTitle = removeTitle(str)
+    .replace(/<sup class="footnote-ref">[^s]*<\/sup>/g, "")
+    .replace(/^\s+/g, "");
+
+  // If there's an opening quote, remove that, too.
+  const withoutTitleAndQuote = withoutTitle.match(/^<blockquote>/)
+    ? withoutTitle.substring(withoutTitle.indexOf("</blockquote>") + 14)
+    : withoutTitle;
+
+  return withoutTitleAndQuote;
+};
 
 module.exports = function (eleventyConfig) {
   // Copy images & css to site dir.
@@ -39,24 +52,20 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Add filter for extracting the first 2 paragraphs from a string of HTML.
-  eleventyConfig.addNunjucksFilter("abbrev", (str) => {
-    // Remove the title & footnote references.
-    const withoutTitle = removeTitle(str).replace(
-      /<sup class="footnote-ref">[^s]*<\/sup>/g,
-      ""
-    );
+  eleventyConfig.addNunjucksFilter("abbrev", (str) =>
+    removeTitleAndQuotesAndFootnotes(str)
+      .split(/<\/p>/)
+      .slice(0, 2)
+      .join("</p>")
+  );
 
-    // If there's an opening quote, remove that, too.
-    const withoutTitleAndQuote = withoutTitle.match(/^<blockquote>/)
-      ? withoutTitle.substring(withoutTitle.indexOf("</blockquote>") + 14)
-      : withoutTitle;
-
-    // Return just the first 2 paragraphs.
-    return withoutTitleAndQuote.split(/<\/p>/).slice(0, 2).join("</p>");
-  });
-
-  // Add filter for removing title header from content (for RSS feed).
+  // Add filter for removing title header from content.
   eleventyConfig.addNunjucksFilter("removeTitle", (str) => removeTitle(str));
+
+  // Add shortcode for getting a post's series (if it is a part of one).
+  eleventyConfig.addNunjucksFilter("getSeries", (slug, series) => {
+    return series.find((ps) => ps.posts.map((p) => p.slug).includes(slug));
+  });
 
   // Add RSS plugin.
   eleventyConfig.addPlugin(pluginRss);

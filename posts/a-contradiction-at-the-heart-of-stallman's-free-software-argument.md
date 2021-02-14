@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/post.njk
 title: A Contradiction at the Heart of Stallman's Free Software Argument
 date: 2021-01-23
 tags: post

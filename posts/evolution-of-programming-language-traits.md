@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/post.njk
 title: Evolution of Programming Language Traits
 date: 2021-01-02
 tags: post

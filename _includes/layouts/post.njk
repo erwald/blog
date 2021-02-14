@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+---
+{% set series = page.fileSlug | getSeries(series) %}
+{% if series %}
+    <div id='series'>
+        <p>This post is part of a series on {{ series.subject }}:</p>
+        <ul>
+            {% for post in series.posts %}
+                <li>
+                    {% if post.slug == page.fileSlug %}
+                        ➾ {{ post.title }}
+                    {% elseif post.slug %}
+                        <a href="{{ '/posts/' + post.slug | url }}">{{ post.title }}</a>
+                    {% else %}
+                        <span class='series-unpublished'>{{ post.title }} (forthcoming)</span>
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endif %}
+<h1>{{ title }}</h1>
+{{ content | removeTitle | safe }}

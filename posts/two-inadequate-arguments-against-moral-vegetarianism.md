@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/post.njk
 title: Two Inadequate Arguments against Moral Vegetarianism
 date: 2021-01-30
 tags: post
