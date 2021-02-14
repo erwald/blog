@@ -3,21 +3,21 @@
 <!doctype html>
 <html lang="en">
     <head>
+        <title>{{ metadata.title }}{{ ' – ' + title if title else '' }}</title>
+
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{{ metadata.title }}{{ ' – ' + title if title else '' }}</title>
-        <meta name="description" content="{{ renderData.description or description or metadata.description }}">
+        {% set postDescription = title + ' – ' if title else '' %}
+        <meta name="description" content="{{ postDescription + (renderData.description or description or metadata.description) }}">
         <meta name="robots" content="index,follow">
         <meta name="generator" content="Eleventy">
-        <meta name="subject" content="Philosophy, poetry, literature, history, politics, science, programming & music.">
-        
-        <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+        <meta name="subject" content={{ metadata.description }}>
 
+        <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
         <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-        
         <link rel="shortcut icon" href="/favicon.ico">
         <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48 64x64">
-        
+
         <script async defer data-domain="erichgrunewald.com" src="https://plausible.io/js/plausible.js"></script>
 
         {%- block seo -%}
@@ -56,7 +56,7 @@
                 {{ content | safe }}
                 {% if title %}
                     <div><a href="{{ '/' | url }}">← Return to home page</a></div>
-                    {% endif %}
+                {% endif %}
             </div>
             <div id='sidebar'>
                 <img alt="Painting of wooded area by Auguste Louis Lepère." src="{{ '/img/header.jpg' | url }}" width="100%" />
@@ -81,7 +81,7 @@
         </main>
 
         <footer>
-            <p>This site was created by Erich Grunewald & is licensed under <a href="{{ 'https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1' | url }}">CC BY-SA 4.0</a>.</p>
+            <p>This site was created by <a href="{{ 'https://github.com/erwald' | url }}">myself</a> & is licensed under <a href="{{ 'https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1' | url }}">CC BY-SA 4.0</a>.</p>
             <p>It tracks page views using <a href="{{ 'https://plausible.io/privacy-focused-web-analytics' | url }}">Plausible</a>, so without collecting any personal data, without cookies & fully anonymously, purely for my own curiosity & in order to improve the site.</p>
         </footer>
     </body>
