@@ -38,6 +38,7 @@ footer {
   max-width: 700px;
 }
 footer p {
+  font-size: 17px;
   text-align: center;
 }
 
@@ -213,9 +214,6 @@ pre {
   white-space: -o-pre-wrap; /* Opera 7 */
   word-wrap: break-word; /* Internet Explorer 5.5+ */
   background-color: #efe;
-}
-
-blockquote {
 }
 
 .email {
