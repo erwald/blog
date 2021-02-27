@@ -20,6 +20,18 @@ const removeTitleAndQuotesAndFootnotes = (str) => {
 
   return withoutTitleAndQuote;
 };
+const replaceImagesWithCaptions = (str) =>
+  str.replace(
+    /<img src="[^"]+" alt="([^"]+)">/g,
+    (_, alt) => `<i>(Image: ${alt})</i>`
+  );
+const removeAnchorLinks = (str) =>
+  str.replace(
+    /<a href="#[^"]+" (id|class)="[^"]+">([^(\/a)]+)<\/a>/g,
+    (_, __, footnote) => footnote
+  );
+const addLinkRef = (ref, str) =>
+  str.replace(/href="([^"]+)"/g, (_, url) => `href=\"${url}?ref=${ref}\"`);
 
 module.exports = function (eleventyConfig) {
   // Copy images & css to site dir.
@@ -61,6 +73,16 @@ module.exports = function (eleventyConfig) {
 
   // Add filter for removing title header from content.
   eleventyConfig.addNunjucksFilter("removeTitle", (str) => removeTitle(str));
+
+  // Add filter for formatting content for the newsletter. That includes
+  // removing the title, replacing images with caption texts, removing anchor
+  // links & adding newsletter ref param to all links.
+  eleventyConfig.addNunjucksFilter("formatForNewsletter", (str) => {
+    return addLinkRef(
+      "Newsletter",
+      removeAnchorLinks(replaceImagesWithCaptions(removeTitle(str)))
+    );
+  });
 
   // Add shortcode for getting a post's series (if it is a part of one).
   eleventyConfig.addNunjucksFilter("getSeries", (slug, series) => {
