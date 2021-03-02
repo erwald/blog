@@ -38,6 +38,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
+  // Remove all characters except letters, numbers & dashes.
+  eleventyConfig.addFilter("pathify", (str) => {
+    return str.replace(/[^A-Za-z0-9\-]/g, "");
+  });
+
   // Make sure we have readable dates.
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("d MMM y");

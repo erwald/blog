@@ -3,7 +3,8 @@ pagination:
   data: collections.post
   size: 1
   alias: post
-permalink: newsletters/{{ post.fileSlug }}.html
+permalink: newsletters/{{ post.fileSlug | pathify }}.html
+eleventyExcludeFromCollections: true
 ---
 <html>
     <head></head>
