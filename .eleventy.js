@@ -4,6 +4,7 @@ const markdownItAnchor = require("@gerhobbelt/markdown-it-anchor");
 const markdownItFootnote = require("@gerhobbelt/markdown-it-footnote");
 const markdownItSup = require("@gerhobbelt/markdown-it-sup");
 const markdownItSub = require("@gerhobbelt/markdown-it-sub");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const removeTitle = (str) => str.replace(/<h\d.+<\/h\d>\s+/, "");
@@ -93,6 +94,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("getSeries", (slug, series) => {
     return series.find((ps) => ps.posts.map((p) => p.slug).includes(slug));
   });
+
+  // Add markdown syntax highlighting plugin.
+  eleventyConfig.addPlugin(syntaxHighlight);
 
   // Add RSS plugin.
   eleventyConfig.addPlugin(pluginRss);

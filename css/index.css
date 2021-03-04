@@ -198,13 +198,17 @@ code {
   font-size: 14px;
   padding: 2px;
   margin: -2px;
-  color: #0c0;
-  background-color: #efe;
+  color: var(--black);
+  background-color: var(--light-grey);
+}
+
+code .keyword {
+  font-weight: bold;
 }
 
 pre {
-  text-indent: -40px;
-  padding: 10px 20px 10px 60px;
+  text-indent: 0px;
+  padding: 10px 20px 10px 20px;
   margin: 0 -20px;
   overflow-x: auto;
   overflow-y: clip;
@@ -213,13 +217,5 @@ pre {
   white-space: -pre-wrap; /* Opera 4-6 */
   white-space: -o-pre-wrap; /* Opera 7 */
   word-wrap: break-word; /* Internet Explorer 5.5+ */
-  background-color: #efe;
-}
-
-.email {
-  font-family: monospace;
-  font-size: 14px;
-  padding: 2px;
-  margin: -2px;
   background-color: var(--light-grey);
 }
