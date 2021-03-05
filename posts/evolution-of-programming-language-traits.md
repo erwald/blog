@@ -19,7 +19,7 @@ Yet GitHub has well over 100 million hosted repositories.[^2] Smartphones, super
 
 Say you need to add some strings together. Maybe you have a word known only at runtime that you need to put inside a sentence. How you do that depends on which language you're using. For instance, in Fortran, you would use **string concatenation**:
 
-```Fortran
+```fortran
 Sentence = 'If Socrates is human and ' // Property // ', then he is ' // Property // '.'
 ```
 
