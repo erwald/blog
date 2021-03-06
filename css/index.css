@@ -200,6 +200,7 @@ code {
   margin: -2px;
   color: var(--black);
   background-color: var(--light-grey);
+  hyphens: none;
 }
 
 code .keyword {
