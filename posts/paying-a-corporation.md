@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/post.njk
 title: Paying a Corporation
 date: 2021-03-06
 tags: post
