@@ -203,8 +203,12 @@ code {
   hyphens: none;
 }
 
-code .keyword {
+code .keyword,
+code .tag {
   font-weight: bold;
+}
+code .punctuation {
+  font-weight: normal;
 }
 
 pre {
