@@ -27,10 +27,12 @@ const replaceImagesWithCaptions = (str) =>
     (_, alt) => `<i>(Image: ${alt})</i>`
   );
 const removeAnchorLinks = (str) =>
-  str.replace(
-    /<a href="#[^"]+" (id|class)="[^"]+">([^(\/a)]+)<\/a>/g,
-    (_, __, footnote) => footnote
-  );
+  str
+    .replace(/\s?<a[^>]+"#[^>]+>#<\/a>/g, "")
+    .replace(
+      /<a href="#[^"]+" (id|class)="[^"]+">([^(\/a)]+)<\/a>/g,
+      (_, __, footnote) => footnote
+    );
 const addLinkRef = (ref, str) =>
   str.replace(/href="([^"]+)"/g, (_, url) => `href=\"${url}?ref=${ref}\"`);
 
