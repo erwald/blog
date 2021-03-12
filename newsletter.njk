@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
 <html>
     <head></head>
     <body>
-        <p><i>You can read this post in all its glory <a href="https://www.erichgrunewald.com{{ post.url }}?ref=Newsletter">on the blog</a>.</i></p>
+        <p><i>You can read this post in all its glory <a href="https://www.erichgrunewald.com{{ post.url }}?ref=Newsletter">on the blog</a>. To unsubscribe, simply send an email to <a href="mailto:newsletter@erichgrunewald.com">newsletter@erichgrunewald.com</a> with the word "unsubscribe" in the subject line.</i></p>
         <h1>{{ post.data.title }}</h1>
         {{ post.templateContent | formatForNewsletter | safe }}
     </body>
