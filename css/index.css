@@ -6,14 +6,16 @@
   --light-purple: #eeeeff;
 }
 
-html,
-body {
-  padding: 20px 0;
+html {
   margin: 0;
   font-family: serif;
   font-size: 19px;
   color: var(--black);
   background-color: var(--white);
+}
+
+body {
+  padding: 20px 0;
 }
 
 a {
@@ -90,20 +92,6 @@ main {
 }
 #content img {
   width: 100%;
-}
-
-@media only screen and (max-width: 640px) {
-  main {
-    flex-direction: column;
-  }
-  #sidebar {
-    width: 100%;
-    padding-top: 20px;
-  }
-  #content {
-    width: 100%;
-    padding: 0;
-  }
 }
 
 hr {
@@ -223,4 +211,18 @@ pre {
   white-space: -o-pre-wrap; /* Opera 7 */
   word-wrap: break-word; /* Internet Explorer 5.5+ */
   background-color: var(--light-grey);
+}
+
+@media only screen and (max-width: 640px) {
+  main {
+    flex-direction: column;
+  }
+  #sidebar {
+    width: 100%;
+    padding-top: 20px;
+  }
+  #content {
+    width: 100%;
+    padding: 0;
+  }
 }
