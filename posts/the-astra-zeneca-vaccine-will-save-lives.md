@@ -38,7 +38,7 @@ These countries, to their credit, have decided to keep vaccinating:
 
 This is so stupid. What are they talking about, "precautionary measure"? You are supposed to use precautionary measures in order to avoid death & other disasters. Well, guess what! Many hundreds of people are dying every day in Europe! The time for precaution _was in spring of last year_! Now the disaster is already here, engulfing our continent.
 
-I am very sorry for those who have gotten blood clots & other vaccine side-effects (if they are side-effects), but their number is vanishingly small compared to the hundreds or thousands of people who will die for each day that we don't vaccinate. Here is Alex Tabarrok on [Twitter](https://twitter.com/ATabarrok/status/1371506507062276098):
+I am very sorry for those who have gotten blood clots & other vaccine side effects (if they are side effects), but their number is vanishingly small compared to the hundreds or thousands of people who will die for each day that we don't vaccinate. Here is Alex Tabarrok on [Twitter](https://twitter.com/ATabarrok/status/1371506507062276098):
 
 > Pfizer, All UK spontaneous reports received between 9/12/20 and 28/02/21
 >
