@@ -74,7 +74,7 @@ Let me finish by making some predictions. By July 1st 2021,
 ⇒ the FDA will have approved the AstraZeneca vaccine for use in the U.S., `95%`.
 ⇒ at least one elected official from one of the listed countries will have admitted that it was a mistake to suspend vaccinations, `70%`.
 
-This is all so draining. I am European. I love Europe. But this is a frustrating mess ...
+This is all so draining. I am European. I love Europe. But this is a frustrating mess.
 
 [^1]: My source here & below is [Die Zeit](https://www.zeit.de/politik/ausland/2021-03/astrazeneca-corona-impfstoff-impfungen-gestoppt-thrombose-nebenwirkungen). Belgium's health minister has [spoken out](https://twitter.com/BNODesk/status/1371563480449486848) in favour of continuing vaccination, so I added it to the list of the praiseworthy.
 [^2]: ibid.
