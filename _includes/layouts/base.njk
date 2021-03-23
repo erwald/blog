@@ -55,7 +55,10 @@
             <div id='content'>
                 {{ content | safe }}
                 {% if title %}
-                    <div><a href="{{ '/' | url }}">← Return to home page</a></div>
+                    <div id='bottom-nav'>
+                        <a href="{{ '/' | url }}">← Return to home page</a>
+                        <a href="{{ '#top' | url }}">↑ Return to top</a>
+                    </div>
                 {% endif %}
             </div>
             <div id='sidebar'>

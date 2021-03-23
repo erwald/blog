@@ -94,6 +94,12 @@ main {
   width: 100%;
 }
 
+#bottom-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 hr {
   border: none;
   border-top: 2px solid;
