@@ -17,7 +17,7 @@ To ordinary people, nearly everything can be joked about: few subjects are off l
 
 ![Drawing by Viktoriia Shcherbak of poster of Tom Cruise alongside an empty chair.]({{ '/img/tom_cruise_1.jpeg' | url }})
 
-Here is Neil Strauss (yes, of _The Game_ fame) in a feature from 2004:
+Here is Neil Strauss (of _The Game_ fame) in a feature from 2004:
 
 > And now, here it comes: the famous Tom Cruise laugh. It comes on just fine, a regular laugh by any standards. You will be laughing too. But then, when the humour subsides, you will stop laughing. At this point, however, Cruise's laugh will just be reaching a crescendo, and he will be making eye contact with you. Ha ha HA HA heh heh. And you will try to laugh again, to join him, because you know you're supposed to. But it doesn't come out right, because it's not natural. He will squeeze out a couple of words sometimes between chuckles – in this case, "Wouldn't that be awesome?" – and then, as suddenly as he started, he will stop, and you will be relieved.[^2]
 
@@ -43,7 +43,7 @@ Tom Cruise is the phantasmal image of an actor. He is a ruler & he is ruled. He 
 
 It's possible that, in writing this, I have done something low & mean-spirited. I remind you, dear reader, that I'm not writing about the breathing person whose passport says Tom Cruise Mapother IV. But it is true that I am writing about an entity in some way tethered to that person.
 
-I really do think the implied Tom Cruise feels quite lonely in this place. To the world, Scientology is a joke, & therefore he, too, is a joke. To him, the world is mean & hostile & unwilling to understand. But within Scientology, he is too worshipped & sheltered to really have friends. If, by some bizarre twist of fate, the breathing Tom Cruise were to read this, here is what I would tell him. There is a way out. There is a path that will take you to love & friendship, not the play-acted versions but the real deal. But you will find it neither in the movie industry nor in the church of Scientology.
+I really do think the implied Tom Cruise feels quite lonely in this place. To the world, Scientology is a joke, & therefore he, too, is a joke. To him, the world is mean & hostile & unwilling to understand. But within Scientology, he is too worshipped & sheltered to really have friends. If, by some bizarre twist of fate, the breathing Tom Cruise were to read this, here is what I would tell him. There is a way out. There is a path that will take you to love & friendship, not the play-acted versions but the real deal. But you will find it neither in the movie industry nor in the Church of Scientology.
 
 [^1]: [Interview with BlackBook magazine.](https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fblackbookmag.com%2Farts-culture%2Ffilm%2Fmary-harron-reveals-inspiration-behind-patrick-bateman%2F)
 [^2]: Strauss, _[No More Mr. Nice Guy](https://webcache.googleusercontent.com/search?q=cache:V_XSuf0S0qkJ:https://www.theguardian.com/film/2004/sep/12/features.magazine+&cd=1&hl=en&ct=clnk&gl=se)_.
