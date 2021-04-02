@@ -76,6 +76,12 @@ main {
   font-weight: normal;
   text-decoration: underline;
 }
+#sidebar h2 {
+  padding-top: 0ch;
+  font-size: 17px;
+  font-weight: normal;
+  text-decoration: underline;
+}
 #sidebar ul {
   padding-left: 0;
   list-style-type: none;
