@@ -55,20 +55,24 @@
             <div id='content'>
                 {{ content | safe }}
                 {% if title %}
-                    <div id='bottom-nav'>
+                    <div class='bottom-nav'>
                         <a href="{{ '/' | url }}">← Return to home page</a>
                         <a href="{{ '#top' | url }}">↑ Return to top</a>
+                    </div>
+                    <div class='bottom-nav' id='bottom-nav-mobile'>
+                        <a href="{{ '#about' | url }}">↓ Apropos</a>
+                        <a href="{{ '#notable' | url }}">↓ Notable posts</a>
                     </div>
                 {% endif %}
             </div>
             <div id='sidebar'>
                 <img alt="Painting of wooded area by Auguste Louis Lepère." src="{{ '/img/header.jpg' | url }}" width="100%" />
-                <h1>Apropos</h1>
+                <a id="about"><h1>Apropos</h1></a>
                 <p>This is my writing-place. There is no About page. There are just a bunch of articles. If you don't know where to start, have a look at the <a href="{{ '/posts/introduction' | url }}">Introduction</a>.</p>
                 <p>You can contact me at <a href="https://cryptii.com/pipes/rot13-decoder">ROT13</a> <code>pbagnpg NG revputeharjnyq QBG pbz</code>.</p>
                 <p>You can subscribe by sending an email with "subscribe" in the subject line to <code>newsletter AT erichgrunewald DOT com</code>.</p>
                 <p>You can also subscribe via <a href="{{ metadata.feed.path | url }}">RSS</a>.</p>
-                <h1>Notable posts</h1>
+                <a id="notable"><h1>Notable posts</h1></a>
                 <p>
                     <ul>
                         <li><a href="{{ '/posts/can-a-vegan-diet-be-healthy-a-literature-review' | url }}">Can a Vegan Diet Be Healthy? A Literature Review</a> about health effects of plant-based diets</li>

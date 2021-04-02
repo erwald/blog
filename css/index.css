@@ -94,10 +94,14 @@ main {
   width: 100%;
 }
 
-#bottom-nav {
+.bottom-nav {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+#bottom-nav-mobile {
+  display: none;
 }
 
 hr {
@@ -230,5 +234,9 @@ pre {
   #content {
     width: 100%;
     padding: 0;
+  }
+  #bottom-nav-mobile {
+    display: flex;
+    padding-top: 10px;
   }
 }
