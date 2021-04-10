@@ -100,12 +100,15 @@ main {
   width: 100%;
 }
 
+.top-nav,
 .bottom-nav {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
-
+#top-nav-mobile {
+  display: none;
+}
 #bottom-nav-mobile {
   display: none;
 }
@@ -214,11 +217,14 @@ code .tag {
 code .punctuation {
   font-weight: normal;
 }
+code .comment {
+  font-style: italic;
+}
 
 pre {
-  text-indent: 0px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   margin: 0 -20px;
+  background-color: var(--light-grey);
   overflow-x: auto;
   overflow-y: clip;
   white-space: pre-wrap; /* Since CSS 2.1 */
@@ -226,9 +232,13 @@ pre {
   white-space: -pre-wrap; /* Opera 4-6 */
   white-space: -o-pre-wrap; /* Opera 7 */
   word-wrap: break-word; /* Internet Explorer 5.5+ */
-  background-color: var(--light-grey);
 }
 
+@media only screen and (max-width: 800px) {
+  pre code {
+    font-size: 12px;
+  }
+}
 @media only screen and (max-width: 640px) {
   main {
     flex-direction: column;
@@ -241,8 +251,19 @@ pre {
     width: 100%;
     padding: 0;
   }
+  #top-nav-mobile {
+    display: flex;
+    padding-bottom: 20px;
+  }
   #bottom-nav-mobile {
     display: flex;
     padding-top: 10px;
+  }
+  pre {
+    white-space: pre; /* Since CSS 2.1 */
+    white-space: -moz-pre; /* Mozilla, since 1999 */
+    white-space: -pre; /* Opera 4-6 */
+    white-space: -o-pre; /* Opera 7 */
+    word-wrap: normal; /* Internet Explorer 5.5+ */
   }
 }
