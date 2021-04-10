@@ -76,6 +76,6 @@ _The Parable of the Law_ was recorded just a few years ago by the London Philhar
 [^11]: [Interview with Shapero for a documentary.](https://www.youtube.com/watch?v=ZNNo8DrDCnM)
 [^12]: ibid.
 [^13]: [Interview with Shapero by Bruce Duffie.](http://www.bruceduffie.com/shapero.html)
-[^14]: Simmons, W. “Biography.” _Arnold Rosner_, 31 Oct. 2014, [www.arnoldrosnermusic.com/biography/](www.arnoldrosnermusic.com/biography/).
+[^14]: Simmons, W. “Biography.” _Arnold Rosner_, 31 Oct. 2014, [www.arnoldrosnermusic.com/biography/](http://www.arnoldrosnermusic.com/biography/).
 [^15]: ibid.
 [^16]: In _The Trial_ the passage is called _Before the Law_ apparently, though I haven't read the book myself.
