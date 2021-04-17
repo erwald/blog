@@ -72,7 +72,7 @@ On the other hand, I can also think of a few things that speak against it:
 - Positive emotions seem to produce meaning in life.[^18] In fact, they are apparently one of the main drivers of meaning.[^19] Some things seem meaningful because they are bound up with strong feelings, but in the examples that I have given, meaningful experiences produced powerful emotions, not the other way around.
 - There is a sense in which the network model of meaning might just not be that useful. Nearly anything can be described in terms of networks. For it to be a useful metaphor, the thing described also has to show some features peculiar to networks, such as [clusters](https://en.wikipedia.org/wiki/Clustering_coefficient), [motifs](https://en.wikipedia.org/wiki/Network_motif) or [centrality](https://en.wikipedia.org/wiki/Centrality), that would allow us to use the tools of network analysis to also analyse meaning. Though I have hinted at some of these features, I have not explained how they fit in or why that makes the network metaphor useful.[^20]
 
-## Meaning in Art
+## Meaning in Aggregate
 
 This is a speculative post, in case you hadn't noticed. What I am describing is a model for thinking about some emotion-producing events, not a description of how those things play out in practice. In this model, things are not meaningful in & of themselves: they are meaningful because they are connected to other meaningful things. So meaning, in this model, is a self-supporting network the nodes of which are persons, memories, ideas, images, works of art. It is self-supporting in the same way that the narrator of Marcel Proust's _In Search of Lost Time_ describes:
 
