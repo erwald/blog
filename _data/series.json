@@ -12,7 +12,8 @@
     "posts": [
       { "title": "The Kingdom of Tamego", "slug": "the-kingdom-of-tamego" },
       {
-        "title": "Bayesian Modelling of Simulated Data from the Kingdom of Tamego"
+        "title": "Bayesian Modelling of Simulated Data from the Kingdom of Tamego",
+        "slug": "bayesian-modelling-of-simulated-data-from-the-kingdom-of-tamego"
       },
       {
         "title": "Reliability in the Lincoln-Petersen Method of Estimating Population Size"

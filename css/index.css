@@ -1,5 +1,6 @@
 :root {
   --black: #090a06;
+  --dark-grey: #999;
   --grey: #ccc;
   --light-grey: #efefef;
   --white: #fff;
@@ -219,6 +220,7 @@ code .punctuation {
 }
 code .comment {
   font-style: italic;
+  color: var(--dark-grey);
 }
 
 pre {
