@@ -20,5 +20,19 @@
         "slug": "reliability-in-the-lincoln-petersen-method-of-estimating-population-size"
       }
     ]
+  },
+  {
+    "subject": "theory and terminology in animal advocacy",
+    "posts": [
+      {
+        "title": "Rights or Welfare for Animals?",
+        "slug": "rights-or-welfare-for-animals"
+      },
+      {
+        "title": "Possible Resolutions to the Rights/Welfare Debate in Animal Advocacy",
+        "slug": ""
+      },
+      { "title": "Dimensions of Animal Advocacy Terminology", "slug": "" }
+    ]
   }
 ]
