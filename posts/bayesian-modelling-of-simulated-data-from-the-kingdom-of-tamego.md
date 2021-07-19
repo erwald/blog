@@ -7,21 +7,21 @@ tags: post
 
 # Bayesian Modelling of Simulated Data from the Kingdom of Tamego
 
-If a kindly man asked you in a job interview or on a first date or god forbid during a colonoscopy or something if you were interested in hearing about the loves & sorrows of his imaginary friends, you, a person of no mean sense, would nine out of ten times think he was crazy or, worse still, socially inept. Yet here you are reading about my own imaginary kingdom, with its made-up name, made-up queen & made-up war. I have nothing but praise for you, dear reader.
+If a kindly man asked you in a job interview or on a first date or god forbid during a colonoscopy or something if you were interested in hearing about the loves and sorrows of his imaginary friends, you, a person of no mean sense, would nine out of ten times think he was crazy or, worse still, socially inept. Yet here you are reading about my own imaginary kingdom, with its made-up name, made-up queen and made-up war. I have nothing but praise for you, dear reader.
 
-[The previous post]({{ '/posts/the-kingdom-of-tamego/' | url }}) in this series was a fairy tale of sorts that related the story of an official in the Kingdom of Tamego who, having been tasked with estimating how many subjects were killed in a dreadful civil war, realised that the answer to his problem & the key to estimating population sizes with the kind of information that he had were so-called [capture-recapture methods](https://en.wikipedia.org/wiki/Capture-recapture). In a breathtakingly ironic twist, he did not get the chance to bring his insight back to his queen but died instead a pauper in a remote district of the kingdom. We, however, can pick up & carry his torch into the modern age.
+[The previous post]({{ '/posts/the-kingdom-of-tamego/' | url }}) in this series was a fairy tale of sorts that related the story of an official in the Kingdom of Tamego who, having been tasked with estimating how many subjects were killed in a dreadful civil war, realised that the answer to his problem and the key to estimating population sizes with the kind of information that he had were so-called [capture-recapture methods](https://en.wikipedia.org/wiki/Capture-recapture). In a breathtakingly ironic twist, he did not get the chance to bring his insight back to his queen but died instead a pauper in a remote district of the kingdom. We, however, can pick up and carry his torch into the modern age.
 
-In this post I will describe a Bayesian model for estimating killings by each faction in the simulated Kingdom of Tamego data. The model is based on one described by Marc Kéry & Michael Schaub in _Bayesian Population Analysis using WinBUGS_ & [translated](https://github.com/stan-dev/example-models/blob/master/BPA/Ch.06/Mt.stan) by Hiroki Itô into Stan. I was pointed to this technique by (& in general received a great deal of help from) folks at the Stan forums.[^1] I have only made a few minor modifications. But before I get to those, it is worth going over how Kéry & Schaub's original model works.
+In this post I will describe a Bayesian model for estimating killings by each faction in the simulated Kingdom of Tamego data. The model is based on one described by Marc Kéry and Michael Schaub in _Bayesian Population Analysis using WinBUGS_ and [translated](https://github.com/stan-dev/example-models/blob/master/BPA/Ch.06/Mt.stan) by Hiroki Itô into Stan. I was pointed to this technique by (and in general received a great deal of help from) folks at the Stan forums.[^1] I have only made a few minor modifications. But before I get to those, it is worth going over how Kéry & Schaub's original model works.
 
-Remember, the problem is this. We have three factions – the Angu rebels, the king's forces & the Zid separatists. Each of these took part in a devastating civil war & killed a certain number of people during it. Information on these killings comes from two sources: the official military records & a census carried out some years after the civil war had ended. Each of these lists contains the name & birthplace of the slain, so we know how many people are mentioned in both of these sources. That will be important later.
+Remember, the problem is this. We have three factions – the Angu rebels, the king's forces and the Zid separatists. Each of these took part in a devastating civil war and killed a certain number of people during it. Information on these killings comes from two sources: the official military records and a census carried out some years after the civil war had ended. Each of these lists contains the name and birthplace of the slain, so we know how many people are mentioned in both of these sources. That will be important later.
 
 ![Recorded killings by each faction in each of the provinces of Tamego as taken down by each method.]({{ '/img/tamego_killings_recorded.png' | url }})
 
-From this data, we were able to calculate the minimum number of killings by each faction & in each region with the formula `recorded + census - both`. We were also able to calculate [Lincoln-Petersen estimates](https://en.wikipedia.org/wiki/Mark_and_recapture#Lincoln%E2%80%93Petersen_estimator) with the formula `recorded * census / both`.
+From this data, we were able to calculate the minimum number of killings by each faction and in each region with the formula `recorded + census - both`. We were also able to calculate [Lincoln-Petersen estimates](https://en.wikipedia.org/wiki/Mark_and_recapture#Lincoln%E2%80%93Petersen_estimator) with the formula `recorded * census / both`.
 
-![Recorded & estimated killings by each faction in each of the provinces of Tamego.]({{ '/img/tamego_killings_estimates.png' | url }})
+![Recorded and estimated killings by each faction in each of the provinces of Tamego.]({{ '/img/tamego_killings_estimates.png' | url }})
 
-Now, we could have just [encoded that formula](https://mc-stan.org/docs/2_22/stan-users-guide/mark-recapture-models.html) in Stan. However, Kéry & Schaub's model works differently. It uses something called **data augmentation** (a different sort from the one used to increase training sets in deep learning). The idea here is that you encode the capture-recapture data in a matrix, where each row is one individual & each column one observation (in our case, there would be one column for the official records & one column for the census data). Say for example that we have observed four individuals across two observations. We saw the first individual on both occasions, the second & third only on the first occasion & the fourth only on the second occasion. That would give us this matrix:
+Now, we could have just [encoded that formula](https://mc-stan.org/docs/2_22/stan-users-guide/mark-recapture-models.html) in Stan. However, Kéry & Schaub's model works differently. It uses something called **data augmentation** (a different sort from the one used to increase training sets in deep learning). The idea here is that you encode the capture-recapture data in a matrix, where each row is one individual and each column one observation (in our case, there would be one column for the official records and one column for the census data). Say for example that we have observed four individuals across two observations. We saw the first individual on both occasions, the second and third only on the first occasion and the fourth only on the second occasion. That would give us this matrix:
 
 ```
 1st obs.    2nd obs.
@@ -49,7 +49,7 @@ The trick here is to then add a bunch of additional, unsighted individuals, pote
 
 Then, instead of estimating the whole population size `N`, we recast the problem to one of estimating the inclusion probability `omega`, that is the probability that any member – sighted or not – in the augmented data set is part of the true population, `N`. Using this, we can then easily estimate the population. If we find out, for example, that `omega_est = .6` in our toy example, it follows that `N_est = omega_est * 10 = 6`. So the task of the model is to infer `omega`.
 
-This inference is done for each faction-region combination. But note that there are considerable similarities between the regions. If one faction had larger fighting forces or better military capabilities, for example, they might have killed more in all regions. Or perhaps it is likely that the official military records are biased in such a way that the king's forces' killings are better recorded than the rebels' & separatists'. We can use this fact to our advantage by partially informing the estimate for each faction-region combination using data for the other factions & regions. This is called **[partial pooling](https://mc-stan.org/users/documentation/case-studies/pool-binary-trials.html)**, & it is my addition to Kéry & Schaub's model (though as it turns out it is not clear whether it actually helps).
+This inference is done for each faction-region combination. But note that there are considerable similarities between the regions. If one faction had larger fighting forces or better military capabilities, for example, they might have killed more in all regions. Or perhaps it is likely that the official military records are biased in such a way that the king's forces' killings are better recorded than the rebels' and separatists'. We can use this fact to our advantage by partially informing the estimate for each faction-region combination using data for the other factions and regions. This is called **[partial pooling](https://mc-stan.org/users/documentation/case-studies/pool-binary-trials.html)**, and it is my addition to Kéry & Schaub's model (though as it turns out it is not clear whether it actually helps).
 
 Finally we are ready to look at the code. We begin by declaring our input types:
 
@@ -63,7 +63,7 @@ data {
 }
 ```
 
-We then generate some computed variables from that data: the total number of sightings for each faction in each region & in each observation `s`; & the total number of sighted individuals for each faction in each region `C`.
+We then generate some computed variables from that data: the total number of sightings for each faction in each region and in each observation `s`; and the total number of sighted individuals for each faction in each region `C`.
 
 ```stan
 transformed data {
@@ -152,7 +152,7 @@ model {
 }
 ```
 
-And finally we use the estimated inclusion probability, `omega`, to also estimate the population size `N`. This is made a little bit tricker because we want to define a different lower bound (the lower bound is the number of individuals known to be sighted in at least one of the observations, calculated with `recorded + census - both`) for each faction-region combination, which is not possible in Stan. Instead we have to calculate the number of additional individuals beyond the minimum amount (with a fixed lower bound of zero) & after that add the minimum amount to this estimate.
+And finally we use the estimated inclusion probability, `omega`, to also estimate the population size `N`. This is made a little bit tricker because we want to define a different lower bound (the lower bound is the number of individuals known to be sighted in at least one of the observations, calculated with `recorded + census - both`) for each faction-region combination, which is not possible in Stan. Instead we have to calculate the number of additional individuals beyond the minimum amount (with a fixed lower bound of zero) and after that add the minimum amount to this estimate.
 
 ```stan
 generated quantities {
@@ -197,7 +197,7 @@ generated quantities {
 
 So what happens if we run this model using the Kingdom of Tamego data? This happens:
 
-![Estimated & actual killings by each faction in each of the provinces of Tamego.]({{ '/img/tamego_killings_bayesian_estimate.png' | url }})
+![Estimated and actual killings by each faction in each of the provinces of Tamego.]({{ '/img/tamego_killings_bayesian_estimate.png' | url }})
 
 The model produces results basically identical to the much simpler Lincoln-Petersen estimates, but with the additional advantage of allowing us to compute uncertainty intervals. In the graph above I show 89% uncertainty intervals for the Bayesian estimate (the vertical line). These are much wider for the Angu rebel estimates, indicating that mean estimates for that faction are less reliable than for the other factions, which we also know to be true, because we have simulated the data & can see how far off the estimates are from the true values.
 
@@ -207,7 +207,7 @@ I will end by observing that the model makes a number of assumptions. One of tho
 
 You can find the code for the model [here](https://github.com/erwald/capture-recapture-simulations), though it is kind of messy & I am too exhausted with it all to summon the willpower to clean it up.
 
-[^1]: [Here](https://discourse.mc-stan.org/t/capture-recapture-model-with-partial-or-complete-pooling/20393) is the thread in question; thanks go to Ara Winter, Max Joseph, Jacob Socolar & Michael Betancourt for helping me debug issues, pointing me to resources & explaining stuff.
+[^1]: [Here](https://discourse.mc-stan.org/t/capture-recapture-model-with-partial-or-complete-pooling/20393) is the thread in question; thanks go to Ara Winter, Max Joseph, Jacob Socolar and Michael Betancourt for helping me debug issues, pointing me to resources and explaining stuff.
 [^2]: Coffman, C. J., Horner, R. D., Grambow, S. C., & Lindquist, J. (2005). _Estimating the Occurrence of Amyotrophic Lateral Sclerosis among Gulf War (1990–1991) Veterans Using Capture-Recapture Methods_. Neuroepidemiology, 24(3), 141–150.
 [^3]: Barocas, J. A., White, L. F., Wang, J., Walley, A. Y., LaRochelle, M. R., Bernson, D., Land, T., Morgan, J. R., Samet, J. H., & Linas, B. P. (2018). _Estimated Prevalence of Opioid Use Disorder in Massachusetts, 2011–2015: A Capture–Recapture Analysis_. American Journal of Public Health, 108(12), 1675–1681.
 [^4]: Briand, L. C., El Emam, K., Freimut, B. G., & Laitenberger, O. (2000). _A comprehensive evaluation of capture-recapture models for estimating software defect content_. IEEE Transactions on Software Engineering, 26(6), 518–540.
