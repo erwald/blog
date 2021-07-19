@@ -10,8 +10,8 @@ The code for this site is licensed under [MIT](https://en.wikipedia.org/wiki/MIT
 
 ## Style Guide
 
-- Use italics for emphasis, titles of works & terms & phrases in non-English languages.
-- Use bold (styled as underlined) for key terms & phrases & for content warnings.
-- Explanatory or clarifying sentences & phrases may be put in parentheses and italics.
-- Code snippets & anything that might appear in code may be put in code tags.
-- Spell out cardinal & ordinal numbers under 11.
+- Use italics for emphasis, titles of works and terms and phrases in non-English languages.
+- Use bold (styled as underlined) for key terms and phrases and for content warnings.
+- Explanatory or clarifying sentences and phrases may be put in parentheses and italics.
+- Code snippets and anything that might appear in code or in a terminal may be put in code tags.
+- Spell out cardinal and ordinal numbers under 11.
