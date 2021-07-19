@@ -31,7 +31,7 @@ So much for the spirit of this blog and its reason for being. The introduction d
 
 First, I've decided to make things simple for myself and so will simply write about whatever I'm interested in at any moment. "I learned to trust my obsessions."[^4] That may or may not include things like philosophy, poetry, literature, history, politics, science, programming and music. If those aren't your thing, you can probably go back to reading _The Guardian_ or whatever.
 
-Second, I will try to write short pieces, 500 to 2000 words, which should make for 2–8 minutes or so of reading time. That should make it easier for me to write them and easier for you to read them.
+Second, I will try to write short pieces, 500 to 2000 words, which should make for two to eight minutes or so of reading time. That should make it easier for me to write them and easier for you to read them.
 
 Third and final, I speak for no one but myself. Other people speak for other people, but I don't know what gives them the right. No popular movement, no democratic process, no Quakerish consensus-making has put me here. I am alone in my forest and don't expect anyone to hear my lamentations. But being a mammal I should of course not be displeased to learn that somebody does.
 
