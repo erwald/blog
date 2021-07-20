@@ -60,7 +60,7 @@
                     </div>
                 {% endif %}
                 {{ content | safe }}
-                {% if title %}
+                {% if date %}
                     <div class='bottom-nav'>
                         <a href="{{ '/' | url }}">← Return to home page</a>
                         <a href="{{ '#top' | url }}">↑ Return to top</a>
@@ -75,8 +75,17 @@
                 <img alt="Painting of wooded area by Auguste Louis Lepère." src="{{ '/img/header.jpg' | url }}" width="100%" />
                 <a id="about"><h1>Apropos</h1></a>
                 <p>This is my writing-place. There is no About page. There are just a bunch of articles. If you don't know where to start, have a look at the <a href="{{ '/posts/introduction' | url }}">Introduction</a> or the notable posts listed further down.</p>
+                <form action="https://buttondown.email/api/emails/embed-subscribe/erichgrunewald"
+                      method="post"
+                      target="popupwindow"
+                      onsubmit="window.open('https://buttondown.email/erichgrunewald', 'popupwindow')"
+                      class="embeddable-buttondown-form" >
+                    <label for="bd-email">You can subscribe via <a href="{{ metadata.feed.path | url }}">RSS</a> or by entering your email here and clicking "Subscribe":</label>
+                    <input type="email" name="email" id="bd-email" />
+                    <input type="hidden" value="1" name="embed" />
+                    <input type="submit" value="Subscribe" />
+                </form>
                 <p>You can get in touch by writing me at <code>contact AT erichgrunewald DOT com</code>.</p>
-                <p>You can subscribe by sending an email with "subscribe" in the subject line to <code>newsletter AT erichgrunewald DOT com</code>. You can also subscribe via <a href="{{ metadata.feed.path | url }}">RSS</a>.</p>
                 <a id="notable"><h1 id="notable">Notable posts</h1></a>
                 <p>
                     <ul>

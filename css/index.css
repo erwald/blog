@@ -162,7 +162,8 @@ h3 {
 }
 
 p,
-li {
+li,
+label {
   text-align: justify;
   line-height: 2.5ch;
   hyphens: auto;
@@ -234,6 +235,11 @@ pre {
   white-space: -pre-wrap; /* Opera 4-6 */
   white-space: -o-pre-wrap; /* Opera 7 */
   word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+
+#bd-email {
+  margin: 1ch 0;
+  width: 100%;
 }
 
 @media only screen and (max-width: 800px) {
