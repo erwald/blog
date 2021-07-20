@@ -80,8 +80,8 @@
                       target="popupwindow"
                       onsubmit="window.open('https://buttondown.email/erichgrunewald', 'popupwindow')"
                       class="embeddable-buttondown-form" >
-                    <label for="bd-email">You can subscribe via <a href="{{ metadata.feed.path | url }}">RSS</a> or by entering your email here and clicking "Subscribe":</label>
-                    <input type="email" name="email" id="bd-email" />
+                    <label for="bd-email">You can subscribe via <a href="{{ metadata.feed.path | url }}">RSS</a> or join the email newsletter here:</label>
+                    <input type="email" name="email" id="bd-email" placeholder="immanuelkant@example.com" />
                     <input type="hidden" value="1" name="embed" />
                     <input type="submit" value="Subscribe" />
                 </form>
@@ -104,13 +104,6 @@
                         <li><a href="{{ '/posts/evolution-of-programming-language-traits' | url }}">Evolution of Programming Language Traits</a> about string interpolation, cultural evolution and free software</li>
                     </ul>
                 </p>
-                <h2>Effective Altruism</h2>
-                <p>
-                    <ul>
-                        <li><a href="{{ '/posts/interview-with-lucia-coulter-lead-exposure-effective-altruism-progress-in-malawi' | url }}">Interview with Lucia Coulter</a> about her work with the Lead Exposure Elimination Project</li>
-                        <li><a href="{{ '/posts/tolstoy-in-ryazan' | url }}">Tolstoy in Ryazan</a> about charity, moral systems & moral intuition</li>
-                    </ul>
-                </p>
                 <h2>Philosophy</h2>
                 <p>
                     <ul>
@@ -129,6 +122,14 @@
                         <li><a href="{{ '/posts/how-can-one-tell-what-is-beautiful' | url }}">How Can One Tell What Is Beautiful?</a> about objectivity and subjectivity in art</li>
                         <li><a href="{{ '/posts/networks-of-meaning' | url }}">Networks of Meaning</a> about meaning in life, in art and in the works of Gerald Murnane</li>
                         <li><a href="{{ '/posts/mysteries-of-the-unknown-the-unknowable' | url }}">Mysteries of the Unknown and the Unknowable</a> about conundrums, mysticism and H. P. Lovecraft</li>
+                    </ul>
+                </p>
+                <h2>Effective Altruism</h2>
+                <p>
+                    <ul>
+                        <li><a href="{{ '/posts/interview-with-lucia-coulter-lead-exposure-effective-altruism-progress-in-malawi' | url }}">Interview with Lucia Coulter</a> about her work with the Lead Exposure Elimination Project</li>
+                        <li><a href="{{ '/posts/rights-or-welfare-for-animals' | url }}">Terminology in Animal Advocacy</a>, <a href="{{ '/posts/possible-resolutions-to-the-rights-welfare-debate-in-animal-advocacy' | url }}">II</a> and <a href="{{ '/posts/dimensions-of-animal-advocacy-terminology' | url }}">III</a> about the rights/welfare debate and word choices in the animal movement</li>
+                        <li><a href="{{ '/posts/tolstoy-in-ryazan' | url }}">Tolstoy in Ryazan</a> about charity, moral systems & moral intuition</li>
                     </ul>
                 </p>
                 <h2>History/politics</h2>
