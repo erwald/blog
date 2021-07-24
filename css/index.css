@@ -258,6 +258,9 @@ input#bd-email {
     width: 100%;
     padding-top: 20px;
   }
+  #sidebar img {
+    display: none;
+  }
   #content {
     width: 100%;
     padding: 0;
