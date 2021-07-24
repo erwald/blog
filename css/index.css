@@ -110,9 +110,6 @@ main {
 #top-nav-mobile {
   display: none;
 }
-#bottom-nav-mobile {
-  display: none;
-}
 
 hr {
   border: none;
@@ -256,7 +253,7 @@ input#bd-email {
   }
   #sidebar {
     width: 100%;
-    padding-top: 20px;
+    padding-top: 0;
   }
   #sidebar img {
     display: none;
@@ -265,13 +262,14 @@ input#bd-email {
     width: 100%;
     padding: 0;
   }
+  .bottom-nav {
+    padding-bottom: 20px;
+    border-bottom: 2px solid;
+    border-bottom-color: var(--light-grey);
+  }
   #top-nav-mobile {
     display: flex;
     padding-bottom: 20px;
-  }
-  #bottom-nav-mobile {
-    display: flex;
-    padding-top: 10px;
   }
   pre {
     white-space: pre; /* Since CSS 2.1 */
