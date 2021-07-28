@@ -1,0 +1,24 @@
+---
+layout: layouts/post.njk
+title: Meta Update 1
+date: 2021-07-28
+tags: post
+---
+
+# Meta-Update 1
+
+Sometimes when you are hiking and look back towards the place you came from you are gripped by surprise at the distance you have covered. Sometimes when you have friends over for dinner and look at the time you are confused that it is so late. Looking through all the posts I have written since I started this blog in December 2020, I am surprised. There are 48 of them now, of which 43 have been published, and together they comprise about 100,000 words (including footnotes and citations). Henry James is supposed to have said that, in any long work of fiction, use of the first-person point of view is barbaric.[^1]
+
+I have had some measurable successes. [Can a Vegan Diet Be Healthy? A Literature Review]({{ '/posts/can-a-vegan-diet-be-healthy-a-literature-review/' | url }}) and [Animal Testing Is Exploitative and Largely Ineffective]({{ '/posts/animal-testing-is-exploitative-and-largely-ineffective/' | url }}) both made it to number one on Hacker News; [Using Scheme to Find the Median of Two Sorted Integer Lists]({{ '/posts/using-scheme-to-find-the-median-of-two-sorted-integer-lists/' | url }}) made it to the front page and stayed there for some time. My reaction to these events was not nearly as emotional as [Alexey Guzey's](https://guzey.com/fiction/hntop1/), but not too far off either. Other semi-viral posts have included [Four Ways of Not Writing Software Bugs]({{ '/posts/four-ways-of-not-writing-software-bugs/' | url }}), [Does It Smell like Pollocks in Here?]({{ '/posts/does-it-smell-like-pollocks-in-here/' | url }}) and my [Interview with Christine M. Korsgaard]({{ '/posts/interview-with-christine-m-korsgaard-animal-ethics-kantianism-utilitarianism/' | url }}). More importantly, some people have gotten in touch to tell me they appreciate such-and-such a writing of mine. However, a fair number of my posts have hardly been read by anybody. I suppose that is the nature of the business.
+
+In the end, I would take a small group of faithful readers over any number of mayflies. Which brings me to the newsletter. I have decided, as an experiment, to use [Buttondown](https://buttondown.email) instead of [my own home-brewed newsletter program]({{ '/posts/building-a-lightweight-command-line-newsletter-program/' | url }}). (I had not wanted to use TinyLetter – a Mailchimp service – for a variety of reasons, none of which are a problem with Buttondown.) This has two advantages. One, I will be able to embed images in the emails. Two, it will reduce friction in the sign-up process. Buttondown seems like an excellent project that respects its users and their privacy.
+
+This also means that, if you started subscribing before mid-July, you will receive an email asking you to confirm your subscription to the blog. **If you do not press the confirmation link, you will no longer be subscribed to the newsletter.** This is the last post sent out using the old service.
+
+I have some pretty exciting posts coming up. One outlines my plan for becoming a vegan. Another scores and discusses the [predictions]({{ '/posts/the-astra-zeneca-vaccine-will-save-lives/' | url }}) I made about the suspension of the AstraZeneca COVID-19 vaccine. A third describes a technique in fiction-writing that I call recapitulation after the music theory term; I illustrate this technique with examples from works by Pierre Michon and Gerald Murnane. A fourth is a continuation of my post about what I called [Moral Golems]({{ '/posts/moral-golems/' | url }}).
+
+Until then, how about reading one of these older posts that did not get quite the readership they deserved? In [Tolstoy in Ryazan]({{ '/posts/tolstoy-in-ryazan/' | url }}) I wrote about the author's inner conflict between on the one hand thinking that charity is immoral and on the other hand wanting to help people in need. In [Good Works by Lesser-Known Composers]({{ '/posts/good-works-by-lesser-known-composers/' | url }}) I introduced four excellent but little-known composers – Helena Munktell, Jehan Alain, Harold Shapero and Arnold Rosner – and recommended a work by each. In [Two Accounts of the Armenian Genocide]({{ '/posts/two-accounts-of-the-armenian-genocide/' | url }}) I reproduced and commented on two heartbreaking eyewitness reports of the "events of 1915".
+
+48 posts is more than I would have expected after some eight months of writing. I remember my writing the first posts but it feels like a lifetime ago now. I only hope that it is all of some value to others. If you have any thoughts on or critiques of anything I have written, or if you want to say what you like and dislike about the blog, or why you read it, or if you just want to say hello, I encourage you to write me at `contact AT erichgrunewald DOT com`.
+
+[^1]: Gardner, J. (2010). _The art of fiction: Notes on craft for young writers_. Vintage.
