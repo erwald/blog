@@ -74,6 +74,6 @@ This is the dimension that ties it all together, because it is the source of tho
 [^6]: ibid.
 [^7]: ibid.
 [^8]: Hepokoski, J. (2011). Modalities of National Identity: Sibelius Builds a First Symphony. In _The Oxford Handbook of the New Cultural History of Music_.
-[^9]: You can argue about the 4th, which is his most chromatic and tonally ambiguous symphony, but even that one kind of begins & ends in A minor. The 7th is of course in a single movement but begins and ends in C major.
+[^9]: You can argue about the 4th, which is his most chromatic and tonally ambiguous symphony, but even that one kind of begins and ends in A minor. The 7th is of course in a single movement but begins and ends in C major.
 [^10]: Of course, there's an exception to every rule. But a rule with an exception is still a rule, only more complex.
 [^11]: This doesn't necessarily affect quality. Quality is just one aspect you take into account when judging. There are many others that have more to do with your biases and preferences. So a composer with a more lenient rule set may still have the same demands on quality as one with stricter rules.

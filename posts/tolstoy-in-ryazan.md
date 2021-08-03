@@ -63,7 +63,7 @@ I am sympathetic to Tolstoy's attempts at building a moral system. But to me it'
 [^2]: Well, it's not quite true to say that he derived this principle from the Sermon on the Mount alone. He was at the very least also influenced by a number of pacifist Quakers like [George Fox](https://en.wikipedia.org/wiki/George_Fox) and [William Penn](https://en.wikipedia.org/wiki/William_Penn).
 [^3]: Troyat, H. (1967). _Tolstoy_. Doubleday & Company, Inc.
 
-    Of course Tolstoy was young then & would soon see the horror of war.
+    Of course Tolstoy was young then and would soon see the horror of war.
 
 [^4]: ibid.
 [^5]: For more on this, read Brian Morris's article [Tolstoy and Anarchism](https://theanarchistlibrary.org/library/brian-morris-tolstoy-and-anarchism).
