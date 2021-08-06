@@ -37,5 +37,28 @@
         "slug": "dimensions-of-animal-advocacy-terminology"
       }
     ]
+  },
+  {
+    "subject": "the AstraZeneca vaccine suspension in Europe",
+    "posts": [
+      {
+        "title": "The AstraZeneca Vaccine Will Save Lives",
+        "slug": "the-astra-zeneca-vaccine-will-save-lives"
+      },
+      {
+        "title": "Scoring My AstraZeneca Predictions",
+        "slug": "scoring-my-astra-zeneca-predictions"
+      }
+    ]
+  },
+  {
+    "subject": "moral systems composed of other moral systems",
+    "posts": [
+      { "title": "Moral Golems", "slug": "moral-golems" },
+      {
+        "title": "Moral Golems Assume Uncertainty",
+        "slug": ""
+      }
+    ]
   }
 ]
