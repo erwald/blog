@@ -53,12 +53,6 @@
 
         <main>
             <div id='content'>
-                {% if not title %}
-                    <div class='top-nav' id='top-nav-mobile'>
-                        <a href="{{ '#about' | url }}">↓ Apropos</a>
-                        <a href="{{ '#notable' | url }}">↓ Notable posts</a>
-                    </div>
-                {% endif %}
                 {{ content | safe }}
                 {% if date %}
                     <div class='bottom-nav'>

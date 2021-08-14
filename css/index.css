@@ -137,25 +137,12 @@ h3 {
 }
 
 .post-abbrev-body {
-  padding-bottom: 40px;
-}
-
-.post-abbrev-title {
-  margin-top: 0;
-  padding: 0;
-}
-
-.post-abbrev-title a {
-  color: var(--black);
-  background-color: transparent;
-}
-.post-abbrev-title a:hover {
-  background-color: var(--grey);
+  padding-bottom: 20px;
 }
 
 .post-abbrev-date {
-  padding-left: 0.5ch;
-  font-size: 19px;
+  display: block;
+  padding-bottom: 0.5ch;
 }
 
 p,
