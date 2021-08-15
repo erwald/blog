@@ -11,7 +11,7 @@ I had been looking for a small programming project for learning the basics of [J
 
 Quoting [utilitarianism.net](https://www.utilitarianism.net/) quoting Peter Singer, Utilitarianism says that, "as far as it is within our power, we should bring about a world in which every individual has the highest possible level of wellbeing". There are of course different ways of interpreting and implementing that in practice, and as a result there are many different variants of Utilitarianism. This will become obvious as we are faced with design choices in our implementation.[^1]
 
-For example, what is wellbeing, or **utility**? Let us assume that it is the average of all the positive and negative experiences in the life of an individual. I will call such an individual a **receptacle** because what is relevant about it here is the fact that it can _contain_, so to put it, utility. But it could be a human, or an animal, or an alien even.
+For example, what is well-being, or **utility**? Let us assume that it is the average of all the positive and negative experiences in the life of an individual. I will call such an individual a **receptacle** because what is relevant about it here is the fact that it can _contain_, so to put it, utility. But it could be a human, or an animal, or an alien even.
 
 Let us also assume – why not? – that utility is normally distributed around a value of two, two being our baseline value. Receptacles above two have mostly happy lives, receptacles below two have mostly unhappy lives, and receptacles below zero have lives that are objectively not worth living at all.
 
