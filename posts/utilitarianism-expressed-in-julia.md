@@ -415,7 +415,7 @@ Got actions and consequences: [(2, 902.3415834900601), (1, 211.14893530485276)]
 (2, 902.3415834900601)
 ```
 
-## Future Steps
+## In Sum
 
 I want to be clear in pointing out that utilitarians are aware of and have responded to all these concerns; they have long since [noticed the skulls](https://slatestarcodex.com/2017/04/07/yes-we-have-noticed-the-skulls/). One excellent resource for utilitarian theory is the aforementioned [utilitarianism.net](https://www.utilitarianism.net/). Another good introduction is reading the Stanford Encyclopedia of Philosophy's articles on [consequentialism](https://plato.stanford.edu/entries/consequentialism/) and [the history of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/).
 
