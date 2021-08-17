@@ -30,7 +30,7 @@ genreceptacle() = randn() + 2 # standard deviation 1
 genworld(n::Int = 100) = map(_ -> genreceptacle(), zeros(n))
 ```
 
-Calling `genworld()` gives us our baseline world. We can plot it[^1]
+Calling `genworld()` gives us our baseline world. We can plot it[^2]
 
 ```julia
 using Plots, StatsPlots
@@ -112,7 +112,7 @@ Got actions and consequences: [(2, 227.14957726154114), (1, 219.17418869670146)]
 (2, 227.14957726154114)
 ```
 
-But this seems pretty counterintuitive. In fact, it seems so counterintuitive that it has its own name in philosophy: this is the [Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/) famously described by Derek Parfit.[^2] If we plot this difference
+But this seems pretty counterintuitive. In fact, it seems so counterintuitive that it has its own name in philosophy: this is the [Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/) famously described by Derek Parfit.[^3] If we plot this difference
 
 ```julia
 histogram([addnormallife(genworld()), addshoddylives(genworld())],
@@ -125,11 +125,11 @@ it is really clear how the chosen world is a far more miserable one on average t
 
 ![Plot showing utility distributions of choices leading to Repugnant Conclusion.]({{ '/img/utilitarianism_repugnant_conclusion.png' | url }})
 
-(At this point you may be thinking that something here is a little bit weird. What is so special about two, our baseline value? If we had all lived in a world where this action happened, we would have set our baseline to 0.1 and called that "normal". None of us would have taken it to be terrible that so many of us lived such bad lives, because they would all have been average lives. Of course _we_ all prefer the world with the average utility of two, because to us those lives with a utility of 0.1 seem so bad as to be basically not worth living. But in fact they are by definition worth living. In other words, perhaps we should not trust our intuitions here. This is one point that Michael Huemer makes in arguing that utilitarians should accept the Repugnant Conclusion.[^3])
+(At this point you may be thinking that something here is a little bit weird. What is so special about two, our baseline value? If we had all lived in a world where this action happened, we would have set our baseline to 0.1 and called that "normal". None of us would have taken it to be terrible that so many of us lived such bad lives, because they would all have been average lives. Of course _we_ all prefer the world with the average utility of two, because to us those lives with a utility of 0.1 seem so bad as to be basically not worth living. But in fact they are by definition worth living. In other words, perhaps we should not trust our intuitions here. This is one point that Michael Huemer makes in arguing that utilitarians should accept the Repugnant Conclusion.[^4])
 
 ## Average Utilitarianism
 
-One way to escape the Repugnant Conclusion is by taking, instead of the sum of the utilities in the world, the average. In other words, we rewrite our utility function[^4]:
+One way to escape the Repugnant Conclusion is by taking, instead of the sum of the utilities in the world, the average. In other words, we rewrite our utility function[^5]:
 
 ```julia
 using Statistics
@@ -211,7 +211,7 @@ Because of these and other problems, Average Utilitarianism is, so I gather, not
 
 ## Critical-Level Utilitarianism
 
-In Classical Utilitarianism, we said that adding new lives were good if those lives were worth living, in other words if they had a utility above zero. In **Critical-Level Utilitarianism**, we change the threshold (the critical level) from zero to another number.[^5] For example, we could say that adding a new life is good iff it has a utility at or above one. In effect, this means that we are adding a penalty proportional to the number of receptacles there are. Critical-Level Utilitarianism ought to fix our problems with the original Repugnant Conclusion while also not recommending killing receptacles whose lives are only a fraction below average, as does Average Utilitarianism. The implementation is easy:
+In Classical Utilitarianism, we said that adding new lives were good if those lives were worth living, in other words if they had a utility above zero. In **Critical-Level Utilitarianism**, we change the threshold (the critical level) from zero to another number.[^6] For example, we could say that adding a new life is good iff it has a utility at or above one. In effect, this means that we are adding a penalty proportional to the number of receptacles there are. Critical-Level Utilitarianism ought to fix our problems with the original Repugnant Conclusion while also not recommending killing receptacles whose lives are only a fraction below average, as does Average Utilitarianism. The implementation is easy:
 
 ```julia
 getutility_cl(world::World) = sum(world .- 1)
@@ -251,7 +251,7 @@ bar(result)
 
 ![Plot showing results of Trolley Problem simulations (for Critical-Level Utilitarianism).]({{ '/img/utilitarianism_cl_trolley.png' | url }})
 
-Once again it depends on the configuration of the particular receptacles we start the experiment with, but on average Critical-Level Utilitarianism prefers killing the one to save the many, and likes the sadistic action the least. But had we set a higher critical level, say at two, it _would_ sometimes recommend killing everyone. That is because, with a critical level at two, we consider any receptacle with a utility below two to have a life not worth living, even if they themselves do not do so. That leads to some pretty weird conclusions, for instance that it is better to add one truly miserable life, full of torture and agony, than it is to add one hundred lives only barely below the critical threshold.[^6]
+Once again it depends on the configuration of the particular receptacles we start the experiment with, but on average Critical-Level Utilitarianism prefers killing the one to save the many, and likes the sadistic action the least. But had we set a higher critical level, say at two, it _would_ sometimes recommend killing everyone. That is because, with a critical level at two, we consider any receptacle with a utility below two to have a life not worth living, even if they themselves do not do so. That leads to some pretty weird conclusions, for instance that it is better to add one truly miserable life, full of torture and agony, than it is to add one hundred lives only barely below the critical threshold.[^7]
 
 ```julia
 addmiserablelife = w -> [w;-2]
