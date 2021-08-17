@@ -45,7 +45,7 @@ So there are a bunch of receptacles living normal lives around the baseline valu
 
 ## Classical Utilitarianism
 
-Now we have to measure how much utility there is in total in a world. Otherwise we cannot compare worlds, and we need to compare worlds in other to compare actions, because each action produces a different world. In **Classical Utilitarianism**, the one of Jeremy Bentham, John Stuart Mill and Henry Sidgwick, we take the sum of the utilities of all the receptacles:
+Now we have to measure how much utility there is in total in a world. Otherwise we cannot compare worlds, and we need to compare worlds in order to compare actions, because each action produces a different world. In **Classical Utilitarianism**, the one of Jeremy Bentham, John Stuart Mill and Henry Sidgwick, we take the sum of the utilities of all the receptacles:
 
 ```julia
 getutility(world::World) = sum(world)
