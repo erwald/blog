@@ -115,7 +115,8 @@ Got actions and consequences: [(2, 227.14957726154114), (1, 219.17418869670146)]
 But this seems pretty counterintuitive. In fact, it seems so counterintuitive that it has its own name in philosophy: this is the [Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/) famously described by Derek Parfit.[^3] If we plot this difference
 
 ```julia
-histogram([addnormallife(genworld()), addshoddylives(genworld())],
+histogram([addnormallife(genworld()),
+           addshoddylives(genworld())],
           layout = (2, 1),
           title = ["One Normal Life Added"
                    "1,000 Shoddy Lives Added"])
