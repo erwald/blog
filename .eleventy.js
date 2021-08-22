@@ -103,6 +103,9 @@ module.exports = function (eleventyConfig) {
   // Add RSS plugin.
   eleventyConfig.addPlugin(pluginRss);
 
+  // Add Netlify redirect config file.
+  eleventyConfig.addPassthroughCopy("_redirects");
+
   return {
     templateFormats: ["md", "njk", "html", "png", "jpg", "ico"],
     passthroughFileCopy: true,
