@@ -12,6 +12,14 @@ The code for this site is licensed under [MIT](https://en.wikipedia.org/wiki/MIT
 
 - Use italics for emphasis, titles of works and terms and phrases in non-English languages.
 - Use bold (styled as underlined) for key terms and phrases and for content warnings.
+- Use quotation marks for titles of brief works, like book chapters, articles, short stories, short poems, songs and – god forbid – radio or TV episodes.
 - Explanatory or clarifying sentences and phrases may be put in parentheses and italics.
 - Code snippets and anything that might appear in code or in a terminal may be put in code tags.
 - Spell out cardinal and ordinal numbers under 11.
+- For titles, use these rules based on the APA guidelines:
+  - Capitalise the first word
+  - Capitalise the first word after any sort of strong punctuation (period, colon, semicolon, en-dash)
+  - Capitalise nouns, verbs, adjectives, adverbs and pronouns
+  - Capitalise the second part of hyphenated major words
+  - Do not capitalize articles, conjunctions, and prepositions of any length
+  - Do not capitalize the second part of a Latin species name
