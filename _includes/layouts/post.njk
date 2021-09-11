@@ -20,5 +20,5 @@ layout: layouts/base.njk
         </ul>
     </div>
 {% endif %}
-<h1>{{ title }}</h1>
+<h1>{{ title | markdown | safe }}</h1>
 {{ content | removeTitle | safe }}

@@ -10,7 +10,7 @@ pagination:
     {% for post in posts %}
         <div class="post-abbrev-body">
             <span class="post-abbrev-date">{{ post.date | readableDate }}</span>
-            <a href="{{ post.url }}">{{  post.data.title }}</a>
+            <a href="{{ post.url }}">{{  post.data.title | markdown | safe }}</a>
         </div>
     {% endfor %}
     {% if pagination.previous %}<a href={{ pagination.previous | url }}>← Previous Page</a>{% endif %}

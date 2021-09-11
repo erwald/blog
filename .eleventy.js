@@ -37,6 +37,14 @@ const addLinkRef = (ref, str) =>
   str.replace(/href="([^"]+)"/g, (_, url) => `href=\"${url}?ref=${ref}\"`);
 
 module.exports = function (eleventyConfig) {
+  const md = new markdownIt({
+    html: true
+  });
+  // Expose markdown renderer as a filter.
+  eleventyConfig.addFilter("markdown", (content) => {
+    return md.renderInline(content);
+  });
+
   // Copy images & css to site dir.
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
