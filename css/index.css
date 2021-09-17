@@ -111,6 +111,10 @@ main {
   display: none;
 }
 
+.nowrap {
+  white-space: nowrap;
+}
+
 hr {
   border: none;
   border-top: 2px solid;
