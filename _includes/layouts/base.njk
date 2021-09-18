@@ -47,7 +47,7 @@
         <header>
             <div id='overview'>
                 <div id='breadcrumbs'><a href="{{  '/' | url }}">~</a> {{ '/ ' + page.fileSlug if title else '' }}</div>
-                <div id='date'>{{ 'posted on '}}<span class="nowrap">{{date | readableDate if date else '' }}</span></div>
+                <div id='date'>{% if date %}posted on <span class="nowrap">{{date | readableDate}}</span>{% endif %}</div>
             </div>
         </header>
 
