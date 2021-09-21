@@ -13,8 +13,6 @@ Of course there are many different varieties of prostitution and sex work, from 
 
 It follows from my previous argument that paying for sex is wrong in the same way that paying somebody to clean your house is wrong. But I think that paying for sex is worse than paying somebody to clean your house. In fact, I think it's a great deal worse. I have three reasons for thinking so.
 
-_(Content warning: prostitution, sex work.)_
-
 ## Reason No. 1
 
 The first reason is something that I can't quite put my finger on. But it has to do with the fact that sex is supposed to be a reciprocal act. If two people want to have sex, they have sex. But you don't hear of people offering to clean somebody else's house for free, nor for that matter of people reciprocally cleaning each other's houses.[^5]

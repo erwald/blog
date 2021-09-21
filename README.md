@@ -11,7 +11,7 @@ The code for this site is licensed under [MIT](https://en.wikipedia.org/wiki/MIT
 ## Style Guide
 
 - Use italics for emphasis, titles of works and terms and phrases in non-English languages.
-- Use bold (styled as underlined) for key terms and phrases and for content warnings.
+- Use bold (styled as underlined) for key terms and phrases.
 - Use quotation marks for titles of brief works, like book chapters, articles, short stories, short poems, songs and – god forbid – radio or TV episodes.
 - Explanatory or clarifying sentences and phrases may be put in parentheses and italics.
 - Code snippets and anything that might appear in code or in a terminal may be put in code tags.

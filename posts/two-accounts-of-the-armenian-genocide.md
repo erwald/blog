@@ -17,8 +17,6 @@ Of course eyewitness accounts are pretty unreliable.[^4] And these accounts have
 
 I will put the two accounts here side-by-side, or interwoven rather. That means we'll try to read them in parallel, not one after the other. This may help us see the two as a single narrative. The second account is by a young woman who describes her experiences of the massacre of her village and the period that followed. The first account is by her, her sister and another woman and describes what happened before, during and after the massacre.[^5] For that reason we'll start with this first account and then introduce the second when the two are aligned. But we have a bit to get through before we get there, so bear with me.
 
-_(Content warning: murder, rape, kidnapping, burning, genocide.)_
-
 > **Margarians and Karapetian:** Information given by Havso Margarian (aged 40), Kyulizar Karapetian (aged 50) and Salvi Margarian from the village of Apri of Lower Bulanekh: –
 >
 > The former condition: – Before the war the village had 40 Armenian households and 300 Kurdish households. Fifty of the Kurdish households were sheikhs and fakhis [experts in Islamic law] whose chief was sheikh Slé.
