@@ -17,7 +17,7 @@ From a pretty cursory look at the research, I gather that several attempts have 
 
 ## Status Quo
 
-Let us quickly survey the current landscape. Here are some common overarching terms used in animal advocacy, with frequency of use on the y-axis, courtesy of Google Ngram. The plot shows "animal welfare" overtaking "animal rights" in frequency in the late 1990s. The gap has again widened significantly starting around 2015, which is not long after Effective Altruism got off the ground as a movement (though I think it unlikely that Effective Altruism is behind the recent change; EA seems far too niche).
+Let us quickly survey the current landscape. Here are some common overarching terms used in animal advocacy, with frequency of use on the y-axis, courtesy of Google Ngram. The plot shows "animal welfare" overtaking "animal rights" in frequency in the late 1990s. The gap has again widened significantly starting around 2015, which is not long after effective altruism (EA) got off the ground as a movement (though I think it unlikely that effective altruism is behind the recent change; EA seems far too niche).
 
 ![Plot of Google Ngram frequencies of various animal ethics terms during the last 220 years.]({{ '/img/animal_ethics_ngrams.png' | url }})
 
