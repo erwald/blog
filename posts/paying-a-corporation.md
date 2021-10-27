@@ -35,7 +35,7 @@ Now, I can't think of a corporate act that is not initiated by one or more of it
 
 ## Chef in Shackles
 
-Here is a thought experiment adapted from one used in [discussions about vegetarianism ](https://plato.stanford.edu/entries/vegetarianism/#BridGap) specifically, but which applies to participation in wrong-doing generally. I will state it in an easy form initially but will then modify it so as to make it gradually harder, at each step doing my best to evaluate it according to Kantian principles. In its first form, it runs:
+Here is a thought experiment adapted from one used in [discussions about vegetarianism](https://plato.stanford.edu/entries/vegetarianism/#BridGap) specifically, but which applies to participation in wrong-doing generally. I will state it in an easy form initially but will then modify it so as to make it gradually harder, at each step doing my best to evaluate it according to Kantian principles. In its first form, it runs:
 
 > _(E1)_ Food SPE runs Chef without Shackles, a restaurant at which the chef is known to be working of his or her free will. The chef is superb; the food is delicious.
 
