@@ -4,6 +4,7 @@ title: "Interview with Corentin Boissier: Romanticism, Modernism, Composition"
 date: 2021-09-18
 tags: post
 ---
+
 # Interview with Corentin Boissier: Romanticism, Modernism, Composition
 
 Corentin Boissier is, in the words of musicologist and critic Walter Simmons, "one of the most remarkable composers to appear on the new-music scene in the 21st century".[^1] He has completed or revised some 30 pieces in the last decade, all in neo-Romantic style. A recording of two Piano Concertos and a Piano Sonata of his, performed by pianist Valentina Seferinova and the Ukrainian Festival Orchestra under the direction of John McLaughlin Williams, was recently [released by Toccata Classics](https://toccataclassics.com/product/corentin-boissier-two-piano-concertos-and-a-sonata/). He was kind enough to answer some of my questions; these answers are reproduced in full below.
@@ -76,16 +77,13 @@ CORENTIN: I have just completed my first symphony. If we take into account the d
 
 ERICH: Are there any plans to record more of your music?
 
-CORENTIN: Yes, there's a planned second CD that will be devoted to my chamber music: it will include my _Sonata for Cello and Piano_, my _Trio for Violin, Cello and Piano_ and my _Sonata for Flute and Piano_. The recordings of these three works have already been made earlier in 2021. In the meantime I have just uploaded on YouTube one of my most recent compositions, entitled _[La Fontaine aux Naïdes](https://www.youtube.com/watch?v=U3SfJXERfa0)_ _(The Fountain of the Naiads)_, a nocturne and dance for cello and harp. It is a playful work that was written for and recorded by the Duo Pierres Vives during the Chamber Music Festival of La Llagonne (in Pyrénées-Orientales in France). I also recently composed a _Sonata for Trumpet and Piano_ that will be premiered by French trumpeter Lise Bergeon at the CNSM of Paris. My four-movement suite for solo harp, _[L'Enfance de l'Art](https://www.youtube.com/playlist?list=PLHbAN0eSlaJjhE4GuZ66RVa30YAQUqMhT)_, was recently performed and uploaded on YouTube by French-German harpist Claire Augier de Lajallet. And American harpist Gretchen Chell Cover, who lives in Florida, commissioned from me a short piece for guitar and harp that is going to be recorded on CD.
+CORENTIN: Yes, there's a planned second CD that will be devoted to my chamber music: it will include my _Sonata for Cello and Piano_, my _Trio for Violin, Cello and Piano_ and my _Sonata for Flute and Piano_. The recordings of these three works have already been made earlier in 2021. In the meantime I have just uploaded on YouTube one of my most recent compositions, entitled _[La Fontaine aux Naïades](https://www.youtube.com/watch?v=U3SfJXERfa0)_ _(The Fountain of the Naiads)_, a nocturne and dance for cello and harp. It is a playful work that was written for and recorded by the Duo Pierres Vives during the Chamber Music Festival of La Llagonne (in Pyrénées-Orientales in France). I also recently composed a _Sonata for Trumpet and Piano_ that will be premiered by French trumpeter Lise Bergeon at the CNSM of Paris. My four-movement suite for solo harp, _[L'Enfance de l'Art](https://www.youtube.com/playlist?list=PLHbAN0eSlaJjhE4GuZ66RVa30YAQUqMhT)_, was recently performed and uploaded on YouTube by French-German harpist Claire Augier de Lajallet. And American harpist Gretchen Chell Cover, who lives in Florida, commissioned from me a short piece for guitar and harp that is going to be recorded on CD.
 
 ERICH: Let us go full circle by returning to musical style. Do you think that, today in 2021, the question of modernity in music is outdated?
 
 CORENTIN: Absolutely. In my view, the problem is not to be "modern" or not, but to be, whatever the chosen style, excellent or bad. This is the only question we have to ask ourselves. For the past several decades, the official discourse has been that experimental music _is_ the music of our time. But it all depends on the social context. When experimental music becomes institutional music, writing Romantic music becomes the only possible adventure. Don't you think that the greatest adventure has always been to go against the tide and fight against all odds?
 
-[^1]:	This is pulled from the booklet of the Toccata Classics release, which can be found in PDF format [here](https://d2vhizysjb6bpn.cloudfront.net/TOCC0569DIGIBKLT.pdf).
-
-[^2]:	ibid.
-
-[^3]:	Corentin pointed me to two interesting-looking documentaries – _[Quand la CIA infiltrait la culture](https://www.youtube.com/watch?v=58QTcf_mFag)_ _(When the CIA Infiltrated Culture)_ and _[La face cachée de l’Art américain](https://www.youtube.com/watch?v=yUi-un4rpzU)_ _(The Dark Side of American Art)_ – discussing this, mainly in the context of pictorial art, but presumably there is a similar story to be told about music.
-
-[^4]:	Nichols, J. F. J. W. (1997). _Composers on music: Eight centuries of writings_. UPNE.
+[^1]: This is pulled from the booklet of the Toccata Classics release, which can be found in PDF format [here](https://d2vhizysjb6bpn.cloudfront.net/TOCC0569DIGIBKLT.pdf).
+[^2]: ibid.
+[^3]: Corentin pointed me to two interesting-looking documentaries – _[Quand la CIA infiltrait la culture](https://www.youtube.com/watch?v=58QTcf_mFag)_ _(When the CIA Infiltrated Culture)_ and _[La face cachée de l’Art américain](https://www.youtube.com/watch?v=yUi-un4rpzU)_ _(The Dark Side of American Art)_ – discussing this, mainly in the context of pictorial art, but presumably there is a similar story to be told about music.
+[^4]: Nichols, J. F. J. W. (1997). _Composers on music: Eight centuries of writings_. UPNE.
