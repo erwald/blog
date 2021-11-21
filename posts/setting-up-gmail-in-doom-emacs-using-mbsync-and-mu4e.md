@@ -124,7 +124,7 @@ If it feels icky to put down your password _in plaintext_ in `.mbsyncrc`, you ca
  "gmail"
  '((mu4e-sent-folder       . "/[Gmail]/Sent Mail")
    (mu4e-trash-folder      . "/[Gmail]/Bin")
-   (smtpmail-smtp-user     . "erichgrunewald@gmail.com"))
+   (smtpmail-smtp-user     . "example@gmail.com"))
  t)
 (setq mu4e-get-mail-command "mbsync gmail"
       ;; get emails and index every 5 minutes
