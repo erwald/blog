@@ -64,9 +64,9 @@ Of course, I am only groping towards something here.
 [^1]: Solomon, M. (1991). Mozart: The myth of the eternal child. _Nineteenth-Century Music_, 95-106.
 [^2]: ibid.
 [^3]:
-    Amusingly, Löwenthal, his opponent, makes still makes some excuses a decade later in a short biographical essay about Morphy:
+    Amusingly, Löwenthal, his opponent, made some excuses a decade later in a short biographical essay about Morphy:
 
-    \> When only thirteen years of age he was a really good player. At that early age he was victorious in one or two games with the Editor of this work, who was then paying a short visit to New Orleans, and though the latter was at that time depressed in mind and suffering in body, and was also prostrated by the climate, yet the achievement of the young Paul argues a degree of skill to which it is wonderful that a child could have attained.
+    "When only thirteen years of age he was a really good player. At that early age he was victorious in one or two games with the Editor of this work, who was then paying a short visit to New Orleans, and though the latter was at that time depressed in mind and suffering in body, and was also prostrated by the climate, yet the achievement of the young Paul argues a degree of skill to which it is wonderful that a child could have attained."
 
     Other sources give Morphy's age when he beat Löwenthal as 12, e.g. Edge (1859). Possibly Löwenthal preferred to remember Morphy as a teenager at the time in order to lessen the sting of defeat.
 
