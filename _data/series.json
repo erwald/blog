@@ -72,5 +72,18 @@
         "title": "Critique of Norm Criticism"
       }
     ]
+  },
+  {
+    "subject": "the blog itself",
+    "posts": [
+      {
+        "title": "Meta Update 1",
+        "slug": "meta-update-1"
+      },
+      {
+        "title": "Meta Update 2",
+        "slug": "meta-update-2"
+      }
+    ]
   }
 ]
