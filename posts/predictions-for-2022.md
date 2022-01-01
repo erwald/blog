@@ -90,7 +90,7 @@ In 2022,
 
 In 2022,
 
-1. These predictions will have been perfectly [calibrated](https://www.lesswrong.com/tag/calibration)[^1]. ⇒ 100%
+1. These predictions will have been perfectly [calibrated](https://www.lesswrong.com/tag/calibration).[^1] ⇒ 100%
 
 [^1]:
     What my joke predictions have illustrated is a well-known limitation of the calibration metric. I think Julia Galef discusses it in _Scout Mindset_, and I know Philip E. Tetlock discusses it in _Superforecasting_. It does not mean calibration is not a useful metric; it only means that, being an aggregate measure, it doesn't give the full picture. It only describes how well our predicted probabilities match the actual frequencies of outcomes. From the point of view of calibration, my astronomy predictions look perfect, but of course better predictions for those questions would have been something like 100% certainty that the moon will wax and wane and 100% certainty that the sun will _not_ rise in the west and set in the east. That is because calibration does not care how confident one is in one's predictions.
