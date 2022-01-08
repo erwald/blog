@@ -131,7 +131,7 @@ If it feels icky to put down your password _in plaintext_ in `.mbsyncrc`, you ca
       mu4e-update-interval 300
 	  ;; send emails with format=flowed
 	  mu4e-compose-format-flowed t
-	  ;; don't need to run cleanup after indexing for gmail
+	  ;; no need to run cleanup after indexing for gmail
 	  mu4e-index-cleanup nil
 	  mu4e-index-lazy-check t
       ;; more sensible date format
