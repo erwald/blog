@@ -15,7 +15,7 @@ The Spanish multinational Nueva Pescanova [is on the cusp](https://archive.ph/20
 
 Octopuses have impressive minds, more so than many vertebrates. Half of their numerous neurons are located in their strong, tentacled arms, which seem almost like creatures of their own.[^3] (Godfrey-Smith speculates that octopuses may need to focus in order to act in a coordinated way with all of their arms, and that their default state is one where the arms kind of explore independently.[^4] This may incidentally make it difficult to painlessly slaughter octopuses – if you just decapitate them, you still have only destroyed half their nervous system.) Octopuses even seem to show emotion, although it's hard to tell given our tendency to anthropomorphise. Take a look at [this video](https://www.youtube.com/watch?v=rqAmR1lEN0I) where an octopus, released after having been stranded on a beach, seemingly seeks contact with its rescuer before swimming away. Or [this video](https://www.youtube.com/watch?v=HRPCj9y3848), a scene from a documentary where an octopus seemingly plays with a shoal of fish and then seemingly hugs a human diver.
 
-![Red-figure plate depicting fish and octopus, attributed to Asteas/Python Workshop (ca 360-320 BCE), from the Cleveland Museum of Art.]({{ '/img/octopus.jpeg' | url }})
+![Screenshot of video of octopus by Pei Yan Heng.]({{ '/img/octopus.jpeg' | url }})
 
 Jacquet et al. gives us a suitable backdrop:
 
