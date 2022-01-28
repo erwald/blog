@@ -47,6 +47,7 @@ for the last date (e.g. <now>)."
       (let* ((start
               (seconds-to-time
                (org-matcher-time (plist-get params :tstart))))
+             (current-time start)
              (end
               (seconds-to-time
                (org-matcher-time (plist-get params :tend))))
@@ -54,15 +55,15 @@ for the last date (e.g. <now>)."
         (progn
           ;; loop through all the days in the time frame provided
           ;; and count how many days minutes were reported.
-          (while (time-less-p start end)
+          (while (time-less-p current-time end)
             (let* ((next-day
                     (time-add
-                     start (date-to-time "1970-01-02T00:00Z")))
+                     current-time (date-to-time "1970-01-02T00:00Z")))
                    (minutes-in-day
-                    (get-minutes-from-log start next-day)))
+                    (get-minutes-from-log current-time next-day)))
               (if (> minutes-in-day 0)
                   (cl-incf total-days-worked 1))
-              (setq start next-day)))
+              (setq current-time next-day)))
           ;; now we can just do some simple arithmetic to get the
           ;; difference between hours ideally worked and hours
           ;; actually worked.
