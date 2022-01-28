@@ -58,9 +58,11 @@ for the last date (e.g. <now>)."
           (while (time-less-p current-time end)
             (let* ((next-day
                     (time-add
-                     current-time (date-to-time "1970-01-02T00:00Z")))
+                     current-time (date-to-time
+                                   "1970-01-02T00:00Z")))
                    (minutes-in-day
-                    (get-minutes-from-log current-time next-day)))
+                    (get-minutes-from-log
+                      current-time next-day)))
               (if (> minutes-in-day 0)
                   (cl-incf total-days-worked 1))
               (setq current-time next-day)))
