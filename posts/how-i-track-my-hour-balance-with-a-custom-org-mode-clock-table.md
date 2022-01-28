@@ -13,7 +13,7 @@ No one at my work actually cares how many hours I work; they just care that I ge
 
 Emacs's org-mode can do lots of things, and one of them is clock hours. However, it doesn't provide an out-of-the-box method for calculating hour balance. By hour balance, I mean how many hours one has worked over or under what one has decided one _should have_ worked. Say I'm supposed to work eight hours per day but have actually worked these hours:
 
-```lisp
+```
 :LOGBOOK:
 CLOCK: [2022-01-10 Mon 10:30]--[2022-01-10 Mon 20:00] =>  9:30
 CLOCK: [2022-01-11 Tue 12:00]--[2022-01-11 Tue 19:00] =>  7:00
@@ -24,7 +24,7 @@ CLOCK: [2022-01-13 Thu 12:00]--[2022-01-13 Thu 20:00] =>  8:00
 
 (Assume that I don't eat lunch, or that I eat lunch at my desk.) According to this log, I have worked 9.5 + 7 + 8.5 + 8 - 4 \* 8 = 1 hour extra. That's a simple calculation, but when you reach hundreds of days, it gets more difficult. So it is a good thing that we know how to program and can create our own custom org-mode clock table. Here's what I came up with:
 
-```lisp
+```elisp
 (require 'cl-lib)
 (require 'org-clock)
 (defun org-dblock-write:work-report (params)
@@ -47,25 +47,23 @@ for the last date (e.g. <now>)."
       (let* ((start
               (seconds-to-time
                (org-matcher-time (plist-get params :tstart))))
-             (current-time start)
              (end
               (seconds-to-time
                (org-matcher-time (plist-get params :tend))))
+             (t start)
              (total-days-worked 0))
         (progn
           ;; loop through all the days in the time frame provided
           ;; and count how many days minutes were reported.
-          (while (time-less-p current-time end)
+          (while (time-less-p t end)
             (let* ((next-day
                     (time-add
-                     current-time (date-to-time
-                                   "1970-01-02T00:00Z")))
+                     t (date-to-time "1970-01-02T00:00Z")))
                    (minutes-in-day
-                    (get-minutes-from-log
-                      current-time next-day)))
+                    (get-minutes-from-log t next-day)))
               (if (> minutes-in-day 0)
                   (cl-incf total-days-worked 1))
-              (setq current-time next-day)))
+              (setq t next-day)))
           ;; now we can just do some simple arithmetic to get the
           ;; difference between hours ideally worked and hours
           ;; actually worked.
@@ -80,9 +78,11 @@ for the last date (e.g. <now>)."
             (insert (format "%0.1f" hour-difference)))))))
 ```
 
+~~(Edit 2022-01-28: There was previously a bug in this function, which bug caused one's reported hours not to count, resulting in a massive deficit. The bug has been fixed as of today.)~~
+
 A clock table, or report, is basically a view onto the raw logbook data. It's called _table_ because it normally takes the form of one; mine doesn't, but I will call it that anyway. You use this one like you do any other org-mode clock table, only you also need to remember to supply the `:tstart` and `:tend` arguments:
 
-```lisp
+```
 :LOGBOOK:...
 #+BEGIN: work-report :tstart "<2022-01-10>" :tend "<now>"
 #+END:
@@ -90,7 +90,7 @@ A clock table, or report, is basically a view onto the raw logbook data. It's ca
 
 Then you move the cursor over the `#+BEGIN: ... #+END:` block and do `org-ctrl-c-ctrl-c` (`C-c C-c`). That gets you the hour balance:
 
-```lisp
+```
 :LOGBOOK:...
 #+BEGIN: work-report :tstart "<2022-01-10>" :tend "<now>"
 1.0

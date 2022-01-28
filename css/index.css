@@ -4,7 +4,9 @@
   --grey: #ccc;
   --light-grey: #efefef;
   --white: #fff;
-  --light-purple: #eeeeff;
+  --light-blue: #eeeeff;
+  --maroon: #85144b;
+  --light-maroon: #fff4e8;
 }
 
 html {
@@ -20,7 +22,7 @@ body {
 }
 
 a {
-  background-color: var(--light-purple);
+  background-color: var(--light-blue);
 }
 
 a:hover {
@@ -155,6 +157,13 @@ label {
   text-align: justify;
   line-height: 2.5ch;
   hyphens: auto;
+}
+
+s {
+  text-decoration: none;
+  color: var(--maroon);
+  background-color: var(--light-maroon);
+  font-style: italic;
 }
 
 #series {
