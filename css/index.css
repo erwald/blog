@@ -5,8 +5,8 @@
   --light-grey: #efefef;
   --white: #fff;
   --light-blue: #eeeeff;
-  --maroon: #85144b;
-  --light-maroon: #fff4e8;
+  --gold: #c19100;
+  --light-gold: #fff6ea;
 }
 
 html {
@@ -161,9 +161,11 @@ label {
 
 s {
   text-decoration: none;
-  color: var(--maroon);
-  background-color: var(--light-maroon);
+  color: var(--gold);
+  background-color: var(--light-gold);
   font-style: italic;
+  padding: 2px;
+  margin: -2px;
 }
 
 #series {
