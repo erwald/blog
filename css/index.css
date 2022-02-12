@@ -153,7 +153,8 @@ h3 {
 
 p,
 li,
-label {
+label,
+.csl-bib-body {
   text-align: justify;
   line-height: 2.5ch;
   hyphens: auto;
@@ -190,6 +191,10 @@ blockquote li {
 }
 blockquote .footnote-ref {
   font-size: 14px;
+}
+
+.footnotes-sep {
+  margin: 2ch 0;
 }
 
 sup {
