@@ -5,7 +5,7 @@ date: 2022-03-12
 tags: post
 ---
 
-# Why# Why Rome?
+# Why Rome?
 
 > Separate an individual from society, and give him an island or a continent to possess, and he cannot acquire personal property. He cannot be rich.
 >
