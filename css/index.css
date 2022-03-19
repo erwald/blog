@@ -151,6 +151,10 @@ h3 {
   padding-bottom: 0.5ch;
 }
 
+#post-subscribe-form-desktop {
+  padding-bottom: 2.5ch;
+}
+
 p,
 li,
 label,
@@ -283,5 +287,8 @@ input#bd-email {
     white-space: -pre; /* Opera 4-6 */
     white-space: -o-pre; /* Opera 7 */
     word-wrap: normal; /* Internet Explorer 5.5+ */
+  }
+  #post-subscribe-form-desktop {
+    display: none;
   }
 }
