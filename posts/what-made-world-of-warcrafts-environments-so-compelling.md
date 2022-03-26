@@ -70,7 +70,7 @@ Here is a different painting, by John Constable. This one, unlike the previous, 
 
 A third painting, Camille Corot. This scene is very legible (there's a path taking us deeper into the environment) and very mysterious (lots of little hiding-places, not to mention a whole village, to explore). It seems coherent too, but not very complex (there are the houses, the path, yellow grass, green foliage and blue skies and not much else).
 
-I know what you're thinking right now. How legible is a steppe, which seems easy to explore and equally easy to get lost in? What _is_ harmony, structure, order? This all seems mortally subjective, doesn't it? I agree but, given that don't have a solution for this, will simply note the difficulty and power on.
+I know what you're thinking right now. How legible is a steppe, which seems easy to explore and equally easy to get lost in? What _is_ harmony, structure, order? This all seems mortally subjective, doesn't it? I agree but, given that I don't have a solution for this, will simply note the difficulty and power on.
 
 ## Exploratory Evaluation of Said Candidate Features
 
