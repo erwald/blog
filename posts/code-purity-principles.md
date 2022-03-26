@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Code Purity & Principles
+title: Code Purity and Principles
 date: 2021-03-31
 tags: post
 ---
