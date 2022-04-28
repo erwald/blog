@@ -58,7 +58,7 @@ Bentham, Mill and Sidgwick were all great men who did far more than their contem
 
 ### Arguments about Truth via Usefulness
 
-Let's suppose that a moral philosophy is something that can be true (or something like true) – that its truth, as Bernard Williams put it, is _written in the stars_. What I'm concerned with here is whether utilitarianism is true (or plausible), not whether it is useful in an achieving-your-goals kind of way to believe it. The track record argument might say that utilitarianism is good because it produces the good outcomes (in the form of views); and maybe producing good outcomes implies that a moral theory is true or plausible. Maybe the object-level views function as a [sanity check](https://en.wikipedia.org/wiki/Sanity_check) for the general principles.
+Let's suppose that a moral philosophy is something that can be true (or something like true) – that its truth, as Bernard Williams put it, is _written in the stars_. What I'm concerned with here is whether utilitarianism is true (or plausible), not whether it is useful in an achieving-your-goals kind of way to believe it. The track record argument might say that utilitarianism is good because it produces good outcomes (in the form of views); and maybe producing good outcomes implies that a moral theory is true or plausible. Maybe the object-level views function as a [sanity check](https://en.wikipedia.org/wiki/Sanity_check) for the general principles.
 
 Actually, however, this interpretation seems to presuppose consequentialism, as if to say, _one reason that it is useful to believe that only good outcomes matter morally is because doing so produces good outcomes_. It's a kind of willing into existence, which reminds me of Codadad in _One Thousand and One Nights_:
 
