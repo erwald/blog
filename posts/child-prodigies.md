@@ -41,7 +41,7 @@ In chess, it could be
 2. developing concrete strategies, tactics, openings and maxims; and
 3. using previously developed strategies, tactics, openings and maxims to play chess.
 
-And in, morality, say, it could be
+And in morality, say, it could be
 
 1. observing the world and human and animal behaviour and creating from these observations a way of thinking about right and wrong;
 2. using such ways of thinking to reason about concrete moral issues; and
