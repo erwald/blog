@@ -18,7 +18,7 @@ As a rule, it's easier to solve a series of simple subproblems than it is to sol
 
 1. Any problem has a set of possible solutions and non-solutions – this is the **search space**. When trying to solve a problem, we are searching this space for promising solutions.
 2. The size of a problem's search space is the product of the sizes of the subproblems' search spaces.
-3. Therefore, decomposing the problem will result in a non-linear reduction in the size of the spaces we search in.
+3. Therefore, decomposing the problem will result in a non-linear reduction in size of the spaces we search in.
 
 I know that sounds abstruse, so here is an example, a basic decision-making problem. Say I am trying to pick a restaurant for the anniversary dinner of my wife and myself. Suppose there are 7,000 restaurants in Berlin. That's a pretty large search space. But I can split the problem into three subproblems:
 
