@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Decomposition and Problem Solving
+title: Decomposition and Problem-Solving
 date: 2022-05-28
 tags: post
 ---
