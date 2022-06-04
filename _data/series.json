@@ -88,6 +88,19 @@
     ]
   },
   {
+    "subject": "divers philosophical matters",
+    "posts": [
+      {
+        "title": "Auderico",
+        "slug": "auderico"
+      },
+      {
+        "title": "Frunimius",
+        "slug": "frunimius"
+      }
+    ]
+  },
+  {
     "subject": "the blog itself",
     "posts": [
       {
