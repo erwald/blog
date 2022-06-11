@@ -17,6 +17,10 @@
         <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
         <link rel="shortcut icon" href="/favicon.ico">
         <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48 64x64">
+        <link rel="preload" as="font" type="font/woff2" href="/fonts/public-sans-v12-latin-regular.woff2" crossorigin  />
+        <link rel="preload" as="font" type="font/woff2" href="/fonts/public-sans-v12-latin-italic.woff2" crossorigin  />
+        <link rel="preload" as="font" type="font/woff2" href="/fonts/public-sans-v12-latin-700.woff2" crossorigin  />
+        <link rel="preload" as="font" type="font/woff2" href="/fonts/public-sans-v12-latin-700italic.woff2" crossorigin  />
 
         <script async defer data-domain="erichgrunewald.com" src="https://plausible.io/js/plausible.js"></script>
 
@@ -45,12 +49,13 @@
     </head>
     <body>
         <header>
-            <div id='overview'>
-                <div id='breadcrumbs'><a href="{{  '/' | url }}">~</a> {{ '/ ' + page.fileSlug if title else '' }}</div>
-                <div id='date'>{% if date %}posted on <span class="nowrap">{{date | readableDate}}</span>{% endif %}</div>
-            </div>
+            <ul id='breadcrumbs'>
+                <li><a href="{{  '/' | url }}" {{ 'aria-current=post' if 'start-here' not in page.url and 'newsletter' not in page.url else '' }}>Home</a></li>
+                <li><a href="{{ '/start-here' | url }}" {{ 'aria-current=post' if 'start-here' in page.url else '' }}>Start here</a></li>
+                <li><a href="{{ '/newsletter' | url  }}" {{ 'aria-current=post' if 'newsletter' in page.url else '' }}>Newsletter</a></li>
+                <li><a href="{{ metadata.feed.path | url  }}">RSS</a></li>
+            </ul>
         </header>
-
         <main>
             <div id='content'>
                 {{ content | safe }}
@@ -61,42 +66,9 @@
                     </div>
                 {% endif %}
             </div>
-            <div id='sidebar'>
-                <img alt="Painting of wooded area by Auguste Louis Lepère." src="{{ '/img/header.jpg' | url }}" width="100%" />
-                <a id="about"><h1>Apropos</h1></a>
-                <p>This is my writing-place. There is no About page. There are just a bunch of articles. If you don't know where to start, try one of the notable posts listed further down.</p>
-                <form action="https://buttondown.email/api/emails/embed-subscribe/erichgrunewald"
-                      method="post"
-                      target="popupwindow"
-                      onsubmit="window.open('https://buttondown.email/erichgrunewald', 'popupwindow')"
-                      class="embeddable-buttondown-form" >
-                    <label for="bd-email">You can subscribe via <a href="{{ metadata.feed.path | url }}">RSS</a> or join the email newsletter here:</label>
-                    <input type="email" name="email" id="bd-email" placeholder="immanuelkant@example.com" />
-                    <input type="hidden" value="1" name="embed" />
-                    <input type="submit" value="Subscribe" />
-                </form>
-                <p>You can get in touch by writing me at <code>contact AT erichgrunewald DOT com</code>.</p>
-                <a id="notable"><h1 id="notable">Notable posts</h1></a>
-                <p>
-                    <ul>
-                        <li><a href="{{ '/posts/can-a-vegan-diet-be-healthy-a-literature-review' | url }}">Can a Vegan Diet Be Healthy? A Literature Review</a> about health effects of plant-based diets</li>
-                        <li><a href="{{ '/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is' | url }}">How Bad Is QWERTY, Really? A Review of the Literature, such as It Is</a> about the impact of key layouts on ergonomics and productivity</li>
-                        <li><a href="{{ '/posts/the-devastating-power-and-heartbreaking-pain-of-truly-changing-minds' | url }}">The Devastating Power and Heartbreaking Pain of Truly Changing Minds</a> about scout mindset among Latter-day Saints</li>
-                        <li><a href="{{ '/posts/doubts-about-track-record-arguments-for-utilitarianism' | url }}">Doubts about Track Record Arguments for Utilitarianism</a> about what Mill's and Bentham's object-level views say about utilitarianism</li>
-                        <li><a href="{{ '/posts/does-it-smell-like-pollocks-in-here' | url }}">Does It Smell like Pollocks in Here?</a> about bullshit in contemporary art</li>
-                        <li><a href="{{ '/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense' | url }}">The American Style of Quotation Mark Punctuation Makes No Sense</a> about the superiority of the British style</li>
-                        <li><a href="{{ '/posts/networks-of-meaning' | url }}">Networks of Meaning</a> about meaning in life, in art and in the works of Gerald Murnane</li>
-                        <li><a href="{{ '/posts/how-can-one-tell-what-is-beautiful' | url }}">How Can One Tell What Is Beautiful?</a> about objectivity and subjectivity in art</li>
-                        <li><a href="{{ '/posts/mysteries-of-the-unknown-the-unknowable' | url }}">Mysteries of the Unknown and the Unknowable</a> about conundrums, mysticism and H. P. Lovecraft</li>
-                        <li><a href="{{ '/posts/animal-testing-is-exploitative-and-largely-ineffective' | url }}">Animal Testing Is Exploitative and Largely Ineffective</a> about the use of animals in research</li>
-                        <li><a href="{{ '/posts/auderico' | url }}">Auderico</a> about our duties to inanimate objects, in dialogue form</li>
-                    </ul>
-                </p>
-                <p>✗</p>
-            </div>
         </main>
-
         <footer>
+            <hr/>
             <p>This site was created by <a href="{{ 'https://github.com/erwald' | url }}">myself</a> and is licensed under <a href="{{ 'https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1' | url }}">CC BY-SA 4.0</a>.</p>
             <p>It tracks page views using <a href="{{ 'https://plausible.io/privacy-focused-web-analytics' | url }}">Plausible</a>, so without collecting any personal data, without cookies and fully anonymously, purely for my own curiosity and in order to improve the site.</p>
         </footer>

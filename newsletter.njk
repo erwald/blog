@@ -1,16 +1,15 @@
 ---
-pagination: 
-  data: collections.post
-  size: 1
-  alias: post
-permalink: newsletters/{{ post.fileSlug | pathify }}.html
-eleventyExcludeFromCollections: true
+layout: layouts/base.njk
+permalink: newsletter/
+title: Newsletter
 ---
-<html>
-    <head></head>
-    <body>
-        <p><i>You can read this post in all its glory <a href="https://www.erichgrunewald.com{{ post.url }}?ref=Newsletter">on the blog</a>. To unsubscribe, simply send an email to <a href="mailto:newsletter@erichgrunewald.com">newsletter@erichgrunewald.com</a> with the word "unsubscribe" in the subject line.</i></p>
-        <h1>{{ post.data.title }}</h1>
-        {{ post.templateContent | formatForNewsletter | safe }}
-    </body>
-</html>
+<form id="subscribe-form" action="https://buttondown.email/api/emails/embed-subscribe/erichgrunewald" method="post"
+      target="popupwindow" onsubmit="window.open('https://buttondown.email/erichgrunewald', 'popupwindow')"
+      class="embeddable-buttondown-form notopmargin">
+    <label for="bd-email">Join the newsletter by typing in your email address and pressing "Subscribe":</label>
+    <input type="email" name="email" id="bd-email" placeholder="auderico@example.com" />
+    <input type="hidden" value="1" name="embed" />
+    <input type="submit" value="Subscribe" />
+</form>
+<p>If there's a problem with the newsletter, with the RSS feed or with the website generally – or if you just want to get in touch – please write me at <code>contact AT erichgrunewald DOT com</code>.</p>
+<img src="{{ '/img/golem.jpeg' | url }}" />

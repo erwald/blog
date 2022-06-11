@@ -1,3 +1,5 @@
+@import "fonts.css";
+
 :root {
   --black: #090a06;
   --dark-grey: #999;
@@ -10,7 +12,7 @@
 }
 
 html {
-  font-family: serif;
+  font-family: "Public Sans", sans-serif;
   font-size: 19px;
   color: var(--black);
   background-color: var(--white);
@@ -34,83 +36,61 @@ header,
 main,
 footer {
   margin: 0 auto;
-  padding: 0 20px;
-  max-width: 800px;
+  max-width: 750px;
 }
 
 footer {
-  padding-top: 40px;
-  max-width: 650px;
+  margin-top: 20px;
+  max-width: 550px;
 }
 footer p {
   font-size: 17px;
   text-align: center;
 }
 
-main {
-  display: flex;
-}
-
-#overview {
-  padding: 4px 0;
-  margin-bottom: 20px;
-  border-bottom: 2px solid;
-  border-bottom-color: var(--light-grey);
-  display: flex;
-  justify-content: space-between;
-}
-
 #breadcrumbs {
-  padding: 0 8px 0 0;
+  text-transform: uppercase;
+  font-size: 21px;
+  font-weight: 700;
+  margin: 0 0 1ch 0;
+  padding: 0;
+}
+#breadcrumbs li {
+  display: inline-block;
+}
+#breadcrumbs li:not(:first-child) {
+  margin-left: 1ch;
+}
+#breadcrumbs a {
+  color: var(--black); /* necessary since visited state loads asynchronously */
+  background-color: transparent;
+  text-decoration: none;
+}
+#breadcrumbs a:visited {
+  color: var(--black);
+}
+#breadcrumbs a:hover {
+  background-color: var(--black);
+  color: var(--white);
+}
+#breadcrumbs [aria-current]:not([aria-current="false"]) {
+  font-style: italic;
 }
 
 #date {
-  text-align: right;
-}
-
-#sidebar {
-  width: 25%;
-  font-size: 17px;
-}
-
-#sidebar h1 {
-  padding-top: 2ch;
-  font-size: 17px;
-  font-weight: normal;
-  text-decoration: underline;
-}
-#sidebar h2 {
-  padding-top: 0ch;
-  font-size: 17px;
-  font-weight: normal;
-  text-decoration: underline;
-}
-#sidebar ul {
-  padding-left: 0;
-  list-style-type: none;
-}
-#sidebar li {
-  padding-bottom: 1ch;
-  text-align: left;
-  hyphens: none;
+  padding-top: 1.5ch;
 }
 
 #content {
-  width: 75%;
-  padding-right: 40px;
 }
 #content img {
   width: 100%;
 }
 
-.top-nav,
 .bottom-nav {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-}
-#top-nav-mobile {
-  display: none;
 }
 
 .nowrap {
@@ -151,15 +131,10 @@ h3 {
   padding-bottom: 0.5ch;
 }
 
-#post-subscribe-form-desktop {
-  padding-bottom: 2.5ch;
-}
-
 p,
 li,
 label,
 .csl-bib-body {
-  text-align: justify;
   line-height: 2.5ch;
   hyphens: auto;
 }
@@ -212,20 +187,18 @@ strong {
 
 code {
   font-family: monospace;
-  font-size: 14px;
+  font-size: 17px;
   padding: 2px;
   margin: -2px;
   hyphens: none;
 }
-
 :not(a) > code {
   color: var(--black);
   background-color: var(--light-grey);
 }
-
 code .keyword,
 code .tag {
-  font-weight: bold;
+  font-weight: 700;
 }
 code .punctuation {
   font-weight: normal;
@@ -248,12 +221,22 @@ pre {
   word-wrap: break-word; /* Internet Explorer 5.5+ */
 }
 
+input {
+  font-size: 17px;
+}
 input#bd-email {
   margin: 0.5ch 0 1ch 0;
   width: 100%;
+  height: 3ch;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+}
+
+#subscribe-form {
+  background-color: #f6f6f6;
+  padding: 1ch;
+  margin: 2ch 0;
 }
 
 @media only screen and (max-width: 800px) {
@@ -262,27 +245,12 @@ input#bd-email {
   }
 }
 @media only screen and (max-width: 640px) {
-  main {
-    flex-direction: column;
-  }
-  #sidebar {
-    width: 100%;
-  }
-  #sidebar img {
-    display: none;
-  }
   #content {
     width: 100%;
     padding: 0;
   }
   .bottom-nav {
-    padding-bottom: 20px;
-    border-bottom: 2px solid;
-    border-bottom-color: var(--light-grey);
-  }
-  #top-nav-mobile {
-    display: flex;
-    padding-bottom: 20px;
+    font-size: 17px;
   }
   pre {
     white-space: pre; /* Since CSS 2.1 */
@@ -291,7 +259,9 @@ input#bd-email {
     white-space: -o-pre; /* Opera 7 */
     word-wrap: normal; /* Internet Explorer 5.5+ */
   }
-  #post-subscribe-form-desktop {
-    display: none;
-  }
+}
+
+.notopmargin,
+.notopmargin#subscribe-form {
+  margin-top: 0;
 }
