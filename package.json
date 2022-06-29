@@ -8,13 +8,13 @@
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-plugin-rss": "^1.0.9",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
+    "@11tyrocks/eleventy-plugin-emoji-readtime": "^1.0.1",
     "@gerhobbelt/markdown-it": "^12.0.2-49",
     "@gerhobbelt/markdown-it-anchor": "^6.0.0-23",
-    "@gerhobbelt/markdown-it-footnote": "^3.0.2-4",
+    "@gerhobbelt/markdown-it-footnote": "3.0.2-4",
     "@gerhobbelt/markdown-it-sub": "^1.0.1-5",
     "@gerhobbelt/markdown-it-sup": "^1.0.1-4",
     "luxon": "^1.25.0",
-    "markdown-it-footnote": "^3.0.2",
     "prettier": "^2.2.1"
   },
   "scripts": {

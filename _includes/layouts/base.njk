@@ -49,12 +49,15 @@
     </head>
     <body>
         <header>
-            <ul id='breadcrumbs'>
-                <li><a href="{{  '/' | url }}" {{ 'aria-current=post' if 'start-here' not in page.url and 'newsletter' not in page.url else '' }}>Home</a></li>
-                <li><a href="{{ '/start-here' | url }}" {{ 'aria-current=post' if 'start-here' in page.url else '' }}>Start here</a></li>
-                <li><a href="{{ '/newsletter' | url  }}" {{ 'aria-current=post' if 'newsletter' in page.url else '' }}>Newsletter</a></li>
-                <li><a href="{{ metadata.feed.path | url  }}">RSS</a></li>
-            </ul>
+            <div id="top-menu">
+                <a href="{{  '/' | url }}"><img src="{{ '/img/labyrinth.png' | url  }}" width="40px" height="40px" /></a>
+                <ul id='breadcrumbs'>
+                    <li><a href="{{  '/' | url }}" {{ 'aria-current=post' if 'start-here' not in page.url and 'newsletter' not in page.url else '' }}>All posts</a></li>
+                    <li><a href="{{ '/start-here' | url }}" {{ 'aria-current=post' if 'start-here' in page.url else '' }}>Start here</a></li>
+                    <li><a href="{{ '/newsletter' | url  }}" {{ 'aria-current=post' if 'newsletter' in page.url else '' }}>Newsletter</a></li>
+                    <li><a href="{{ metadata.feed.path | url  }}">RSS</a></li>
+                </ul>
+            </div>
         </header>
         <main>
             <div id='content'>

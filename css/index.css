@@ -4,7 +4,7 @@
   --black: #090a06;
   --dark-grey: #999;
   --grey: #ccc;
-  --light-grey: #efefef;
+  --light-grey: #f6f6f6;
   --white: #fff;
   --light-blue: #eeeeff;
   --gold: #c19100;
@@ -49,18 +49,32 @@ footer p {
   text-align: center;
 }
 
+#top-menu {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1ch;
+}
+#top-menu a {
+  color: transparent;
+  background-color: transparent;
+}
+
 #breadcrumbs {
-  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+
+  margin: 0;
+  padding: 0;
+
   font-size: 21px;
   font-weight: 700;
-  margin: 0 0 1ch 0;
-  padding: 0;
+  text-transform: uppercase;
 }
 #breadcrumbs li {
   display: inline-block;
-}
-#breadcrumbs li:not(:first-child) {
-  margin-left: 1ch;
+  line-height: 1.5ch;
+  margin-left: 1.5ch;
 }
 #breadcrumbs a {
   color: var(--black); /* necessary since visited state loads asynchronously */
@@ -124,12 +138,19 @@ h3 {
 }
 
 .post-abbrev-body {
-  padding-bottom: 20px;
+  margin-bottom: 20px;
+  padding: 1ch;
+  background-color: var(--light-grey);
 }
-
 .post-abbrev-date {
-  display: block;
   padding-bottom: 0.5ch;
+}
+.post-abbrev-link {
+  font-size: 24px;
+  padding-bottom: 0.5ch;
+}
+.post-abbrev-read-time {
+  font-style: italic;
 }
 
 p,
@@ -235,7 +256,7 @@ input#bd-email {
 }
 
 #subscribe-form {
-  background-color: #f6f6f6;
+  background-color: var(--light-grey);
   padding: 1ch;
   margin: 2ch 0;
 }

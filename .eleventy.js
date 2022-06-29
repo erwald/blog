@@ -6,6 +6,7 @@ const markdownItSup = require("@gerhobbelt/markdown-it-sup");
 const markdownItSub = require("@gerhobbelt/markdown-it-sub");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const emojiReadTime = require("@11tyrocks/eleventy-plugin-emoji-readtime");
 
 const removeTitle = (str) => str.replace(/<h\d.+<\/h\d>\s+/, "");
 
@@ -13,28 +14,28 @@ module.exports = function (eleventyConfig) {
   const md = new markdownIt({
     html: true,
   });
-  // Expose markdown renderer as a filter.
+  // expose markdown renderer as a filter.
   eleventyConfig.addFilter("markdown", (content) => {
     return md.renderInline(content);
   });
 
-  // Copy images & css to site dir.
+  // copy images & css to site dir.
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("fonts");
 
-  // Remove all characters except letters, numbers & dashes.
+  // remove all characters except letters, numbers & dashes.
   eleventyConfig.addFilter("pathify", (str) => {
     return str.replace(/[^A-Za-z0-9\-]/g, "");
   });
 
-  // Make sure we have readable dates.
+  // make sure we have readable dates.
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-MM-dd");
   });
 
-  // Configure footnotes.
-  // I got this from here (thanks!):
+  // configure footnotes.
+  // i got this from here (thanks!):
   // http://dirtystylus.com/2020/06/15/eleventy-markdown-and-footnotes/
   let markdownLibrary = markdownIt({
     html: true,
@@ -58,22 +59,30 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownLibrary);
 
-  // Add filter for removing title header from content.
+  // add filter for removing title header from content.
   eleventyConfig.addNunjucksFilter("removeTitle", (str) => removeTitle(str));
 
-  // Add shortcode for getting a post's series (if it is a part of one).
+  // add shortcode for getting a post's series (if it is a part of one).
   eleventyConfig.addNunjucksFilter("getSeries", (slug, series) => {
     return series.find((ps) => ps.posts.map((p) => p.slug).includes(slug));
   });
 
-  // Add markdown syntax highlighting plugin.
+  // add markdown syntax highlighting plugin.
   eleventyConfig.addPlugin(syntaxHighlight);
 
-  // Add RSS plugin.
+  // add rss plugin.
   eleventyConfig.addPlugin(pluginRss);
 
-  // Add Netlify redirect config file.
+  // add netlify redirect config file.
   eleventyConfig.addPassthroughCopy("_redirects");
+
+  // add plugin for showing estimated post read time.
+  eleventyConfig.addPlugin(emojiReadTime, {
+    showEmoji: false,
+    label: "min read",
+    wpm: 300,
+    bucketSize: 5,
+  });
 
   return {
     templateFormats: ["md", "njk", "html", "png", "jpg", "ico"],
