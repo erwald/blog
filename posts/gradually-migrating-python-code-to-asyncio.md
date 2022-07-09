@@ -35,8 +35,7 @@ def _get_character(character_id):
     return name
 
 def main():
-    characters = [_get_character(character_id)
-                  for character_id in [1, 10, 100]]
+    characters = [_get_character(character_id) for character_id in [1, 10, 100]]
     _log(characters)
 
 if __name__ == "__main__":
@@ -116,8 +115,7 @@ def make_async(func):
     @functools.wraps(func)
     async def inner(*args, **kwargs):
         loop = asyncio.get_running_loop()
-        return await loop.run_in_executor(
-            None, lambda: func(*args, **kwargs))
+        return await loop.run_in_executor(None, lambda: func(*args, **kwargs))
     return inner
 
 @make_async
@@ -136,8 +134,7 @@ async def _get_character(character_id):
     return name
 
 async def main():
-    tasks = [_get_character(character_id)
-             for character_id in [1, 10, 100]]
+    tasks = [_get_character(character_id) for character_id in [1, 10, 100]]
     characters = await asyncio.gather(*tasks)
     _log(characters)
 
@@ -176,8 +173,7 @@ Given these constraints, there are various ways to go about gradually migrating 
 ```python
 # this function is synchronous and can be called from anywhere
 def _get(path):
-    return requests.get(
-        f"https://rickandmortyapi.com/api/{path}").json()
+    return requests.get(f"https://rickandmortyapi.com/api/{path}").json()
 
 # this coroutine is asynchronous and must be awaited
 @make_async
@@ -206,8 +202,7 @@ def _handle_error(fn, retries = 2):
 
 def _get_character(character_id):
     _log(f"getting character with id {character_id}")
-    name = _handle_error(
-        lambda: _get(f"character/{character_id}"))["name"]
+    name = _handle_error(lambda: _get(f"character/{character_id}"))["name"]
     _log(f"got {name}")
     return name
 ```
@@ -228,8 +223,7 @@ async def _handle_error_async(coro_producer, retries = 2):
     except Exception as e:
         _log(f"got exception: {e}")
         if retries > 0:
-            return await _handle_error_async(
-                coro_producer, retries - 1)
+            return await _handle_error_async(coro_producer, retries - 1)
         else:
             raise e
 

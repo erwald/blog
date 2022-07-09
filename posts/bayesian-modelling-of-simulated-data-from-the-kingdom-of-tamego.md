@@ -97,13 +97,11 @@ Then we define the parameters – the unknown variables, those that we are askin
 
 ```stan
 parameters {
-  // inclusion probability - the probability that any potential
-  // member of N (that is, any member of M) is in the true
-  // population N
+  // inclusion probability - the probability that any potential member of N
+  // (that is, any member of M) is in the true population N
   real<lower=0, upper=1> omega[P, R];
 
-  // detection probability - the probability that any member of N
-  // is captured
+  // detection probability - the probability that any member of N is captured
   vector<lower=0, upper=1>[T] p[P, R];
 
   real<lower=0, upper=1> p_bar_population[P];
@@ -127,20 +125,18 @@ model {
 
       for (k in 1:M) {
         if (s[i, j, k] > 0) {
-          // this potential member was observed, which means it's
-          // a member of N.
+          // this potential member was observed, which means it's a member of N.
 
           // probability that this one is a real member of N
           target += bernoulli_lpmf(1 | omega[i, j]) +
-          // probability that this one was sighted during the
-          // sampling occasions
+          // probability that this one was sighted during the sampling occasions
             bernoulli_lpmf(y[i, j, k] | p[i, j]);
         } else { // s[i, j, k] == 0
-          // this potential member was not observed, which means
-          // we don't know if it's a member of N or not.
+          // this potential member was not observed, which means we don't know
+          // if it's a member of N or not.
 
-          // probability that it is a real member but wasn't
-          // sighted in any of the sampling occasions
+          // probability that it is a real member but wasn't sighted in any of
+          // the sampling occasions
           target += log_sum_exp(bernoulli_lpmf(1 | omega[i, j]) +
                                 bernoulli_lpmf(y[i, j, k] | p[i, j]),
           // probability that it's not a real member
@@ -156,9 +152,9 @@ And finally we use the estimated inclusion probability, `omega`, to also estimat
 
 ```stan
 generated quantities {
-  // because stan does not support vectors where each element has
-  // a different upper/lower constaint, we need to calculate the
-  // population size as scaled to (0, 1) and then rescale it.
+  // because stan does not support vectors where each element has a different
+  // upper/lower constaint, we need to calculate the population size as scaled
+  // to (0, 1) and then rescale it.
   //
   // => https://mc-stan.org/docs/2_18/stan-users-guide/vectors-with-varying-bounds.html
   real<lower=0, upper=1> N_raw[P, R];
@@ -168,27 +164,26 @@ generated quantities {
     for (j in 1:R) { // for each region
       // calculate the population size.
 
-      // probability of a member, real or not, not being sighted
-      // across all sampling occasions.
+      // probability of a member, real or not, not being sighted across all
+      // sampling occasions.
       real pr = prod(1 - p[i, j]);
 
-      // `omega_nd' is the probability that a potential member is
-      // real given it was never detected.
+      // `omega_nd' is the probability that a potential member is real given it
+      // was never detected.
 
-      // probability of a member being real but not being
-      // sighted across all sampling occasions.
+      // probability of a member being real but not being sighted across all
+      // sampling occasions.
       real omega_nd = (omega[i, j] * pr) /
-        // probability of a member, real or not, not being
-        // sighted across all sampling occasions.
+        // probability of a member, real or not, not being sighted across all
+        // sampling occasions.
         (omega[i, j] * pr + (1 - omega[i, j]));
 
-      // calculate the estimated population size minus the known
-      // minimum, scaled to (0, 1).
+      // calculate the estimated population size minus the known minimum, scaled
+      // to (0, 1).
       N_raw[i, j] = binomial_rng(M - C[i, j], omega_nd) * 1.0 / (M - C[i, j]);
 
-      // rescale the estimated population size minus the known
-      // minimum, then add the known minimum to produce the final
-      // estimate.
+      // rescale the estimated population size minus the known minimum, then add
+      // the known minimum to produce the final estimate.
       N[i, j] = N_raw[i, j] * (M - C[i, j]) + C[i, j];
     }
   }

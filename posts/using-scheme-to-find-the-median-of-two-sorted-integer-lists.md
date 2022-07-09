@@ -108,12 +108,11 @@ Here is what you've been waiting for, the full algorithm:
 (define (fast-median vector1 vector2)
   (assert (> (+ (vector-length vector1) (vector-length vector2))
              0))
-  ;; This procedure takes two vectors `v1' and `v2' and an
-  ;; integer `desired-n' and determines how the `desired-n'
-  ;; number of smallest values are distributed between the two
-  ;; vectors. It returns a pair of vectors, the values in each
-  ;; vector respectively that make up the list of the
-  ;; `desired-n' smallest values.
+  ;; This procedure takes two vectors `v1' and `v2' and an integer `desired-n'
+  ;; and determines how the `desired-n' number of smallest values are
+  ;; distributed between the two vectors. It returns a pair of vectors, the
+  ;; values in each vector respectively that make up the list of the `desired-n'
+  ;; smallest values.
   ;;
   ;; Example:
   ;;
@@ -121,8 +120,7 @@ Here is what you've been waiting for, the full algorithm:
   (define (lp v1 v2 desired-n)
     (let* ((split1 (cond ((vector-null? v1) 0)
                          ((vector-null? v2) desired-n)
-                         (else (integer-floor
-                                (+ (vector-length v1) 1) 2))))
+                         (else (integer-floor (+ (vector-length v1) 1) 2))))
            (split2 (- desired-n split1))
            (head1 (vector-head v1 split1))
            (tail1 (vector-tail v1 split1))
@@ -133,35 +131,26 @@ Here is what you've been waiting for, the full algorithm:
             ((and (not (vector-null? tail2))
                   (> (vector-last head1) (vector-first tail2)))
              (++ (cons #() head2)
-                 (lp head1
-                     tail2
-                     (- desired-n (vector-length head2)))))
+                 (lp head1 tail2 (- desired-n (vector-length head2)))))
             ((and (not (vector-null? tail1))
                   (> (vector-last head2) (vector-first tail1)))
              (++ (cons head1 #())
-                 (lp tail1
-                     head2
-                     (- desired-n (vector-length head1)))))
+                 (lp tail1 head2 (- desired-n (vector-length head1)))))
             (else (cons head1 head2)))))
-  (let* ((median-idx (lambda (n) (if (= n 0)
-                                0
-                                (+ (integer-floor n 2) 1))))
-         (combined-length (+ (vector-length vector1)
-                             (vector-length vector2)))
+  (let* ((median-idx (lambda (n) (if (= n 0) 0 (+ (integer-floor n 2) 1))))
+         (combined-length (+ (vector-length vector1) (vector-length vector2)))
          (desired-n (median-idx combined-length))
          (nums-left-of-median (lp vector1 vector2 desired-n))
-         (combined-length-is-even (= (modulo combined-length 2)
-                                     0))
-         (last-two (lambda (v) (vector-tail
-                           v (max 0 (- (vector-length v) 2)))))
+         (combined-length-is-even (= (modulo combined-length 2) 0))
+         (last-two (lambda (v) (vector-tail v (max 0 (- (vector-length v) 2)))))
          (highest-nums (vector-append
                         (last-two (car nums-left-of-median))
                         (last-two (cdr nums-left-of-median))))
          (sorted (sort! highest-nums <))
          (highest-two (last-two sorted))
          (median (if combined-length-is-even
-                     (/ (+ (vector-first highest-two)
-                           (vector-last highest-two)) 2)
+                     (/ (+ (vector-first highest-two) (vector-last highest-two))
+                        2)
                      (vector-last highest-two))))
     median))
 ```

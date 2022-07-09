@@ -115,11 +115,9 @@ Got actions and consequences: [(2, 227.14957726154114), (1, 219.17418869670146)]
 But this seems pretty counterintuitive. In fact, it seems so counterintuitive that it has its own name in philosophy: this is the [Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/) famously described by Derek Parfit.[^3] If we plot this difference
 
 ```julia
-histogram([addnormallife(genworld()),
-           addshoddylives(genworld())],
-          layout = (2, 1),
-          title = ["One Normal Life Added"
-                   "1,000 Shoddy Lives Added"])
+histogram(
+    [addnormallife(genworld()), addshoddylives(genworld())], layout = (2, 1),
+    title = ["One Normal Life Added" "1,000 Shoddy Lives Added"])
 ```
 
 it is really clear how the chosen world is a far more miserable one on average than the alternative:
@@ -140,9 +138,8 @@ getutility_avg(world::World) = mean(world)
 Now we will also need to modify our `act` function to accept an arbitrary utility function:
 
 ```julia
-function act(world::World,
-             possibleactions::Array{Function},
-             utilityfunc::Function)
+function act(
+    world::World, possibleactions::Array{Function}, utilityfunc::Function)
     result = sort(
         map(((i, action),) -> (i, utilityfunc(action(world))),
             enumerate(possibleactions)),
@@ -157,9 +154,7 @@ end
 Now we have everything we need for **Average Utilitarianism**. Armed with this new perspective, we can evade the Repugnant Conclusion, because adding many lives barely worth living reduces the average world utility:
 
 ```julia
-julia> act(genworld(),
-           [addnormallife, addshoddylives],
-           getutility_avg)
+julia> act(genworld(), [addnormallife, addshoddylives], getutility_avg)
 Got actions and consequences: [(1, 1.9904407716146917), (2, 0.18986181251211073)]
 (1, 1.9904407716146917)
 ```
@@ -169,11 +164,9 @@ Unlike the classical version, Average Utilitarianism is not sensitive to how man
 ```julia
 killeveryone(world::World) = [world[1]]
 function runtrolley_avg()
-    ((choice),) = act(genworld(7),
-                      [killonetosavemany,
-                       letmanydie,
-                       killeveryone],
-                      getutility_avg)
+    ((choice),) = act(
+        genworld(7), [killonetosavemany, letmanydie, killeveryone],
+        getutility_avg)
     choice
 end
 ```
@@ -199,9 +192,8 @@ The sadistic option here is, according to Average Utilitarianism, just as good a
 ```julia
 julia> world = genworld()
 
-julia> act([world;mean(world)-0.1],
-           [donothing, w -> w[1:end-1]],
-           getutility_avg)
+julia> act(
+    [world;mean(world)-0.1], [donothing, w -> w[1:end-1]], getutility_avg)
 Got actions and consequences: [(2, 2.015363273532925), (1, 2.014373174523024)]
 (2, 2.015363273532925)
 ```
@@ -221,9 +213,7 @@ getutility_cl(world::World) = sum(world .- 1)
 Of course we could have picked any number to subtract. This is only one Critical-Level Utilitarianism – there are endless more. This one easily escapes the Repugnant Conclusion:
 
 ```julia
-julia> act(genworld(),
-           [addnormallife, addshoddylives],
-           getutility_cl)
+julia> act(genworld(), [addnormallife, addshoddylives], getutility_cl)
 Got actions and consequences: [(1, 104.01597699786336), (2, -887.2670752401644)]
 (1, 104.01597699786336)
 ```
@@ -231,13 +221,10 @@ Got actions and consequences: [(1, 104.01597699786336), (2, -887.2670752401644)]
 What about the Trolley Problem? We can make our function more generic and run another one thousand simulations with the new utility function:
 
 ```julia
-function runtrolley(utilityfunc::Function,
-                    possibleactions::Vector{Function},
-                    n::Int = 1000)
+function runtrolley(
+    utilityfunc::Function, possibleactions::Vector{Function}, n::Int = 1000)
     function runexperiment()
-        ((choice),) = act(genworld(7),
-                          possibleactions,
-                          utilityfunc)
+        ((choice),) = act(genworld(7), possibleactions, utilityfunc)
         choice
     end
     choices = map(_ -> runexperiment(), zeros(n))
@@ -245,8 +232,7 @@ function runtrolley(utilityfunc::Function,
     counted
 end
 result = runtrolley(
-    getutility_cl, [killonetosavemany, letmanydie, killeveryone]
-)
+    getutility_cl, [killonetosavemany, letmanydie, killeveryone])
 bar(result)
 ```
 
@@ -256,16 +242,14 @@ Once again it depends on the configuration of the particular receptacles we star
 
 ```julia
 addmiserablelife = w -> [w;-2]
-addmanybelowaveragelives =
-    w -> [w;map(_ -> genreceptacle() - 0.1, zeros(1000))]
+addmanybelowaveragelives = w -> [w;map(_ -> genreceptacle() - 0.1, zeros(1000))]
 ```
 
 Running the simulation we see that Critical-Level Utilitarianism (at our chosen level) recommends adding the truly miserable life:
 
 ```julia
-julia> act(genworld(),
-           [addmiserablelife, addmanybelowaveragelives],
-           getutility_cl)
+julia> act(
+    genworld(), [addmiserablelife, addmanybelowaveragelives], getutility_cl)
 Got actions and consequences: [(1, 108.01495726536602), (2, 91.56568171210701)]
 (1, 108.01495726536602)
 ```
@@ -275,11 +259,8 @@ We can also plot the distributions:
 ```julia
 world = genworld()
 histogram(
-    [addmiserablelife(world), addmanybelowaveragelives(world)],
-    layout = (2, 1),
-    title = ["One Miserable Life Added"
-             "1,000 Nearly Average Lives Added"]
-)
+    [addmiserablelife(world), addmanybelowaveragelives(world)], layout = (2, 1),
+    title = ["One Miserable Life Added" "1,000 Nearly Average Lives Added"])
 ```
 
 ![Plot showing utility distributions of choices leading to alternative Repugnant Conclusion.]({{ '/img/utilitarianism_cl_repugnant_conclusion.png' | url }})
@@ -289,27 +270,23 @@ Here is another possible weirdness with all the previous versions of Utilitarian
 ```julia
 # assume we get worlds sorted in ascending order.
 makeworstoffhappier(world::World) = [(world[1] + 1);world[2:end]]
-makebestoffhappier(world::World) =
-    [world[1:end-1];(world[end] + 1)]
+makebestoffhappier(world::World) = [world[1:end-1];(world[end] + 1)]
 ```
 
 Here is the weirdness. All our theories so far say that these two actions
 
 ```julia
-julia> act(sort(genworld()),
-           [makeworstoffhappier, makebestoffhappier])
+julia> act(sort(genworld()), [makeworstoffhappier, makebestoffhappier])
 Got actions and consequences: [(1, 181.54551586600817), (2, 181.54551586600817)]
 (1, 181.54551586600817)
 
-julia> act(sort(genworld()),
-           [makeworstoffhappier, makebestoffhappier],
-           getutility_avg)
+julia> act(
+    sort(genworld()), [makeworstoffhappier, makebestoffhappier], getutility_avg)
 Got actions and consequences: [(1, 2.2018468020290545), (2, 2.2018468020290545)]
 (1, 2.2018468020290545)
 
-julia> act(sort(genworld()),
-           [makeworstoffhappier, makebestoffhappier],
-           getutility_cl)
+julia> act(
+    sort(genworld()), [makeworstoffhappier, makebestoffhappier], getutility_cl)
 Got actions and consequences: [(1, 23.5264454626259), (2, 23.5264454626259)]
 (1, 23.5264454626259)
 ```
@@ -327,9 +304,8 @@ getutility_ega(world::World) = sum(world) / std(world)
 Now it is clearly better to make the worst off happier than it is to make the best off happier, because while the sum total utility remains constant, the standard deviation is reduced:
 
 ```julia
-julia> act(sort(genworld()),
-           [makeworstoffhappier, makebestoffhappier],
-           getutility_ega)
+julia> act(
+    sort(genworld()), [makeworstoffhappier, makebestoffhappier], getutility_ega)
 Got actions and consequences: [(1, 244.09869629867873), (2, 230.9551186679748)]
 (1, 244.09869629867873)
 ```
@@ -337,15 +313,11 @@ Got actions and consequences: [(1, 244.09869629867873), (2, 230.9551186679748)]
 It is also better to add one normal life than it is to add one thousand lives that are barely worth living, however only above a certain threshold:
 
 ```julia
-julia> act(genworld(),
-           [addnormallife, addshoddylives],
-           getutility_ega)
+julia> act(genworld(), [addnormallife, addshoddylives], getutility_ega)
 Got actions and consequences: [(2, 325.4768089647839), (1, 203.90928373375752)]
 (2, 325.4768089647839)
 
-julia> act(genworld(1000),
-           [addnormallife, addshoddylives],
-           getutility_ega)
+julia> act(genworld(1000), [addnormallife, addshoddylives], getutility_ega)
 Got actions and consequences: [(1, 1986.8005537494912), (2, 1642.2104443441826)]
 (1, 1986.8005537494912)
 ```
@@ -353,12 +325,9 @@ Got actions and consequences: [(1, 1986.8005537494912), (2, 1642.2104443441826)]
 There is a trade-off here: the outcome depends on which population size we start out with. If we start out with a small population size, it is, according to the egalitarian utility function, better to add one thousand lives barely worth living, just like in Classical Utilitarianism, because since there are almost only the thousand in the world, the world is rather equal; however, when we begin with a large population, adding the one thousand produces great inequality.
 
 ```julia
-getutilities_ega(action::Function) =
-    getutility_ega.(a.(genworld.(1:1000)))
-plot([getutilities_ega(addnormallife),
-      getutilities_ega(addshoddylives)],
-     label = ["One Normal Life Added"
-             "1,000 Shoddy Lives Added"])
+getutilities_ega(action::Function) = getutility_ega.(a.(genworld.(1:1000)))
+plot([getutilities_ega(addnormallife), getutilities_ega(addshoddylives)],
+     label = ["One Normal Life Added" "1,000 Shoddy Lives Added"])
 ```
 
 ![Plot showing how the egalitarian utility function reacts to changes in initial population size in Repugnant Conclusion simulation.]({{ '/img/utilitarianism_ega_repugnant_conclusion_tradeoff.png' | url }})
@@ -366,8 +335,7 @@ plot([getutilities_ega(addnormallife),
 But when we run the Trolley Problem again, we get some pretty strange results:
 
 ```julia
-result = runtrolley(getutility_ega,
-                    [donothing, killonetosavemany, letmanydie])
+result = runtrolley(getutility_ega, [donothing, killonetosavemany, letmanydie])
 bar(result)
 ```
 
@@ -389,17 +357,16 @@ There is really high variance in the third action, because it always reduces the
 ```julia
 using Distributions
 genbarelypassablelife() = first(rand(Normal(0.1, 0.01), 1))
-gensocialisthellscape(n::Int = 100) =
-    map(_ -> genbarelypassablelife(), zeros(n))
+gensocialisthellscape(n::Int = 100) = map(
+    _ -> genbarelypassablelife(), zeros(n))
 ```
 
 If we plot the utility distribution
 
 ```julia
-histogram([genworld(), gensocialisthellscape()],
-          layout = (2, 1),
-          title = ["Normal World"
-                   "Egalitarian Socialist Hellscape"])
+histogram(
+    [genworld(), gensocialisthellscape()], layout = (2, 1),
+    title = ["Normal World" "Egalitarian Socialist Hellscape"])
 ```
 
 ![Plot showing utility distributions of choices baseline world and socialist hellscape.]({{ '/img/utilitarianism_ega_socialist_hellscape.png' | url }})
@@ -409,9 +376,8 @@ it seems obvious that the baseline world is preferable to the socialist hellscap
 ```julia
 julia> emptyworld = World(undef, 0)
 
-julia> act(emptyworld,
-           [_ -> genworld(), _ -> gensocialisthellscape()],
-           getutility_ega)
+julia> act(
+    emptyworld, [_ -> genworld(), _ -> gensocialisthellscape()], getutility_ega)
 Got actions and consequences: [(2, 902.3415834900601), (1, 211.14893530485276)]
 (2, 902.3415834900601)
 ```
