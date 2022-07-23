@@ -7,7 +7,7 @@ tags: post
 
 # On Amorality
 
-> "I must make an admission", Ivan began. "I never could understand how it's possible to love one's neighbours. In my opinion, it is precisely one's neighbours that one cannot possibly love. Perhaps if they weren't so nigh ... I read sometime, somewhere about 'John the Merciful' (some saint) that when a hungry and frozen passerby came to him and asked to be made warm, he lay down with him in bead, embraced him, and began breathing into his mouth, which was foul and festering with some terrible disease. I'm convinced that he did it with the strain of a lie, out of love enforced by duty, out of self-imposed penance. If we're to come to love a man, the man himself should stay hidden, because as soon as he shows his face – love vanishes."
+> "I must make an admission", Ivan began. "I never could understand how it's possible to love one's neighbours. In my opinion, it is precisely one's neighbours that one cannot possibly love. Perhaps if they weren't so nigh ... I read sometime, somewhere about 'John the Merciful' (some saint) that when a hungry and frozen passerby came to him and asked to be made warm, he lay down with him in bed, embraced him, and began breathing into his mouth, which was foul and festering with some terrible disease. I'm convinced that he did it with the strain of a lie, out of love enforced by duty, out of self-imposed penance. If we're to come to love a man, the man himself should stay hidden, because as soon as he shows his face – love vanishes."
 >
 > – Fyodor Dostoevsky (2004)
 
