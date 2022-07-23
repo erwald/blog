@@ -7,9 +7,9 @@ tags: post
 
 # What Made _World of Warcraft_'s Environments so Compelling?
 
-> I have my own way of assessing the worth of a book – not just a so-called work of literature but any sort of book or, for that matter, any piece of music or any so-called work of art. I could say in simple terms that I judge the worth of a book according to the length of time during which the book stays in my mind [...] (Murnane 2021, 9)
+> I have my own way of assessing the worth of a book – not just a so-called work of literature but any sort of book or, for that matter, any piece of music or any so-called work of art. I could say in simple terms that I judge the worth of a book according to the length of time during which the book stays in my mind [...]
 >
-> – Gerald Murnane
+> – Gerald Murnane (2021, 9)
 
 Like many people of my age and place, much of the nostalgia that I feel is rooted in virtual worlds – in the worlds of the video games of my youth. The foremost of those was probably _World of Warcraft_, which encompassed forests, mountains, farmlands, jungles, deserts, plains, swamps, highlands, badlands and more. It has been something like a decade and a half since I last played it, but I still occasionally find myself thinking back fondly, not to the painful day-to-day grind and the constant striving, but to the (far more detached and pure) exploring and absorbing of it.
 
