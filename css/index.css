@@ -194,6 +194,12 @@ blockquote .footnote-ref {
   font-size: 14px;
 }
 
+.verse {
+  font-size: 18px;
+  line-height: 2.3ch;
+  padding-left: 40px;
+}
+
 .footnotes-sep {
   margin: 2ch 0;
 }
