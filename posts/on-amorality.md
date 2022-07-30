@@ -20,7 +20,7 @@ It won't surprise you to learn that, with the exception of the most saintly and 
 ## References
 
 <style>.csl-entry{text-indent: -2em; margin-left: 2em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">Dostoevsky, Fyodor. 2004. “The Brothers Karamazov).” <i>Vintage Classics</i>.</div>
+  <div class="csl-entry">Dostoevsky, Fyodor. 2004. “The Brothers Karamazov.” <i>Vintage Classics</i>.</div>
   <div class="csl-entry">Engel, Christoph. 2011. “Dictator Games: A Meta Study.” <i>Experimental Economics</i> 14 (4): 583–610.</div>
   <div class="csl-entry">Hoffman, Elizabeth, Kevin McCabe, Keith Shachat, and Vernon Smith. 1994. “Preferences, Property Rights, and Anonymity in Bargaining Games.” <i>Games and Economic Behavior</i> 7 (3): 346–80.</div>
   <div class="csl-entry">Tisserand, Jean-Christian, François Cochard, and Julie Le Gallo. 2015. “Altruistic or Strategic Considerations: A Meta-Analysis on the Ultimatum and Dictator Games.” <i>Besançon: Crese, Université de Franche-Comté</i>.</div>
