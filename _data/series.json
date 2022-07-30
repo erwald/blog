@@ -116,5 +116,18 @@
         "slug": "meta-update-3"
       }
     ]
+  },
+  {
+    "subject": "obscure composers",
+    "posts": [
+      {
+        "title": "Good Works by Lesser-Known Composers",
+        "slug": "good-works-by-lesser-known-composers"
+      },
+      {
+        "title": "Good Works by Lesser-Known Composers 2",
+        "slug": "good-works-by-lesser-known-composers-2"
+      }
+    ]
   }
 ]
