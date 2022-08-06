@@ -7,9 +7,9 @@ tags: post
 
 # The Atemporal Franz Kafka
 
-> Accustom yourself to the idea that death is nothing to us. For all good and all bad are vested in sense perception, and death is deprivation of sense perception. (Laertius 2018)
+> Accustom yourself to the idea that death is nothing to us. For all good and all bad are vested in sense perception, and death is deprivation of sense perception.
 >
-> – Epicurus
+> – Epicurus, quoted in Laertius (2018)
 
 In Prague, in the beginning of June 1924, the writer and critic Max Brod was faced with a dilemma. His friend, having just perished of tuberculosis in a sanatorium in Kierling outside Vienna, had bequeathed to him his numerous unpublished writings, with the unfortunate stipulation that they be burned. (The friend had himself already destroyed 90% of what he'd written.) In the end, as we know, Brod refused to burn the works and decided instead to start publishing them.[^1]
 
