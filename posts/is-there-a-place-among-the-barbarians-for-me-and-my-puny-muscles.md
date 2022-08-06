@@ -58,7 +58,7 @@ As mentioned, I don't myself feel intellectually inadequate when I read effectiv
 
 ![img]({{ '/img/barbarians_1.jpeg' | url }})
 
-So let's imagine I was born into some generic fantasy world. I have this powerful enemy, let's say a powerful dragon who once engulfed my village and loved ones in flames. I know there's only one way to defeat the dragon – on the battlefield – and only one group who can do it – a certain ferocious barbarian tribe. So I seek out the tribe and ask to join them. They look at my puny child's arms and tell me they need someone to pick mushrooms and cook.
+So let's imagine I was born into some generic fantasy world. I have this powerful enemy, a dragon who once engulfed my village and loved ones in flames. I know there's only one way to defeat the dragon – on the battlefield – and only one group who can do it – a certain ferocious barbarian tribe. So I seek out the tribe and ask to join them. They look at my puny child's arms and tell me they need someone to pick mushrooms and cook.
 
 How do I feel about this?
 
