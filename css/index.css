@@ -12,8 +12,9 @@
 }
 
 html {
-  font-family: "Public Sans", sans-serif;
+  font-family: "Fira Sans", sans-serif;
   font-size: 19px;
+  letter-spacing: 0.2px;
   color: var(--black);
   background-color: var(--white);
 }
@@ -67,8 +68,9 @@ footer p {
   margin: 0;
   padding: 0;
 
-  font-size: 21px;
-  font-weight: 700;
+  font-size: 23px;
+  font-weight: 600;
+  letter-spacing: 1px;
   text-transform: uppercase;
 }
 #breadcrumbs li {
@@ -119,8 +121,12 @@ hr {
 }
 
 h1 {
+  font-family: "Spectral", serif;
+  font-style: italic;
+  line-height: 2ch;
+
   margin: 0;
-  font-size: 32px;
+  font-size: 36px;
   font-weight: normal;
 }
 
@@ -157,7 +163,7 @@ p,
 li,
 label,
 .csl-bib-body {
-  line-height: 2.5ch;
+  line-height: 2.7ch;
   hyphens: auto;
 }
 
@@ -188,7 +194,7 @@ blockquote p,
 blockquote ul,
 blockquote li {
   font-size: 18px;
-  line-height: 2.3ch;
+  line-height: 2.5ch;
 }
 blockquote .footnote-ref {
   font-size: 14px;
@@ -196,7 +202,7 @@ blockquote .footnote-ref {
 
 .verse {
   font-size: 18px;
-  line-height: 2.3ch;
+  line-height: 2.5ch;
   padding-left: 40px;
 }
 
@@ -214,7 +220,7 @@ strong {
 }
 
 code {
-  font-family: monospace;
+  font-family: "Fira Mono", monospace;
   font-size: 15px;
   padding: 2px;
   margin: -2px;
@@ -226,7 +232,7 @@ code {
 }
 code .keyword,
 code .tag {
-  font-weight: 700;
+  font-weight: 600;
 }
 code .punctuation {
   font-weight: normal;
