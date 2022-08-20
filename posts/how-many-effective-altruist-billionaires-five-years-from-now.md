@@ -125,39 +125,39 @@ That said, the number of billionaires is steadily increasing, and that's one rea
 Here is the [Squiggle](https://www.squiggle-language.com/) model used to produce the predictions:
 
 ```
-    numberOfEas2022 = 6.5k to 14k
+numberOfEas2022 = 6.5k to 14k
 
-    // time in years after 2022
-    numberOfAdditionalEasAtTime(t) = {
-        annualEaGrowthRate = -0.05 to 0.4
-        numberOfEas2022 * ((annualEaGrowthRate + 1) ^ t)
-    }
-    numberOfAdditionalEasAtTime(t) = numberOfAdditionalEasAtTime(t) - numberOfEas2022
+// time in years after 2022
+numberOfAdditionalEasAtTime(t) = {
+    annualEaGrowthRate = -0.05 to 0.4
+    numberOfEas2022 * ((annualEaGrowthRate + 1) ^ t)
+}
+numberOfAdditionalEasAtTime(t) = numberOfAdditionalEasAtTime(t) - numberOfEas2022
 
-    p_BillionaireIfIvyBaseRate = 0.000177
-    p_BillionaireIfEaBaseRate = 5.0 / 9.5k
-    p_BillionaireIfEa = p_BillionaireIfIvyBaseRate to p_BillionaireIfEaBaseRate
+p_BillionaireIfIvyBaseRate = 0.000177
+p_BillionaireIfEaBaseRate = 5.0 / 9.5k
+p_BillionaireIfEa = p_BillionaireIfIvyBaseRate to p_BillionaireIfEaBaseRate
 
-    // time in years after 2022
-    numberOfAdditionalEaBillionairesAtTime(t) =
-        numberOfAdditionalEasAtTime(t) * p_BillionaireIfEa
+// time in years after 2022
+numberOfAdditionalEaBillionairesAtTime(t) =
+    numberOfAdditionalEasAtTime(t) * p_BillionaireIfEa
 
-    {
-        // additional billionaires
-        numberOfAdditionalEaBillionairesAtTime:
-            numberOfAdditionalEaBillionairesAtTime,
-        numberOfAdditionalEaBillionaires2027:
-            numberOfAdditionalEaBillionairesAtTime(5),
-        medianAdditionalEaBillionaires2027:
-            numberOfAdditionalEaBillionairesAtTime(5) |> quantile(.5),
-        p_10AdditionalEaBillionairesIn2027:
-            1.0 - numberOfAdditionalEaBillionairesAtTime(5) |> cdf(10),
+{
+    // additional billionaires
+    numberOfAdditionalEaBillionairesAtTime:
+        numberOfAdditionalEaBillionairesAtTime,
+    numberOfAdditionalEaBillionaires2027:
+        numberOfAdditionalEaBillionairesAtTime(5),
+    medianAdditionalEaBillionaires2027:
+        numberOfAdditionalEaBillionairesAtTime(5) |> quantile(.5),
+    p_10AdditionalEaBillionairesIn2027:
+        1.0 - numberOfAdditionalEaBillionairesAtTime(5) |> cdf(10),
 
-        // additional eas
-        numberOfAdditionalEasAtTime: numberOfAdditionalEasAtTime,
-        numberOfAdditionalEas2027: numberOfAdditionalEasAtTime(5),
-        medianAdditionalEas2027: numberOfAdditionalEasAtTime(5) |> quantile(.5),
-    }
+    // additional eas
+    numberOfAdditionalEasAtTime: numberOfAdditionalEasAtTime,
+    numberOfAdditionalEas2027: numberOfAdditionalEasAtTime(5),
+    medianAdditionalEas2027: numberOfAdditionalEasAtTime(5) |> quantile(.5),
+}
 ```
 
 You can paste it directly into a [Squiggle playground](https://www.squiggle-language.com/playground/) and play around with the parameters yourself. Note that you may see slightly different results as the precise numbers depend on the random Monte Carlo draws (I think).
