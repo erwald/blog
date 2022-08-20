@@ -255,6 +255,10 @@ pre {
   word-wrap: break-word; /* Internet Explorer 5.5+ */
 }
 
+th {
+  text-align: left;
+}
+
 input {
   font-size: 17px;
 }
