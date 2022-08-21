@@ -32,7 +32,7 @@ I think:
 
 Intelligence -- and I'll tentatively define it here as the ability to accomplish a wide range of cognitive tasks -- comes in many forms, but they [tend to be correlated with one another](https://dynomight.net/general-intelligence/). The person who has one kind of intelligence is likely to have other kinds too. This tendency is described by the [general intelligence factor](<https://en.wikipedia.org/wiki/G_factor_(psychometrics)>), _g_.
 
-Intelligence is ≥50% heritable (<span class="citation">Plomin and Deary 2015</span>). It's [correlated with a wide range of good life outcomes](https://www.gwern.net/iq) (and some bad ones; cf. Smeland et al. (<span class="citation">2020</span>)), including educational achievement, job success, health, not being in prison, etc. I'm pretty confident that it's very useful (in expectation) in doing good, as I think it is for nearly all cognitive tasks. (I expect other useful traits, like willpower and charisma, are also to some degree heritable, so some of what is said here probably applies to those too.)
+Intelligence is ≥50% heritable (Plomin and Deary 2015). It's [correlated with a wide range of good life outcomes](https://www.gwern.net/iq) (and some bad ones; cf. Smeland et al. (2020)), including educational achievement, job success, health, not being in prison, etc. I'm pretty confident that it's very useful (in expectation) in doing good, as I think it is for nearly all cognitive tasks. (I expect other useful traits, like willpower and charisma, are also to some degree heritable, so some of what is said here probably applies to those too.)
 
 As a corollary, I think being one or two standard deviations below average in intelligence makes many things a lot harder. At the risk of giving off a "Martian visits Earth" vibe, here are a few stories [from](https://www.reddit.com/r/AskReddit/comments/2iul4m/whats_it_like_to_knowingly_have_a_low_iq/) [Reddit](https://www.reddit.com/r/AskReddit/comments/gp888s/serious_people_with_confirmed_belowaverage/), which don't by themselves prove anything but serve to illustrate the point (grammar lightly edited):
 
@@ -123,7 +123,7 @@ I don't know whether the first unfairness -- that of unevenly allocated power --
 [^1]: This is subtly different from the question of whether "dumb" people can contribute to the effective altruist project, and whether they can do good in general. Of course they can, if perhaps not as much (in expectation) as more intelligent people can. I say subtly, because being able to contribute probably makes one more likely to feel included, and feeling included probably puts one in a better position to contribute.
 [^2]: I think so because:
 
-    - effective altruists generally have university, and not rarely doctorate, degrees, and educational achievement is correlated with _g_ (<span class="citation">Roth et al. 2015</span>);
+    - effective altruists generally have university, and not rarely doctorate, degrees, and educational achievement is correlated with _g_ (Roth et al. 2015);
     - effective altruists often work in intellectually challenging professions, like research, science, engineering and finance;
     - the movement has a pretty impressive track record for its age (and, as mentioned later on, I think success in a wide range of domains is correlated with _g_);
     - posts on the EA Forum often discuss pretty complicated subjects; and
