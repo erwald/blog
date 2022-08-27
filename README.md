@@ -8,7 +8,7 @@ The text content for this site is licensed using [CC BY-SA 4.0](https://creative
 
 The code for this site is licensed under [MIT](https://en.wikipedia.org/wiki/MIT_License).
 
-The typeface used is [Public Sans](https://github.com/uswds/public-sans), which is licensed under [SIL Open Font License](https://en.wikipedia.org/wiki/SIL_Open_Font_License) (1.1).
+The typeface used is [Fira](<https://en.wikipedia.org/wiki/Fira_(typeface)>), which is licensed under [SIL Open Font License](https://en.wikipedia.org/wiki/SIL_Open_Font_License) (1.1).
 
 ## Style Guide
 
