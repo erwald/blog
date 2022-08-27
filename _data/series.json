@@ -129,5 +129,18 @@
         "slug": "good-works-by-lesser-known-composers-2"
       }
     ]
+  },
+  {
+    "subject": "the health effects of veganism",
+    "posts": [
+      {
+        "title": "Can a Vegan Diet Be Healthy? A Literature Review",
+        "slug": "can-a-vegan-diet-be-healthy-a-literature-review"
+      },
+      {
+        "title": "Follow-Up on the Health Effects of Veganism: Mental Health",
+        "slug": "follow-up-on-the-health-effects-of-veganism-mental-health"
+      }
+    ]
   }
 ]
