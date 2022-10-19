@@ -43,7 +43,7 @@ So, again, while Kraus's young man puts forth the view that foreign words are ba
 
 ## "O Man of Little Wit ..."
 
-One can also produce irony can via narrative. For example, you can have a character boldly state a well-known fact which is then refuted by the story, or take a decisive action that produces the opposite of the intended effect.
+One can also produce irony via narrative. For example, you can have a character boldly state a well-known fact which is then refuted by the story, or take a decisive action that produces the opposite of the intended effect.
 
 In Mel Brooks's _The Producers_, Max Bialystock and Leopold Bloom, having realised that they can make a fortune by producing a clinker, produce a tasteless musical about Adolf Hitler which of course turns out to be a smash hit. That's irony wrapped in irony: they try to create a failure but fail, creating a success, but they seem to try to create a success and succeed, which causes their downfall.
 
