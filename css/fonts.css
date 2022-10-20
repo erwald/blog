@@ -1,85 +1,80 @@
-/* fira-sans-regular - latin */
+/* Iosevka Aile */
 @font-face {
-  font-family: "Fira Sans";
+  font-family: "Iosevka Aile";
   font-style: normal;
   font-weight: 400;
-  src: local(""),
-    url("../fonts/fira-sans-v16-latin-regular.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/fira-sans-v16-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local(""), url("../fonts/iosevka-aile-regular.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
-
-/* fira-sans-italic - latin */
 @font-face {
-  font-family: "Fira Sans";
+  font-family: "Iosevka Aile";
   font-style: italic;
   font-weight: 400;
-  src: local(""),
-    url("../fonts/fira-sans-v16-latin-italic.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/fira-sans-v16-latin-italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local(""), url("../fonts/iosevka-aile-italic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
-
-/* fira-sans-600 - latin */
 @font-face {
-  font-family: "Fira Sans";
+  font-family: "Iosevka Aile";
   font-style: normal;
   font-weight: 600;
-  src: local(""), url("../fonts/fira-sans-v16-latin-600.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/fira-sans-v16-latin-600.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local(""), url("../fonts/iosevka-aile-semibold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
-
-/* fira-sans-600italic - latin */
 @font-face {
-  font-family: "Fira Sans";
+  font-family: "Iosevka Aile";
   font-style: italic;
   font-weight: 600;
   src: local(""),
-    url("../fonts/fira-sans-v16-latin-600italic.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/fira-sans-v16-latin-600italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/iosevka-aile-semibolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 
-/* fira-mono-regular - latin */
+/* Iosevka Etoile */
 @font-face {
-  font-family: "Fira Mono";
+  font-family: "Iosevka Etoile";
   font-style: normal;
   font-weight: 400;
-  src: local(""),
-    url("../fonts/fira-mono-v14-latin-regular.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/fira-mono-v14-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local(""), url("../fonts/iosevka-etoile-regular.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
-
-/* fira-mono-500 - latin */
 @font-face {
-  font-family: "Fira Mono";
-  font-style: normal;
-  font-weight: 500;
-  src: local(""), url("../fonts/fira-mono-v14-latin-500.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/fira-mono-v14-latin-500.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* spectral-regular - latin */
-@font-face {
-  font-family: "Spectral";
-  font-style: normal;
-  font-weight: 400;
-  src: local(""),
-    url("../fonts/spectral-v12-latin-regular.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/spectral-v12-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* spectral-italic - latin */
-@font-face {
-  font-family: "Spectral";
+  font-family: "Iosevka Etoile";
   font-style: italic;
   font-weight: 400;
+  src: local(""), url("../fonts/iosevka-etoile-italic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+@font-face {
+  font-family: "Iosevka Etoile";
+  font-style: normal;
+  font-weight: 600;
+  src: local(""), url("../fonts/iosevka-etoile-semibold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+@font-face {
+  font-family: "Iosevka Etoile";
+  font-style: italic;
+  font-weight: 600;
   src: local(""),
-    url("../fonts/spectral-v12-latin-italic.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/spectral-v12-latin-italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/iosevka-etoile-semibolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+/* Iosevka Fixed */
+@font-face {
+  font-family: "Iosevka Fixed";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("../fonts/iosevka-fixed-regular.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+@font-face {
+  font-family: "Iosevka Fixed";
+  font-style: italic;
+  font-weight: 400;
+  src: local(""), url("../fonts/iosevka-fixed-italic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+@font-face {
+  font-family: "Iosevka Fixed";
+  font-style: normal;
+  font-weight: 600;
+  src: local(""), url("../fonts/iosevka-fixed-semibold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+@font-face {
+  font-family: "Iosevka Fixed";
+  font-style: italic;
+  font-weight: 600;
+  src: local(""),
+    url("../fonts/iosevka-fixed-semibolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }

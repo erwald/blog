@@ -5,16 +5,15 @@
   --dark-grey: #999;
   --grey: #ccc;
   --light-grey: #f6f6f6;
-  --white: #fff;
+  --white: white;
+  --blue: blue;
   --light-blue: #eeeeff;
-  --gold: #c19100;
-  --light-gold: #fff6ea;
 }
 
 html {
-  font-family: "Fira Sans", sans-serif;
-  font-size: 19px;
-  letter-spacing: 0.2px;
+  font-family: "Iosevka Aile", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0px;
   color: var(--black);
   background-color: var(--white);
 }
@@ -25,6 +24,7 @@ body {
 }
 
 a {
+  font-weight: 600;
   background-color: var(--light-blue);
 }
 
@@ -38,12 +38,12 @@ main,
 footer {
   margin: 0 auto;
   padding: 0 20px;
-  max-width: 750px;
+  max-width: 720px;
 }
 
 footer {
   margin-top: 20px;
-  max-width: 550px;
+  max-width: 650px;
 }
 footer p {
   font-size: 17px;
@@ -70,7 +70,7 @@ footer p {
 
   font-size: 23px;
   font-weight: 600;
-  letter-spacing: 1px;
+  letter-spacing: -1px;
   text-transform: uppercase;
 }
 #breadcrumbs li {
@@ -121,26 +121,28 @@ hr {
 }
 
 h1 {
-  font-family: "Spectral", serif;
-  font-style: italic;
+  font-family: "Iosevka Etoile", sans-serif;
+  letter-spacing: -1px;
   line-height: 2ch;
 
   margin: 0;
   font-size: 36px;
-  font-weight: normal;
+  font-weight: 600;
 }
 
 h2 {
-  padding-top: 0.5ch;
+  font-family: "Iosevka Etoile", sans-serif;
   font-size: 24px;
-  font-weight: normal;
+  font-weight: 400;
+  padding-top: 0.5ch;
 }
 
 h3 {
-  padding-top: 0.5ch;
+  font-family: "Iosevka Etoile", sans-serif;
   font-size: 21px;
-  font-weight: normal;
+  font-weight: 400;
   font-style: italic;
+  padding-top: 0.5ch;
 }
 
 .post-abbrev-body {
@@ -167,13 +169,22 @@ label,
   hyphens: auto;
 }
 
-s {
-  text-decoration: none;
-  color: var(--gold);
-  background-color: var(--light-gold);
-  font-style: italic;
-  padding: 2px;
-  margin: -2px;
+.edit {
+  font-size: 17px;
+  color: var(--blue);
+  background-color: white;
+  padding: 10px 20px;
+  margin: 20px -20px;
+  border: 2px solid var(--blue);
+}
+.edit p {
+  margin: 0;
+  padding: 0;
+}
+@media only screen and (max-width: 640px) {
+  .edit {
+    margin: 20px 0px;
+  }
 }
 
 #series {
@@ -214,14 +225,9 @@ sup {
   line-height: 0;
 }
 
-strong {
-  font-weight: normal;
-  text-decoration: underline;
-}
-
 code {
-  font-family: "Fira Mono", monospace;
-  font-size: 15px;
+  font-family: "Iosevka Fixed", monospace;
+  font-size: 17px;
   padding: 2px;
   margin: -2px;
   hyphens: none;
@@ -235,7 +241,7 @@ code .tag {
   font-weight: 600;
 }
 code .punctuation {
-  font-weight: normal;
+  font-weight: 400;
 }
 code .comment {
   font-style: italic;
@@ -244,7 +250,7 @@ code .comment {
 
 pre {
   padding: 10px 20px;
-  margin: 0 -20px;
+  margin: 20px -20px;
   background-color: var(--light-grey);
   overflow-x: auto;
   overflow-y: clip;
@@ -260,6 +266,7 @@ th {
 }
 
 input {
+  font-family: "Iosevka Aile", serif;
   font-size: 17px;
 }
 input#bd-email {
