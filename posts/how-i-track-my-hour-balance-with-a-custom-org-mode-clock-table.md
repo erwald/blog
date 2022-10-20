@@ -66,7 +66,12 @@ data (e.g. <2022-01-01>) and :tend for the last date (e.g. <now>)."
             (insert (format "%0.1f" hour-difference)))))))
 ```
 
-~~(Edit 2022-01-28: There was previously a bug in this function, which bug caused one's reported hours not to count, resulting in a massive deficit. The bug has been fixed as of today.)~~
+<div class="edit" id="org1b40f56">
+<p>
+Edit 2022-01-28: There was previously a bug in this function, which bug caused one's reported hours not to count, resulting in a massive deficit. The bug has been fixed as of today.
+</p>
+
+</div>
 
 A clock table, or report, is basically a view onto the raw logbook data. It's called _table_ because it normally takes the form of one; mine doesn't, but I will call it that anyway. You use this one like you do any other org-mode clock table, only you also need to remember to supply the `:tstart` and `:tend` arguments:
 
