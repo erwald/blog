@@ -7,6 +7,13 @@ tags: post
 
 # Setting Up Gmail in Doom Emacs using mbsync and mu4e
 
+<div class="edit">
+<p>
+Edit 2022-10-20: I no longer use mbsync/mu4e, mainly because (1) mu4e was buggy (or I used it badly) and (2) I never managed to integrate it with org-mode in a way that enhanced my productivity. That means (a) doing all this was indeed a waste of time and (b) <b>this guide may be outdated or broken</b> when you read this, as I am no longer maintaining it. That said, it might still be the best guide out there – only use at your own risk.
+</p>
+
+</div>
+
 I can think of far better ways to spend a quiet Sunday afternoon than trying to get [Doom Emacs](https://github.com/hlissner/doom-emacs) to serve as an email client, but I couldn't at the time. So here I am scanning my inbox in the world's mightiest text editor. I am now able to access my email without an internet connection, although, true, I am never without an internet connection. I am now able to organise my email in neat folders, although, true, I keep everything in the same folder. I am now able to view email from all my accounts in one place, although, true, I really only use one account. Wait, why did I do this again? I must have been [under the influence of Drew DeVault](https://drewdevault.com/2016/04/11/Please-use-text-plain-for-emails.html).
 
 It felt necessary to exorcise this demon by way of a blog post. And who knows? It might even be of use to somebody. In fact, I think I was a bit flippant just now. There are other advantages of using Emacs for email. One is a general advantage of Emacs, namely its enabling tight integration of different tools, in this case for example by linking directly to email from org-mode files. It also gives you a performant keyboard-first interface for reading and writing email, which is nice for those of us who prefer speed over latency and keyboards over mice.
