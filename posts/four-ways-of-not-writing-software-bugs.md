@@ -7,9 +7,16 @@ tags: post
 
 # Four Ways of Not Writing Software Bugs
 
-> They know the water best who have waded through it.[^1]
->
-> – Proverb
+## Summary
+
+I present four ways of avoiding bugs:
+
+1. Not writing the code in the first place.
+2. When changing a program's behaviour, making the smallest modification needed to effect that change.
+3. When refactoring, making sure there are automated tests covering the affected code.
+4. When making a change, actually taking a step back to think things through.
+
+## Introduction
 
 If a Heaven did exist, it would not be a place where we have everything made for us; rather, it would be a place where everything we make is without defects.[^2] Now, I know a lot about software bugs. I've written most of them. Sometimes nobody notices; at other times they cause serious and embarrassing incidents. They bloom like flowers in a meadow. They take root in every garden. But they aren't wild: everybody knows who planted them. And, if you will allow my stretching the simile to its furthest limits, they make our vibrant industry look like a flower shop.
 
@@ -23,9 +30,9 @@ Or to borrow someone else's words:
 >
 > It’s as if large parts of humankind were familiar with civil engineering jargon because collapsing bridges were a daily occurrence.[^3]
 
-What, then, to do? In general, you can get better at not writing bugs (1) by practicing writing code, (2) by changing the conditions that make them more likely and (3) by figuring out which sorts of behaviours can prevent them. Here I want to discuss that last one: how should we write code so as to reduce the risk of introducing bugs? That means I won't discuss tooling, learning, project management or anything of that sort: I will limit my discussion to the activity of programming and will consider this in the context of software that is running in production systems, serving thousands or more users and for which defects can have serious adverse consequences.
+What, then, to do? In general, you can get better at not writing bugs (i) by practicing writing code, (ii) by changing the conditions that make them more likely and (iii) by figuring out which sorts of behaviours can prevent them. Here I want to discuss (iii): how should we write code so as to reduce the risk of introducing bugs? That means I won't discuss tooling, learning, project management or anything of that sort: I will limit my discussion to the activity of programming and will consider this in the context of software that is running in production systems, serving >1,000 users and for which defects can have serious adverse consequences.
 
-## Consider Not Writing the Code in the First Place
+## 1. Consider Not Writing the Code in the First Place
 
 Wayne Gretzky said that you miss 100% of the shots you don't take. I say that you have 0% chance of introducing bugs in code you don't write.
 
@@ -35,23 +42,23 @@ Two types of code changes are relevant here, I think. The first is a change need
 
 A code change that implements a new feature is additive and therefore makes the software more complex. It is harder to avoid writing bugs in complex software. It is also harder to diagnose and fix bugs in complex software. Therefore, additive code changes involve both a direct risk and an indirect risk of introducing new bugs. That should make us think twice as hard before introducing new features, but in fact it is usually taken for granted that new features are good for software. Rid yourself of that assumption. You or somebody else should, before implementing a new feature, ask yourselves the question: how much marginal value does this feature provide for the user?
 
-Refactoring is praised everywhere. And I'm not here to say it isn't important; it is our finest weapon in the perpetual war against entropy. But every time you refactor something, there is a risk that you introduce a new bug.[^4] The risk can be reduced with robust testing, as we shall see below. But it will never go away completely.
+Refactoring is praised everywhere. And I'm not here to say it isn't important; it is our finest weapon in the perpetual war against entropy. But every time you refactor something, there is a risk that you introduce a new bug.[^4] The risk can be reduced with robust testing, as we'll see below. But it will never go away completely.
 
 You need to balance the need for refactoring against the need for reliability and stability. Ask yourself questions like, how long will the software be maintained? how important is reliability and stability to it? how much do you expect the intended change will improve the code? and so on. Think critically. We often start refactoring code not because it is in a particularly bad condition but because _we can and know how to do it_. But that is a mistake. We are making ourselves slaves to [the politician's syllogism](https://en.wikipedia.org/wiki/Politician%27s_syllogism), which, adapted somewhat, says: we must refactor things; I can refactor this thing; therefore, I must refactor this thing.
 
-## If You Do Have to Make a Change, Make It As Small As Possible
+## 2. If You Do Have to Make a Change, Make It As Small As Possible
 
 The second maxim is a corollary of the first. It begins with the observation that, in practice, it can be tempting to make some changes that are not directly related to whatever it is you are doing at the time. For example, maybe you are fixing a bug but notice that the component or function you're looking at is very long and could, so you reason, be split up into several smaller, composable functions. That's an admirable aim. But it increases the risk of introducing a new bug, at least in the short term. If it happens, consider not making that additional change, or, if you do decide to go through with it, making the change separately from the fix. That is better because small, monadic changes are easier to test and easier to review.
 
 I make an exception here for whenever you can actually meaningfully reduce complexity, such as by removing branches from a conditional expression. Another exception would be to refactor code as an initial step prior to making functional changes to a component, but that should be done in the spirit of the following maxim.
 
-## If You Want to Refactor Something, Make Sure It’s Covered by Automated Tests
+## 3. If You Want to Refactor Something, Make Sure It’s Covered by Automated Tests
 
-Imagine that you are a spy. You are breaking into somebody's apartment in order to find and take copies of some or other document. Being a good spy, it is important to you that that the owner of the apartment doesn't notice that you've been there. So before rummaging around, you take photos of every room in order that, once you have found and copied the document, you can restore the apartment to its original condition. The photos you have taken are an external check on whether you are leaving the room in the same condition that you found it in. It doesn't guarantee that nothing is out of place. But it increases the probability that there is no discernible change.
+Imagine that you are a spy. You are breaking into somebody's apartment in order to find and take copies of some or other document. Being a good spy, it is important to you that that the owner of the apartment doesn't notice that you've been there. So before rummaging around, you take photos of every room in order that, once you have found and copied the document, you can restore the apartment to its original condition. The photos you have taken are an external check on whether you are leaving the room in the same condition that you found it in. It doesn't guarantee that nothing is out of place. But it increases the probability that there's no discernible change.
 
 Refactoring something means changing its implementation internally without changing its behaviour externally. You can create an external check similar to the spy's photos when refactoring by making sure that the thing you are refactoring is covered by automated tests.[^5] That way you can be more confident that the changes you make are not affecting the behaviour. You could almost make them without thinking at all, which brings me to the final maxim ...
 
-## When You Make a Change, Make Sure You Understand What You're Doing
+## 4. When You Make a Change, Make Sure You Understand What You're Doing
 
 Before personal desktops were able to compile code, it had to be compiled on mainframes which often had to be booked in advance.[^6] That meant that programmers had to check their code carefully before compiling it, so as not to risk, should the program fail to compile, having to wait again in order to redo it. These days, we get near-instant feedback, not only from our compilers but also from running and testing our code. This feedback loop has been shortened further by advances like hot reloading. This is great because it helps us to iterate quickly and work in a state of flow. But it also allows us to code without really thinking hard about what we are doing.
 
@@ -61,13 +68,17 @@ When this happens, there is a kind of hill to climb, a hill from which everythin
 
 It may help you to imagine that you are going to deploy your change to be tested by a grizzled old no-nonsense manual tester. If there's a bug in your code, this tester is going to find it. Manual testing is like the tort system: as when a person is injured by a product they can sue the manufacturer, causing manufacturers to worry about their products' safety, so the manual tester can file a report when they discover a bug, causing you to worry about your code's correctness. But you can worry without the punitive threat, too.
 
-## Conclusion
+## Learning from Errors
+
+> They know the water best who have waded through it.[^1]
+>
+> – Proverb
 
 What normally happens to bugs is that they are fixed and forgotten. When we discover them, we are interested in fixing them, not in understanding the reasons why they happened; and even if we are so interested, we only rarely remember the conditions of their origin anyway. But it doesn't have to be like that. The way out of this is obvious. To avoid error, we must study error.
 
-Never let a good incident go to waste. Each bug is an invitation to learn. And so is every near-miss. You learn by analysing what went wrong, for instance through a root cause analysis. This is sometimes called a [post-mortem](https://www.pagerduty.com/resources/learn/incident-postmortem/). It needs to be a non-punitive, blame-free procedure. It needs to be in a sense forward-looking, not backward-looking. Having found the deeper problem, you improve the system by putting into place changes that prevent that problem from occurring again. Practice this and you will be rewarded twice over: first in learning how serious bugs happen, then in improving the system you're working on. Because they know the water best who have waded through it.
+Never let a good incident go to waste. Each bug is an invitation to learn. And so is every near miss. You learn by analysing what went wrong, for instance through a [root cause analysis](https://en.wikipedia.org/wiki/Root_cause_analysis). This is sometimes called a [post-mortem](https://www.pagerduty.com/resources/learn/incident-postmortem/). It needs to be a non-punitive, blame-free procedure. It needs to be in a sense forward-looking, not backward-looking. Having found the deeper problem, you improve the system by putting into place changes that prevent that problem from occurring again. Practice this and you will be rewarded twice over: first in learning how serious bugs happen, then in improving the system you're working on.
 
-[^1]: Grayling, A. (2011). _The good book : a humanist Bible_. New York: Walker & Co.
+[^1]: Grayling, A. (2011). _The Good Book: A Humanist Bible_. New York: Walker & Co.
 [^2]: I adapted this joke from [Theodosius Dobzhansky](https://en.wikipedia.org/wiki/Theodosius_Dobzhansky#Final_illness_and_the_%22Light_of_Evolution%22).
 [^3]: See [this comment](https://lobste.rs/s/fzvd1v/former_uber_engineer_s_disaster_story#c_sy3xu2) by a user named soc on a Lobsters post about software struggles in Uber.
 [^4]: Ferreira, I., Fernandes, E., Cedrim, D., Uchôa, A., Bibiano, A. C., Garcia, A., Correia, J. L., Santos, F., Nunes, G., Barbosa, C., Fonseca, B., & de Mello, R. (2018, May 27). _The buggy side of code refactoring_. Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings. ICSE ’18: 40th International Conference on Software Engineering.
