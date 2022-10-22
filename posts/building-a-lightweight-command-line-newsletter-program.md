@@ -7,6 +7,13 @@ tags: post
 
 # Building a Lightweight, Command-Line Newsletter Program
 
+<div class="edit">
+<p>
+Edit 2022-10-22: I no longer use this program; I made the switch to <a href="https://buttondown.email/">Buttondown</a> in order to reduce friction in signing up. That means <b>this program is no longer being maintained</b>, so use at your own risk.
+</p>
+
+</div>
+
 There are of course hundreds of newsletter services out there, the lich queen of them being MailChimp, which owns over half of the market share. But maybe you don't want to use proprietary software, or maybe you don't want to depend on an organisation that can [ban swathes of its users](https://www.inc.com/sonya-mann/mailchimp-icos.html) because of the (seemingly innocent) content they circulate. The alternative then is Mailtrain and other free and open source options. But these need to be self-hosted, have fairly involved installation procedures and are weighed down by far more features than people like myself ever need.
 
 Me, I just wanted two things: for people to be able to subscribe to my newsletter and to be able to send emails to my subscribers. That's it. So I thought it might be fun to implement a simple command-line utility that accomplishes those two things. The result is `nwsl` (pronounced "newsletter").
