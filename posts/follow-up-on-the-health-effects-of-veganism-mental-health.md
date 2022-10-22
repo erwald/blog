@@ -7,7 +7,7 @@ tags: post
 
 # Follow-Up on the Health Effects of Veganism: Mental Health
 
-A year and a half ago I wrote a post on [whether veganism can be healthy]({{ '/posts/can-a-vegan-diet-be-healthy-a-literature-review/' | url }}). The short answer was "most probably yes, if you supplement wisely"[^1] But one thing I was unsure about was its effect on mental health and cognitive function. (In hindsight, I think I should've emphasised this uncertainty more in the original post.) Since then, a few new studies have come out looking at some aspects of those. If I did this for a living, I would've read these carefully and composed a thorough review, but as this is only a blog, I've only skimmed them and written down some quick thoughts, which I'll now share.
+A year and a half ago I wrote a post on [whether veganism can be healthy]({{ '/posts/can-a-vegan-diet-be-healthy-a-literature-review/' | url }}). The short answer was "most probably yes, if you supplement wisely"[^1]. But one thing I was unsure about was its effect on mental health and cognitive function. (In hindsight, I think I should've emphasised this uncertainty more in the original post.) Since then, a few new studies have come out looking at some aspects of those. If I did this for a living, I would've read these carefully and composed a thorough review, but as this is only a blog, I've only skimmed them and written down some quick thoughts, which I'll now share.
 
 ## Three New Meta-Studies
 
