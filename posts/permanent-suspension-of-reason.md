@@ -9,7 +9,7 @@ tags: post
 
 <div class="edit">
 <p>
-Edit 2022-10-23: I’ve revised this post to tone down some stylistic excesses. I’m still of the opinion that dominant tech companies shouldn’t take it upon themseles to censor politically unappealing speech and people. I think censorship is wrong. And doing so doesn’t seem to have stopped <a href="https://www.pewresearch.org/politics/2022/08/09/as-partisan-hostility-grows-signs-of-frustration-with-the-two-party-system/">the increasing polarisation of U.S. politics</a> anyway. However, while I express the view that the social media bans may have helped Trump’s popularity in the post (arguing that he was shooting himself in the foot at the time), I now unsure whether this was true.
+Edit 2022-10-23: I’ve revised this post to tone down some stylistic excesses. I’m still of the opinion that dominant tech companies shouldn’t take it upon themseles to censor politically unappealing speech and people. I think censorship is wrong. And doing so doesn’t seem to have stopped <a href="https://www.pewresearch.org/politics/2022/08/09/as-partisan-hostility-grows-signs-of-frustration-with-the-two-party-system/">the increasing polarisation of U.S. politics</a> anyway. However, while I express the view that the social media bans may have helped Trump’s popularity in the post (arguing that he was shooting himself in the foot at the time), I’m now unsure whether this was true.
 </p>
 </div>
 
