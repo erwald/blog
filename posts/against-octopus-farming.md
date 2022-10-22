@@ -7,15 +7,15 @@ tags: post
 
 # Against Octopus Farming
 
+![]({{ '/img/octopus.jpeg' | url }})
+
 > Convergent evidence indicates that non-human animals have the neuroanatomical, neurochemical, and neurophysiological substrates of conscious states along with the capacity to exhibit intentional behaviors. Consequently, the weight of evidence indicates that humans are not unique in possessing the neurological substrates that generate consciousness. Non-human animals, including all mammals and birds, and many other creatures, including octopuses, also possess these neurological substrates.[^1]
 >
 > – Authors of the Cambridge Declaration on Consciousness
 
-The Spanish multinational Nueva Pescanova [is on the cusp](https://archive.ph/20211220134356/https://www.bbc.com/news/science-environment-59667645) of opening up the world's first octopus farm near Las Palmas in the Canary Islands. It plans to begin farming next summer, with farmed octopuses entering the market in 2023. The farm will apparently produce three thousand tonnes of _Octopus vulgaris_ yearly; by my count, given that one _O. vulgaris_ weighs five to ten kilograms, that makes 300,000 to 600,000 octopuses killed each year. (In Spain, where a lot of people eat octopus, two to five times that number is caught each year in the wild.[^2])
+The Spanish multinational Nueva Pescanova [is on the cusp](https://archive.ph/20211220134356/https://www.bbc.com/news/science-environment-59667645) of opening up the world's first octopus farm near Las Palmas in the Canary Islands. It plans to begin farming next summer, with farmed octopuses entering the market in 2023. The farm will apparently produce three thousand tonnes of _Octopus vulgaris_ yearly; by my count, given that one _O. vulgaris_ weighs 5-10 kg, that makes 300,000 to 600,000 octopuses killed each year. (In Spain, where a lot of people eat octopus, two to five times that number is caught each year in the wild.[^2])
 
 Octopuses have impressive minds, more so than many vertebrates. Half of their numerous neurons are located in their strong, tentacled arms, which seem almost like creatures of their own.[^3] (Godfrey-Smith speculates that octopuses may need to focus in order to act in a coordinated way with all of their arms, and that their default state is one where the arms kind of explore independently.[^4] This may incidentally make it difficult to painlessly slaughter octopuses – if you just decapitate them, you still have only destroyed half their nervous system.) Octopuses even seem to show emotion, although it's hard to tell given our tendency to anthropomorphise. Take a look at [this video](https://www.youtube.com/watch?v=rqAmR1lEN0I) where an octopus, released after having been stranded on a beach, seemingly seeks contact with its rescuer before swimming away. Or [this video](https://www.youtube.com/watch?v=HRPCj9y3848), a scene from a documentary where an octopus seemingly plays with a shoal of fish and then seemingly hugs a human diver.
-
-![Screenshot of video of octopus by Pei Yan Heng.]({{ '/img/octopus.jpeg' | url }})
 
 Jacquet et al. gives us a suitable backdrop:
 
@@ -27,7 +27,7 @@ Jacquet et al. gives us a suitable backdrop:
 >
 > Although there has been little research on the welfare of octopuses in farmed settings, existing evidence suggests intensive farming systems are likely to be associated with high mortality rates and increased aggression, parasitic infection, and a host of digestive tract issues. Beyond their basic biological health and safety, octopuses are likely to want high levels of cognitive stimulation, as well as opportunities to explore, manipulate, and control their environment. Intensive farm systems are inevitably hostile to these attributes. Aquaculture depends on tightly controlled and monotonous environments, with constant ambient conditions, simplified and sterile enclosures, and rigid feeding schedules, aimed at supporting high stocking densities. Many octopus species appear to be largely asocial and show little tolerance of other individuals of the same species. Farming such species that, in addition, are carnivorous will almost inevitably require that individuals be kept isolated in small containers, with no scope for environmental enrichment and very poor overall well-being.[^5]
 
-I have written elsewhere what I think about treating animals in this way, but let me try to summarise my view.[^6] (If you don't feel like reading amateurish moral philosophy, feel free to skip the next five to seven paragraphs.)
+I have written elsewhere what I think about treating animals in this way, but let me try to summarise my view.[^6] (If you don't feel like reading amateurish moral philosophy, feel free to skip the next 5-7 paragraphs.)
 
 I think this. Things are valuable to us because we value them. That is, a specific thing is valuable to some specific individual who values it. For example, I may value the literary works of Marcel Proust, which are probably gibberish to some people (and certainly to octopuses). Some people value divine beings, though I think no such beings exist. Cows value grazing on fresh meadows, which seems pretty boring (and unappetising) to us humans. Value is conditioned on a valuer. In this sense it seems subjective, but if we want to reason about ethics, we probably want some kind of objective, or unconditional, value – something we can all agree is worth pursuing – what we sometimes call "the good". Is there such a thing?
 
