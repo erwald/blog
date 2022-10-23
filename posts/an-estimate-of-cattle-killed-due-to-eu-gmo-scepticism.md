@@ -9,15 +9,15 @@ tags: post
 
 ![img]({{ '/img/cattle.jpeg' | url }})
 
-To make beef, you need to grow cattle.[^1] Most cattle in the developed world is raised in factory farms.[^2] As far as factory farmed animals go, beef cattle probably have it the best. But they have it bad enough. For example, in the US and elsewhere they are often branded with hot iron. Once they have reached maturity, they're usually taken to crowded feedlots where they are fattened. After that follow long and stressful transports during which it's not uncommon to see animals die or become "downed" (unable to walk or stand). Then, of course, there's the horror of the slaughterhouse and the actual killing.
-
-So in my view it would be good if people ate less meat, beef included. One way of doing that is by replacing meat consumption with good plant-based alternatives. In Europe, for example, we've had the Beyond Burger for a few years now. It's a fine product. I eat it regularly. But from what I hear, there's an even better plant-based burger out there: the Impossible Burger. I say _hear_ because I haven't yet had the chance to taste it: the Impossible Burger is unfortunately stuck awaiting the European Food Safety Authority's (EFSA) approval and therefore hasn't yet been introduced into the European market.
-
 ## Summary
 
-Impossible Foods has not been able to put its product on the European market because it contains a genetically modified organism (GMO); EFSA is extremely hesitant to approve GMO products for human consumption. I estimate, with a rough back-of-the-envelope calculation, this delay to have caused the deaths of something like 20 cattle so far, and to cause the deaths of maybe 200 to 20,000 cattle (that's my 60% confidence interval) in total?
+Impossible Foods has not been able to put its product on the European market because it contains a genetically modified organism (GMO); the European Food Safety Authority (EFSA) is hesitant to approve GMO products for human consumption. **I estimate, with a rough back-of-the-envelope calculation, this delay to have caused the deaths of something like 20 cattle so far, and to cause the deaths of maybe 200 to 20,000 cattle (that's my 60% confidence interval) in total.**
 
 ## Background
+
+To make beef, you need to grow cattle.[^1] Most cattle in the developed world is raised in factory farms.[^2] As far as factory farmed animals go, beef cattle probably have it the best. But they have it bad enough. For example, in the US and elsewhere they are often branded with hot iron. Once they have reached maturity, they're usually taken to crowded feedlots where they are fattened. After that follow long and stressful transports during which it's not uncommon to see animals die or become "downed" (unable to walk or stand). Then, of course, there's the horror of the slaughterhouse and the actual killing.
+
+So in my view it would be good if people ate less meat, beef included. One way of doing that is by replacing meat consumption with good plant-based alternatives. In Europe, for example, we've had the Beyond Burger for a few years now. It's a fine product. I eat it regularly. But from what I hear, there's an even better plant-based burger out there: the Impossible Burger. I say _hear_ because I haven't yet had the chance to taste it: the Impossible Burger is unfortunately stuck awaiting EFSA's approval and therefore hasn't yet been introduced into the European market.
 
 Flora Southey [reports](https://archive.ph/CTS3k):
 
