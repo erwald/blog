@@ -7,9 +7,11 @@ tags: post
 
 # Ravi Zacharias Solves the Problem of Evil
 
+![img]({{ '/img/moses.jpeg' | url }})
+
 > My argument against God was that the universe seemed so cruel and unjust. But how had I got this idea of just and unjust? A man does not call a line crooked unless he has some idea of a straight line.
 >
-> – C. S. Lewis (1952)
+> -- C. S. Lewis (1952)
 
 The departed Ravi Zacharias solves the problem of evil in an [interview with Ben Shapiro](https://www.youtube.com/watch?v=LZ34a_lLq_0) using the following logic:
 
@@ -25,9 +27,7 @@ I see a couple of problems. The chief problem is: so what? Even if I grant that 
 
 Say Zacharias is right and the Christian God does exist. Then Zacharias must still choose which of these possibilities is true. But none of the options seem very palatable. In other words, his argument does nothing to actually solve the problem.
 
-![img]({{ '/img/moses.jpeg' | url }})
-
-A second problem is in step (3) above. Why does a moral law necessitate a lawgiver? The laws that states and societies make don't – we can come up with those as a result of deliberative and democratic processes. The laws of physics don't either – they describe the way nature works. Why can't moral laws be like those?[^1]
+A second problem is in step (3) above. Why does a moral law necessitate a lawgiver? The laws that states and societies make don't -- we can come up with those as a result of deliberative and democratic processes. The laws of physics don't either -- they describe the way nature works. Why can't moral laws be like those?[^1]
 
 Zacharias might say that these are different kinds of laws. The laws of nations and governments aren't objective laws. They are just codified norms aimed at regulating behaviour. The laws of physics describe the way the world _necessarily_ is. But moral laws are both objective and describe the way the world _happens_ to be. While there is only one possible set of laws of physics, there are many possible laws of morality. Since there is in fact only one law of morality, someone must at some point have decided which of the possible ones is real. So Zacharias might say.
 

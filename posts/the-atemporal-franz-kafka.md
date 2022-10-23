@@ -7,9 +7,11 @@ tags: post
 
 # The Atemporal Franz Kafka
 
+![img]({{ '/img/kafka_1.jpeg' | url }})
+
 > Accustom yourself to the idea that death is nothing to us. For all good and all bad are vested in sense perception, and death is deprivation of sense perception.
 >
-> – Epicurus, quoted in Laertius (2018)
+> -- Epicurus, quoted in Laertius (2018)
 
 In Prague, in the beginning of June 1924, the writer and critic Max Brod was faced with a dilemma. His friend, having just perished of tuberculosis in a sanatorium in Kierling outside Vienna, had bequeathed to him his numerous unpublished writings, with the unfortunate stipulation that they be burned. (The friend had himself already destroyed 90% of what he'd written.) In the end, as we know, Brod refused to burn the works and decided instead to start publishing them.[^1]
 
@@ -18,8 +20,6 @@ Now was that the right thing to do, morally speaking?
 From a classical utilitarian perspective, the answer is obviously yes. Franz Kafka's stories have brought a lot of people a lot of pleasure and meaning. And Kafka himself did not suffer from Brod's disobedience, because you can't suffer if you're dead. The only reason it might have been bad is because it would have promoted the norm "it's ok to disregard somebody's dying will". But that drawback seems insignificant in face of the upside, at least in this case.[^2]
 
 From a Kantian perspective, things are less clear-cut. The commonsensical person may declare that we obviously don't have duties to dead people (or [inanimate objects]({{ '/posts/auderico/)' | url }}), which leaves only duties to people who are alive and would find pleasure or meaning in Kafka's writings, and that, as a consequence, Brod was obviously right in publishing. I am aware that the prospect of our having moral duties to dead people is [a bit of a joke](https://forum.effectivealtruism.org/posts/NK5LFazxKjwpaypJd/announcing-what-the-future-owes-us) in some quarters. In the words of the Nazarene: "Let the dead bury their own dead."[^3] (Matt 8:22 [NIV]) And maybe that is the right attitude to take, but let's dig a little deeper.
-
-![img]({{ '/img/kafka_1.jpeg' | url }})
 
 ## Does It End at Sense Perception?
 
@@ -33,7 +33,7 @@ My intuition says that Brod is wronging Kafka in this scenario. But then what is
 
 Maybe the right question is: Who are the objects of our duties? Franz Kafka in May 1924 was surely one of them. But was Franz Kafka in July of that year? How about Franz Kafka in 400 BCE?
 
-Possibly we should think of people as they think of themselves. Franz Kafka probably didn't think of himself as "the Franz Kafka of May 1924" or whatever. He thought of himself as Franz Kafka, who lived in May 1924 but at many other times, too. If I say "Franz Kafka lived in May 1924", the subject of that sentence cannot be the Franz Kafka who lived in May 1924 – if so, the sentence is a tautology. I must be referring to some different Franz Kafka.
+Possibly we should think of people as they think of themselves. Franz Kafka probably didn't think of himself as "the Franz Kafka of May 1924" or whatever. He thought of himself as Franz Kafka, who lived in May 1924 but at many other times, too. If I say "Franz Kafka lived in May 1924", the subject of that sentence cannot be the Franz Kafka who lived in May 1924 -- if so, the sentence is a tautology. I must be referring to some different Franz Kafka.
 
 Korsgaard (2018) would say that I am referring to a "subject of a life" and calls these subjects "atemporal creatures". She gives the example of her saying "I am a little uncomfortable", writing: "You and I look down at time together, at the unfurling of my life through time, and I point to a spot in that unfurling and I say 'There. March 26, 2017. That is when I am uncomfortable.'" She brings up the distinction between harming and wronging someone and makes the case that, no matter whether you can harm someone after they have died, you can definitely wrong them.[^4] She argues: "Since I believe that subjects of lives and their moral standing are atemporal, I believe this: once you exist, once your life begins, you have a moral standing that is itself atemporal."
 
@@ -43,13 +43,13 @@ Or imagine a stone. At first the stone is not a stone at all, but only a portion
 
 I mostly buy us thinking of ourselves as something like atemporal creatures. (Do we really, though? Maybe all that matters to me is my future experiences?) And I mostly buy that we could think of the objects of duties as such too. But I don't understand exactly _why_ we should do that, except that it seems like a neat solution to various philosophical problems (like the one illustrated by Epicurus in the epigraph). Sure, it could be like that, but couldn't it just as well be otherwise? I'm worried that it's too arbitrary.
 
+![img]({{ '/img/kafka_2.jpeg' | url }})
+
 ## Implications
 
 If true, this would mean that we have moral duties to atemporal creatures, even before they are born or after they have died. But the contents of those duties are determined by the creatures' natures, which are only visible during their lives. So Max Brod's duties to Franz Kafka have nothing to do with Franz Kafka's experience in particular, except insofar as he experiences things because is a human being, and because human beings have experiences we have duties towards human beings. (In other words, it's an associative, not causative relation.)
 
-![img]({{ '/img/kafka_2.jpeg' | url }})
-
-If true, that means Max Brod had a duty to Franz Kafka after he, Kafka, had died, just as he did when he had been alive. It simply did not matter whether the object of the duty still breathed. But what duty? Assuming Brod had not previously agreed to burn the works, his action does not fail the Formula of Universal Law (it is not practically contradictory), but it does seem like he is treating Kafka as a mere means – he is, after all, completely disregarding the end that Kafka has chosen (burning the works).[^5] The exact same maxim may be followed by another person as they thwart Brod's own plans for his possessions after he himself has died.
+If true, that means Max Brod had a duty to Franz Kafka after he, Kafka, had died, just as he did when he had been alive. It simply did not matter whether the object of the duty still breathed. But what duty? Assuming Brod had not previously agreed to burn the works, his action does not fail the Formula of Universal Law (it is not practically contradictory), but it does seem like he is treating Kafka as a mere means -- he is, after all, completely disregarding the end that Kafka has chosen (burning the works).[^5] The exact same maxim may be followed by another person as they thwart Brod's own plans for his possessions after he himself has died.
 
 So yes, maybe Max Brod should have burned Franz Kafka's unpublished writings like he was asked to do. Does that reek too much of barbarism?
 
