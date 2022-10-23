@@ -24,7 +24,7 @@ Here goes:
 
   and then, just a few lines further down, it goes on:
 
-  > *We _do* have to do something\_, she thought, attuning the Rhythm of Peace in the back of her mind. She sought comfort in its calm, soothing beats, soft and blended. Like a caress.
+  > _We have to do something_, she thought, attuning the Rhythm of Peace in the back of her mind. She sought comfort in its calm, soothing beats, soft and blended. Like a caress.
   >
   > Then she saw the dullforms.[^2]
 
