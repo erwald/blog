@@ -7,9 +7,13 @@ tags: post
 
 # Interview with Olle Häggström: Reason, COVID-19 and Academic Freedom in Sweden
 
+![Drawing by Viktoriia Shcherbak of dice.]({{ '/img/dice.png' | url }})
+
+## Background
+
 Olle Häggström is a Professor of Mathematical Statistics at Chalmers University of Technology and has written texts about probability theory, existential and AI risk and futurology among many other subjects. His latest book, _[Tänkande maskiner](https://fritanke.se/bocker/tankande-maskiner/)_ _(Thinking Machines)_, draws on research in AI and AI safety to give an overview of where we are heading and what we ought to do. His excellent blog, [Häggström hävdar](https://haggstrom.blogspot.com), recently turned ten. He was kind enough to answer some of my questions; these answers are reproduced below.
 
-![Drawing by Viktoriia Shcherbak of dice.]({{ '/img/dice.png' | url }})
+## The State of Things in Sweden
 
 ERICH: How fares reason in Sweden?
 
@@ -22,6 +26,8 @@ OLLE: It's hard to pinpoint any one newspaper, periodical, organisation, web for
 ERICH: Is there a Swedish Scott Alexander? A Julia Galef? Even an Eliezer Yudkowsky?
 
 OLLE: I must say you're good at guessing who some of my favorite intellectuals might be. But I should also say that those you mention are unique individuals, and it doesn't make much sense to try to name Swedish counterparts. If I did try to do that, I'd necessarily omit a lot of extremely bright Swedish thinkers and friends, and thereby unnecessarily insult them. And perhaps I'd even insult those I do mention. I recall once, when I was maybe 30 or 35 and very much up and coming in academia, and I had given a talk somewhere in Sweden, and this professor X from the older generation came up to me afterwards and wanted to express how much he liked the talk and to say something really nice to me. So he said, with reference to another leading Swedish math professor Y of his own generation, "You really are a worthy heir to Y!" And while I understood he meant it as praise, I couldn't help feeling partly insulted. I hope I didn't show it too much, but I felt like saying "I am not Y, or an heir to Y, I am Olle Häggström, with my own unique competences and agendas". And so I won't give you any names.
+
+## COVID-19
 
 ERICH: Karlinsky & Kobak [estimate](https://elifesciences.org/articles/69336#table1) an increase in excess mortality since March 2020 of ten per cent in Sweden, compared with one per cent in Finland and _decreases_ of one per cent in Denmark and four per cent in Norway. How well have the Public Health Agency and Anders Tegnell carried out their jobs?
 
@@ -44,6 +50,8 @@ OLLE: If you read the newspapers, you can get the impression that politicians ar
 ERICH: There are elections next year. I understand if you don't want to disclose how you are planning to vote, but perhaps you can already say something about how you will absolutely not vote?
 
 OLLE: Nobody will be surprised to hear that it is exceedingly unlikely that I would ever vote for the Sweden Democrats.
+
+## Writing and Thinking
 
 ERICH: Having read your blog posts, including comments, about [Göran Lambertz](https://en.wikipedia.org/wiki/G%C3%B6ran_Lambertz)'s theory of probability, I am equally horrified that a man in such a high position can make so many mistakes, impressed by his seemingly inexhaustible energy and almost inclined to pity him. What can we learn from his failures?
 

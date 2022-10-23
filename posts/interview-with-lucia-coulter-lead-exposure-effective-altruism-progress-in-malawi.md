@@ -7,13 +7,17 @@ tags: post
 
 # Interview with Lucia Coulter: Lead Exposure, Effective Altruism, Progress in Malawi
 
+![Drawing by Viktoriia Shcherbak of a bucket of paint.]({{ '/img/lead_based_paint.png' | url }})
+
+## Background
+
 Lead, the most abundant of heavy metals, has been used by humans for thousands of years; there are records of lead poisoning in the ancient world, where it was used in water pipes and earthenware vessels.[^1] Still today, lead exposure is a significant global problem, especially among poorer people in the developed world and in the developing world generally.[^2] Even exposure to small amounts of lead can have significant and often irreversible health effects, especially in children, including impaired cognition, hyperactivity, cardiovascular disease and so on.[^3][^4][^5] Attina & Trasande estimates the yearly cost of lead exposure in low- and middle-income countries to be nearly one trillion dollars, well over one per cent of world GDP when the study was made.[^6] One of the main sources of lead exposure in children today is lead-based paint.[^7]
 
 Lucia Coulter is a co-founder and co-director of the [Lead Exposure Elimination Project](https://leadelimination.org/) (LEEP), a non-profit working to reduce lead exposure via lead-based paint. Lucia was kind enough to answer some questions of mine about lead exposure generally and LEEP's work specifically; these answers are reproduced with only very minor edits below. (As a declaration of interest, I should note that I have [donated](https://leadelimination.org/donate/) a small sum to LEEP, though only after Lucia had sent me her answers.)
 
-![Drawing by Viktoriia Shcherbak of a bucket of paint.]({{ '/img/lead_based_paint.png' | url }})
+## The Problem of Lead Exposure
 
-ERICH: Given the outrage that followed the Flint water crisis some years ago, it might be surprising to some that, as you write in your [introductory post](https://forum.effectivealtruism.org/posts/fd96FtLFACeAshqJP/introducing-leep-lead-exposure-elimination-project) on the effective altruism forum, "815 million children have blood lead levels [at] a sufficient level for neurodevelopmental effects and reduced IQ [and] one in three children are currently affected by lead poisoning to some degree". Why has lead exposure been so neglected?
+ERICH: Given the outrage that followed the Flint water crisis some years ago, it might be surprising to some that, as you write in your [introductory post](https://forum.effectivealtruism.org/posts/fd96FtLFACeAshqJP/introducing-leep-lead-exposure-elimination-project) on the Effective Altruism Forum, "815 million children have blood lead levels [at] a sufficient level for neurodevelopmental effects and reduced IQ [and] one in three children are currently affected by lead poisoning to some degree". Why has lead exposure been so neglected?
 
 LUCIA: I think there are a few reasons for this but probably one of the most important is that this widespread chronic lead poisoning affecting one in three kids is relatively invisible. The effects include neurodevelopmental problems like reduced intelligence, behavioural problems, reduced educational attainment, reduced income, and cardiovascular disease later in life. Anyone experiencing these problems or seeing children experience these problems isn't going to know that they are the result of lead exposure. And as a result, lead exposure is not going to seem like a priority problem to research or address.
 
@@ -27,7 +31,9 @@ What's more uncertain is how good a proxy lead levels in paint is for blood lead
 
 Despite this difficulty quantifying the impact and despite most of the evidence being from the U.S. and other high income countries, there is some evidence from low income countries for an association between lead paint and and raised blood lead levels, for example in Nepal[^12], Benin[^13], Nigeria[^14], Egypt[^15], South Africa[^16], Brazil[^17], and India[^18][^19][^20].
 
-ERICH: So what, in brief, does LEEP do to reduce lead exposure?
+## Founding LEEP
+
+ERICH: What, in brief, does LEEP do to reduce lead exposure?
 
 LUCIA: First we identify countries where we expect there to be a lot of lead paint use. Then we carry out paint sampling studies and basic market analysis to verify if this is the case. If we find that there is a lot of lead paint on the market then we share this information with the health ministry, regulatory authority, and other stakeholders. We explain why lead paint is a problem and that the solution is effective regulation (they may need to introduce new regulation or start enforcing existing regulation). We then support them in the process by bringing together stakeholders and providing technical advice. We also work directly with the local lead paint manufacturers to provide any technical advice needed for reformulation and help them access non-lead ingredients. We expect that enforcement of lead paint regulation and support with reformulation and compliance will lead to less lead paint on the market, less lead paint in homes and schools, and therefore less childhood lead exposure.
 
@@ -45,9 +51,11 @@ LUCIA: Yes, it's my first time running a non-profit. The experience has been gre
 
 For me the biggest challenge is the psychological one of never having 100% certainty that what we're doing will work or will have the impact that we're expecting. I do remind myself of the "expected value" argument, but I think because of my personality I just don't really enjoy the uncertainty that comes with this type of work.
 
-ERICH: Could you expand a little on how Charity Entrepreneurship helped you prepare? Did they offer trainings and mentorships, that sort of thing?
+ERICH: Could you expand a little on how Charity Entrepreneurship helped you prepare?
 
 LUCIA: Firstly they provided a two-month full-time incubation program, which I went through (remotely) in the summer 2020. This was where I decided to work on lead exposure (which was an idea researched and recommended by Charity Entrepreneurship), where I paired up with my co-founder Jack, and from where we received our initial seed grant. During the program we learnt a huge amount of extremely relevant and practical material – for example, how to make a cost-effectiveness analysis, how to make a six-month plan, how to develop a monitoring and evaluation strategy, how to hire, and a lot more. Since then Charity Entrepreneurship has provided LEEP with weekly mentoring and wider support through the community of staff, previous incubatees, and advisors. I highly recommend checking out the Charity Entrepreneurship incubation program if anyone is interested!
+
+## LEEP's Progress
 
 ERICH: Besides LEEP, there are also a few other organisations working in this space, notably [Pure Earth](https://www.pureearth.org/global-lead-program/). How does your work differ from theirs?
 
@@ -63,9 +71,11 @@ We have since run a paint sampling study in Botswana, which showed that househol
 
 ![Map of countries with lead paint laws, 2020. Source is the United Nations Environment Programme's 2020 report on lead-based paint.]({{ '/img/countries_with_lead_paint_laws_2020.png' | url }})
 
-ERICH: So it sounds as if you have begun picking the low-hanging fruit by going to countries that are likely to have lots of lead-based paint, that you think are willing to listen and where no one else is doing similar work. Do you have any sense of whether it'll be possible (or desirable – I guess at some point lead-based paint will be all but gone) to scale your operations up?
+ERICH: So it sounds as if you've begun picking the low-hanging fruit by going to countries that are likely to have lots of lead-based paint, that you think are willing to listen and where no one else is doing similar work. Do you have any sense of whether it'll be possible (or desirable – I guess at some point lead-based paint will be all but gone) to scale your operations up?
 
 LUCIA: Yes, that's right. In year two we plan to expand our operations to around three further countries with the aim of testing the effectiveness of our approach more quickly and improving it through iteration. Then, if we have sufficient evidence to suggest that what we're doing is impactful and cost-effective we'd like to scale up rapidly. There are still over 76 countries yet to regulate lead paint, and many others that are yet to effectively implement their regulation. Most of these are likely to have a lot of lead paint on the market. Some do look like "low-hanging fruit", but others are likely to be less tractable due to less receptive or unstable governments. The more quickly we can reduce the amount of lead paint being used in as many countries as possible the better, partly because in many potential target countries there are currently rapid increases in paint use and population growth.
+
+## Challenges and Opportunities
 
 ERICH: I found it interesting that lack of enforcement of standards, rather than lack of standards, seems to be the main problem, at least in Malawi. How come? Why were standards created in the first place if no one thought they were important to enforce?
 
@@ -75,11 +85,11 @@ ERICH: How likely is it that enforcement in Malawi becomes laxer again? What wou
 
 LUCIA: This would reduce our cost-effectiveness so it's important to us to keep the momentum going. One way we plan to do this is by running regular follow-up studies where we sample the paints on the market and measure the lead content. We can use this up-to-date information to encourage enforcement and compliance. However, the main cost to manufacturers is in the initial reformulation, so once they switch there is unlikely to be a major incentive to start adding lead again.
 
-ERICH: From what I understand, you have communicated test results on paint lead levels mainly to the paint industry and to government officials and regulatory agencies. Do you think there is any potential value in bringing it to the local public, too, for instance via media? or does that risk damaging relations with local industry and government?
+ERICH: From what I understand, you've communicated test results on paint lead levels mainly to the paint industry and to government officials and regulatory agencies. Do you think there is any potential value in bringing it to the local public, too, for instance via media? Or does that risk damaging relations with local industry and government?
 
 LUCIA: We think this could be a useful approach because it would increase pressure on the manufacturers to reformulate and on the government to take the problem seriously. But at the moment it is being taken seriously and we're seeing good progress working with MBS and the industry. So our current view is that it's not worth the risk of damaging our relationships.
 
-ERICH: David Bernard and Jason Schukraft [discuss](https://forum.effectivealtruism.org/posts/naTwu3xD3WFWu5fbp/global-lead-exposure-report#Counterfactual_Impact), as one area of uncertainty here, that there already seems to be "global momentum toward restrictions on the amount of lead that can be included in residential paint". Does that seem true to you? and if so, what does that mean for LEEP?
+ERICH: David Bernard and Jason Schukraft [discuss](https://forum.effectivealtruism.org/posts/naTwu3xD3WFWu5fbp/global-lead-exposure-report#Counterfactual_Impact), as one area of uncertainty here, that there already seems to be "global momentum toward restrictions on the amount of lead that can be included in residential paint". Does that seem true to you?
 
 LUCIA: It is true that there is a global trend towards lead paint regulation, but this does seem to be due to active efforts to promote the change. In our cost-effectiveness analysis we assume that lead paint regulation would be implemented even without our input, but we would expect this to happen some time in the future (perhaps around eight years in Malawi). So our impact is a result of bringing the change forward in time. In the case of Malawi it would probably have taken someone else to carry out a paint study and bring the data to the attention of the government to cause any change. There hasn't been any other activity in this area so we don't think this would have happened in the near future without our input. Similarly, in Zimbabwe before our involvement there was no research into the problem of lead in paint and to our knowledge no efforts to advocate for regulation.
 
@@ -87,7 +97,7 @@ ERICH: What do you see as the biggest risks in LEEP's work going forward?
 
 LUCIA: One risk is that progress could stall in Malawi and we don't reach the point of actually having reduced lead paint on the market within the next couple years. This could happen if the government or industry stops engaging with us and prioritising enforcement and compliance. So far engagement has been good and if momentum does slow there are other approaches to try like increasing pressure through the media and public. Another uncertainty is the extent to which our progress in Malawi is replicable in other countries. We'll be able to get a better sense of that over the next year as we continue work in our other target countries.
 
-ERICH: Though you focus on lead paint right now, I assume you would be open to other ways of reducing lead exposure too, if they are effective. What other interventions do you think might be impactful beyond eliminating lead in paint?
+ERICH: Though you focus on lead paint right now, I assume you'd be open to other ways of reducing lead exposure too, if they are effective. What other interventions do you think might be impactful beyond eliminating lead in paint?
 
 LUCIA: This is a big open question of ours because there is such limited evidence about the importance of different sources of lead exposure in low- and middle-income countries.
 

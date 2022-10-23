@@ -7,9 +7,13 @@ tags: post
 
 # Interview with Corentin Boissier: Romanticism, Modernism, Composition
 
+!["Scuola perfetta per imparare a disegnare", engraving by Luca Ciamberlano or maybe Francesco Brizio after Agostino Carracci, 1599–1629.]({{ '/img/piano_hands.jpg' | url }})
+
+## Background
+
 Corentin Boissier is, in the words of musicologist and critic Walter Simmons, "one of the most remarkable composers to appear on the new-music scene in the 21st century".[^1] He has completed or revised some 30 pieces in the last decade, all in neo-Romantic style. A recording of two Piano Concertos and a Piano Sonata of his, performed by pianist Valentina Seferinova and the Ukrainian Festival Orchestra under the direction of John McLaughlin Williams, was recently [released by Toccata Classics](https://toccataclassics.com/product/corentin-boissier-two-piano-concertos-and-a-sonata/). He was kind enough to answer some of my questions; these answers are reproduced in full below.
 
-!["Scuola perfetta per imparare a disegnare", engraving by Luca Ciamberlano or maybe Francesco Brizio after Agostino Carracci, 1599–1629.]({{ '/img/piano_hands.jpg' | url }})
+## Romanticism
 
 ERICH: You consider yourself to be a "neo-Romantic" composer. What does that mean?
 
@@ -27,6 +31,8 @@ ERICH: Have any of them had a particular influence on you?
 
 CORENTIN: I do not think so. Of course I have more affinity with certain composers. But I think I can truthfully say that none of them exercised any particular influence over me. Actually I'm attached to every composer in the same way as Gulliver was attached to Lilliput with hundreds of links, but none of them really strong ...
 
+## Modernism
+
 ERICH: I think it's tempting to look at Western art music as this progression towards increasing chromaticism and dissonance and bigger, looser forms, where Romanticism and especially late-Romantic music was a final intensification and the Second Viennese School the logical endpoint. Do you think atonality was inevitable? Could Western art music have taken an alternative path?
 
 CORENTIN: Always wanting to experiment further, to move forward, is part of human nature. The use of new chords and more and more complex rhythms in order to express as closely as possible the spirit of the new times has led to the dissolution of tonality. As long as it remained natural, this evolution produced masterworks in which tradition and novelty coexist in infinitely variable percentages. The dosage was sometimes explosive, sometimes tousling, but often successful.
@@ -42,6 +48,8 @@ ERICH: I know some great American composers, like Arnold Rosner and Harold Shape
 CORENTIN: Absolutely not – quite the contrary! Western Europe, and France in particular, has spearheaded this systematic destruction of all artistic tradition, of any style that could be related to the past. The conservatories have been forced to practice a clean slate policy. This undermining action, well supervised by the institutions and the media, has had the disastrous result that, for several decades, composition – in the original sense of the word – is no longer taught in the conservatories. I did all my musical courses at the _Conservatoire National Supérieur de Musique_ (CNSM) of Paris. I obtained five Prizes ... but I was not able to attempt the "Composition" Prize since this Prize is only for composers of so-called "contemporary" music, that is to say "experimental".
 
 You were quoting the American composers Rosner and Shapero who felt alienated, but many French (and, generally speaking, European) composers suffered much more than feeling alienated. Pierre Boulez stated in 1952 that "any musician who has not experienced – I do not say understood, but, in all exactness, experienced – the necessity of dodecaphonic [12-tone] language is USELESS. For his whole work is irrelevant to the needs of his epoch."[^4] The man who wrote that had full control over the entire French music scene for several decades. This logically put an end to the careers of the vast majority of composers who did not want to conform to the dodecaphonic style. And even today, at the level of cultural institutions and organisations, nothing has changed. Despite my Masters in Musical Writing and Orchestration, it is very unlikely that I will be able to make a career as a classical composer in France.
+
+## Composing Music
 
 ERICH: Both of your piano concertos in the Toccata Classics release are inspired by film music from the Golden Age of Hollywood. You have also said, in the previously mentioned interview with Anna Sutyagina: "If a classical composer wants to live from his music, yes, he must be far more 'creative', which means he must stop writing the music he loves, and he must adapt himself to his time, by being involved in multidisciplinary projects. Is it being more 'creative'? Personally, I don't think so." But was film music not also adapted to the time and the constraints of the profession?
 
@@ -85,5 +93,5 @@ CORENTIN: Absolutely. In my view, the problem is not to be "modern" or not, but 
 
 [^1]: This is pulled from the booklet of the Toccata Classics release, which can be found in PDF format [here](https://d2vhizysjb6bpn.cloudfront.net/TOCC0569DIGIBKLT.pdf).
 [^2]: ibid.
-[^3]: Corentin pointed me to two interesting-looking documentaries – _[Quand la CIA infiltrait la culture](https://www.youtube.com/watch?v=58QTcf_mFag)_ _(When the CIA Infiltrated Culture)_ and _[La face cachée de l’Art américain](https://www.youtube.com/watch?v=yUi-un4rpzU)_ _(The Dark Side of American Art)_ – discussing this, mainly in the context of pictorial art, but presumably there is a similar story to be told about music.
-[^4]: Nichols, J. F. J. W. (1997). _Composers on music: Eight centuries of writings_. UPNE.
+[^3]: Corentin pointed me to two interesting-looking documentaries – _[Quand la CIA infiltrait la culture](https://www.youtube.com/watch?v=58QTcf_mFag)_ _(When the CIA Infiltrated Culture)_ and _[La face cachée de l’Art américain](https://www.youtube.com/watch?v=yUi-un4rpzU)_ _(The Dark Side of American Art)_ – discussing this, mainly in the context of pictorial art, but perhaps there's a similar story to be told about music.
+[^4]: Nichols, J. F. J. W. (1997). _Composers on Music: Eight Centuries of Writings_. UPNE.
