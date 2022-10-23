@@ -7,6 +7,8 @@ tags: post
 
 # Is There a Place among the Barbarians for Me and My Puny Muscles?
 
+![img]({{ '/img/barbarians.jpeg' | url }})
+
 There's been [some consternation](https://forum.effectivealtruism.org/posts/x9Rn5SfapcbbZaZy9/ea-for-dumb-people) within effective altruism recently about whether "dumb" people have a place in the community.[^1] The linked post generated quite a bit of discussion. Some commenters observed that the post's author, who'd communicated a feeling of not fitting in on account of not being smart enough, seemed not dumb at all, but quite intelligent. Occasionally, such-and-such a prominent effective altruist would weigh in to insist that they themself wasn't as smart as they might seem. [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) was linked, as it should be on these occasions (and to it we could also add [Against Individual IQ Worries](https://slatestarcodex.com/2017/09/27/against-individual-iq-worries/)).
 
 My reaction when reading this was empathy (in the sense of understanding, not in the sense of sharing the feeling) but also a sneaking suspicion that everybody was missing something important.
@@ -56,8 +58,6 @@ This is only to say that intelligence helps in the pursuit of various goals. It'
 
 As mentioned, I don't myself feel intellectually inadequate when I read effective altruist writings. So I'll do a reverse outsider test (insider test?) and imagine a scenario where I _would_ feel inadequate.
 
-![img]({{ '/img/barbarians_1.jpeg' | url }})
-
 So let's imagine I was born into some generic fantasy world. I have this powerful enemy, a dragon who once engulfed my village and loved ones in flames. I know there's only one way to defeat the dragon -- on the battlefield -- and only one group who can do it -- a certain ferocious barbarian tribe. So I seek out the tribe and ask to join them. They look at my puny child's arms and tell me they need someone to pick mushrooms and cook.
 
 How do I feel about this?
@@ -85,8 +85,6 @@ So the barbarians need to strike a balance in how selective they should be. They
 I guess what I'm getting at is that ultimately there's a trade-off here in how selective a community should be. You can be really accommodating while also being permissive, and that's good, but it doesn't get you all the way; you'll probably still need to do some selecting at some point.
 
 This is the case for the barbarian tribe because it's highly unusual. Its members are stronger and better fighters than the average person. More generally, any highly unusual group is likely to regress towards the mean as it grows.
-
-![img]({{ '/img/barbarians_2.jpeg' | url }})
 
 (One possible strategy for future effective altruists could be to spread the movement's ideas without growing the community. It's possible to promote [scope sensitivity](https://forum.effectivealtruism.org/topics/scope-neglect), [probabilistic thinking](https://forum.effectivealtruism.org/topics/model-uncertainty), [moral circle expansion](https://forum.effectivealtruism.org/topics/moral-circle-expansion-1), [rationality](https://www.lesswrong.com/tag/rationality) and so on without tying those concepts to effective altruism. That said, I think the effective altruism community can grow a great deal before it starts to lose what makes it special or hits serious diminishing returns.)
 

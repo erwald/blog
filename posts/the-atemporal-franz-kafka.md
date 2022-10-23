@@ -7,7 +7,7 @@ tags: post
 
 # The Atemporal Franz Kafka
 
-![img]({{ '/img/kafka_1.jpeg' | url }})
+![img]({{ '/img/kafka.jpeg' | url }})
 
 > Accustom yourself to the idea that death is nothing to us. For all good and all bad are vested in sense perception, and death is deprivation of sense perception.
 >
@@ -42,8 +42,6 @@ Maybe an atemporal creature is like a law of nature. At some point, the law will
 Or imagine a stone. At first the stone is not a stone at all, but only a portion of a mountain side. But one day it is dislodged from the mountain and bounces down its slope until it comes to rest at the foot of the mountain, where it is soon covered by fallen leaves and other matter. The stone is an atemporal creature, and its descent down the mountain is that creature's life.
 
 I mostly buy us thinking of ourselves as something like atemporal creatures. (Do we really, though? Maybe all that matters to me is my future experiences?) And I mostly buy that we could think of the objects of duties as such too. But I don't understand exactly _why_ we should do that, except that it seems like a neat solution to various philosophical problems (like the one illustrated by Epicurus in the epigraph). Sure, it could be like that, but couldn't it just as well be otherwise? I'm worried that it's too arbitrary.
-
-![img]({{ '/img/kafka_2.jpeg' | url }})
 
 ## Implications
 

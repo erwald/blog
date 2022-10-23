@@ -5,17 +5,17 @@ date: 2022-07-02
 tags: post
 ---
 
-# Taste Disclosure Asymmetry
+# Taste Disclosure Asymmetryx
+
+![img]({{ '/img/street_conversation.jpeg' | url }})
 
 Jacques says he really likes some new Star Wars movie. Then immediately Gilberte says she really dislikes it. Isn't Gilberte being a little rude? If I were Gilberte, I'd probably feel the urge to cushion my opinion, maybe emphasising that mine is the minority view or saying I only dislike the thing due to some weird personal deficiency.
 
 Now imagine it was the other way round. First Gilberte says she dislikes the movie. Then immediately Jacques says he likes it. This seems totally fine!
 
-![img]({{ '/img/street_conversation.jpeg' | url }})
-
 That's the taste disclosure asymmetry. It seems rude to state one's dislike of a thing after someone else has stated their like of it, whereas the reverse doesn't seem rude at all. Why? I can think of some possible reasons:
 
-- Maybe it's to do with signalling? When Jacques says he likes the Star Wars movie, it means Star Wars is "on his level". When Gilberte says she dislikes it, it's implied that Star Wars is beneath her – that she is too smart or sophisticated or discerning to like Star Wars – and that way strips Jacques of some of his respect and dignity. Hence the asymmetry: it's rude to try to raise your own status at someone else's expense, but it's not rude to raise someone else's status at your own expense.
+- Maybe it's to do with signalling? When Jacques says he likes the Star Wars movie, it means Star Wars is "on his level". When Gilberte says she dislikes it, it's implied that Star Wars is beneath her -- that she is too smart or sophisticated or discerning to like Star Wars -- and that way strips Jacques of some of his respect and dignity. Hence the asymmetry: it's rude to try to raise your own status at someone else's expense, but it's not rude to raise someone else's status at your own expense.
   - Making your taste known is like making an investment. By declaring that he likes the Star Wars movie, Jacques invests some of his status in it. When Gilberte says she dislikes it, its price drops, for its value as a status object depends entirely on other people valuing it. Jacques's investment is worth less now; he's lower status.
   - This predicts that Jacques would feel worse if Gilberte is someone he really admires (as opposed to someone who does not matter to him). That seems to check out.
   - This can't be all of it, though, can it? Maybe this is my limited imagination working here, but I can't imagine Jacques's declaring himself a fan of the new Star Wars movie being an actual status play. Star Wars seems pretty uncool. But it's still mildly rude for Gilberte to follow up with how much she dislikes it (justified though she may be).

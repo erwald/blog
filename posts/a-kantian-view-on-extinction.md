@@ -7,7 +7,19 @@ tags: post
 
 # A Kantian View on Human Extinction
 
-To a utilitarian, whether or not human extinction is bad depends on whether we expect the long-term future to be positive or negative. Whatever it is, there'll be a lot of it. Maybe we don't outlive the century. But if we do, we may survive for 1-10 million years, as many other species do (Ord 2020, 218–19). Or we may survive for several hundred million years, as some other species do (Ord 2020, 220). Or with some luck we may survive for 1+ billion years, or many billions of years if we leave the planet or even the galaxy (Ord 2020, 221–23). If we think the future is good, we should think it's very good; if bad, we should dread it like we dread our own deaths.
+![img]({{ '/img/hazmat_suit.jpeg' | url }})
+
+## Summary
+
+Human extinction would involve the death of everyone, which is a bad thing under any moral theory. But the deontologist in me thinks complete extinction would be especially bad for three reasons:
+
+1. We'd be failing in our duty to humanity itself (55% confidence).
+2. We'd be failing in our duty to all those who have worked for a better future (70% confidence).
+3. We'd be failing in our duty to those wild animals whose only hope for better lives rests on future human technology (35% confidence).
+
+## Introduction
+
+To a utilitarian, whether or not human extinction is bad depends on whether we expect the long-term future to be positive or negative. Whatever it is, there'll be a lot of it. Maybe we don't outlive the century. But if we do, we may survive for 1-10 million years, as many other species do (Ord 2020, 218--19). Or we may survive for several hundred million years, as some other species do (Ord 2020, 220). Or with some luck we may survive for ≥1 billion years, or many billions of years if we leave the planet or even the galaxy (Ord 2020, 221--23). If we think the future is good, we should think it's very good; if bad, we should dread it like we dread our own deaths.
 
 I think utilitarianism is fairly plausible and give it some weight. I think Kantianism is more plausible and give it more weight. What does Kantianism say about human extinction?
 
@@ -17,21 +29,11 @@ I know some other people who'd say: Isn't human extinction just obviously good? 
 
 But this post is not about people dying. It's about the death of humanity. Sure, each person's death is bad, and _perhaps_ also good (to the extent that they would've caused harm). I'm asking you to ignore those things and ask yourself: How much worse than the death of everyone except a minimally sustainable population is the death of _literally everyone_? How much worse (or better) is the death of all 8 billion people[^2] than the death of, say, 7,999,900,000 people? Is it only 0.001% worse? It probably would take a terrible catastrophe to bring human extinction about, but that no more means extinction is bad than the tragedy of the Shoah means there's no value in Paul Celan's poetry.
 
-![img]({{ '/img/scientist_1.jpeg' | url }})
-
-## Summary
-
-The deontologist in me thinks human extinction would be very bad for three reasons:
-
-1. We'd be failing in our duty to humanity itself (55% confidence).
-2. We'd be failing in our duty to all those who have worked for a better future (70% confidence).
-3. We'd be failing in our duty to those wild animals whose only hope for better lives rests on future human technology (35% confidence).
-
 ## Letting Down Humanity
 
 Korsgaard (2018) makes roughly the following argument. We humans (unlike the other animals) think of ourselves as a collective agent, a "species-being". (It makes sense to ask, for example, "Will we colonise the galaxy?" and thereby refer to a multi-generational project in which all humans have a stake.) Claims about rights (says Kant) only make sense in a political community (which is kind of like a collective agent); the ultimate political community comprises the entire human species, so if we make claims of rights, we're committed to considering humanity as a collective agent. We humans (again unlike the other animals) are also aware of the grounds for our (potential) beliefs and actions; this allows us to reason _normatively_. Because we can reason normatively, we evaluate ourselves based on our actions, based on whether we act in a way that anyone can rationally endorse. That makes the ends that everyone share (the species-being's ends) especially important. Therefore, human extinction is especially bad (because all those important species-being-y actions would be thwarted).
 
-My crude interpretation of the argument is something like, "It's important for us to think that we're good people. Doing good (in deontology) means taking good actions. Good actions are (roughly speaking) those that follow a maxim that any human can rationally endorse. Therefore, acting according to a maxim that benefits (and _not_ acting according to one that harms) the whole of humanity is good. But if humans go extinct, all those good humanity-promoting actions – at least those that were oriented towards the future – are thwarted."
+My crude interpretation of the argument is something like, "It's important for us to think that we're good people. Doing good (in deontology) means taking good actions. Good actions are (roughly speaking) those that follow a maxim that any human can rationally endorse. Therefore, acting according to a maxim that benefits (and _not_ acting according to one that harms) the whole of humanity is good. But if humans go extinct, all those good humanity-promoting actions -- at least those that were oriented towards the future -- are thwarted."
 
 Daniel Kokotajlo recently wrote a deep and lucid post [illustrating Kant's ethics with a "decision theory app store"](https://www.lesswrong.com/posts/byMNKEXBn4RTcaaa6/immanuel-kant-and-the-decision-theory-app-store). Allow me to quote at length:
 
@@ -47,7 +49,7 @@ Daniel Kokotajlo recently wrote a deep and lucid post [illustrating Kant's ethic
 >
 > Kant says:
 >
-> "Look, it's complicated, and despite me being the greatest philosopher ever I don't know all the intricacies of how it'll work out. But I can say, at a high level of abstraction: The hyper-sophisticated advice bots are basically legislating laws for all their users to follow. They are the exalted Central Planners of a society consisting of their users. And so in particular, the best bot, the optimal policy, the one we call Instrumental Rationality, does this. And so in particular if you are trying to think about how to be rational, if you are trying to think about what the rational thing to do is, you should be thinking like this too – you should be thinking like a central planner optimizing the behavior of all rational beings, legislating laws for them all to follow."
+> "Look, it's complicated, and despite me being the greatest philosopher ever I don't know all the intricacies of how it'll work out. But I can say, at a high level of abstraction: The hyper-sophisticated advice bots are basically legislating laws for all their users to follow. They are the exalted Central Planners of a society consisting of their users. And so in particular, the best bot, the optimal policy, the one we call Instrumental Rationality, does this. And so in particular if you are trying to think about how to be rational, if you are trying to think about what the rational thing to do is, you should be thinking like this too -- you should be thinking like a central planner optimizing the behavior of all rational beings, legislating laws for them all to follow."
 
 Thinking about it this way, I think it's clear that such a central planner would try really hard not to legislate laws that increase the risk of human extinction. Because not only could this predictably screw over _everyone_, but by causing our extinction it would completely undermine itself; should we die, it'll have lost its reason to exist.
 
@@ -55,11 +57,9 @@ Thinking about it this way, I think it's clear that such a central planner would
 
 In making her argument, Korsgaard references Scheffler (2013), which points out that many of our long-term goals would become meaningless if we were the last generation of humans. In a [review of _The Precipice_](https://archive.ph/UnOsH#selection-2243.0-2249.413), Jim Holt writes:
 
-> [The prospect of imminent human extinction] would be 'profoundly depressing' [according to Scheffler]. And the reason is that the meaning and value of our own lives depend on their being situated in an ongoing flow of generations. Humanity's extinction soon after we ourselves are gone would render our lives today in great measure pointless. Whether you are searching for a cure for cancer, or pursuing a scholarly or artistic project, or engaged in establishing more just institutions, a threat to the future of humanity is also a threat to the significance of what you do. True, there are some aspects of our lives – friendship, sensual pleasures, games – that would retain their value even in an imminent doomsday scenario. But our long-term, goal-oriented projects would be robbed of their point.
+> [The prospect of imminent human extinction] would be 'profoundly depressing' [according to Scheffler]. And the reason is that the meaning and value of our own lives depend on their being situated in an ongoing flow of generations. Humanity's extinction soon after we ourselves are gone would render our lives today in great measure pointless. Whether you are searching for a cure for cancer, or pursuing a scholarly or artistic project, or engaged in establishing more just institutions, a threat to the future of humanity is also a threat to the significance of what you do. True, there are some aspects of our lives -- friendship, sensual pleasures, games -- that would retain their value even in an imminent doomsday scenario. But our long-term, goal-oriented projects would be robbed of their point.
 
 You can look at your own goals, projects and aspirations and see this as a selfish reason to not want humanity to go extinct. You can look at others' goals, projects and aspirations and see that as an altruistic reason to avoid human extinction.
-
-![img]({{ '/img/scientist_2.jpeg' | url }})
 
 Most people who have ever worked to attain long-term goals, have died. I [find it plausible]({{ '/posts/the-atemporal-franz-kafka/' | url }}) that we can have duties to dead people, and therefore think Scheffler's idea is one reason to avoid human extinction, though I feel like it's a relatively weak reason. Like, if I kill someone in the present, that's really mostly bad because that someone lost their life, and not because their parents and grandparents worked in vain to give them a good life. But it does feel like we'd be letting down all those who've worked so hard to make it happen should we fail to, I dunno, [completely eradicate polio](https://en.wikipedia.org/wiki/Polio_eradication) or something.
 
@@ -80,7 +80,7 @@ When I think of extinction, I think of a remark that Nietzsche made about Arthur
 
 <style>.csl-entry{text-indent: -2em; margin-left: 2em;}</style><div class="csl-bib-body">
   <div class="csl-entry">Bostrom, Nick. 2004. “Golden.”</div>
-  <div class="csl-entry">Korsgaard, Christine M. 2018. “Species-Being and the Badness of Extinction and Death.” <i>Zeitschrift Für Ethik Und Moralphilosophie</i> 1 (1): 143–62. https://doi.org/10.1007/s42048-018-0002-3</div>
+  <div class="csl-entry">Korsgaard, Christine M. 2018. “Species-Being and the Badness of Extinction and Death.” <i>Zeitschrift Für Ethik Und Moralphilosophie</i> 1 (1): 143--62. https://doi.org/10.1007/s42048-018-0002-3</div>
   <div class="csl-entry">Ord, Toby. 2020. <i>The Precipice: Existential Risk and the Future of Humanity</i>. Hachette Books.</div>
   <div class="csl-entry">Scheffler, Samuel. 2013. <i>Death and the Afterlife</i>. Oxford University Press.</div>
 </div>
