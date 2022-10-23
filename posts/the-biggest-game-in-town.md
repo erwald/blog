@@ -37,7 +37,7 @@ Readers of this blog may have already read Scott Alexander's classic [Meditation
 
 Game A is the land where Moloch rules. It's designed to solve a set of problems for large communities with scarce resources.[^8] The problems are: resource extraction, defection (in the game-theoretic sense) and intergroup competition. The solutions include: hierarchies of power, free markets, religion, law, international treaties and professional armies.
 
-Game B is what comes after. Game B has a new set of rules, new questions and answers: it's a new paradigm. Game B is still designed to solve problems for large communities with scarce resources, but its solutions avoid Molochian traps. So instead of hierarchies of power, for example, you have decentralisation and new forms of democracy, where (the idea is) decision-makers are those who will actually be affected by a decision.[^9]
+Game B is what comes after. Game B has a new set of rules, new questions and answers: it's a new paradigm. Game B is still designed to solve problems for large communities with scarce resources, but its solutions avoid Molochian traps. So instead of hierarchies of power, for example, you have decentralisation and new forms of democracy, where (the idea is) decision-makers are those whom a decision will actually affect.[^9]
 
 How will Game B come to be? The idea is that we are in a time of flux, and will need to find a new equilibrium; Game B is meant to create an "attractor" which will pull the world into a new, better equilibrium ... A group of people will get together, create a "Proto-B Community", grow and eventually become its own little Game B civilisation, so successful that all others will be drawn to join or emulate it.[^10] Because Game A solutions fail to solve many collective action problems, Game A civilisations don't reach their full potential; Game B civilisations will solve most collective action problems and therefore outcompete Game A civilisations.[^11] (I don't think Game B theorists have any delusions about the ambition and difficulty of their project.)
 
@@ -45,7 +45,7 @@ Again -- how will Game B come to be, in practice? No one knows, really. Quoting 
 
 So much for what it is. Now for what I make of it ...
 
-## Collective Action Problems Are Very Important
+## Collective Action Problems Are Important
 
 Game B puts a lot of emphasis on collective action problems, competition, Molochian traps and so on.[^11] I agree with Game B theorists that these are very important.
 
@@ -67,17 +67,17 @@ These considerations are important but -- and I think Game B theorists agree wit
 
 First, even if we were to solve all these problems as well as we could hope for, there would still be significant catastrophic risks. For example, it could be that, given the information available to all of us, we are fundamentally mistaken about how risky some activity is. Or, even in a situation where we can eliminate risks for humans thanks to everyone taking part in the relevant decisions, we do things that are risky for future generations or non-human animals. Or everyone is weakly incentivised to do the globally optimal thing, but someone just has a fundamentally depraved value system and is able to unilaterally do a lot of damage in spite of those incentives. I'm not sure "meta-protocols for hyper-collaboration" and "win-win structures" guard against those failure modes, which are real.
 
-Second, even if we don't fully solve these problems, we can still significantly reduce the catastrophic risks involved. For example, we could generate technology and knowledge that allows us to guard against or mitigate pandemics. Or we could implement or strengthen partial solutions using methods of cooperation that we're already familar with; Ord (2020), for example, recommends increasing the budget of the Biological Weapons Convention group, giving the WHO more funding and power and introducing regulation to ensure DNA synthesis is screened for pathogens among other things.
+Second, even if we don't fully solve these problems, we can still reduce the catastrophic risks involved. For example, we could generate technology and knowledge that allows us to guard against or mitigate pandemics. Or we could implement or strengthen partial solutions using methods of cooperation that we're already familar with; Ord (2020), for example, recommends increasing the budget of the Biological Weapons Convention group, giving the WHO more funding and power and introducing regulation to ensure DNA synthesis is screened for pathogens among other things.
 
 ## The Current System Can Probably Go on for a Long Time
 
-The philosophy of Game B holds that we live in a really fragile world and that the current system -- Game A -- will therefore self-terminate.[^15][^11] But I don't see any reason why our current system -- capitalism and all[^16] -- can't in theory go on for 200+ years; specifically, I think it's 45% likely that >50% of humans live in places with free markets and private-owned businesses (say, at least as free as those in China today) in year 2222 (to take one example). I do think we are at some too-high existential risk[^17] and that various collective action problems contribute to this risk, but I don't see quite the same risks as Game B theorists do, and I think the risks can be significantly reduced within the current (Game A) system.
+The philosophy of Game B holds that we live in a really fragile world and that the current system -- Game A -- will therefore self-terminate.[^15][^11] But I don't see any reason why our current system -- capitalism and all[^16] -- can't in theory go on for 200+ years; specifically, I think it's 45% likely that >50% of humans live in places with free markets and private-owned businesses (say, at least as free as those in China today) in year 2222 (to take one example). I do think we are at some too-high existential risk[^17] and that collective action problems contribute to this risk, but I don't see quite the same risks that Game B theorists do, and I think we can reduce risks within the current (Game A) system.
 
-I guess an important thing to remember here is that the current system actually give us a lot of solutions for dealing with Molochian traps. That's how we've made it this far. It's great if we can improve the ways we cooperate, but from Game B I get the sense that our current ways of cooperating are fundamentally broken and cannot be fixed without a paradigm shift, which I think is untrue. (For more on this, see Zvi Mowshowitz's [response to "Meditations on Moloch"](https://www.lesswrong.com/s/kNANcHLNtJt5qeuSS/p/ham9i5wf4JCexXnkN).)
+I guess an important thing to remember here is that the current system actually give us a lot of solutions for dealing with Molochian traps. That's how we've made it this far. It's great if we can improve the ways we cooperate, but from Game B I get the sense that our current ways of cooperating are fundamentally broken and cannot be fixed without a paradigm shift, which I think is untrue. (For more on this, see Zvi Mowshowitz's [response to Meditations on Moloch](https://www.lesswrong.com/s/kNANcHLNtJt5qeuSS/p/ham9i5wf4JCexXnkN).)
 
 Two areas of existential risk often brought up in Game B discourse are natural resource depletion and climate change, so let me say something about those in particular.[^18]
 
-### Natural Resource Depletion Probably Won't Dostroy Our Long-Term Potential
+### Natural Resource Depletion Probably Won't Destroy Our Long-Term Potential
 
 While modern technology does come with significant existential risk, resource extraction probably doesn't? I think humanity [would recover](https://forum.effectivealtruism.org/posts/GsjmufaebreiaivF7/what-is-the-likelihood-that-civilizational-collapse-would) from all but the most extreme civilisational collapse scenarios, so for natural resource depletion to be an existential risk, it would have to be really, really bad.
 
@@ -87,7 +87,7 @@ Robert Wiblin has also looked into natural resource depletion and [seems bearish
 
 Game B texts discuss resource depletion because it's a paradigmatic Molochian trap: it's good for those who extract and make use, but bad for all of us if we run out, and hard to slow down (because you get outcompeted). I don't think it's as large a problem as they seem to do, so this seems like an area where collective action problems are not (yet) catastrophic.
 
-### Climate Change Probably Won't Dostroy Our Long-Term Potential
+### Climate Change Probably Won't Destroy Our Long-Term Potential
 
 Benjamin Hilton recently published [a well-researched article](https://80000hours.org/problem-profiles/climate-change/) on climate change. He writes:
 
