@@ -7,9 +7,9 @@ tags: post
 
 # Child Prodigies
 
-"Mozart Magnus, corpore parvus." – It was said that the child could play pieces on the piano when he was two. When he was four, he had written his first compositions. When five, he had performed in public. When six, before the imperial family. He was so dazzlingly talented that the Royal Society in London had to test him to see if he really was a child and not secretly older than he let on. His father called him "a miracle, which God has allowed to see the light in Salzburg".[^1] A journalist proclaimed that he was "no longer surprised that Saint Paul should have lost his head after his strange vision".[^2] The child grew up and, having fulfilled his promise, died at age 35, still in some ways a child.
-
 ![Detail of painting of Mozart as a child.]({{ '/img/child_mozart.jpeg' | url }})
+
+"Mozart Magnus, corpore parvus." – It was said that the child could play pieces on the piano when he was two. When he was four, he had written his first compositions. When five, he had performed in public. When six, before the imperial family. He was so dazzlingly talented that the Royal Society in London had to test him to see if he really was a child and not secretly older than he let on. His father called him "a miracle, which God has allowed to see the light in Salzburg".[^1] A journalist proclaimed that he was "no longer surprised that Saint Paul should have lost his head after his strange vision".[^2] The child grew up and, having fulfilled his promise, died at age 35, still in some ways a child.
 
 In the mid 1800s, everybody knew that the greatest chess players came from Europe. So when a Hungarian chess master visited New Orleans and was invited to play against a local 13 year old, he had no reason to think he would lose.[^3] The boy, who had been the strongest player in New Orleans since he was nine, bested the Hungarian handily. A decade later he had stormed through Europe, winning against all the strong players there too. One of his greatest opponents complained, "I win my games in seventy moves but Mr. Morphy wins his in twenty, but that is only natural ..." Having returned home with no opposition left to beat, he retired at age 22 and from that point on refused to talk about chess.
 

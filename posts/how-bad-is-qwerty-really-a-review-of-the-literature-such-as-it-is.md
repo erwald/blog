@@ -7,6 +7,8 @@ tags: post
 
 # How Bad Is QWERTY, Really? A Review of the Literature, such as It Is
 
+![Drawing of hands locked in prayer and keyboard by Viktoriia Shcherbak.]({{ '/img/qwerty.jpeg' | url }})
+
 Some six or so years ago, not long after I had started working as a programmer, I developed a bad case of repetitive strain injury (RSI) and for a while couldn't use my left hand for typing, but had to rely on my right hand and dictation. This situation being obviously untenable, I took action: I purchased an ergonomic keyboard (Microsoft Sculpt), remapped shift to the space bar when pressed in combination with another key, started doing hand/wrist stretches and switched from typing on the QWERTY layout to [Colemak](https://colemak.com/). This grab bag of interventions worked, my RSI got better and, though it still flares up sometimes, I now have it under control.
 
 I have stuck with Colemak since then and have liked it and occasionally even recommended it to friends and colleagues. But beyond reading popular articles about the topic, I never really looked into the evidence on key layouts and ergonomics[^1] and productivity[^2] – until now, that is!
@@ -20,8 +22,6 @@ My current model on the RSI risk is something like this. The evidence has made m
 As for productivity, compared to e.g. Dvorak or Colemak, QWERTY seems somewhat slower for typing on the margin (80% confidence). But most people, and most programmers even, don't type enough that switching would result in a significant productivity boost (80% confidence).
 
 In general, the QWERTY layout, while undoubtedly suboptimal, doesn't seem as bad as I had thought previously. If you are interested in making the switch and don't mind the transaction cost, you might see small benefits on the margins; if not, don't bother.
-
-![Drawing of hands locked in prayer and keyboard by Viktoriia Shcherbak.]({{ '/img/qwerty.jpeg' | url }})
 
 ## QWERTY – Designed to Be Slow?
 

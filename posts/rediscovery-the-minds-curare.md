@@ -7,13 +7,13 @@ tags: post
 
 # Rediscovery, the Mind's Curare
 
+![Drawing by Viktoriia Shcherbak of inventor's desk.]({{ '/img/discovery.jpeg' | url }})
+
 I'm often apprehensive about writing things that may already have been written, of sharing ideas that may already have been thought of, of saying things that may be cliché or dull or commonplace. I think I can trace this to a fear of being seen as ignorant or uneducated, which itself can be traced to my valuing knowledge and education.[^1]
 
 I remember once when I was young and thinking, as one does, about free will. I thought, Well, probably humans are like those stones that roll down the slope of a mountain: the places they end up are precisely determined by their shape and density, the arrangement of the mountain slope and the permanent laws of mechanics. So we too always do the thing that we were always going to do, as determined by the arrangement of our sensory inputs and the particular configuration of neurons and synapses in our brain. But that is not what we humans mean when we talk about free will. Because though it is determined how we will act – so I reasoned to myself – no one actually knows what has been preordained. So as far as we're concerned our actions and those of other humans can still take countless possible shapes, no fewer than the ways a stone can roll down a mountain slope. Thus thought the teenage me. But months or perhaps years later, happening upon an article on free will, I learned that views very similar to these were called [determinism](https://plato.stanford.edu/entries/determinism-causal/) and [compatibilism](https://plato.stanford.edu/entries/compatibilism/) and had been known and discussed in philosophy for decades if not centuries.
 
 I don't mean to suggest that everything has been done before. That is obviously not true, even in a weaker sense. I just mean that it's damned difficult to come up with unique ideas, ideas no one has ever expressed, and that those who do are a damned rare species. Whatever topic you choose to write on is most likely the mere playground of a scholar who has spent years foraging it. I'm sure the very ideas that I am expressing here have been thought and expressed by other people, too.[^2]
-
-![Drawing by Viktoriia Shcherbak of inventor's desk.]({{ '/img/discovery.jpeg' | url }})
 
 On the one hand, this apprehension probably has some good sides. It means I'm more likely to [research things before writing them](https://www.lesswrong.com/posts/64FdKLwmea8MCLWkE/the-neglected-virtue-of-scholarship). It means I'm more likely to leave unpublished some writings that would produce a deserved negative response. It means I'm more likely to be original and have original thoughts. Maybe ...
 

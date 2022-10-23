@@ -7,6 +7,8 @@ tags: post
 
 # The Devastating Power and Heartbreaking Pain of Truly Changing Minds
 
+![Painting of the Prophet Joseph Smith by Alvin Gittins.]({{ '/img/lds_joseph_smith.jpeg' | url }})
+
 > The human understanding when it has once adopted an opinion [...] draws all things else to support and agree with it. And though there be a greater number and weight of instances to be found on the other side, yet these it either neglects and despises, or else by some distinction sets aside and rejects, in order that by this great and pernicious predetermination the authority of its former conclusions may remain inviolate.[^1]
 >
 > – Francis Bacon
@@ -26,8 +28,6 @@ Mormonism is a research facility for the changing of minds. That is because, on 
 I have a soft spot for the Church and its members, and I really mean that. I don't want to offend any faithful Latter-day Saints. I know that the Church brings both good and bad. I know that it offers a lot of comfort and guidance to a lot of people. That said, many of the Church's truth claims seem extremely implausible to me, and for the purposes of this essay I will consider them extremely implausible, though I will always cite official Church or Church-affiliated documents when making any such claims, and I think fair-minded Latter-day Saints will agree that there _are_ some tensions, even if they and I interpret them differently.
 
 I became interested in the Church about a decade ago. I went from being interested in atheism to being interested in religion to being interested in Ex-Mormonism to listening to and watching the [Mormon Stories](https://www.mormonstories.org/) podcast to eventually reading faithful Latter-day Saint blogs like [By Common Consent](https://bycommonconsent.com/) and [Times and Seasons](https://www.timesandseasons.org/) and even on occasion watching various General Conference talks and reading various passages from various books of Latter-day Saint scripture.
-
-![Painting of the Prophet Joseph Smith by Alvin Gittins.]({{ '/img/lds_joseph_smith.jpeg' | url }})
 
 There is one other reason why I think the Latter-day Saint faith throws things into such stark contrast. The Church has since its early years been highly concerned with its image. Unlike the Amish, say, it has always desired and strived to be a part of wider society and of the Christian tradition. The Church has established strong communication and PR arms; it seems to have made changes – to [polygamy](https://web.archive.org/web/https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/the-manifesto-and-the-end-of-plural-marriage?lang=eng), [priesthood bans for people of African descent](https://web.archive.org/web/https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/race-and-the-priesthood?lang=eng), [temple ceremonies](https://web.archive.org/web/20210721051051/https://www.fairlatterdaysaints.org/answers/Mormonism_and_temples/Endowment/Changes), [LGBT policies](https://web.archive.org/web/20210712161805/https://www.churchofjesuschrist.org/church/news/policy-changes-announced-for-members-in-gay-marriages-children-of-lgbt-parents?lang=eng) – after social pressure; it strenuously tries to distance itself from its fundamentalist cousins; it asks its member to dress presentably; it now [deemphasises](https://web.archive.org/web/https://www.deseret.com/2019/8/16/20807538/the-church-of-jesus-christ-of-latter-day-saints-mormon-lds-russell-m-nelson-full-name) the word "Mormon" in favour of "Jesus Christ".
 

@@ -7,6 +7,8 @@ tags: post
 
 # Moral Golems
 
+![Drawing by Viktoriia Shcherbak of huddling golem.]({{ '/img/golem.jpeg' | url }})
+
 > Stop thinking of the project of ethics as "figure out which simple theory is True".
 >
 > Start instead thinking of ethics as a project of trying to piece together psychological models of this insanely complicated and messy thing, "human morality".
@@ -26,8 +28,6 @@ This is similar to the sentiment expressed here by Bernard Williams:
 > Now, I don't think, when we talk about utilitarianism, that we should be thinking of it as if we were discussing simply the timeless truth of some moral system, as if it were somehow written in the galaxy what the true moral system was and we were trying to find out what that truth is. I think what we're trying to do – what we're all trying to do, utilitarians included – is to arrive at the most sensible judgment of a public morality to suit the peculiar needs of a modern society.[^2]
 
 I use **moral system** here to mean _a set of procedures and principles that, given a certain act in a certain situation, tells us whether that act is right or wrong_. Think the kind of system somebody has for picking racehorse winners, except applied to ethics.
-
-![Drawing by Viktoriia Shcherbak of huddling golem.]({{ '/img/golem.jpeg' | url }})
 
 ## Golems
 

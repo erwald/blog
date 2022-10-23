@@ -7,13 +7,13 @@ tags: post
 
 # Code Purity and Principles
 
+![Drawing by Viktoriia Shcherbak of woman with laptop.]({{ '/img/code_purity_1.jpeg' | url }})
+
 Code, like rooms, can be dirty. Mary Douglas wrote that dirt – the real, physical sort – is "matter out of place".[^1] You have an image of how you want your room to look, and all the stuff that doesn't fit that image, everything that's unwanted – that's dirt. And when you have rid your room of dirt, when it conforms to your image of how it should look, then it is clean, or pure. In this sense, cleaning is a creative act.
 
 When you program, and especially when you refactor, you also have an image (though maybe not a conscious one) of how you want your program or procedure to look, and all the lines of code that don't fit that image are _dirty_. For instance, say you read about the single-responsibility principle – that each class or module or function should be responsible for one thing only. You read about it, it makes sense to you: it looks great. Now what? Every time you see a function that does two things, or a class that does a dozen things, it looks _dirty_ to you. You want to change it so that it conforms to your image of clean code.
 
 Douglas wrote that, in the human realm, a striving for purity has given rise to dietary rules, religious rituals, and social and sexual taboos.[^2] Many of those things seem strange to us now. But don’t we have equivalents in the world of programming? Well, yes, the parallel is pretty clear. We just call them "best practices", "habits" and "code smells" instead. But undergirding it all is the same striving for purity.
-
-![Drawing by Viktoriia Shcherbak of woman with laptop.]({{ '/img/code_purity_1.jpeg' | url }})
 
 Now, you may be thinking that this is all irrational. Ancient dietary rules, magical rituals and cultural taboos are all things of the past! Like proverbs, they are crude, contradictory and based on feelings. We shouldn't let the yuck factor rule our lives. The appeal to emotion is a logical fallacy!
 

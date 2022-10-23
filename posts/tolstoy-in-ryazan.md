@@ -7,6 +7,8 @@ tags: post
 
 # Tolstoy in Ryazan
 
+![Tolstoy with a group of peasants.]({{ '/img/tolstoy.jpg' | url }})
+
 > You have heard that it was said, "An eye for an eye and a tooth for a tooth." But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also. And if anyone would sue you and take your tunic, let him have your cloak as well. And if anyone forces you to go one mile, go with him two miles. Give to the one who begs from you, and do not refuse the one who would borrow from you.[^1]
 
 Lev Nikolaevich Tolstoy was a man with a moral system. To most people, morals is what happens when you are faced with a choice of good and evil. It is intuitive and spontaneous. But Tolstoy spent many anguished years building himself a system which, given a certain situation, would output the right and proper action. He based this system on the moral teachings of Jesus of Nazareth and in particular on the Sermon on the Mount.
@@ -27,8 +29,6 @@ There was another reason, too, for his opposing private charity, which stemmed f
 
 > Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. For where your treasure is, there your heart will be also.
 
-![Tolstoy with a group of peasants.]({{ '/img/tolstoy_1.jpg' | url }})
-
 Tolstoy and his daughter Tanya went to the villages around Pirogovo and finally saw how bad things really were.[^6] In October, they made another trip, this time to Ryazan where a friend of Tolstoy's was making a Herculean effort to organise emergency relief.[^7] Troyat goes on:
 
 > "We are about to leave for the Don", wrote Tanya on October 26, 1891. "I am not looking forward to this trip and am feeling completely unenthusiastic about it, because this action of Father's is inconsistent; it is not right for him to handle funds, take in gifts and ask Mother for the money he has just turned over to her. ... He says and he writes (and I agree with him) that the people's hardships stem from the fact that they are robbed and exploited by us, the landowners, and that the whole point is not to rob them any more. That is right, and Papa did what he said, he stopped robbing them.[^8] In my opinion, there is nothing more for him to do."[^9]
@@ -46,8 +46,6 @@ It's no wonder that Tolstoy was conflicted. His moral system told him that this 
 > _(P)_ It is good to organise charitable activities for the starving poor, even if the money was gained through exploitation of them.
 
 Because it is possible that the proposition that _P_ _seemed_ right to him even as he did not _believe_ that it was right, just as murdering one innocent child to save a whole city of people might _seem_ wrong to a hedonistic utilitarian even as they don't _believe_ it is wrong. Tolstoy could even have believed that the intuition that _P_ was in a sense good, but at the same time thought that that intuition was overridden by the force of some moral system.
-
-![Peasants eating.]({{ '/img/tolstoy_2.jpg' | url }})
 
 But that seems unlikely, because he did deliberately act as if _P_. He went to Ryazan, he raised money and he organised emergency relief. So I think he really did believe that _P_; and that this belief was somehow stronger or more important than his moral system. In fact, I think that almost anyone would believe that _P_, as is also evidenced by the reaction in Russia against Tolstoy's letter to Leskov opposing charity. But why is that? There's no obvious reason why a mere intuition should weigh more heavily than a carefully considered moral system. So what was it about the proposition that _P_ that made Tolstoy prostrate himself and comply?
 

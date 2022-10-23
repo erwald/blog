@@ -7,6 +7,8 @@ tags: post
 
 # The Sadness of Tom Cruise
 
+![Drawing by Viktoriia Shcherbak of poster of Tom Cruise alongside an empty chair.]({{ '/img/tom_cruise_1.jpeg' | url }})
+
 > We talked about how Martian-like Patrick Bateman was, how he was looking at the world like somebody from another planet, watching what people did and trying to work out the right way to behave. And then one day he [Christian Bale] called me and he had been watching Tom Cruise on David Letterman, and [Cruise] just had this very intense friendliness with nothing behind the eyes, and [Bale] was really taken with this energy.[^1]
 >
 > – Mary Harron
@@ -14,8 +16,6 @@ tags: post
 Tom Cruise, though he is a movie star, though he's had every wish granted, though no barrier can stand in the way of his desire, is in his heart of hearts a sad and lonely man. His church, such as it is, at once worships him and treats him like a child. One needs only to remember the reports of how church leaders auditioned brides for him to see that Tom Cruise is the puppet emperor of Scientology, feebler than a child-king. Time and again, the church puts its little prince on parade in the most embarrassing fashion. People laugh at him behind his back. And he has to know this – on some level, though he seems so very sheltered, he _must_ know this given the amount of ridicule he has been subjected to, after the Oprah couch jumping, after the leaked Scientology tapes, after interview after interview after interview.
 
 To ordinary people, nearly everything can be joked about: few subjects are off limits. To Tom Cruise, everything is deadly serious, especially if it's a laughing matter. He has cordoned off his whole life and much of the world – make light of this and you are his enemy. Instead, he focuses his laughter onto trivial things, onto other people. But he is not really laughing. He is simulating laughter, badly. Because he does not really find things funny.
-
-![Drawing by Viktoriia Shcherbak of poster of Tom Cruise alongside an empty chair.]({{ '/img/tom_cruise_1.jpeg' | url }})
 
 Here is Neil Strauss (of _The Game_ fame) in a feature from 2004:
 

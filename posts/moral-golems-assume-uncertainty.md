@@ -4,17 +4,18 @@ title: Moral Golems Assume Uncertainty
 date: 2021-08-28
 tags: post
 ---
+
 # Moral Golems Assume Uncertainty
 
+![Drawing by Viktoriia Shcherbak of huddling golem.]({{ '/img/golem2.png' | url }})
+
 > [T]he Christian humanist and Hebraist Johannes Reuchlin (1492) report[ed] the creation of an artificial anthropoid whose forehead bore the Hebrew inscription "YHVH Elohim emeth" (The name of God is truth) and who fell dead to the ground when the aleph, the first letter forming the Hebrew word for truth, was removed.[^1]
-> 
+>
 > – Cathy Gelbin
 
 I used to consider myself vaguely utilitarian, but after reading _Fellow Creatures_[^2] and other texts by Christine M. Korsgaard I began to see myself more as a Kantian. Her ethics make a lot of sense to me, though I still find myself thinking at times in utilitarian or even Schopenhauerian terms. The weird thing is that I want to pick a favourite. Or maybe I should say "find myself wanting", because of course from some distance I can see that, when it comes to ethics, where evidence is scarce and _p_-values rarely cross the magical threshold, a stiff dose of uncertainty is a good thing. I suppose I find myself wanting to pick a favourite partly because I want to make it part of my identity (hmm, hmm) and partly because I feel that it is the necessary groundwork one needs to make before one can decide what to think about object-level moral issues.
 
 That was the tension I was trying to resolve when I wrote the post about [moral golems]({{ '/posts/moral-golems/' | url }}). I argued, or suggested perhaps, in it that we "should not search for the one true moral system, [but] seek many moral systems that each have _a truth_ in them" and that "the project of ethics is not dissimilar from that of the social sciences, say, in that it tries to produce answers by modelling the essential characteristics of very complicated human structures". I likened such a moral system to a golem that we inscribe with truth, animate and instruct, and which, like a statistical model, does no more and no less than what we tell it to do. I was not aware at the time that a group of philosophers had been working on exactly this question under the heading **moral uncertainty**, but I am happy to report now that my discovering this caused me no annoyance, though it might have long ago.
-
-![Drawing by Viktoriia Shcherbak of huddling golem.]({{ '/img/golem2.png' | url }})
 
 How would the moral golem approach work in practice? Say Suleiman has decided that Utilitarianism, Kantianism and the ethics of Arthur Schopenhauer all have some truth in them. He is not sure about which one of them is true, if one is at all, but they seem like likely candidates. An Ottoman general knocks on his door and asks him are there any Armenians in his house? Suleiman is in fact hiding an Armenian family in his attic. The utilitarian calculation favours lying to the Ottoman general; the Kantian calculation (in the particular variant of Kantianism to which he subscribes, at least) favours telling the truth; Schopenhauer would probably recommend lying, too, as that seems to be more compassionate and to negate the will-to-life within Suleiman in that it (1) puts his own life in danger and (2) recognises the oneness of all striving things. Having thought about this before and heard the majority of the three golems answer in favour of lying, Suleiman goes ahead and lies to the Ottoman general.
 
@@ -53,23 +54,18 @@ However, because their focus is local, people at stage three are basically unabl
 But at stage five – and here it gets interesting – we begin to look at things from a meta perspective. We see contradictions between systems and learn how to resolve those contradictions:
 
 > For stage 4, a system is justified by an ideology that grounds out in some set of ultimate principles. When you realize that the system doesn't work as well as the ideology claims it should, you look for an alternative set of principles. This can motivate adopting a series of political or religious affiliations, each of which seems at first to be _right_; and each of which eventually fails you.
-> 
+>
 > But at some point you realize that all principles are somewhat arbitrary or relative. There is no ultimately true principle on which a correct system can be built. It's not just that we don't yet know what the absolute truth is; it is that there _cannot_ be one. All systems come to seem inherently empty.
-> 
+>
 > [...]
-> 
+>
 > Fluid epistemology can relate systems to each other, in a way that the systematic mode cannot. Systems become objects of creative play rather than constitutive of self, other, and groups. Fluidity can hold contradictions between systems comfortably while respecting the specific functioning and justification-structure of each. All ideologies are relativized as tools rather than truths. [...] Stage 5 can, therefore, _conjure_ with systems, as animated characters in a magical shadow-play drama.
 
 I suppose I should be flattered that the moral golem approach to ethics that I thought of is a sign of the highest stage of moral development, one which fewer than one in twenty American adults have reached. But I am not sure I am really entitled to, because in the end I am more of a Kantian than anything else.
 
-[^1]:	Gelbin, C. S. (2011). _The Golem returns: from German romantic literature to global Jewish culture, 1808-2008_. University of Michigan Press.
-
-[^2]:	Korsgaard, C. M. (2018). _Fellow creatures: Our obligations to the other animals_. Oxford University Press.
-
-[^3]:	Harman, E. (2015). The irrelevance of moral uncertainty. _Oxford studies in metaethics_, _10_, 53-79.
-
-[^4]:	MacAskill, M., Bykvist, K., & Ord, T. (2020). _Moral uncertainty_ (p. 240). Oxford University Press.
-
-[^5]:	ibid.
-
-[^6]:	Schopenhauer, A. (2016). _Arthur Schopenhauer: The World as Will and Presentation: Volume I_. Routledge.
+[^1]: Gelbin, C. S. (2011). _The Golem returns: from German romantic literature to global Jewish culture, 1808-2008_. University of Michigan Press.
+[^2]: Korsgaard, C. M. (2018). _Fellow creatures: Our obligations to the other animals_. Oxford University Press.
+[^3]: Harman, E. (2015). The irrelevance of moral uncertainty. _Oxford studies in metaethics_, _10_, 53-79.
+[^4]: MacAskill, M., Bykvist, K., & Ord, T. (2020). _Moral uncertainty_ (p. 240). Oxford University Press.
+[^5]: ibid.
+[^6]: Schopenhauer, A. (2016). _Arthur Schopenhauer: The World as Will and Presentation: Volume I_. Routledge.

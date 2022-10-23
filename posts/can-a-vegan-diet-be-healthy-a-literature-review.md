@@ -7,6 +7,8 @@ tags: post
 
 # Can a Vegan Diet Be Healthy? A Literature Review
 
+![img]({{ '/img/woman_eating_bowl.jpeg' | url }})
+
 > The skins crawled, and the meat that was stuck on the spits bellowed,  
 > both roast and raw, and the noise was like the lowing of cattle.[^1]
 >
@@ -25,8 +27,6 @@ If the Four Horsemen of the Apocalypse in the Christian tradition were Death, Fa
 High body mass index, high blood fat, high blood pressure and diabetes all increase the risk of heart problems, stroke and so on.[^5] In a meta-study from 2018, Benatar & Stewart looked at these risk factors among vegans.[^6] They included 40 observational studies, mostly done in the West but with a considerable number also from Taiwan.[^7] In what will be a bit of a recurring theme, they found different results in the West and in Asia.[^8] In Western studies, vegans had lower body mass index, lesser waist circumference, reduced blood sugar levels, lower low-density lipoprotein _(protein that transfer lipids around the body; fats are a kind of lipid)_ cholesterol _(a type of lipid)_, less body fat and lower blood pressure than omnivores.[^9] But in the Taiwanese studies these differences were much smaller or vanished completely.[^10] Other observational studies seem to produce similarly significant results when comparing with Western diets.[^11]
 
 But again, these are not RCTs. I don't think these studies even control for confounds, or at least the authors of the meta-studies don't mention that. They just do some subpopulation analyses. But as mentioned before, if self-selected vegans tend to exercise more, smoke less, eat less junk food and afford healthier lifestyles generally, that might be enough to explain the difference.
-
-![Sketches of deer in wilderness.]({{ '/img/vegan_sketch_1.jpeg' | url }})
 
 Fortunately, there are a bunch of RCTs made on veganism/vegetarianism and cardiovascular disease.
 
@@ -69,8 +69,6 @@ Nor are there any RCTs on vegan/vegetarian diets and diabetes – we had seen ma
 ## Weight Reduction
 
 As we've seen, obesity is associated with a number of diseases, including diabetes but also cardiovascular disease and others.[^49] Huang et al. reviewed 12 RCTs in a 2015 meta-study on veganism/vegetarianism and weight reduction.[^50] They found that, though vegetarian diets did better than the omnivore diets, vegan diets beat them by a wider margin.[^51] Again, this makes sense, because vegan diets are high on whole grains, fruit and vegetables. However, the improvement was attenuated over time.[^52] So it's hard to say whether this is a long-term effect (though given that observational studies point in the same direction, it seems probable).
-
-![Sketch of forested mountain landscape.]({{ '/img/vegan_sketch_2.jpeg' | url }})
 
 Judging purely from the author names, I assume most of these 12 RCTs were carried out in the West, but the control subjects here were assigned low-fat diets, anti-diabetes diets, weight-reducing diets and so on.[^53] So the results carry not only against the standard Western diet but seemingly also against healthier omnivore diets.
 

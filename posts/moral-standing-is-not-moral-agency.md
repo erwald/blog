@@ -7,6 +7,8 @@ tags: post
 
 # Moral Standing Is Not Moral Agency
 
+![Drawing by Viktoriia Shcherbak of a predator attacking its prey.]({{ '/img/wild_animal_suffering.jpeg' | url }})
+
 > PETER SINGER: I hold these views because I think there are real problems, and you seem to acknowledge that in terms of the separation that we make between humans and animals, and the fact that we seem to think it's fine to confine billions of animals to, you know, appalling conditions in factory farms. I think, actually, that the religious traditions, and even specifically the Christian tradition, with its complete separation of humans and animals, is largely – or not largely – significantly responsible for this fact, that we don't bring animals within the moral sphere. I don't see you defending that, and I do see it as a serious objection to the claim that Christianity is such an enlightened morality.
 >
 > DINESH D'SOUZA: Well, I think that there is a very good reason that we make this distinction between the animals and us, and the reason can be discerned by turning on the nature channel. There you will see, for example, a gorilla move into the territory of another gorilla, bludgeon him with blows, grab the female gorilla, drag her screaming into his lair, rape her ...[^1]
@@ -16,8 +18,6 @@ tags: post
 But I often see people conflating these two. Usually this conflation takes the form of believing that any property of a creature that might confer moral agency also confers moral standing, or conversely that a property that might grant moral standing must also grant moral agency. I think this happens because humans possess both of these: the vast majority of humans have both moral standing and moral agency. I say the vast majority, because most people would agree that some humans, for example infants or some severely mentally ill people, have moral standing but no moral agency, in the same way that they can be protected by some laws even as they are not bound by them. (You could also argue, though I won't do so here, that some entities have moral agency without having moral standing, for example corporations or autonomous countries.)
 
 Most often, I see this confusion come up in debates among laypeople such as myself about animal rights. For instance, someone will say that we have no obligation to treat the other animals well because they do not have any conception of morality, or because they do not themselves act morally to animals of other species, or because they cannot reciprocate, or because they are incapable of entering into contractual relationships. What this person has to do is to find out where they think our obligations _to other people_ come from. Then it is possible to see whether these grounds apply to the other animals as well. But I think that a lot of people who make this argument do not have the standing-agency distinction in mind, and assume that anything that applies to the one also applies to the other.
-
-![Drawing by Viktoriia Shcherbak of a predator attacking its prey.]({{ '/img/wild_animal_suffering.jpeg' | url }})
 
 I don't mean to say that one cannot make the argument that the source of moral standing lies in moral agency, or in faculties that are also the source of moral agency. Numerous philosophers have done so, from many of the ancients on through Thomas Aquinas and Immanuel Kant.[^3] I only mean to say that many people mix them up or else haven't thought about how they are related to one another, or about how things like rationality and reciprocity are connected to them.
 

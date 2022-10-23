@@ -7,6 +7,8 @@ tags: post
 
 # Scoring My Veganism Predictions
 
+![Drawing of cow by Viktoriia Shcherbak.]({{ '/img/eating_animals_1.jpeg' | url }})
+
 Six months ago [I vowed]({{ '/posts/my-path-towards-veganism/' | url }}) to adopt the vegan diet and set up a step-by-step plan to get there. I also made six predictions about how things would turn out. I prophesied:
 
 > On February 1st 2022,
@@ -17,8 +19,6 @@ Six months ago [I vowed]({{ '/posts/my-path-towards-veganism/' | url }}) to adop
 > 4. I will not have consumed any eggs at home after November 1st 2021 ⇒ 70%
 > 5. I will not have consumed any cheese at home after December 1st 2021 ⇒ 80%
 > 6. I will not have consumed any eggs or cheese at all after January 1st 2022 ⇒ 80%
-
-![Drawing of cow by Viktoriia Shcherbak.]({{ '/img/eating_animals_1.jpeg' | url }})
 
 I am pleased to report that I am now, in fact, vegan. I have abstained from animal products completely starting January 1st, but to a large degree also during the fall and early winter. That said, I did not do perfectly on all these steps. Specifically, I had dairy products once (without really thinking about it) in November, making the third statement false. Here is how the predictions turned out:
 
