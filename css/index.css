@@ -23,6 +23,11 @@ body {
   margin: 0;
 }
 
+b,
+strong {
+  font-weight: 600;
+}
+
 a {
   font-weight: 600;
   background-color: var(--light-blue);
