@@ -7,6 +7,20 @@ tags: post
 
 # Weakly Against the Cessation of the Issuance of Tourist Visas for Russians
 
+![img]({{ '/img/russian_tourists.jpeg' | url }})
+
+## Summary
+
+I argue that, while each nation should be free to decide for itself whether to receive Russian tourists, the arguments commonly given in favour of tourist visa bans for Russians are weak:
+
+- I don't think a ban will affect the outcome or timeline of the war.
+- I don't think a ban will meaningfully reduce the risks of high-stakes Russian black ops.
+- I don't think it makes sense to assign guilt to ordinary Russians and to demand that they act on the basis of that guilt.
+
+So since there are benefits to allowing Russians to travel to Europe on tourist visas, a ban seems unjustified, at least for now.
+
+## I'm against the Russian Regime
+
 Let me just get this out of the way before I set out to defend the rights of Russian citizens:
 
 - I think the Russian invasion of Ukraine is nauseating and has caused and will keep causing much suffering, especially for Ukrainians.
@@ -15,11 +29,9 @@ Let me just get this out of the way before I set out to defend the rights of Rus
 
 The reason I mention this is to assure you that I'm not a Kremlin supporter. I just happen to think that the proponents of a Russian tourist visa ban are wrong on this particular point, as I will soon explain. (However, you'll find some caveats in this footnote.[^1])
 
-Let me start by setting the scene.
-
-![img]({{ '/img/russian_tourists_1.jpeg' | url }})
-
 ## "Whichever Kind of Russian ... Make Them Go to Russia"
+
+Let's set the scene ...
 
 **Exhibit 1.** On August 8, the Washington Post [reported](https://archive.ph/59rfp#selection-929.16-944.0):
 
@@ -50,8 +62,6 @@ The piece goes on to quote Reinsalu as saying:
 (I don't have a strong opinion on whether the Russian opposition should or should not criticise this. That's a strategic and empirical question I don't know much about.)
 
 Since then European foreign ministers [have convened in Prague](https://archive.ph/xPhKW) to discuss the matter, though the Union remains partly divided.
-
-![img]({{ '/img/russian_tourists_2.jpeg' | url }})
 
 ## The Arguments and What I Think about Them
 
