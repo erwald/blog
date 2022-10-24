@@ -65,7 +65,7 @@ FRUNIMIUS: That's right. You know me. I'm not bitter -- or well, maybe I'm bitte
 
 ENDEQUINA: I agree: becoming the thing and being the thing are not the same. But me being the thing and you being the thing are also not the same ... If you ask someone how they're doing, their answer will always be relative to how well or badly they expect they might do. You can't compare across people. There can still be vast chasms of differences in how they actually feel. You may be absolutely happy, and I may be absolutely happy, but your absolute happiness may be more than mine.
 
-FRUNIMIUS: Can you not? Everyone wants to be loved, no one wants to be in pain, we all desire the good opinion of our village. Well ... but even if I grant you that we dwarfs sometimes feel worse than others, even though it doesn't seem like that to us, that is still only because of how our villages treat us, I think. It would perhaps not be too wrong to say that disability is not bad, but when it's bad, it's bad conditional on the village you live in.
+FRUNIMIUS: Can you not? Everyone wants to be loved, no one wants to be in pain, we all desire the good opinion of our village. Well ... but even if I grant you that we dwarfs sometimes feel worse than others, even though it doesn't seem like that to us, that is still only because of how our villages treat us, I think. It would perhaps not be too wrong to say that disability is not bad, but when it's bad, it's still not bad conditional on the village you live in.
 
 ENDEQUINA: Speaking of pain, what if a disability causes terrible pain, of the physical sort, with which no village had anything to do?
 
