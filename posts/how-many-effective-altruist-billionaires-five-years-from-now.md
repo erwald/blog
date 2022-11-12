@@ -23,7 +23,7 @@ With (I believe) moderate assumptions and a simple model, I predict 3.5 new effe
 
 If we want to predict how many effective altruist billionaires there will be in 2027, we should attend to base rates.
 
-As far as I know, there are [five or six](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation) effective altruists billionaires right now, depending on how you count. They are Jaan Tallinn (Skype), Dustin Moskovitz (Facebook), Sam Bankman-Fried (FTX), Gary Wang (FTX) and one unknown person doing earning to give. We could also count Cari Tuna (Dustin Moskovitz's wife and cofounder of Open Philanthropy). It's possible that someone else from FTX is also an effective altruist and a billionaire. Of these, as far as I know only Sam Bankman-Fried and Gary Wang were effective altruists prior to becoming billionaires (the others never had the chance, since effective altruism wasn't a thing when they made their fortunes).
+As far as I know, there are [~five](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation) effective altruists billionaires right now, depending on how you count. They are Jaan Tallinn (Skype), Dustin Moskovitz/Cari Tuna (Facebook), Sam Bankman-Fried (FTX), Gary Wang (FTX) and one unknown person doing earning to give. It's possible that someone else from FTX is also an effective altruist and a billionaire. Of these, as far as I know only Sam Bankman-Fried and Gary Wang were effective altruists prior to becoming billionaires (the others never had the chance, since effective altruism wasn't a thing when they made their fortunes).
 
 William MacAskill [writes](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation):
 
@@ -122,7 +122,7 @@ That said, the number of billionaires is steadily increasing, and that's one rea
 
 ## Appendix: Squiggle Model
 
-Here is the [Squiggle](https://www.squiggle-language.com/) model used to produce the predictions:
+Here is the [Squiggle model](https://www.squiggle-language.com/playground/#code=eNqtUttugkAQ%2FZUJT2AVFyM1JWkTTUzjU5PaR1IzlkU3wqLLUmOs%2F97deglVQGzK4865cWa2RjpP1uMsjlFsDE%2BKjDZ%2FnoYBk4k4vjDOJMNovMrYbBbRsRSMzwzP4Fk8peIlHGLaIZ0OPMK97S5AJuB0Fz73ebsNksUUGIcNRZEChpIK0GCfH9n9QJmxhGOkdPryTRFMaSmxrc9BfaiQevYskrWcv6KkatYiNnG1E7G7e9h5mAaYZgH1DhwL3kFaPt%2FVyHAF0Dq31X%2B9nAxYFGkwE3QUjj43A0zpIbjKTYjT613AhphDuTaBNjyoNgtwal5hoTopVf7TTnJa%2BWp%2Bt17ST%2BMyi85w2KyKgiceTHM%2B5eKXabw9uD6hWU9dNdK7Wdt0rYN8TAOG%2FL%2FF4esJVhlyySJq2iez5cQhZdwRPzNz1HG1brP8CELTIdqtaHMU06vX4FUNKzayb6ryzioqr8Uu6HRn7L4BPAS%2F1g%3D%3D) used to produce the predictions:
 
 ```
 numberOfEas2022 = 6.5k to 14k
@@ -160,7 +160,7 @@ numberOfAdditionalEaBillionairesAtTime(t) =
 }
 ```
 
-You can paste it directly into a [Squiggle playground](https://www.squiggle-language.com/playground/) and play around with the parameters yourself. Note that you may see slightly different results as the precise numbers depend on the random Monte Carlo draws (I think).
+Note that you may see slightly different results as the precise numbers depend on the random Monte Carlo draws (I think).
 
 [^1]: 8,455 people have taken the [Giving What We Can](https://www.givingwhatwecan.org/) pledge, but not all of those will be, or are still, effective altruists, and some effective altruists won't have taken the pledge. There are 21,468 members of the Effective Altruism Facebook group, but I'm confident that many of them aren't _committed_ effective altruists. In 2019, Rethink Priorities [estimated](https://forum.effectivealtruism.org/posts/zQRHAFKGWcXXicYMo/ea-survey-2019-series-how-many-people-are-there-in-the-ea) 4,700-10,000 active effective altruists, with a median of 6,500; with a 14% growth rate that'd bring us to 6,500 × 1.14 × 1.14 × 1.14 = 9,600 people at the end (?) of this year, kinda.
 [^2]:
