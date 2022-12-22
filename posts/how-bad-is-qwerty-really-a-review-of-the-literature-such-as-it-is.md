@@ -25,7 +25,7 @@ In general, the QWERTY layout, while undoubtedly suboptimal, doesn't seem as bad
 
 ## QWERTY – Designed to Be Slow?
 
-Here is an anecdote [recounted](https://cc.bingj.com/cache.aspx?q=url:https%3A%2F%2Fwww.cnet.com%2Fnews%2Fwhich-keyboard%2F&d=4584036057154955&mkt=en-WW&setlang=en-US&w=2I4-7kX6WLkklE9eQyhefy2banQ2dnYD) by Michael Tiemann, expressing a commonly held belief:
+Here is an anecdote [recounted](https://archive.ph/R3NCX) by Michael Tiemann, expressing a commonly held belief:
 
 > One weekend I visited Richard Stallman at MIT and I was shocked to learn that he could no longer type. He was given strict instructions by his doctor to not touch a computer keyboard for 6-12 months, and that if he did, he may lose forever his ability to type. He was a programming pioneer, and at the time, his symptoms were not well known or understood. We all came to understand that it was RSI – repetitive stress injury, exacerbated by the very keystroke combinations that made the Emacs editor such a powerful programming environment. But the root cause was not Emacs – it was the [punitive] design of the QWERTY keyboard, a legacy of the industrial era when complex keyboard mechanisms were not able to keep up with the speed of human fingers. The solution? Design a keyboard so confounding and unnatural that no human could ever outrun what the mechanism could handle. Or so they thought. Humans are remarkably adaptable, to a point. Human typists did manage (with practice and perseverance) to type every bit as quickly as before QWERTY, but at the expense of long-term health.
 
