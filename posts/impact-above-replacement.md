@@ -5,7 +5,7 @@ date: 2022-11-30
 tags: post
 ---
 
-# Impact Above Replacement
+# Impact above Replacement
 
 ![img]({{ '/img/twins.jpeg' | url }})
 
