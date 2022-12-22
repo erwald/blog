@@ -34,9 +34,9 @@ Murnane is referring not to the meaning of life, but to meaning _in_ life. I thi
 Consider these four examples:
 
 - Heranhal organises a party in his home, for which an old friend comes from afar. This friend arrives gracefully at the party and gets along well with everyone there. Afterwards, thinking about these new friendships that have blossomed between the old friend and the new ones, Heranhal experiences a shudder of pleasure.
-- Beladora reads a book about cultural evolution. The fact that a process well-known to her, evolution, is a powerful analogue of many cultural processes also familiar to her, astonishes her. It is as if a new and fertile landscape has suddenly opened up before her.
-- Drilego goes sailing on the Mediterranean with her father. At one point, the wine-dark sea causes her to remember the Odyssey, which her departed mother read to her when she was a child.[^4] She feels a tangled mixture of emotions.
-- Turtoualdus wonders what his ancestry looks like. He sends a saliva sample to a personal genomics service and gets in return a detailed report on where his ancestors came from. He now feels more rooted.
+- Beladora reads a book about cultural evolution. The fact that a process well-known to her, evolution, is a powerful analogue of cultural processes also familiar to her, astonishes her. It is as if a new and fertile landscape had suddenly opened up before her.
+- Drilego goes sailing on the Mediterranean with her father. At one point, the wine-dark sea causes her to remember the Odyssey, which her perished mother read to her when she was a child.[^4] She feels a tangled mixture of emotions.
+- Turtoualdus wonders about his heritage. He sends a saliva sample to a personal genomics service and gets in return a detailed report on where his ancestors came from. He feels more rooted.
 
 What these four examples have in common is that, in each of them, a new connection is formed in a network of some sort, and this connection-forming stirs up some or other emotion. The networks are all different. In the first situation, it is a social network; in the second, it is something like a semantic network; in the third, it is a network of impressions and memories; in the fourth, it is one of places and blood relations. But in all situations, the process is similar.
 
