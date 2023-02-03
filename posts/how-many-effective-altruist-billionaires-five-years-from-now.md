@@ -7,6 +7,12 @@ tags: post
 
 # How Many Effective Altruist Billionaires Five Years from Now?
 
+<div class="edit">
+<p>
+Addendum 2023-02-04: Given that Sam Bankman-Fried and Gary Wang <a href="https://archive.is/brx8d">appear to have committed serious fraud</a> at FTX, and as a consequence have lost most of their fortunes, it would appear EA is at minus two billionaires since I wrote this. I haven't thought much on how this changes the forecast, but here's a rough guess. First, as I mention in a footnote, the model predicts the number of <em>additional</em> billionaires, meaning the net change in EA billionaires from mid-2022 to mid-2027. So the original prediction of 3.5 additional ones would now need 5.5 new billionaires to come true. That seems improbable. <b>I now think ~2 additional billionaires (90% CI: -1 to 7) between now and mid-2027 seems about right, enough to make it ±0 since August 2022.</b> That is because (1) I'm less optimistic about EAs' money-making abilities, (2) I'm less optimistic about EA membership growth and (3) I think it's more likely now than before that wealthy EA donors stay anonymous or dissociate from EA. But time will tell.
+</p>
+</div>
+
 Dwarkesh Patel [argues](https://www.dwarkeshpatel.com/p/ea-billionaires) that "there will be many more effective altruist billionaires". He gives three reasons for thinking so:
 
 1. People who seek glory will be drawn to ambitious and prestigious effective altruist projects. One such project is making a ton of money in order to donate it to effective causes.
@@ -17,7 +23,7 @@ The post itself is kind of fuzzy on what "many" means or which time period it's 
 
 ## Summary
 
-With (I believe) moderate assumptions and a simple model, I predict 3.5 new effective altruist billionaires in 2027. With more optimistic assumptions, I predict 6.0 new billionaires. ≥10 new effective altruist billionaires in the next five years seems improbable. I present these results and the assumptions that produced them and then speculate haphazardly.
+With (I believe) moderate assumptions and a simple model, I predict 3.5 additional effective altruist billionaires in 2027. With more optimistic assumptions, I predict 6.0 additional billionaires. ≥10 additional effective altruist billionaires in the next five years seems improbable. I present these results and the assumptions that produced them and then speculate haphazardly.
 
 ## Assumptions
 
@@ -43,11 +49,11 @@ Let's make the following assumptions:
 
 ## Implications
 
-Given these (pretty generous, in my opinion) assumptions, the probability that we'll have ≥10 new effective altruists in 2027 is roughly 14% (with 37% of ≥5 and 76% of ≥1). That's way less than Patel's proposed 50% (or the market's 38% as of my writing this). Instead, the model predicts we'll get 3 or 4 new effective altruist billionaires in that time (which is not bad).[^4]
+Given these (pretty generous, in my opinion) assumptions, the probability that we'll have ≥10 additional effective altruists in 2027 is roughly 14% (with 37% of ≥5 and 76% of ≥1). That's way less than Patel's proposed 50% (or the market's 38% as of my writing this). Instead, the model predicts we'll get 3 or 4 additional effective altruist billionaires in that time (which is not bad).[^4]
 
 ![img]({{ '/img/ea_billionaires.png' | url }})
 
-Even if we say with certainty that P(billionaire|effective altruist) is 0.0526%, ignoring the Ivy League base rate, the probability that we'll have ≥10 new billionaires in 2027 is roughly 31%. Either way, 50% looks improbable to me: in order to get there, you'd need to assume both P(billionaire|effective altruist) = 0.0526% and a ~25% annual growth rate of engaged effective altruists (meaning we expect the number of effective altruists to triple in five years).
+Even if we say with certainty that P(billionaire|effective altruist) is 0.0526%, ignoring the Ivy League base rate, the probability that we'll have ≥10 additional billionaires in 2027 is roughly 31%. Either way, 50% looks improbable to me: in order to get there, you'd need to assume both P(billionaire|effective altruist) = 0.0526% and a ~25% annual growth rate of engaged effective altruists (meaning we expect the number of effective altruists to triple in five years).
 
 Here are the different scenarios (with median numbers reported):
 
@@ -114,7 +120,7 @@ First, I'm not sure there's more glory in effective altruist ventures than there
 
 ![img]({{ '/img/ea_billionaire_trends.png' | url }})
 
-Second, I think the distinction between "effective altruist → billionaire" and "billionaire → effective altruist" is important. I'd guess that, if we do get ≥10 new effective altruist billionaires in the next five years, some of them will have become effective altruists only after getting rich (at least one-third, let's say). But that would not really vindicate Patel's arguments, which are all reasons to think that effective altruists will become billionaires, not the other way around.
+Second, I think the distinction between "effective altruist → billionaire" and "billionaire → effective altruist" is important. I'd guess that, if we do get ≥10 additional effective altruist billionaires in the next five years, some of them will have become effective altruists only after getting rich (at least one-third, let's say). But that would not really vindicate Patel's arguments, which are all reasons to think that effective altruists will become billionaires, not the other way around.
 
 That said, the number of billionaires is steadily increasing, and that's one reason to think there will be more effective altruist billionaires in the future. There will just be more billionaires period. In fact, if we extrapolate the trends a little more, we'll all be billionaires one day.
 
