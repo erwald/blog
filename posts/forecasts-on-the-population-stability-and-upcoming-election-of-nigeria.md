@@ -70,13 +70,13 @@ I'll suppose the probability that Nigeria's population exceeds >400M by 2050 is 
 
 [Will Nigeria have a successful coup before 2025?](https://www.metaculus.com/questions/9589/nigerian-coup-b-2025/)
 
-The base rate of successful coups since independence (1960-2022) is ~7.2% annually (depending on how you count). That shakes out to ~14% probability that there's a successful coup before 2025 (so, this year or next). But:
+Using the [time-invariant version of Laplace's rule of succession](https://epochai.org/blog/a-time-invariant-version-of-laplace-s-rule), the base rate (depending on how you tally historical coups) using the record since independence (1960-2023) suggests there's a ~19% probability that there's a successful coup before 2025 (so, this year or next).[^2] But:
 
 - There have been no coups in the last ~30 years or since the restoration of democracy in 1999. (There was apparently one foiled coup plot in 2004.)
 - Lucky Irabor (head of the Nigerian Armed Forces) [said last month](https://archive.ph/yOtws): "Never again will we see men in uniform take power. [...] Democracy has come to stay; a government of the people, by the people and for the people has come to stay. That is an assurance, and then of course for the elections, I am sure you know that the police are on the lead."
 - Most of the probability mass is probably around this year's election (see next section). For example, there could be widespread protests as a result of election fraud, causing the military to take over in response (in the style of the 2020 Malian coup d'état, sort of). But this seems like it'll be the best-run election since the establishment of democracy in Nigeria.
 
-So I adjust down to 5%.
+So I adjust down to 8%.
 
 <table width="100%" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -95,7 +95,7 @@ So I adjust down to 5%.
 <tbody>
 <tr>
 <td class="org-left">Me</td>
-<td class="org-right">5%</td>
+<td class="org-right">8%</td>
 </tr>
 
 <tr>
@@ -223,7 +223,7 @@ Reasons to be bullish on Obi:
 Reasons to be bearish on Abubakar:
 
 - I just don't see any advantage of his over Tinubu or Obi, except perhaps a little name recognition and hailing from the north.
-- He's a perennial loser, having run for president of Nigeria five times before and lost (1993, 2007, 2011, 2015 and 2019).[^2]
+- He's a perennial loser, having run for president of Nigeria five times before and lost (1993, 2007, 2011, 2015 and 2019).[^3]
 
 To sum up:
 
@@ -278,4 +278,5 @@ To sum up:
 </table>
 
 [^1]: The data actually comes not only from censuses, but also surveys, population registers and so on. But "census" is right to a first approximation.
-[^2]: That is, Abubakar has either run as a candidate for president, or participated in the primaries to be nominated as a candidate.
+[^2]: I count 6 [coups since independence](https://en.wikipedia.org/wiki/Military_coups_in_Nigeria) (1960), 63 × 24 + 1 = 1,513 months since independence and 47 months remaining until the year is 2025.
+[^3]: That is, Abubakar has either run as a candidate for president, or participated in the primaries to be nominated as a candidate.
