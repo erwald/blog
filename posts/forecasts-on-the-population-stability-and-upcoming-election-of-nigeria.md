@@ -13,7 +13,7 @@ This post explains my reasoning on three forecasts I made on questions that have
 
 - Will Nigeria's population exceed 400 million before 2050? I give 32% probability that it will.
 - Will Nigeria have a successful coup before 2025? I give 5% probability that it will.
-- Who will win the 2023 Nigerian Presidential Election? I give Bola Tinubu 45%, Peter Obi 34%, Atiku Abubakar 20% and Rabiu Kwankwaso 1%.
+- Who will win the 2023 Nigerian Presidential Election? I give Peter Obi 47%, Bola Tinubu 37%, Atiku Abubakar 15% and Rabiu Kwankwaso 1%.
 
 ## Nigerian Population >400M by 2050
 
@@ -225,6 +225,17 @@ Reasons to be bearish on Abubakar:
 - I just don't see any advantage of his over Tinubu or Obi, except perhaps a little name recognition and hailing from the north.
 - He's a perennial loser, having run for president of Nigeria five times before and lost (1993, 2007, 2011, 2015 and 2019).[^3]
 
+<div class="edit" id="orgd3f5fa2">
+<p>
+Edit 2023-02-07: Stears, a <a href="https://archive.is/GDpNy">Lagos-based data analytics company</a>, released the <a href="https://www.stears.co/premium/article/stears-poll-predicts-nigerias-next-president/">results</a> of a new poll today. Their baseline scenario has Obi with 39.8% of votes, Tinubu with 30.6%, Abubakar with 17.9% and Kwankwaso with 2%. Obi somewhat increases his margin of victory in the high-turnout scenario, but Tinubu beats him solidly in the more realistic low-turnout scenario. (They have more interesting nuggets in the report, but you need to register to see it and I don’t want to leak all their findings.) The sample size is good (>6,000 respondents), and it looks like they’re analysing the data sensibly.
+</p>
+
+<p>
+I think the low-turnout scenario is too pessimistic: the inclusion criteria – it includes only respondents who "have their [voter registration card], [...] state they are certain about their chosen candidate, [...] feel very confident in the electoral process, [...] are sure they will vote, and [...] feel safe or very safe going to vote" – seem somewhat too strict to me. So <b>I now think Obi is likelier to win than Tinubu</b>. The reasoning is still the same, only the new poll adds extra evidence. (I still have this nagging feeling that Tinubu will win due to the advantage his political machine brings, but I’m letting the polling data weigh heavier that feeling; it’ll be interesting to see if that’s a mistake.) I’ve updated my predictions below, and have also updated the Metaculus community prediction and the bookies’ odds.
+</p>
+
+</div>
+
 To sum up:
 
 <table width="100%" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
@@ -253,26 +264,26 @@ To sum up:
 <tbody>
 <tr>
 <td class="org-left">Me</td>
-<td class="org-right">45%</td>
-<td class="org-right">34%</td>
-<td class="org-right">20%</td>
+<td class="org-right">37%</td>
+<td class="org-right">47%</td>
+<td class="org-right">15%</td>
 <td class="org-right">1%</td>
 </tr>
 
 <tr>
 <td class="org-left">Metaculus community</td>
-<td class="org-right">60%</td>
-<td class="org-right">23%</td>
-<td class="org-right">22%</td>
-<td class="org-right">2%</td>
+<td class="org-right">53%</td>
+<td class="org-right">30%</td>
+<td class="org-right">20%</td>
+<td class="org-right">1%</td>
 </tr>
 
 <tr>
 <td class="org-left">Bookies</td>
+<td class="org-right">36%</td>
+<td class="org-right">29%</td>
 <td class="org-right">35%</td>
-<td class="org-right">25%</td>
-<td class="org-right">32%</td>
-<td class="org-right">1%</td>
+<td class="org-right">-</td>
 </tr>
 </tbody>
 </table>
