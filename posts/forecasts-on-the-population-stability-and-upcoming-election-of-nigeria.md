@@ -12,7 +12,7 @@ tags: post
 This post explains my reasoning on three forecasts I made on questions that have to do with Nigeria. I spent ~1 hour on the first two questions and ~3 hours on the third question, having had little prior knowledge. The questions are:
 
 - Will Nigeria's population exceed 400 million before 2050? I give 32% probability that it will.
-- Will Nigeria have a successful coup before 2025? I give 5% probability that it will.
+- Will Nigeria have a successful coup before 2025? I give 8% probability that it will.
 - Who will win the 2023 Nigerian Presidential Election? I give Peter Obi 47%, Bola Tinubu 37%, Atiku Abubakar 15% and Rabiu Kwankwaso 1%.
 
 ## Nigerian Population >400M by 2050
