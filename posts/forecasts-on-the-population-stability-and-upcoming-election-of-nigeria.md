@@ -225,13 +225,28 @@ Reasons to be bearish on Abubakar:
 - I just don't see any advantage of his over Tinubu or Obi, except perhaps a little name recognition and hailing from the north.
 - He's a perennial loser, having run for president of Nigeria five times before and lost (1993, 2007, 2011, 2015 and 2019).[^3]
 
-<div class="edit" id="orgd3f5fa2">
+<div class="edit" id="orged8a4d4">
 <p>
 Edit 2023-02-07: Stears, a <a href="https://archive.is/GDpNy">Lagos-based data analytics company</a>, released the <a href="https://www.stears.co/premium/article/stears-poll-predicts-nigerias-next-president/">results</a> of a new poll today. Their baseline scenario has Obi with 39.8% of votes, Tinubu with 30.6%, Abubakar with 17.9% and Kwankwaso with 2%. Obi somewhat increases his margin of victory in the high-turnout scenario, but Tinubu beats him solidly in the more realistic low-turnout scenario. (They have more interesting nuggets in the report, but you need to register to see it and I don’t want to leak all their findings.) The sample size is good (>6,000 respondents), and it looks like they’re analysing the data sensibly.
 </p>
 
 <p>
-I think the low-turnout scenario is too pessimistic: the inclusion criteria – it includes only respondents who "have their [voter registration card], [...] state they are certain about their chosen candidate, [...] feel very confident in the electoral process, [...] are sure they will vote, and [...] feel safe or very safe going to vote" – seem somewhat too strict to me. So <b>I now think Obi is likelier to win than Tinubu</b>. The reasoning is still the same, only the new poll adds extra evidence. (I still have this nagging feeling that Tinubu will win due to the advantage his political machine brings, but I’m letting the polling data weigh heavier than that feeling; it’ll be interesting to see if that’s a mistake.) I’ve updated my predictions below, and have also updated the Metaculus community prediction and the bookies’ odds.
+I think the low-turnout scenario is too pessimistic: the inclusion criteria -- it includes only respondents who "have their [voter registration card], [...] state they are certain about their chosen candidate, [...] feel very confident in the electoral process, [...] are sure they will vote, and [...] feel safe or very safe going to vote" -- seem somewhat too strict to me. So <b>I now think Obi is likelier to win than Tinubu</b>. The reasoning is still the same, only the new poll adds extra evidence. (I still have this nagging feeling that Tinubu will win due to the advantage his political machine brings, but I’m letting the polling data weigh heavier than that feeling; it’ll be interesting to see if that’s a mistake.) I’ve updated my predictions below, and have also updated the Metaculus community prediction and the bookies’ odds.
+</p>
+
+</div>
+
+<div class="edit" id="org6cc3c9e">
+<p>
+Edit 2023-03-01: It appears that, pending court challenges, <a href="https://archive.is/FZ3tG">Bola Tinubu has won the election</a> with 37% against Abubakar’s 29% and Obi’s 25%. Tinubu and Abubakar did somewhat better than I expected, while Obi did substantially worse than I expected. 
+</p>
+
+<p>
+<b>I count this as a failure of prediction</b>; in particular, (1) I expected high turnout, whereas turnout was abysmal (27% is the lowest in Nigerian history, possibly in part due to naira and/or petrol scarcities), (2), relatedly, I expected the election to be well run, whereas INEC failed in many ways (delays, violence, suppression, irregularities, utter lack of transparency) and (3) I thought that Obi would pick up some votes at least in the north, whereas he was hardly a rounding error there.
+</p>
+
+<p>
+This seems, on the whole, like it should update me somewhat in the directions of (1) deferring more to pundits, at least when I don’t have much inside knowledge myself, (2) putting less weight on individual polls, especially in areas where polling infrastructure is not highly developed and (3) paying more attention to cruxy or important-seeming developments, in this case the naira and petrol scarcities, and the concerns about election violence and delays, that likely affected turnout.
 </p>
 
 </div>
