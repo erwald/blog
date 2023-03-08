@@ -98,7 +98,7 @@ It's not clear to me what exactly happens in these cases:
 
 And plausibly discovering and/or using general algorithms is much easier for arithmetic tasks than, say, creative writing. Still, it's hard for me to see how such phase changes could occur if LLMs relied purely on rote memorisation or shallow pattern matching.
 
-### LLMs Can Have and Use Models of the World
+### LLMs Can Contain and Use Models of the World
 
 Here's that [passage](https://garymarcus.substack.com/p/what-does-it-mean-when-an-ai-fails) by Gary Marcus again:
 
