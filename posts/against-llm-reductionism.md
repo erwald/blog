@@ -53,7 +53,7 @@ To say that humans, too, are merely sophisticated pattern matchers is, it strike
 
 In my judgement, some of these are false, at least for some LLMs, and others I'm unsure about, but either way I don't think, given what we know about LLMs at the present stage, that anyone is justified in believing with any certainty that any of them is true.
 
-### LLMs Can Learn General Algorithms
+## LLMs Can Learn General Algorithms
 
 First take the implications that LLMs are only doing clever parlour tricks, only relying on rote memorisation and/or only learning shallow patterns. These things are often true, but, I think, not always true:
 
@@ -61,7 +61,7 @@ First take the implications that LLMs are only doing clever parlour tricks, only
 - There's evidence that small, non-language transformers trained on modular and binary addition can learn fully general algorithms.
 - There's evidence of _phase changes_ in LLMs and similar models -- points where, with more compute, data or parameters, these models suddenly become capable of solving new tasks. This seems hard to explain if all LLMs do is rote memorisation etc.
 
-#### General Analytic Capabilities
+### LLMs Can Learn General Analytic Capabilities
 
 Lewkowycz et al. (2022) fine tunes a version of PaLM (an LLM created by Google) on technical content (for example, arXiv preprints), getting it to perform decently well (~50% success rate) on the [MATH dataset](https://github.com/hendrycks/math/). The problems are not trivial (right-hand panel):
 
@@ -71,7 +71,7 @@ The authors take steps to find out whether the model achieved these results thro
 
 That, to me, suggests their model really does learn rules or algorithms that are generally useful in solving these types of problems. Still, they don't exactly crack open the model and locate the algorithms in the model's weights.
 
-#### Fully General Algorithms
+### LLMs Can Learn Fully General Algorithms
 
 Nanda et al. (2023) trains a tiny (~200K parameters if my count is correct) [transformer](https://transformer-circuits.pub/2021/framework/index.html#transformer-overview) on modular addition (that is, addition where the result "wraps around" to start at 0 again if it would ever exceed the maximum number the model can handle, in this case 113) and finds that, after quickly reducing its train error (blue line) to near 0, the model is stuck with a high test error (red line) for a long while until suddenly that, too, diminishes to near 0:
 
@@ -81,7 +81,7 @@ This phenomenon is called _grokking_ (Power et al. 2022), and the sudden improve
 
 [This blog post](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/) tells a similar story: the author trains an extremely tiny (422 parameters) neural network to perform binary addition, peers inside and discovers a clever algorithm.
 
-#### Phase Changes
+### LLMs Can Learn Rapidly
 
 The two addition experiments seem, since, though they weren't done on LLMs, they _were_ done on models with similar architectures, like strong evidence that LLMs _can in principle and practice_ find fully general algorithms. The evidence for actual algorithms found within LLMs is scantier, for LLMs are mind-bogglingly enormous. But there is some evidence of phase changes, either as a result of more training or of larger models, in LLMs.[^12] For example, the language model studied in Olsson et al. (2022) undergoes a phase change markedly improving its in-context learning:
 
@@ -98,7 +98,7 @@ It's not clear to me what exactly happens in these cases:
 
 And plausibly discovering and/or using general algorithms is much easier for arithmetic tasks than, say, creative writing. Still, it's hard for me to see how such phase changes could occur if LLMs relied purely on rote memorisation or shallow pattern matching.
 
-### LLMs Can Contain and Use Models of the World
+## LLMs Can Contain and Use Models of the World
 
 Here's that [passage](https://garymarcus.substack.com/p/what-does-it-mean-when-an-ai-fails) by Gary Marcus again:
 
@@ -114,7 +114,7 @@ There are hints of world representations in LLMs, too. In particular, some paper
 
 The real world, of course, is complicated and messy and cannot be ~perfectly modelled the way Othello or colour can be. But the real world _can_ be _imperfectly_ modelled, and that can go a long way. Human brains can easily model the game of chess, but not easily other people's behaviour. But that isn't fatal, because we can _kind of_ model other people's behaviour, and therefore _mostly_ make good predictions about what they'll do. I suspect that LLMs, too, will be able to _kind of_ model a lot of messy and complicated phenomena, and quite plausibly far better than we can, provided that those world models tend to be useful in next-token prediction.
 
-### LLMs Aren't Next-Token Predictors, They Are Next-Token-Prediction Artefacts
+## LLMs Aren't Next-Token Predictors, They Are Next-Token-Prediction Artefacts
 
 Gary Marcus [says](https://archive.is/zyEP1#selection-2072.0-2072.1):
 
@@ -131,7 +131,7 @@ It's completely true that LLMs are trained on next-token (a token is a word, rou
 - What's more, optimising for a task for which intelligence is useful encourages the optimised thing to become more intelligent. Sam Altman gave expression to this last week when he [wrote](https://twitter.com/sama/status/1631421715434831872), "Language models just being programmed to try to predict the next word is true, but it's not the dunk some people think it is. Animals, including us, are just programmed to try to survive and reproduce, and yet amazingly complex and beautiful stuff comes from it."
 - The forms of intelligence that are useful in doing next-token prediction are different from those that are useful in human reproduction, but I think there's a considerable overlap, as (1) some fundamental abilities, for example using and applying concepts, just seem very broadly useful and (2) the data LLMs are trained on are written by humans, for humans and often _about_ humans and things that matter to us. (Jacob Steinhardt makes similar arguments [in this post on the Alignment Forum](https://www.alignmentforum.org/posts/aEjckcqHZZny9L2zy/emergent-deception-and-emergent-optimization).)
 
-#### The Chimpanzee Next-Word Predictor Thought Experiment
+### The Chimpanzee Next-Word Predictor Thought Experiment
 
 Here's a thought experiment in that same vein. Imagine a hundred thousand chimpanzees. These chimpanzees spend their entire lives in sensory deprivation chambers, never meeting one another. When they reach adulthood, they're given a set of incomplete texts and asked to predict the next word for each of them. (Suppose that, for each incomplete text, they're given all possible words and must choose one.) These texts are things that humans wrote on the internet from 1991 to 2023. The 1% of chimpanzees that do best on the next-word prediction task get to reproduce -- their sperm/eggs are extracted and children are bred in artificial wombs. Then that entire generation is euthanised. (Yes, this is a terrifying dystopia.) Imagine this procedure goes on for 1T years (for reference, _H. sapiens_ and _P. troglodytes_ diverged about 4-13M years ago).
 
@@ -160,7 +160,7 @@ Still more speculatively, I can think of a few things that would help it make su
 - It may have the ability and motivation to gain more such knowledge, and to improve its reasoning skills.
 - It may have an innate motivation to make next-word predictions, and to make them correctly, and to not die or give up until it has made them.
 
-You may further ask yourself whether, if you took such a creature and gave it a computer in the real world in the year 2024, it would be able to use its evolved (in-distribution) knowledge, or its hard-earned talents, in that new (out-of-distribution) environment. Perhaps itsability to verify things, being hampered by its only seeing the world through text, is fatal. Perhaps it would try to influence the world in order make successful next-token predictions (or whatever else it yearns for, if it yearns at all) easier and more plentiful. These are all, in my opinion, open questions. Put differently, I don't know whether LLMs, as currently built, will ever scale to general intelligence or whether they will be limited by the world (text) or way (next-token prediction) in which they're trained; maybe it takes multimodal systems for that, or something else, or maybe it will never be possible.
+You may further ask yourself whether, if you took such a creature and gave it a computer in the real world in the year 2024, it would be able to use its evolved (in-distribution) knowledge, or its hard-earned talents, in that new (out-of-distribution) environment. Perhaps its inability to verify things, being hampered by its only seeing the world through text, is fatal. Perhaps it would try to influence the world in order make successful next-token predictions (or whatever else it yearns for, if it yearns at all) easier and more plentiful. These are all, in my opinion, open questions. Put differently, I don't know whether LLMs, as currently built, will ever scale to general intelligence or whether they will be limited by the world (text) or way (next-token prediction) in which they're trained; maybe it takes multimodal systems for that, or something else, or maybe it will never be possible.
 
 ## Reasons for Caution
 
