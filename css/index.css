@@ -139,14 +139,16 @@ h2 {
   font-family: "Iosevka Etoile", sans-serif;
   font-size: 24px;
   font-weight: 400;
+  color: var(--blue);
   padding-top: 0.5ch;
 }
 
 h3 {
   font-family: "Iosevka Etoile", sans-serif;
-  font-size: 21px;
+  font-size: 20px;
   font-weight: 400;
   font-style: italic;
+  color: var(--blue);
   padding-top: 0.5ch;
 }
 
