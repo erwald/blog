@@ -7,6 +7,8 @@ tags: post
 
 # Doubts about Track Record Arguments for Utilitarianism
 
+![img]({{ '/img/utilitarianism.jpeg' | url }})
+
 Utilitarians occasionally submit as evidence in favour of their philosophy the fact that early utilitarians were advocates for social and political positions that have now become norms. One [example](https://www.utilitarianism.net/introduction-to-utilitarianism#track-record) among many, from the authors of [utilitarianism.net](https://www.utilitarianism.net/):
 
 > While not constituting an _argument_ per se, it is worth noting that utilitarian moral reasoning has a strong track record of contributing to humanity's collective moral progress. [...] As a progressive social reformer, Jeremy Bentham defended issues such as the separation of church and state; the abolition of slavery and of capital punishment; legal regulations to protect criminals and non-human animals from cruel treatment; and the decriminalization of homosexuality. [...] John Stuart Mill defended the provision of social welfare for the poor and of freedom of speech. He was the second MP in the UK Parliament to call for women's suffrage and advocated for gender equality more generally. [...] Henry Sidgwick advocated for women's education and the freedom of education from religious doctrines.

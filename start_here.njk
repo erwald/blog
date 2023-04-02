@@ -5,30 +5,24 @@ title: Start Here
 ---
 <p class="notopmargin">Welcome to my blog, which will dull the sharpest of minds, weary the most patient of readers, frustrate the calm, annoy the virtuous, never once leave the backcountry and, if all goes well, before long recede into a fog of nothingness where it’ll rot away like a body left too long in the morgue.
 <p>If you want to dig into the archives and don’t know where to start, you can try one of these posts:</p>
-<ol>
-    <li><a href="{{ '/posts/the-devastating-power-and-heartbreaking-pain-of-truly-changing-minds' | url }}">The Devastating Power and Heartbreaking Pain of Truly Changing Minds</a></li>
-    <li><a href="{{ '/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is' | url }}">How Bad Is QWERTY, Really? A Review of the Literature, such as It Is</a></li>
-    <li><a href="{{ '/posts/can-a-vegan-diet-be-healthy-a-literature-review' | url }}">Can a Vegan Diet Be Healthy? A Literature Review</a></li>
-    <li><a href="{{ '/posts/doubts-about-track-record-arguments-for-utilitarianism' | url }}">Doubts about Track Record Arguments for Utilitarianism</a></li>
-    <li><a href="{{ '/posts/animal-testing-is-exploitative-and-largely-ineffective' | url }}">Animal Testing Is Exploitative and Largely Ineffective</a></li>
-    <li><a href="{{ '/posts/networks-of-meaning' | url }}">Networks of Meaning</a></li>
-    <li><a href="{{ '/posts/does-it-smell-like-pollocks-in-here' | url }}">Does It Smell like Pollocks in Here?</a></li>
-    <li><a href="{{ '/posts/how-can-one-tell-what-is-beautiful' | url }}">How Can One Tell What Is Beautiful?</a></li>
-    <li><a href="{{ '/posts/the-atemporal-franz-kafka' | url }}">The Atemporal Franz Kafka</a></li>
-    <li><a href="{{ '/posts/the-biggest-game-in-town' | url }}">The Biggest Game in Town</a></li>
-    <li><a href="{{ '/posts/mysteries-of-the-unknown-the-unknowable' | url }}">Mysteries of the Unknown and the Unknowable</a></li>
-    <li><a href="{{ '/posts/decomposition-and-problem-solving' | url }}">Decomposition and Problem-Solving</a></li>
-    <li><a href="{{ '/posts/auderico' | url }}">Auderico</a> / <a href="{{ '/posts/frunimius' | url }}">Frunimius</a></li>
-    <li><a href="{{ '/posts/uncommon-sensations-a-review-of-the-selected-prose-of-fernando-pessoa' | url }}">Uncommon Sensations: A Review of The Selected Prose of Fernando Pessoa</a></li>
-    <li><a href="{{ '/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense' | url }}">The American Style of Quotation Mark Punctuation Makes No Sense</a></li>
-</ol>
+
+{% set featuredPosts = collections.post | featuredPosts %}
+<div class="post-abbrev-featured-container">
+    {% for post in featuredPosts %}
+        <div class="post-abbrev-featured-body">
+            <div class="post-abbrev-featured-img"><img src="{{ post.image | url }}"></div>
+            <div class="post-abbrev-link">{{ loop.index }}. <a href="{{ post.url | url }}">{{ post.data.title | markdown | safe }}</a></div>
+            <div class="post-abbrev-read-time">{{ post.data.state_block.src | emojiReadTime }}</div>
+        </div>
+    {% endfor %}
+</div>
+<p>I have also done interviews with <a href="{{ '/posts/interview-with-christine-m-korsgaard-animal-ethics-kantianism-utilitarianism' | url }}">Christine M. Korsgaard</a>, <a href="{{ '/posts/interview-with-lucia-coulter-lead-exposure-effective-altruism-progress-in-malawi' | url }}">Lucia Coulter</a>, <a href="{{ '/posts/interview-with-olle-haggstrom-reason-covid-19-and-academic-freedom-in-sweden' | url }}">Olle Häggström</a> and <a href="{{ '/posts/interview-with-corentin-boissier-romanticism-modernism-composition' | url }}">Corentin Boissier</a> and hope to do more in future, though I currently lack the time.</p>
 <form id="subscribe-form" action="https://buttondown.email/api/emails/embed-subscribe/erichgrunewald" method="post"
       target="popupwindow" onsubmit="window.open('https://buttondown.email/erichgrunewald', 'popupwindow')"
       class="embeddable-buttondown-form">
-    <label for="bd-email">If you like these posts, you can subscribe via <a href="{{ metadata.feed.path | url }}">RSS</a> or join the email newsletter:</label>
+    <label for="bd-email">If you like any of these posts, you can subscribe via <a href="{{ metadata.feed.path | url }}">RSS</a> or join the email newsletter:</label>
     <input type="email" name="email" id="bd-email" placeholder="frunimius@example.com" />
     <input type="hidden" value="1" name="embed" />
     <input type="submit" value="Subscribe" />
 </form>
-<p>I have also done interviews with <a href="{{ '/posts/interview-with-christine-m-korsgaard-animal-ethics-kantianism-utilitarianism' | url }}">Christine M. Korsgaard</a>, <a href="{{ '/posts/interview-with-lucia-coulter-lead-exposure-effective-altruism-progress-in-malawi' | url }}">Lucia Coulter</a>, <a href="{{ '/posts/interview-with-olle-haggstrom-reason-covid-19-and-academic-freedom-in-sweden' | url }}">Olle Häggström</a> and <a href="{{ '/posts/interview-with-corentin-boissier-romanticism-modernism-composition' | url }}">Corentin Boissier</a> and hope to do more in future, though I currently lack the time.</p>
-<p>If you want to get in touch, you can write me at <code>contact AT erichgrunewald DOT com</code>.</p>
+<p>If you want to get in touch, write me at <code>contact AT erichgrunewald DOT com</code>.</p>

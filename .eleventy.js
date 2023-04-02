@@ -84,6 +84,50 @@ module.exports = function (eleventyConfig) {
     bucketSize: 5,
   });
 
+  // add filter for creating "start here" collection
+  eleventyConfig.addFilter("featuredPosts", (posts) => {
+    postsAndImages = [
+      { slug: "against-llm-reductionism", image: "/img/datacenter.jpeg" },
+      { slug: "the-prospect-of-an-ai-winter", image: "/img/ai_winter.jpeg" },
+      {
+        slug: "how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is",
+        image: "/img/qwerty.jpeg",
+      },
+      {
+        slug: "the-devastating-power-and-heartbreaking-pain-of-truly-changing-minds",
+        image: "/img/lds_joseph_smith.jpeg",
+      },
+      {
+        slug: "can-a-vegan-diet-be-healthy-a-literature-review",
+        image: "/img/woman_eating_bowl.jpeg",
+      },
+      {
+        slug: "doubts-about-track-record-arguments-for-utilitarianism",
+        image: "/img/utilitarianism.jpeg",
+      },
+      {
+        slug: "uncommon-sensations-a-review-of-the-selected-prose-of-fernando-pessoa",
+        image: "/img/pessoa.jpeg",
+      },
+      {
+        slug: "the-atemporal-franz-kafka",
+        image: "/img/kafka.jpeg",
+      },
+      {
+        slug: "does-it-smell-like-pollocks-in-here",
+        image: "/img/pollock.jpeg",
+      },
+      {
+        slug: "the-biggest-game-in-town",
+        image: "/img/game_b.jpeg",
+      },
+    ];
+    return postsAndImages.map(({ slug, image }) => {
+      const post = posts.find((post) => post.fileSlug.includes(slug));
+      return { ...post, image: image };
+    });
+  });
+
   return {
     templateFormats: ["md", "njk", "html", "png", "jpg", "ico"],
     passthroughFileCopy: true,

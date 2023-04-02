@@ -167,6 +167,37 @@ h3 {
 .post-abbrev-read-time {
   font-style: italic;
 }
+.post-abbrev-featured-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+.post-abbrev-featured-body {
+  width: calc(50% - 10px);
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 1ch;
+  background-color: var(--light-grey);
+}
+.post-abbrev-featured-img {
+  padding-top: 68%;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 1ch;
+}
+.post-abbrev-featured-img img {
+  position: absolute;
+  object-fit: cover;
+  height: auto;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-bottom: 1ch;
+}
 
 p,
 li,
@@ -311,6 +342,9 @@ input#bd-email {
   #content {
     width: 100%;
     padding: 0;
+  }
+  .post-abbrev-featured-body {
+    width: 100%;
   }
   .bottom-nav {
     font-size: 17px;
