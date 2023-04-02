@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Moral Golems
 date: 2021-04-03
 tags: post
+lw_link: https://www.lesswrong.com/posts/josSvCNbYthxwi7cM/moral-golems
 ---
 
 # Moral Golems

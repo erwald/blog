@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Utilitarianism Expressed in Julia
 date: 2021-08-15
 tags: post
+lw_link: https://www.lesswrong.com/posts/K3kyo96szJgBDCsGf/utilitarianism-expressed-in-julia
 ---
 
 # Utilitarianism Expressed in Julia

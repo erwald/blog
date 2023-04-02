@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Is There a Place among the Barbarians for Me and My Puny Muscles?
 date: 2022-08-06
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/CbkfwmwD2BBuFzwsZ/erich_grunewald-s-shortform?commentId=Zzk3JLiF5wTnbouiY
 ---
 
 # Is There a Place among the Barbarians for Me and My Puny Muscles?

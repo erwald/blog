@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Two Inadequate Arguments against Moral Vegetarianism
 date: 2021-01-30
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/dWRFwwcQCmz5z7mub/two-inadequate-arguments-against-moral-vegetarianism
 ---
 
 # Two Inadequate Arguments against Moral Vegetarianism

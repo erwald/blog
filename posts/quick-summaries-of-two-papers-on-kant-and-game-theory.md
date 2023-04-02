@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Quick Summaries of Two Papers on Kant and Game Theory
 date: 2022-06-25
 tags: post
+lw_link: https://www.lesswrong.com/posts/CidedgyfWjYNETQFj/quick-summaries-of-two-papers-on-kant-and-game-theory
 ---
 
 # Quick Summaries of Two Papers on Kant and Game Theory

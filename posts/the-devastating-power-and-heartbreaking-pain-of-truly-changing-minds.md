@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: The Devastating Power and Heartbreaking Pain of Truly Changing Minds
 date: 2021-10-23
 tags: post
+lw_link: https://www.lesswrong.com/posts/YupHmkD3Qj8tu7kDm/scout-mindset-and-latter-day-saint-apostasy
 ---
 
 # The Devastating Power and Heartbreaking Pain of Truly Changing Minds

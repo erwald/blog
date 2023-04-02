@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: "Interview with Lucia Coulter: Lead Exposure, Effective Altruism, Progress in Malawi"
 date: 2021-07-03
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/9zBnN5LEcRALFYWg3/interview-with-lucia-coulter-lead-exposure-effective
 ---
 
 # Interview with Lucia Coulter: Lead Exposure, Effective Altruism, Progress in Malawi

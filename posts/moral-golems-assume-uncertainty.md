@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Moral Golems Assume Uncertainty
 date: 2021-08-28
 tags: post
+lw_link: https://www.lesswrong.com/posts/vPgnjbMmobh626w6s/moral-golems-assume-uncertainty
 ---
 
 # Moral Golems Assume Uncertainty

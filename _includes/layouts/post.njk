@@ -21,7 +21,23 @@ layout: layouts/base.njk
     </div>
 {% endif %}
 <h1>{{ title | markdown | safe }}</h1>
-<div id="date">{% if date %}<span class="nowrap">{{date | readableDate}}</span>{% endif %} • {{ content | emojiReadTime }}</div>
+<div id="date">
+    {% if date %}<span class="nowrap">{{ date | readableDate }}</span>{% endif %}
+    • {{ content | emojiReadTime }}
+    {% set html_items = [] %}
+    {% for item in [{url: lw_link, name: "LW"}, {url: eaf_link, name: "EAF"}] %}
+        {% if item.url %}
+            {% set _ %}
+            {{- html_items.push('<a href="' + item.url + '">' + item.name + '</a>') -}}
+            {% endset %}
+        {% endif %}
+    {% endfor %}
+    {% if html_items | length > 0 %}
+        • comment via
+    {% endif %}
+    {% set comma_separated_html_items = html_items | join(', ') %}
+    {{ comma_separated_html_items | safe }}
+</div>
 {{ content | removeTitle | safe }}
 <form id="subscribe-form" action="https://buttondown.email/api/emails/embed-subscribe/erichgrunewald" method="post"
       target="popupwindow" onsubmit="window.open('https://buttondown.email/erichgrunewald', 'popupwindow')"

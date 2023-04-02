@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Dimensions of Animal Advocacy Terminology
 date: 2021-07-20
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/LfKB2seN2PhoufsFu/some-background-and-thoughts-on-animal-advocacy-terminology
 ---
 
 # Dimensions of Animal Advocacy Terminology

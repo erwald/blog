@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Possible Resolutions to the Rights/Welfare Debate in Animal Advocacy
 date: 2021-07-16
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/LfKB2seN2PhoufsFu/some-background-and-thoughts-on-animal-advocacy-terminology
 ---
 
 # Possible Resolutions to the Rights/Welfare Debate in Animal Advocacy

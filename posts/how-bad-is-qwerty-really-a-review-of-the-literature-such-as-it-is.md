@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: How Bad Is QWERTY, Really? A Review of the Literature, such as It Is
 date: 2022-01-15
 tags: post
+lw_link: https://www.lesswrong.com/posts/dTaL7qDreYirurgez/how-bad-is-qwerty-really-a-review-of-the-literature-such-as
 ---
 
 # How Bad Is QWERTY, Really? A Review of the Literature, such as It Is

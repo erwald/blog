@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: How Can One Tell What Is Beautiful?
 date: 2021-05-15
 tags: post
+lw_link: https://www.lesswrong.com/posts/XEdG8tzQc4g7YS8Wz/how-can-one-tell-what-is-beautiful
 ---
 
 # How Can One Tell What Is Beautiful?

@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: A Kantian View on Extinction
 date: 2022-07-16
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/CbkfwmwD2BBuFzwsZ/erich_grunewald-s-shortform?commentId=Fw6vt7egwNJEucL4e
 ---
 
 # A Kantian View on Human Extinction

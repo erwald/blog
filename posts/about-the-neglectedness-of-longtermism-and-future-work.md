@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: About the Neglectedness of Longtermism and Future Work
 date: 2022-03-19
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/zmn5jckrCKzgyPmEE/about-the-neglectedness-of-longtermism-and-future-work
 ---
 
 # About the Neglectedness of Longtermism and Future Work

@@ -3,6 +3,8 @@ layout: layouts/post.njk
 title: Against LLM Reductionism
 date: 2023-03-08
 tags: post
+lw_link: https://www.lesswrong.com/posts/PwfwZ2LeoLC4FXyDA/against-llm-reductionism
+eaf_link: https://forum.effectivealtruism.org/posts/jZgzvFocK9XGzjEgL/against-llm-reductionism
 ---
 
 # Against LLM Reductionism

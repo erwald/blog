@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: "Interview with Olle Häggström: Reason, COVID-19 and Academic Freedom in Sweden"
 date: 2021-08-21
 tags: post
+lw_link: https://www.lesswrong.com/posts/h6frhsPPjz5B2nWpX/interview-with-olle-haeggstroem-reason-covid-19-and-academic
 ---
 
 # Interview with Olle Häggström: Reason, COVID-19 and Academic Freedom in Sweden

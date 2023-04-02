@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Why Rome?
 date: 2022-03-12
 tags: post
+lw_link: https://www.lesswrong.com/posts/qBFQhRzGc729qnrDs/why-rome
 ---
 
 # Why Rome?

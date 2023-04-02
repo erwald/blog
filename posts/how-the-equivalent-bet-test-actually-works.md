@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: How the Equivalent Bet Test Actually Works
 date: 2021-12-18
 tags: post
+lw_link: https://www.lesswrong.com/posts/EtxTDPMXrbmpheiAt/how-the-equivalent-bet-test-actually-works
 ---
 
 # How the Equivalent Bet Test Actually Works

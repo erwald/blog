@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Rediscovery, the Mind's Curare
 date: 2021-04-10
 tags: post
+lw_link: https://www.lesswrong.com/posts/c9FmsNH6xYKp4WyDM/rediscovery-the-mind-s-curare
 ---
 
 # Rediscovery, the Mind's Curare

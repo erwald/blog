@@ -3,6 +3,8 @@ layout: layouts/post.njk
 title: The Prospect of an AI Winter
 date: 2023-03-27
 tags: post
+lw_link: https://www.lesswrong.com/posts/6xRsdig9FXfGJdinX/the-prospect-of-an-ai-winter
+eaf_link: https://forum.effectivealtruism.org/posts/i7aKatsck7x3aLoiH/the-prospect-of-an-ai-winter
 ---
 
 # The Prospect of an AI Winter

@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: The Biggest Game in Town
 date: 2022-06-18
 tags: post
+lw_link: https://www.lesswrong.com/posts/tLzyQNs5bD4tJ5hMg/erich_grunewald-s-shortform?commentId=2AqhXzs7FQMSj3RBA
 ---
 
 # The Biggest Game in Town

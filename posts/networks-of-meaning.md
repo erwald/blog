@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Networks of Meaning
 date: 2021-04-17
 tags: post
+lw_link: https://www.lesswrong.com/posts/RDnmBxqfus69qtHSj/networks-of-meaning
 ---
 
 # Networks of Meaning

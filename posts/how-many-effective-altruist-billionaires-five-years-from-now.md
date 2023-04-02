@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: How Many Effective Altruist Billionaires Five Years from Now?
 date: 2022-08-20
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/Ze2Je5GCLBDj3nDzK/how-many-ea-billionaires-five-years-from-now
 ---
 
 # How Many Effective Altruist Billionaires Five Years from Now?

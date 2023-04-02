@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Doubts about Track Record Arguments for Utilitarianism
 date: 2022-02-12
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/jGFsL6xshCXHMdNAM/doubts-about-track-record-arguments-for-utilitarianism
 ---
 
 # Doubts about Track Record Arguments for Utilitarianism

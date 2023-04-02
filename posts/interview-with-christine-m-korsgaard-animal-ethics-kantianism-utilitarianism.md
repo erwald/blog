@@ -3,6 +3,8 @@ layout: layouts/post.njk
 title: "Interview with Christine M. Korsgaard: Animal Ethics, Kantianism, Utilitarianism"
 date: 2021-05-08
 tags: post
+lw_link: https://www.lesswrong.com/posts/24dJcMufrvujWyP7S/interview-with-christine-m-korsgaard-animal-ethics
+eaf_link: https://forum.effectivealtruism.org/posts/Sux3vLaSrJqbHxyhT/interview-with-christine-m-korsgaard-animal-ethics
 ---
 
 # Interview with Christine M. Korsgaard: Animal Ethics, Kantianism, Utilitarianism

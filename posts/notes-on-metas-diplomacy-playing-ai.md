@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Notes on Meta's Diplomacy-Playing AI
 date: 2022-12-22
 tags: post
+lw_link: https://www.lesswrong.com/posts/oT8fmwWddGwnZbbym/notes-on-meta-s-diplomacy-playing-ai
 ---
 
 # Notes on Meta's Diplomacy-Playing AI

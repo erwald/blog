@@ -3,6 +3,8 @@ layout: layouts/post.njk
 title: Can a Vegan Diet Be Healthy? A Literature Review
 date: 2021-03-12
 tags: post
+lw_link: https://www.lesswrong.com/posts/T5jxq4vfgJLXkiPjk/can-a-vegan-diet-be-healthy-a-literature-review
+eaf_link: https://forum.effectivealtruism.org/posts/oNzwJ9juHkgbhFGqA/can-a-vegan-diet-be-healthy-a-literature-review
 ---
 
 # Can a Vegan Diet Be Healthy? A Literature Review

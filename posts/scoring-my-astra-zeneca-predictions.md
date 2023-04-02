@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Scoring My AstraZeneca Predictions
 date: 2021-08-06
 tags: post
+lw_link: https://www.lesswrong.com/posts/xACexfbwgQukhRmcr/scoring-my-astrazeneca-predictions
 ---
 
 # Scoring My AstraZeneca Predictions

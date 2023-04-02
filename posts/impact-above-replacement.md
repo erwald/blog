@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Impact above Replacement
 date: 2022-11-30
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/5XNGJxu8YEzutPGzD/impact-above-replacement
 ---
 
 # Impact above Replacement

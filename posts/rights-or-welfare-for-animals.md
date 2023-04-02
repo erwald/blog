@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Rights or Welfare for Animals?
 date: 2021-07-07
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/LfKB2seN2PhoufsFu/some-background-and-thoughts-on-animal-advocacy-terminology
 ---
 
 # Rights or Welfare for Animals?
