@@ -33,7 +33,7 @@ The reason I mention this is to assure you that I'm not a Kremlin supporter. I j
 
 Let's set the scene ...
 
-**Exhibit 1.** On August 8, the Washington Post [reported](https://archive.ph/59rfp#selection-929.16-944.0):
+**Exhibit 1.** On 8 August, the Washington Post [reported](https://archive.ph/59rfp#selection-929.16-944.0):
 
 > The way to stop Russia from annexing any more of Ukraine's territory, President Volodymyr Zelensky said Monday, is for Western countries to announce that they would ban all Russian citizens in response.
 >
@@ -43,7 +43,7 @@ The piece goes on to quote Zelensky as saying:
 
 > Whichever kind of Russian ... make them go to Russia. [...] They'll understand then. They'll say, "This [war] has nothing to do with us. The whole population can't be held responsible, can it?" It can. The population picked this government and they're not fighting it, not arguing with it, not shouting at it.
 
-**Exhibit 2.** On August 18, the AP [reported](https://archive.ph/6qsp2#selection-848.0-848.1):
+**Exhibit 2.** On 18 August, the AP [reported](https://archive.ph/6qsp2#selection-848.0-848.1):
 
 > Estonia's foreign minister on Thursday defended his country's decision to bar Russian tourists, saying they are shirking their "moral responsibility" to stand up to Russian President Vladimir Putin's regime and its "genocidal war" in Ukraine. [...] "Our idea is to give a signal to all our European partners, all our Western community partners, to close down our borders to Russian citizens, except humanitarian cases", Foreign Minister Urmas Reinsalu told The Associated Press in an interview in Tallinn. "Russian citizens are not welcome in Europe. Their country is committing a genocidal war against an innocent people." [...] Reinsalu said "hundreds of thousands" of Russian citizens passing through Estonian soil posed an "evident security threat" and dismissed concerns that the visa ban could backfire by turning ordinary Russians against Europe and the West.
 
@@ -51,7 +51,7 @@ The piece goes on to quote Reinsalu as saying:
 
 > [Though the legal responsibility for the war lies with Putin,] there is also a [...] moral responsibility of Russian citizens as citizens of [the] aggressor state. [...] They have to wake up and protest against the regime's atrocities. Their tax money literally is used to buy rockets and bombs to kill children in Ukraine.
 
-**Exhibit 3.** On August 17, Bloomberg published [an opinion piece by Leonid Bershidsky](https://archive.ph/GBRsm) that argued that the Russian opposition shouldn't criticise these demands. (They have.) Bershidsky writes:
+**Exhibit 3.** On 17 August, Bloomberg published [an opinion piece by Leonid Bershidsky](https://archive.ph/GBRsm) that argued that the Russian opposition shouldn't criticise these demands. (They have.) Bershidsky writes:
 
 > We anti-Putin Russians are missing a great chance to keep mum. Instead, the volume of media and social network commentary suggests that we are putting our concern over the possible loss of travel to Europe (with no effect on visa-free travel to dozens of other countries) at least on a par with our concern over what our birth country is perpetrating daily in Ukraine. This loss of face and show of selfishness is one the emigre community cannot afford.
 >

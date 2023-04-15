@@ -11,23 +11,23 @@ tags: post
 
 Six months ago [I vowed]({{ '/posts/my-path-towards-veganism/' | url }}) to adopt the vegan diet and set up a step-by-step plan to get there. I also made six predictions about how things would turn out. I prophesied:
 
-> On February 1st 2022,
+> On 1 February 2022,
 >
-> 1. I will not have purchased any non-vegan cosmetics, carmine, beeswax, wool, silk or down after August 1st 2021 ⇒ 90%
-> 2. I will not have consumed honey (except to finish the jar we already have at home) after September 1st 2021 ⇒ 60%
-> 3. I will not have consumed any dairy product (except for cheese) after October 1st 2021 ⇒ 50%
-> 4. I will not have consumed any eggs at home after November 1st 2021 ⇒ 70%
-> 5. I will not have consumed any cheese at home after December 1st 2021 ⇒ 80%
-> 6. I will not have consumed any eggs or cheese at all after January 1st 2022 ⇒ 80%
+> 1. I will not have purchased any non-vegan cosmetics, carmine, beeswax, wool, silk or down after 1 August 2021 ⇒ 90%
+> 2. I will not have consumed honey (except to finish the jar we already have at home) after 1 September 2021 ⇒ 60%
+> 3. I will not have consumed any dairy product (except for cheese) after 1 October 2021 ⇒ 50%
+> 4. I will not have consumed any eggs at home after 1 November 2021 ⇒ 70%
+> 5. I will not have consumed any cheese at home after 1 December 2021 ⇒ 80%
+> 6. I will not have consumed any eggs or cheese at all after 1 January 2022 ⇒ 80%
 
-I am pleased to report that I am now, in fact, vegan. I have abstained from animal products completely starting January 1st, but to a large degree also during the fall and early winter. That said, I did not do perfectly on all these steps. Specifically, I had dairy products once (without really thinking about it) in November, making the third statement false. Here is how the predictions turned out:
+I am pleased to report that I am now, in fact, vegan. I have abstained from animal products completely starting 1 January, but to a large degree also during the fall and early winter. That said, I did not do perfectly on all these steps. Specifically, I had dairy products once (without really thinking about it) in November, making the third statement false. Here is how the predictions turned out:
 
-1. I will not have purchased any non-vegan cosmetics, carmine, beeswax, wool, silk or down after August 1st 2021 ⇒ 90% (✓ True)
-2. I will not have consumed honey (except to finish the jar we already have at home) after September 1st 2021 ⇒ 60% (✓ True)
-3. I will not have consumed any dairy product (except for cheese) after October 1st 2021 ⇒ 50% (✕ False)
-4. I will not have consumed any eggs at home after November 1st 2021 ⇒ 70% (✓ True)
-5. I will not have consumed any cheese at home after December 1st 2021 ⇒ 80% (✓ True)
-6. I will not have consumed any eggs or cheese at all after January 1st 2022 ⇒ 80% (✓ True)
+1. I will not have purchased any non-vegan cosmetics, carmine, beeswax, wool, silk or down after 1 August 2021 ⇒ 90% (✓ True)
+2. I will not have consumed honey (except to finish the jar we already have at home) after 1 September 2021 ⇒ 60% (✓ True)
+3. I will not have consumed any dairy product (except for cheese) after 1 October 2021 ⇒ 50% (✕ False)
+4. I will not have consumed any eggs at home after 1 November 2021 ⇒ 70% (✓ True)
+5. I will not have consumed any cheese at home after 1 December 2021 ⇒ 80% (✓ True)
+6. I will not have consumed any eggs or cheese at all after 1 January 2022 ⇒ 80% (✓ True)
 
 I wrote last time that I "put a fairly pessimistic prediction for the dairy products rule because those products are contained in so many things, including a lot of sweets" and this was indeed the one that I failed. I don't know why the honey prediction was only at 60%, because that turned out to be no problem at all. The others seem reasonable.
 

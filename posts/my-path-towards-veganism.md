@@ -22,23 +22,23 @@ Becoming a vegan should definitely be feasible for me. My wife has already been 
 There are a few ways I could go about this. I could try to do it all in one go, but then I might not do it at all. I could begin with giving up those products that cause the most suffering, but if some of them are also the most difficult to give up, I might falter. Or I could begin with those products that are the easiest for me to give up. I have decided on this last option, because I reckon that I have quite a few years left to live, and most important by far is for me to actually go vegan reasonably soon; a risk of failure is much worse than transitioning in a suboptimal order. So here is the plan that I have drawn up for myself:
 
 1. I already do not eat meat or seafood, and I don't buy or use leather, skins or fur.
-2. Starting on August 1st 2021, I will give up non-vegan cosmetics, carmine, beeswax, wool, silk and down.
-3. Starting on September 1st 2021, I will give up honey, except to finish the jar we already have at home.
-4. Starting on October 1st 2021, I will give up all dairy products except cheese, including milk, yogurt, butter, cream and ice cream.
-5. Starting on November 1st 2021, I will give up eggs when eating at home.
-6. Starting on December 1st 2021, I will give up cheese when eating at home.
-7. Starting on January 1st 2022, I will give up eggs and cheese also when eating out, thereby becoming fully vegan.
+2. Starting on 1 August 2021, I will give up non-vegan cosmetics, carmine, beeswax, wool, silk and down.
+3. Starting on 1 September 2021, I will give up honey, except to finish the jar we already have at home.
+4. Starting on 1 October 2021, I will give up all dairy products except cheese, including milk, yogurt, butter, cream and ice cream.
+5. Starting on 1 November 2021, I will give up eggs when eating at home.
+6. Starting on 1 December 2021, I will give up cheese when eating at home.
+7. Starting on 1 January 2022, I will give up eggs and cheese also when eating out, thereby becoming fully vegan.
 
 Just now I wrote the phrase _fully vegan_, but there is of course the question of how zealously I intend to hold myself to the vegan life. I will certainly eschew all fur, skin and leather products without exception, as well as meat. That is easy. Even if I could imagine circumstances in which I would find it acceptable to eat meat, such as from roadkill, I have no desire to do so. I suspect that the same will eventually happen with cheese and eggs, but until then I will allow myself to eat either of those under exceptional circumstances, such as when travelling in places that have very few vegan options, or in some distant future where my wife and I have moved into the countryside and can keep some pandered egg-laying hens around. That seems reasonable to me, but I always have the option of making the diet more stringent still in future.
 
-Here are some predictions. On February 1st 2022,
+Here are some predictions. On 1 February 2022,
 
-1. I will not have purchased any non-vegan cosmetics, carmine, beeswax, wool, silk or down after August 1st 2021 ⇒ 90%
-2. I will not have consumed honey (except to finish the jar we already have at home) after September 1st 2021 ⇒ 60%
-3. I will not have consumed any dairy product (except for cheese) after October 1st 2021 ⇒ 50%
-4. I will not have consumed any eggs at home after November 1st 2021 ⇒ 70%
-5. I will not have consumed any cheese at home after December 1st 2021 ⇒ 80%
-6. I will not have consumed any eggs or cheese at all after January 1st 2022 ⇒ 80%
+1. I will not have purchased any non-vegan cosmetics, carmine, beeswax, wool, silk or down after 1 August 2021 ⇒ 90%
+2. I will not have consumed honey (except to finish the jar we already have at home) after 1 September 2021 ⇒ 60%
+3. I will not have consumed any dairy product (except for cheese) after 1 October 2021 ⇒ 50%
+4. I will not have consumed any eggs at home after 1 November 2021 ⇒ 70%
+5. I will not have consumed any cheese at home after 1 December 2021 ⇒ 80%
+6. I will not have consumed any eggs or cheese at all after 1 January 2022 ⇒ 80%
 
 I put a fairly pessimistic prediction for the dairy products rule because those products are contained in so many things, including a lot of sweets, which I suspect may be difficult to give up completely. I give myself better chances in general for later items, since they involve fewer months of abstinence. But in general, I am fairly confident, because I have never lapsed after becoming vegetarian, and because I am doing this for moral reasons, not for health reasons.
 

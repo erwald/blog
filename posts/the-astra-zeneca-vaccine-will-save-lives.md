@@ -67,7 +67,7 @@ The AstraZeneca vaccine seems to be [about 57-86% effective](https://papers.ssrn
 
 > While its investigation is ongoing, EMA currently remains of the view that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalisation and death, outweigh the risks of side effects.
 
-Let me finish by making some predictions. By July 1st 2021,
+Let me finish by making some predictions. By 1 July 2021,
 
 1. the expert consensus will be that continuing with the AstraZeneca vaccinations would have saved more lives than pausing it ⇒ 95%
 2. a majority of the listed countries will have resumed administering the AstraZeneca vaccine ⇒ 90%.

@@ -9,7 +9,7 @@ tags: post
 
 You'll have noticed that I've redesigned the blog somewhat. The main changes are a new (sans-serif) typeface and the replacement of the sidebar with a menu at the top. What hasn't changed is the focus on content, the brutalism and the reliance on plain HTML and CSS. I hope it strikes the right balance between innovative art museum caption that doesn't understand itself and free software blog of impenetrable simplicity and few readers ...
 
-It's been a fine six months for the blog. Here are the most viewed posts published since the last meta update (that is, December 4th 2021):
+It's been a fine six months for the blog. Here are the most viewed posts published since the last meta update (that is, 4 December 2021):
 
 1. [What Made *World of Warcraft*'s Environments so Compelling?]({{ '/posts/what-made-world-of-warcrafts-environments-so-compelling/' | url }})
 2. [How Bad Is QWERTY, Really? A Review of the Literature, such as It Is]({{ '/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/' | url }})

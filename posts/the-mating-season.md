@@ -30,7 +30,7 @@ And so you see how the current geopolitical situation in Europe was in fact auth
 [^1]: Was the fascist state Turkey or the US? I don't know. Maybe both.
 [^2]: For now I'll stick to using what Wikipedia uses, but I expect it to be switching to Türkiye soon enough.
 [^3]:
-    The [Metaculus community prediction](https://www.metaculus.com/questions/10084/sweden-to-join-nato-before-2024/) that Sweden joins NATO this year is down from 95% on January 1st to 63% now, but 63% is still pretty likely, and again, it's only for this year. The Swedish government wants it, the majority of the Swedish people want it, and nearly all NATO members want it. I imagine we'll have a better idea after the Turkish election cycle is over.
+    The [Metaculus community prediction](https://www.metaculus.com/questions/10084/sweden-to-join-nato-before-2024/) that Sweden joins NATO this year is down from 95% on 1 January to 63% now, but 63% is still pretty likely, and again, it's only for this year. The Swedish government wants it, the majority of the Swedish people want it, and nearly all NATO members want it. I imagine we'll have a better idea after the Turkish election cycle is over.
 
     By the way, I'm unsure about whether Sweden's entry into NATO would be a good thing. I don't know if it'd be good for Sweden, and I don't know if it'd be good for the world.
 

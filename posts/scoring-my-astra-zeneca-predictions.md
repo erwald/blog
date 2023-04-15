@@ -14,7 +14,7 @@ At the same time, just over a fourth of the world population has received at lea
 
 I think the arguments I made in that post are sound and that ultimately I was right. But I also made four predictions for the future, predictions that were less impressive. I wrote:
 
-> By July 1st 2021,
+> By 1 July 2021,
 >
 > 1. the expert consensus will be that continuing with the AstraZeneca vaccinations would have saved more lives than pausing it ⇒ 95%
 > 2. a majority of the listed countries will have resumed administering the AstraZeneca vaccine ⇒ 90%.
@@ -98,7 +98,7 @@ As it turned out, the increased efficacy was due to the larger gap between the t
 
 **Verdict:** False.
 
-**Discussion:** If I recall correctly, I mostly deferred to Metaculus here. On March 16th, the day that I published my predictions, the [median prediction on Metaculus](https://www.metaculus.com/questions/6124/astrazenecaoxford-vaccine-us-eua-date/) was April 16th, two and a half months ahead of July 1st. But I have only myself to blame; I was far too confident. For one, I was not really aware of the bad history between AZ and the FDA. I also did not consider the fact that another vaccine, also based on an adenovirus vector, was being ramped up in the U.S. around that time, reducing the need for AZ. Bad and lazy prediction.
+**Discussion:** If I recall correctly, I mostly deferred to Metaculus here. On 16 March, the day that I published my predictions, the [median prediction on Metaculus](https://www.metaculus.com/questions/6124/astrazenecaoxford-vaccine-us-eua-date/) was 16 April, two and a half months ahead of 1 July. But I have only myself to blame; I was far too confident. For one, I was not really aware of the bad history between AZ and the FDA. I also did not consider the fact that another vaccine, also based on an adenovirus vector, was being ramped up in the U.S. around that time, reducing the need for AZ. Bad and lazy prediction.
 
 ## Prediction #4: an Elected Official Will Admit that Suspension Was a Mistake, 70%
 

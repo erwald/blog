@@ -109,7 +109,7 @@ So I adjust down to 8%.
 
 [Who will win the 2023 Nigerian Presidential Election?](https://www.metaculus.com/questions/14493/nigerian-presidential-election-2023/)
 
-Nigeria has a fascinating and important presidential election (to be held on February 25th) coming up:
+Nigeria has a fascinating and important presidential election (to be held on 25 February) coming up:
 
 - Nigeria is Africa's largest country by population, and sub-Saharan Africa's largest economy measured by PPP-adjusted GDP.
 - For the first time since the restoration of democracy in 1999, there are three credible candidates vying for the presidency.
@@ -211,7 +211,7 @@ Another Nigerian convention is to have a split Muslim-Christian ticket. If the p
 
 Peter Obi is first in most opinion polls, but everyone says Nigerian polls are unreliable, and there aren't many of them anyway. An example is [this December poll](http://anapfoundation.com/press-releases/peter-obi-consolidates-lead-in-a-fragmented-presidential-race) which has Obi at 23%, Tinubu at 13%, Abubakar at 10% and Kwakwaso at 2% (with 29% undecideds), though a lot of people in the south-west (38% of respondents there) refused to share who they'd vote for, which may indicate an undercount in the Tinubu number. I looked at a couple of older polls by the same organisation and they seemed pretty ok, enough that I think this is a fairly good signal.
 
-The bookies give Tinubu 35%, Abubakar 32%, Obi 25% and Kwankwaso 1% (as of January 30th). I'm more bullish on Obi than they are, and more bearish on Abubakar.
+The bookies give Tinubu 35%, Abubakar 32%, Obi 25% and Kwankwaso 1% (as of 30 January). I'm more bullish on Obi than they are, and more bearish on Abubakar.
 
 Reasons to be bullish on Obi:
 

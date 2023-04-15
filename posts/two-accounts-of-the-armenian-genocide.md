@@ -80,5 +80,5 @@ I found this book in a cramped, drab bookshop in Tbilisi. It's a book that break
 [^5]: I recognise that the fact that the two accounts I cover here were related on the same day, to the same scribe(s) and by some of the same people means that they aren't fully independent accounts. Far from it. Hence it should not be surprising if they mostly agree with each other.
 [^6]: The maps in this post came with the book.
 [^7]: Virabyan, A., Avagyan, G. & Baghdasaryan, L. (2013). _Armenian genocide by Ottoman Turkey, 1915 : testimony of survivors, collection of documents_. Yerevan: Zangak Publishing House.
-[^8]: The Russians [had made it to Mush by March 2nd](https://en.wikipedia.org/wiki/Caucasus_campaign#1916), so presumably they crossed Bulanekh (where Manazkert and Khosh-Geldi lay) in February.
+[^8]: The Russians [had made it to Mush by 2 March](https://en.wikipedia.org/wiki/Caucasus_campaign#1916), so presumably they crossed Bulanekh (where Manazkert and Khosh-Geldi lay) in February.
 [^9]: You can find Liz on the first map. It's located between Apri and Khosh-Geldi _(Khoshgyaldi)_.

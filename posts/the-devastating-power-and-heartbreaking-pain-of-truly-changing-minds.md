@@ -76,7 +76,7 @@ Losing your faith in the Church doesn't mean just changing your mind about factu
 
 In other words, there are various incentives for Latter-day Saints to keep believing. Latter-day Saints who have gone through faith crises always say that they desperately _wanted_ the Church to be true but that they just could not bring themselves to believe it. If I try to imagine finding factual issues that would cause me to renounce my whole worldview, I find it easy to believe them.
 
-Two predictions at this point. On January 1st 2050,
+Two predictions at this point. On 1 January 2050,
 
 1. The Church of Jesus Christ of Latter-day Saints will endorse a less literal interpretation of its founding texts and history, including the Book of Mormon, e.g. allowing that the Book of Mormon doesn't describe real peoples, migrations, wars etc. ⇒ 60%
 2. The Church of Jesus Christ of Latter-day Saints will be something closer to Calvinism or Lutheranism: a denomination in some sense founded and defined by one mortal man, but essentially about the Old and New Testaments and Jesus of Nazareth. ⇒ 60%
