@@ -9,6 +9,12 @@ eaf_link: https://forum.effectivealtruism.org/posts/oNzwJ9juHkgbhFGqA/can-a-vega
 
 # Can a Vegan Diet Be Healthy? A Literature Review
 
+<div class="edit">
+<p>
+Addendum 2023-07-02: Although this post concludes – rightly, I think – that a vegan diet can likely be healthy <em>if you make sure to get all the nutrients that you need</em>, I want to emphasise up front that <b>you really do need to make sure that you get all the nutrients you need, and this does not happen by default</b>. As the post points out, for example, many vegans are deficient in vitamin D and/or vitamin B12; fortunately those are easy to supplement, but you need to actually do that. For more information on how to do a vegan diet, see for example <a href="https://veganhealth.org/">Vegan Health</a>.
+</p>
+</div>
+
 ![img]({{ '/img/woman_eating_bowl.jpeg' | url }})
 
 > The skins crawled, and the meat that was stuck on the spits bellowed,  
