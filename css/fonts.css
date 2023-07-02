@@ -14,15 +14,15 @@
 @font-face {
   font-family: "Iosevka Aile";
   font-style: normal;
-  font-weight: 600;
-  src: local(""), url("../fonts/iosevka-aile-semibold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 800;
+  src: local(""), url("../fonts/iosevka-aile-extrabold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 @font-face {
   font-family: "Iosevka Aile";
   font-style: italic;
-  font-weight: 600;
+  font-weight: 800;
   src: local(""),
-    url("../fonts/iosevka-aile-semibolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url("../fonts/iosevka-aile-extrabolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 
 /* Iosevka Etoile */
@@ -41,15 +41,15 @@
 @font-face {
   font-family: "Iosevka Etoile";
   font-style: normal;
-  font-weight: 600;
-  src: local(""), url("../fonts/iosevka-etoile-semibold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 800;
+  src: local(""), url("../fonts/iosevka-etoile-extrabold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 @font-face {
   font-family: "Iosevka Etoile";
   font-style: italic;
-  font-weight: 600;
+  font-weight: 800;
   src: local(""),
-    url("../fonts/iosevka-etoile-semibolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url("../fonts/iosevka-etoile-extrabolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 
 /* Iosevka Fixed */
@@ -68,13 +68,13 @@
 @font-face {
   font-family: "Iosevka Fixed";
   font-style: normal;
-  font-weight: 600;
-  src: local(""), url("../fonts/iosevka-fixed-semibold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 800;
+  src: local(""), url("../fonts/iosevka-fixed-extrabold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 @font-face {
   font-family: "Iosevka Fixed";
   font-style: italic;
-  font-weight: 600;
+  font-weight: 800;
   src: local(""),
-    url("../fonts/iosevka-fixed-semibolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url("../fonts/iosevka-fixed-extrabolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
