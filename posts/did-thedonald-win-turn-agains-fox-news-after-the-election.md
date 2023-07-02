@@ -9,7 +9,7 @@ tags: post
 
 It must take a special kind of self-restraint for a certain kind of American liberal not to luxuriate in the MAGA faction's apparent mutiny against Fox News, perhaps for the same reason that the neocon mutiny against Trump was a kind of heroin for them. There's nothing better than an enemy wracked with turmoil, and there's no tranquilliser more powerful than the grudging testimony of the other side.
 
-To drink this potent elixir you're best off going to the source, which in the case of MAGA has to be [thedonald.win](https://en.wikipedia.org/wiki/R/The_Donald). I'll happily admit to have started checking in on the reluctant orchestra myself at intervals since Election Day. It's all kind of fascinating and probably no worse a way of spending one's time than watching some or another Netflix show. You can't have spent any time there recently and not have noticed that these people hate Fox News. But when did that begin? In particular, did it start around 11:20 p.m. on election night when Fox called Arizona?[^1] That question came up recently and I wanted to get some quantitative evidence.
+To drink this potent elixir you're best off going to the source, which in the case of MAGA has to be [thedonald.win](https://en.wikipedia.org/wiki/R/The_Donald). I'll happily admit to having started checking in on the reluctant orchestra myself at intervals since Election Day. It's all kind of fascinating and probably no worse a way of spending one's time than watching some or another Netflix show. You can't have spent any time there recently and not have noticed that these people hate Fox News. But when did that begin? In particular, did it start around 11:20 p.m. on election night when Fox called Arizona?[^1] That question came up recently and I wanted to get some quantitative evidence.
 
 <div class="edit">
 <p>
@@ -123,7 +123,7 @@ In numbers, the model is
 - 85% sure that attitudes towards OANN improved after election; and
 - 54% sure that attitudes towards Newsmax deteriorated after election.
 
-Of course this is under all the previously stated assumptions, and the effect sizes involved look very small. "Deteriorated" and "improved" here include truly miniscule changes in attitudes (as well as substantial ones). There are very few comments about only Newsmax or only OANN before the election (N = 5 and N = 16 respectively, compared to N = 239 for Fox News). That's why the uncertainty bands are larger for those two. But most fatal is probably the iffiness of the sentiment analysis, which is noisy and has both false positives and false negatives. If I'd had more time, I would have considered labelling the data manually. But there it is. Make of all of this what you will.
+Of course this is under all the previously stated assumptions, and the effect sizes involved look very small. "Deteriorated" and "improved" here include truly miniscule changes in attitudes (as well as substantial ones). There are very few comments about only Newsmax or only OANN before the election (N = 5 and N = 16 respectively, compared to N = 239 for Fox News). That's why the uncertainty bands are larger for those two. But most fatal is probably the dodginess of the sentiment analysis, which is noisy and has both false positives and false negatives. If I'd had more time, I would have considered labelling the data manually. But there it is. Make of all of this what you will.
 
 <div class="edit">
 <p>
