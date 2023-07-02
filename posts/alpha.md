@@ -16,7 +16,7 @@ In the first half of this essay, I recount two anecdotes. (The impatient reader 
 
 In the second half of this essay, I discuss alpha:
 
-- In finance, _alpha_ is (a) excess returns earned on an investment above the market when adjusted for risk, (b) an investor's ability to beat the market, or (sometimes) (c) a strategy or resource that consistently generates excess returns. Outside finance, **alpha refers simply to someone's ability to beat their competitors**, the _edge_ they have over their rivals.
+- In finance, _alpha_ is (a) excess returns earned on an investment above the market when adjusted for risk, (b) an investor's ability to beat the market, or (sometimes) (c\) a strategy or resource that consistently generates excess returns. Outside finance, **alpha refers simply to someone's ability to beat their competitors**, the _edge_ they have over their rivals.
 - Often what appears to be alpha is just noise. There are domains, like stock exchanges, where alpha is scarce, and other domains where it is abundant. Generally, the more valuable the object, the more crowded the field, and the harder it is to find alpha.
 - **Six very tentative ways of finding alpha are (1) seeking decision-relevant yet generally inaccessible knowledge, (2) making deep analyses, (3) extrapolating stable-seeming, high-entropy trends or lines of reasoning, (4) finding systematic ways that others act suboptimally, (5) seeking out places where one has relatively greater ability than everyone else and/or (6) making bets that few others can afford to make.**
 
@@ -64,7 +64,7 @@ These days, there are entire [professional gambling operations](https://archive.
 
 ## Alpha, Seen Up Close
 
-In finance, _alpha_ refers to (a) excess returns earned on an investment above the market as a whole when adjusted for risk[^2], (b) an investor's ability to beat the market and (sometimes) (c) a strategy or resource that repeatedly and consistently generates excess returns. The boundaries between these seem fuzzy; I've heard people use "alpha" to refer to information, models, software, talents and securities among other things.
+In finance, _alpha_ refers to (a) excess returns earned on an investment above the market as a whole when adjusted for risk[^2], (b) an investor's ability to beat the market and (sometimes) (c\) a strategy or resource that repeatedly and consistently generates excess returns. The boundaries between these seem fuzzy; I've heard people use "alpha" to refer to information, models, software, talents and securities among other things.
 
 Outside finance, alpha refers by metaphor to someone's ability to beat their competitors: in other words, an edge, a particularly successful tactic, being _ahead of the curve_, as the expression goes. It's what most sports dynasties had, most groundbreaking artists and most farseeing scientists. It's what Gerald Murnane sought.[^3] It's what Bill Benter found. It's not success, but it can be converted to it. It's the thing that Taleb (2007) describes:
 
