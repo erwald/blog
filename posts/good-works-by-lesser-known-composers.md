@@ -11,13 +11,13 @@ tags: post
 >
 > – Franz Kafka[^1]
 
-It makes no sense for a contemporary composer to return to the style of the Romantics, say, or to that of the Moderns or of the heroes of the Renaissance. Composers are like explorers in that way. There's no point trodding ground that's already been mapped out since centuries. Hence we will never have another Wagner, another Sibelius or another Josquin des Prez, no matter how many people of their talent we produce.
+The habitual craving for novelty that grips the contemporary composer makes it impossible for them to return to the style of the Romantics, say, or to that of the Moderns or of the heroes of the Renaissance. Composers are like explorers in that way. There's no point trodding ground that's already been mapped out since centuries. Hence we will never have another Richard Wagner, another Jean Sibelius, another Josquin des Prez, no matter how many people of their talent we produce.
 
-That leaves those of us who admire that sort of music in a strange position. Because Wagner only wrote so many operas, Sibelius so many symphonies, des Prez so many masses. We discover them, we exhaust them, we go on listening to them ... what then? Sooner or later we begin to crave new things. And so we move on to their less talented contemporaries and do the same thing to those. Anyone can see where this plot is heading: to the exact state of affairs we experience today, where we burst with enthusiasm over the discovery of some or another new but altogether insignificant work of one of the olds, where our critics talk not about the music but about performance and sound quality and where, in one year alone, we have lived through the release of no less than nine[^2] new recordings of Beethoven's Symphony No. 5.[^3]
+That leaves those of us who admire that sort of music in a strange position. Because Wagner only wrote so many operas, Sibelius so many symphonies, des Prez so many masses. We discover them, we exhaust them, we go on listening to them ... what then? Sooner or later we begin to crave new things. And so we move on to their less talented contemporaries and do the same thing to those. Anyone can see where this plot is heading: to the exact state of affairs we experience today, where we burst with enthusiasm over the discovery of such-and-such a new though insignificant work of one of the olds, where our critics talk not about the music but about performance and sound quality and where, in one year alone, we have lived through the release of no less than nine[^2] new recordings of Beethoven's Symphony No. 5.[^3]
 
-However. It happens that the gods smile on us. It happens that we find in this lifelong search an overlooked composer who is nevertheless just as worthy as those we most admire. The four works I introduce below were written by just such composers. It should surprise me very much if you've heard even half of these works.
+Yet at times the gods smile on us. It happens that we find in this lifelong search an overlooked composer who is nevertheless just as worthy as those we most admire. The four works I introduce below were written by just such composers. It should surprise me to learn that you, reader, have heard even half of these works.
 
-Each composer has for some or another reason not become quite as popular as they ought to have become. One of them looked back to the Romantics and Renaissance music when everyone around him was consumed by modernism; one did not have the hunger to carry on after getting a cushy lectorship; one wrote nearly all of his music for the organ and died young; and one was a woman who grew up on the periphery of Europe – I'll begin with her.
+Each of these composers has for some or another reason not become as popular as they ought to have become. One of them looked back to the Romantics and Renaissance music when everyone around him was consumed by modernism; one did not have the hunger to carry on after getting a cushy lectorship; one wrote nearly all of his music for the organ and died young; and one was a woman who grew up on the periphery of Europe – I'll begin with her.
 
 ## Helena
 
@@ -25,7 +25,7 @@ In 1877 in Paris, Helena Munktell met and began to study under Vincent d'Indy.[^
 
 ![Photograph of Helena Munktell.]({{ '/img/munktell.jpg' | url }})
 
-That decade she wrote her last orchestral work, _Valborgsmässoeld_, or in English _Walpurgis Night Fire_, a tone poem inspired by Dalarna.[^8] It's a conservative piece, more backwards-looking than the earlier, more impressionistic and modern work _Bränningar_. But it is beautiful. It will remind you of Liszt and Wagner. It is largely taken up with a single theme which sounds like springtime, just like spring, full of hope and light, delicate, triumphant. It's not quite as good as _Les Preludes_ or _Orpheus_, maybe, but in my opinion every bit as good as _Mazeppa_ and _Hunnenschlacht_.
+That decade she wrote her last orchestral work, _Valborgsmässoeld_, or in English _Walpurgis Night Fire_, a tone poem inspired by Dalarna.[^8] It's a conservative piece, more backwards-looking than the earlier, more impressionistic and modern work _Bränningar_. But it is beautiful. It will remind you of Richard Wagner and Franz Liszt. It is largely taken up with a single theme which sounds like springtime, full of hope and light, delicate, triumphant. If it's not quite as good as _Les Preludes_ or _Orpheus_, it is at least every bit as good as _Mazeppa_ and _Hunnenschlacht_.
 
 _Valborgsmässoeld_ was recorded by the Gävle Symphony Orchestra with Tobias Ringborg and released in 2005 on Sterling Records.
 
@@ -35,13 +35,13 @@ In June of 1940 the Wehrmacht broke in towards the Loire and the town of Saumur.
 
 ![Photograph of Jehan Alain.]({{ '/img/alain.jpeg' | url }})
 
-He wrote the _Deux Chorals_ in 1935 at the age of 24. The first is a quiet, contemplative work in the Dorian mode[^9]. It seems like a simple piece at first, but the graceful harmonies and chiasmically varying phrase lengths make it more than interesting; it sounds a little like Satie but with the organ substituted for the piano. The second is an eerily proceeding piece in the Phrygian mode[^10] with a tentative, doleful melody. It reminds us, as we hear it, that no one was better able to explore the quieter, more mystical aspect of the organ than Jehan Alain.
+He wrote the _Deux Chorals_ in 1935 at the age of 24. The first is a quiet, contemplative work in the Dorian mode[^9]. It seems like a simple piece at first, but the graceful harmonies and chiasmically varying phrase lengths make it more than interesting; it sounds a little like Erik Satie but with the organ substituted for the piano. The second is an eerily proceeding piece in the Phrygian mode[^10] with a tentative, doleful melody. It reminds us, as we hear it, that no one was better able to explore the quieter, more mystical aspect of the organ than Jehan Alain.
 
 Unlike the other works on this list, these ones have, like most of Alain's organ works, been recorded quite a number of times. I recommend last year's recording by Wolfgang Rübsam on Counterpoint Records.
 
 ## Harold
 
-In his youth, Harold Shapero drew crowds with Leonard Bernstein, who was not yet famous then.[^11] They were two young men going from place to place joyfully letting loose on whatever pianos they found.[^12] Harold Shapero's life was music and music was his life: he played, he studied, he composed. In 1948, when he was 27, Bernstein conducted the Boston Symphony Orchestra in the premiere of his _Symphony for Classical Orchestra_.
+In his youth, Harold Shapero drew crowds with Leonard Bernstein, who was not yet famous then.[^11] They were two young men going from place to place joyfully letting loose on whatever pianos they found.[^12] Harold Shapero's life was music and music was his life: he played, he studied, he composed. In 1948, when he was 27, Bernstein conducted the Boston Symphony Orchestra in the premiere of Shapero's _Symphony for Classical Orchestra_.
 
 But Shapero's is a sad story, in a way. His flame burned bright and quick. After he had joined the Brandeis University faculty in 1951, his output began to dry up. "There’s something about the teaching that is deadening to composition", he said years later.[^13]
 
@@ -57,9 +57,9 @@ Around the time that Harold Shapero wrote his _Variations_, a Jewish boy named A
 
 ![Photograph of Arnold Rosner.]({{ '/img/rosner.jpg' | url }})
 
-_The Parable of the Law_ is a long orchestral song, or maybe a tone poem for baritone and orchestra, or maybe a cantata in a single movement, without a choir and with just one character. That character is the narrator of a short passage taken from Franz Kafka's _The Trial_[^16]. The passage is a parable which goes like this. A man wants to get through the door of the Law but is rebuffed by the doorkeeper. He spends the remainder of his days waiting outside, uncertain if he will ever be allowed to enter. In the end, he dies and the door is shut forever ... I suppose you, dear reader, are already thinking of the obvious comparison here, viz. with Rosner himself and the other composers I've mentioned, who similarly spent their days anxiously waiting outside the gates of Acceptance.
+_The Parable of the Law_ is a long orchestral song, or maybe a tone poem for baritone and orchestra, or maybe a cantata in a single movement, without a choir and with just one character. That character is the narrator of a short passage taken from Franz Kafka's _The Trial_[^16]. The passage is a parable which goes like this. A man wants to get through the door of the Law but is rebuffed by the doorkeeper. He spends the remainder of his days waiting outside, uncertain if he will ever be allowed to enter. In the end, he dies and the door is shut forever ... I suppose you, dear reader, are already thinking of the obvious comparison here, namely with Rosner himself, who similarly spent his days anxiously waiting outside the gates of Acceptance.
 
-The composition begins with some angular motives that are developed for the remainder of the piece. The baritone soon enters with the line: "Before the Law there stands a doorkeeper" and then, accented now and again by erratic timpani hits, goes on taking turns in the foreground with the orchestra in a kind of antiphonal style. Gradually the brass section begins to dominate. Light woodwind trills remind me of Mahler, but there's none of that one's jocularity here: this is dark, threatening, wretched music of the best sort.
+_The Parable of the Law_ begins with some angular motives that are developed for the remainder of the piece. The baritone soon enters with the line: "Before the Law there stands a doorkeeper" and then, accented now and again by erratic timpani hits, goes on taking turns in the foreground with the orchestra in a kind of antiphonal style. Gradually the brass section begins to dominate. Light woodwind trills remind me of Mahler, but there's none of that one's jocularity here: this is dark, threatening, wretched music of the best sort.
 
 _The Parable of the Law_ was recorded just a few years ago by the London Philharmonic Orchestra with Nick Palmer conducting and Christopher Burchett singing, again for Toccata Classics.
 
@@ -71,7 +71,7 @@ _The Parable of the Law_ was recorded just a few years ago by the London Philhar
 [^6]: ibid.
 [^7]: ibid.
 [^8]: ibid.
-[^9]: Actually, it's in what we now call the Phrygian mode. But back then things were not so standardised and Alain followed Maurice Emmanuel in referring to this mode as the Dorian. I'll keep that term here to not confuse you, dear reader.
+[^9]: Actually, it's in what we now call the Phrygian mode. But back then things were not so standardised and Alain followed Maurice Emmanuel in referring to this mode as the Dorian. I'll keep that term here to avoid confusion.
 [^10]: The modern Dorian mode. See the previous footnote.
 [^11]: [Interview with Shapero for a documentary.](https://www.youtube.com/watch?v=ZNNo8DrDCnM)
 [^12]: ibid.
