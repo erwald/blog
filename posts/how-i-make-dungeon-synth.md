@@ -7,7 +7,7 @@ tags: post
 
 # How I Make Dungeon Synth
 
-Last week, on 30 December 2021, the Milan-based [dungeon synth](https://en.wikipedia.org/wiki/Dungeon_synth) label [Heimat der Katastrophe](https://heimatderkatastrophe.bandcamp.com/) released the fifth edition of their Dungeon Synth Magazine series. This is a series of albums released on cassette tape, each comprising four tracks by four different artists, and each accompanied by a short story in the tape booklet. They usually sell out in no more than half an hour. What's special for me about this fifth edition of the magazine is that one of the tracks on there is mine, the first track on the A-side, by ICEWIND DALE. (I have indeed named my dungeon synth project after the video game series.) The piece gets its title from the accompanying story, "A Distant Apocalypse" (henceforth ADA). You can listen to it [here](https://heimatderkatastrophe.bandcamp.com/album/hdk-104-hdk-dungeon-synth-magazine-5).
+Last week, on 30 December 2021, the great Milan-based [dungeon synth](https://en.wikipedia.org/wiki/Dungeon_synth) label [Heimat der Katastrophe](https://heimatderkatastrophe.bandcamp.com/) released the fifth edition of the Dungeon Synth Magazine, a series of albums released on cassette tape, each comprising four tracks by four artists and four accompanying short stories printed in the tape booklet. The first track on this fifth release is by myself, under the moniker ICEWIND DALE. (I borrowed the name from the Dungeons & Dragons-based video game series.) The piece gets its title from the accompanying story, "A Distant Apocalypse" (henceforth ADA). You can listen to it [here](https://heimatderkatastrophe.bandcamp.com/album/hdk-104-hdk-dungeon-synth-magazine-5).
 
 ![Photo of Heimat der Katastrophe's Dungeon Synth Magazine No. 5.]({{ '/img/hdk_mag_cover.jpg' | url }})
 
@@ -61,7 +61,13 @@ So at some point, as I am writing the music, I want to get an idea of how it wil
 
 This, for me, is the hardest and – maybe not coincidentally – least fun part. But it is important. I find that you can do almost anything in the previous steps and still have it sound like dungeon synth with proper orchestration. Dungeon synth is really an atmosphere more than a style of music, and this atmosphere is based largely on timbre.
 
-I own a few hardware synths but for dungeon synth I only use software synths. Some of the ones I use are:
+<div class="edit">
+<p>
+Addendum 2023-12-14: With version 4, released at the end of 2022, MuseScore now supports the use of VST audio plugins. That means I can now compose directly using the final sound I intend each part to have, so long as I stick to software synths. This is a great convenience and relief.
+</p>
+</div>
+
+I own a few hardware synths but when making dungeon synth I only use software synths. Some of the ones I use are:
 
 - Korg M1
 - OB-Xd
