@@ -20,7 +20,7 @@ layout: layouts/base.njk
         </ul>
     </div>
 {% endif %}
-<h1>{{ title | markdown | safe }}</h1>
+<h1>{{ title | apostrophy | markdown | safe }}</h1>
 <div id="date">
     {% if date %}<span class="nowrap">{{ date | readableDate }}</span>{% endif %}
     • {{ content | emojiReadTime }}

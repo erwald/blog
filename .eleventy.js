@@ -34,6 +34,14 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-MM-dd");
   });
 
+  eleventyConfig.addFilter("apostrophy", (str) => {
+    return str
+      .replace(/\B\'/g, "‘")
+      .replace(/\'/g, "’")
+      .replace(/\B\"/g, "“")
+      .replace(/\"/g, "”");
+  });
+
   // configure footnotes.
   // i got this from here (thanks!):
   // http://dirtystylus.com/2020/06/15/eleventy-markdown-and-footnotes/
