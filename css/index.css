@@ -6,13 +6,17 @@
   --grey: #ccc;
   --light-grey: #f6f6f6;
   --white: white;
-  --blue: blue;
-  --light-blue: #eeeeff;
+  --accent: #090a06;
+  --light-accent: #f6f6f6;
+
+  --title-font: "Bagnard", serif;
+  --body-font: "Junicode", serif;
+  --mono-font: "Iosevka Fixed", monospace;
 }
 
 html {
-  font-family: "Iosevka Aile", sans-serif;
-  font-size: 18px;
+  font-family: var(--body-font);
+  font-size: 20px;
   letter-spacing: 0px;
   color: var(--black);
   background-color: var(--white);
@@ -25,11 +29,12 @@ body {
 
 b,
 strong {
-  font-weight: 800;
+  font-weight: 700;
 }
 
 a {
-  background-color: var(--light-blue);
+  color: var(--accent);
+  background-color: var(--light-accent);
 }
 
 a:hover {
@@ -42,12 +47,12 @@ main,
 footer {
   margin: 0 auto;
   padding: 0 20px;
-  max-width: 720px;
+  max-width: 660px;
 }
 
 footer {
   margin-top: 20px;
-  max-width: 650px;
+  max-width: 480px;
 }
 footer p {
   font-size: 17px;
@@ -65,6 +70,8 @@ footer p {
 }
 
 #breadcrumbs {
+  font-family: var(--body-font);
+  font-weight: 600;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -73,8 +80,6 @@ footer p {
   padding: 0;
 
   font-size: 23px;
-  font-weight: 800;
-  letter-spacing: -1px;
   text-transform: uppercase;
 }
 #breadcrumbs li {
@@ -99,7 +104,7 @@ footer p {
 }
 
 #date {
-  padding-top: 1.5ch;
+  padding-top: 1ch;
 }
 
 #content {
@@ -125,29 +130,29 @@ hr {
 }
 
 h1 {
-  font-family: "Iosevka Etoile", sans-serif;
+  font-family: var(--title-font);
+  font-size: 36px;
+  font-weight: 700;
   letter-spacing: -1px;
   line-height: 2ch;
-
   margin: 0;
-  font-size: 36px;
-  font-weight: 800;
 }
 
 h2 {
-  font-family: "Iosevka Etoile", sans-serif;
-  font-size: 24px;
+  font-family: var(--title-font);
+  font-size: 26px;
   font-weight: 400;
-  color: var(--blue);
-  padding-top: 0.5ch;
+  color: var(--accent);
+  padding-bottom: 1.25ch;
+  border-bottom: 3px solid var(--accent);
 }
 
 h3 {
-  font-family: "Iosevka Etoile", sans-serif;
+  font-family: var(--title-font);
   font-size: 20px;
   font-weight: 400;
   font-style: italic;
-  color: var(--blue);
+  color: var(--accent);
   padding-top: 0.5ch;
 }
 
@@ -160,7 +165,7 @@ h3 {
   padding-bottom: 0.5ch;
 }
 .post-abbrev-link {
-  font-size: 24px;
+  font-size: 26px;
   padding-bottom: 0.5ch;
 }
 .post-abbrev-read-time {
@@ -180,6 +185,10 @@ h3 {
   margin: 0px;
   padding: 1ch;
   background-color: var(--light-grey);
+  filter: grayscale(100%) contrast(150%);
+}
+.post-abbrev-featured-body:hover {
+  filter: none;
 }
 .post-abbrev-featured-img {
   padding-top: 68%;
@@ -202,17 +211,17 @@ p,
 li,
 label,
 .csl-bib-body {
-  line-height: 2.5ch;
+  line-height: 2.8ch;
   hyphens: auto;
 }
 
 .edit {
-  font-size: 17px;
-  color: var(--blue);
+  font-size: 18px;
+  color: var(--accent);
   background-color: white;
   padding: 0px 20px;
   margin: 20px -20px;
-  border: 2px solid var(--blue);
+  border: 2px solid var(--accent);
 }
 @media only screen and (max-width: 640px) {
   .edit {
@@ -221,7 +230,7 @@ label,
 }
 
 #series {
-  font-size: 17px;
+  font-size: 18px;
   font-style: italic;
 }
 #series p {
@@ -237,16 +246,16 @@ label,
 blockquote p,
 blockquote ul,
 blockquote li {
-  font-size: 17px;
-  line-height: 2.5ch;
+  font-size: 18px;
+  line-height: 2.8ch;
 }
 blockquote .footnote-ref {
   font-size: 14px;
 }
 
 .verse {
-  font-size: 17px;
-  line-height: 2.5ch;
+  font-size: 18px;
+  line-height: 2.8ch;
   padding-left: 40px;
 }
 
@@ -259,8 +268,8 @@ sup {
 }
 
 code {
-  font-family: "Iosevka Fixed", monospace;
-  font-size: 17px;
+  font-family: var(--mono-font);
+  font-size: 16px;
   padding: 2px;
   margin: -2px;
   hyphens: none;
@@ -299,7 +308,7 @@ th {
 }
 
 input {
-  font-family: "Iosevka Aile", serif;
+  font-family: var(--body-font);
   font-size: 17px;
 }
 input#bd-email {
@@ -338,6 +347,9 @@ input#bd-email {
   }
 }
 @media only screen and (max-width: 640px) {
+  h1 {
+    line-height: 1.5ch;
+  }
   #content {
     width: 100%;
     padding: 0;

@@ -1,55 +1,35 @@
-/* Iosevka Aile */
+/* Bagnard */
 @font-face {
-  font-family: "Iosevka Aile";
+  font-family: "Bagnard";
   font-style: normal;
   font-weight: 400;
-  src: local(""), url("../fonts/iosevka-aile-regular.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
-}
-@font-face {
-  font-family: "Iosevka Aile";
-  font-style: italic;
-  font-weight: 400;
-  src: local(""), url("../fonts/iosevka-aile-italic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
-}
-@font-face {
-  font-family: "Iosevka Aile";
-  font-style: normal;
-  font-weight: 800;
-  src: local(""), url("../fonts/iosevka-aile-extrabold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
-}
-@font-face {
-  font-family: "Iosevka Aile";
-  font-style: italic;
-  font-weight: 800;
-  src: local(""),
-    url("../fonts/iosevka-aile-extrabolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  src: local(""), url("../fonts/bagnard.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 
-/* Iosevka Etoile */
+/* Junicode */
 @font-face {
-  font-family: "Iosevka Etoile";
+  font-family: "Junicode";
   font-style: normal;
   font-weight: 400;
-  src: local(""), url("../fonts/iosevka-etoile-regular.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  src: local(""), url("../fonts/junicode-regular.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 @font-face {
-  font-family: "Iosevka Etoile";
+  font-family: "Junicode";
   font-style: italic;
   font-weight: 400;
-  src: local(""), url("../fonts/iosevka-etoile-italic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  src: local(""), url("../fonts/junicode-italic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 @font-face {
-  font-family: "Iosevka Etoile";
+  font-family: "Junicode";
   font-style: normal;
-  font-weight: 800;
-  src: local(""), url("../fonts/iosevka-etoile-extrabold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 700;
+  src: local(""), url("../fonts/junicode-bold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 @font-face {
-  font-family: "Iosevka Etoile";
+  font-family: "Junicode";
   font-style: italic;
-  font-weight: 800;
-  src: local(""),
-    url("../fonts/iosevka-etoile-extrabolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 700;
+  src: local(""), url("../fonts/junicode-bolditalic.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 
 /* Iosevka Fixed */
