@@ -1,146 +1,141 @@
 [
-  {
-    "subject": "the ethics of buying services",
-    "posts": [
-      { "title": "Paying for a Service", "slug": "paying-for-a-service" },
-      { "title": "Paying for Sex", "slug": "paying-for-sex" },
-      { "title": "Paying a Corporation", "slug": "paying-a-corporation" }
-    ]
-  },
-  {
-    "subject": "estimating population sizes",
-    "posts": [
-      { "title": "The Kingdom of Tamego", "slug": "the-kingdom-of-tamego" },
-      {
-        "title": "Bayesian Modelling of Simulated Data from the Kingdom of Tamego",
-        "slug": "bayesian-modelling-of-simulated-data-from-the-kingdom-of-tamego"
-      },
-      {
-        "title": "Reliability in the Lincoln-Petersen Method of Estimating Population Size",
-        "slug": "reliability-in-the-lincoln-petersen-method-of-estimating-population-size"
-      }
-    ]
-  },
-  {
-    "subject": "theory and terminology in animal advocacy",
-    "posts": [
-      {
-        "title": "Rights or Welfare for Animals?",
-        "slug": "rights-or-welfare-for-animals"
-      },
-      {
-        "title": "Possible Resolutions to the Rights/Welfare Debate in Animal Advocacy",
-        "slug": "possible-resolutions-to-the-rights-welfare-debate-in-animal-advocacy"
-      },
-      {
-        "title": "Dimensions of Animal Advocacy Terminology",
-        "slug": "dimensions-of-animal-advocacy-terminology"
-      }
-    ]
-  },
-  {
-    "subject": "the AstraZeneca vaccine suspension in Europe",
-    "posts": [
-      {
-        "title": "The AstraZeneca Vaccine Will Save Lives",
-        "slug": "the-astra-zeneca-vaccine-will-save-lives"
-      },
-      {
-        "title": "Scoring My AstraZeneca Predictions",
-        "slug": "scoring-my-astra-zeneca-predictions"
-      }
-    ]
-  },
-  {
-    "subject": "moral systems composed of other moral systems",
-    "posts": [
-      { "title": "Moral Golems", "slug": "moral-golems" },
-      {
-        "title": "Moral Golems Assume Uncertainty",
-        "slug": "moral-golems-assume-uncertainty"
-      }
-    ]
-  },
-  {
-    "subject": "identity on the modern Left",
-    "posts": [
-      {
-        "title": "Identity Politics and the Left",
-        "slug": "identity-politics-and-the-left"
-      },
-      {
-        "title": "Critique of Norm Criticism",
-        "slug": "critique-of-norm-criticism"
-      }
-    ]
-  },
-  {
-    "subject": "Marilynne Robinson's views on economics and nuclear safety",
-    "posts": [
-      {
-        "title": "Marilynne Robinson's Quest for Truth",
-        "slug": "marilynne-robinsons-quest-for-truth"
-      },
-      {
-        "title": "Nuclear Decay",
-        "slug": "nuclear-decay"
-      }
-    ]
-  },
-  {
-    "subject": "divers philosophical matters",
-    "posts": [
-      {
-        "title": "Auderico",
-        "slug": "auderico"
-      },
-      {
-        "title": "Frunimius",
-        "slug": "frunimius"
-      }
-    ]
-  },
-  {
-    "subject": "the blog itself",
-    "posts": [
-      {
-        "title": "Meta Update 1",
-        "slug": "meta-update-1"
-      },
-      {
-        "title": "Meta Update 2",
-        "slug": "meta-update-2"
-      },
-      {
-        "title": "Meta Update 3",
-        "slug": "meta-update-3"
-      }
-    ]
-  },
-  {
-    "subject": "relatively unknown European art music composers",
-    "posts": [
-      {
-        "title": "Good Works by Lesser-Known Composers",
-        "slug": "good-works-by-lesser-known-composers"
-      },
-      {
-        "title": "Good Works by Lesser-Known Composers 2",
-        "slug": "good-works-by-lesser-known-composers-2"
-      }
-    ]
-  },
-  {
-    "subject": "the health effects of veganism",
-    "posts": [
-      {
-        "title": "Can a Vegan Diet Be Healthy? A Literature Review",
-        "slug": "can-a-vegan-diet-be-healthy-a-literature-review"
-      },
-      {
-        "title": "Follow-Up on the Health Effects of Veganism: Mental Health",
-        "slug": "follow-up-on-the-health-effects-of-veganism-mental-health"
-      }
-    ]
-  }
+    {
+        "subject": "estimating population sizes",
+        "posts": [
+            {
+                "title": "The Kingdom of Tamego",
+                "slug": "the-kingdom-of-tamego"
+            },
+            {
+                "title": "Bayesian Modelling of Simulated Data from the Kingdom of Tamego",
+                "slug": "bayesian-modelling-of-simulated-data-from-the-kingdom-of-tamego"
+            },
+            {
+                "title": "Reliability in the Lincoln-Petersen Method of Estimating Population Size",
+                "slug": "reliability-in-the-lincoln-petersen-method-of-estimating-population-size"
+            }
+        ]
+    },
+    {
+        "subject": "theory and terminology in animal advocacy",
+        "posts": [
+            {
+                "title": "Rights or Welfare for Animals?",
+                "slug": "rights-or-welfare-for-animals"
+            },
+            {
+                "title": "Possible Resolutions to the Rights/Welfare Debate in Animal Advocacy",
+                "slug": "possible-resolutions-to-the-rights-welfare-debate-in-animal-advocacy"
+            },
+            {
+                "title": "Dimensions of Animal Advocacy Terminology",
+                "slug": "dimensions-of-animal-advocacy-terminology"
+            }
+        ]
+    },
+    {
+        "subject": "the AstraZeneca vaccine suspension in Europe",
+        "posts": [
+            {
+                "title": "The AstraZeneca Vaccine Will Save Lives",
+                "slug": "the-astra-zeneca-vaccine-will-save-lives"
+            },
+            {
+                "title": "Scoring My AstraZeneca Predictions",
+                "slug": "scoring-my-astra-zeneca-predictions"
+            }
+        ]
+    },
+    {
+        "subject": "moral systems composed of other moral systems",
+        "posts": [
+            { "title": "Moral Golems", "slug": "moral-golems" },
+            {
+                "title": "Moral Golems Assume Uncertainty",
+                "slug": "moral-golems-assume-uncertainty"
+            }
+        ]
+    },
+    {
+        "subject": "identity on the modern Left",
+        "posts": [
+            {
+                "title": "Identity Politics and the Left",
+                "slug": "identity-politics-and-the-left"
+            },
+            {
+                "title": "Critique of Norm Criticism",
+                "slug": "critique-of-norm-criticism"
+            }
+        ]
+    },
+    {
+        "subject": "Marilynne Robinson's views on economics and nuclear safety",
+        "posts": [
+            {
+                "title": "Marilynne Robinson's Quest for Truth",
+                "slug": "marilynne-robinsons-quest-for-truth"
+            },
+            {
+                "title": "Nuclear Decay",
+                "slug": "nuclear-decay"
+            }
+        ]
+    },
+    {
+        "subject": "divers philosophical matters",
+        "posts": [
+            {
+                "title": "Auderico",
+                "slug": "auderico"
+            },
+            {
+                "title": "Frunimius",
+                "slug": "frunimius"
+            }
+        ]
+    },
+    {
+        "subject": "the blog itself",
+        "posts": [
+            {
+                "title": "Meta Update 1",
+                "slug": "meta-update-1"
+            },
+            {
+                "title": "Meta Update 2",
+                "slug": "meta-update-2"
+            },
+            {
+                "title": "Meta Update 3",
+                "slug": "meta-update-3"
+            }
+        ]
+    },
+    {
+        "subject": "relatively unknown European art music composers",
+        "posts": [
+            {
+                "title": "Good Works by Lesser-Known Composers",
+                "slug": "good-works-by-lesser-known-composers"
+            },
+            {
+                "title": "Good Works by Lesser-Known Composers 2",
+                "slug": "good-works-by-lesser-known-composers-2"
+            }
+        ]
+    },
+    {
+        "subject": "the health effects of veganism",
+        "posts": [
+            {
+                "title": "Can a Vegan Diet Be Healthy? A Literature Review",
+                "slug": "can-a-vegan-diet-be-healthy-a-literature-review"
+            },
+            {
+                "title": "Follow-Up on the Health Effects of Veganism: Mental Health",
+                "slug": "follow-up-on-the-health-effects-of-veganism-mental-health"
+            }
+        ]
+    }
 ]
