@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Not a Meat Eater FAQ
 date: 2024-12-31
 tags: post
+eaf_link: https://forum.effectivealtruism.org/posts/ttqDt3batMJSAoWmh/not-a-meat-eater-faq
 ---
 # Not a Meat Eater FAQ
 
