@@ -117,7 +117,7 @@ People often unconsciously process information in a way that supports their pre-
 
 If children constantly bully each other, does that make it fine to bully children? It's true that animals murder, rape, steal and destroy their offspring. But that does not automatically mean we are free to do all those things to the animals. (And it's worth noting that many commonly farmed animals, like cows, pigs and chicken tend not to kill and eat each other.) Animals do terrible things to each other because they cannot do otherwise. They just act instinctively. They lack the cognitive abilities needed to make moral judgments. We, on the other hand, *do* have those abilities and *can* act morally. And when we don't, we are blameworthy.
 
-I think it's important not to [mistake moral agency from moral standing]({{ '/posts/moral-standing-is-not-moral-agency/' | url }}). Moral standing is the right to have one's interests factored into others' moral choices, whereas moral agency is the ability to make moral choices. My claim, summarised in the table below, is that animals have moral standing, but not moral agency. (More on the moral status of animals later.)
+I think it's important not to [mistake moral agency from moral standing]({{ '/posts/moral-standing-is-not-moral-agency/' | url }}). Moral standing is the right to have one's interests factored into others' moral choices, whereas moral agency is the ability to make moral choices. My claim, summarised in the table below, is that animals have moral standing, but not moral agency, whereas rocks have neither.[^11] (More on the moral status of animals later.)
 
 <table width="100%" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -150,7 +150,7 @@ I think it's important not to [mistake moral agency from moral standing]({{ '/po
 
 <tr>
 <td class="org-left">Rock</td>
-<td class="org-left">No[^11]</td>
+<td class="org-left">No</td>
 <td class="org-left">No</td>
 </tr>
 </tbody>
@@ -314,7 +314,7 @@ If that were true, even a gradual mass movement of people stopping buying meat o
 
 **Wouldn't reducing my meat consumption temporarily lower meat prices, leading other customers to purchase *more* meat?**
 
-When demand for meat drops, prices won't perfectly adjust to maintain production levels. Instead, because meat prices are relatively inelastic (resistant to change), some producers will be forced out of business rather than all producers simply lowering their prices (Gallet 2010, 2012). That would reduce supply and increase prices. While remaining producers might try to cut costs through efficiency measures that could harm animals, the overall effect would still likely reduce factory farming and animal suffering.
+When demand for meat drops, prices won't perfectly adjust to maintain production levels. Instead, because meat prices are relatively inelastic (resistant to change), some producers will be forced out of business rather than all producers simply lowering their prices (Gallet 2010, 2012). While remaining producers might try to cut costs through efficiency measures that could harm animals, the overall effect would still likely reduce factory farming and animal suffering.
 
 **Richard Yetter-Chappell [argues](https://www.goodthoughts.blog/p/confessions-of-a-cheeseburger-ethicist) roughly that (1) eating meat is unjustified, but a relatively minor mistake in the scheme of things, (2) it's fine and extremely normal to make decisions that are less than perfectly justified and (3) other behavioural changes should be higher priorities, for example, helping animals by donating to effective animal welfare charities. What do you make of that argument?**
 
