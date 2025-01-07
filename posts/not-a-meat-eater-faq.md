@@ -71,7 +71,7 @@ I stopped eating meat for the reasons I just outlined.
 
 I ate meat for a little over 25 years, having grown up in a meat-eating household. I think I stopped in 2014 or 2015, so about a decade ago. But by then I had already for some time arrived at the conclusion that eating meat was wrong. In fact, I looked through my email history just now and learned that I wrote, on 24 March 2012: "If I had any power of will I would be a vegetarian. But I'm too lazy and I like meat."
 
-So at some point around or prior to 2012 I must have been persuaded that eating meat was wrong. I don't remember exactly what persuaded me, but I remember that it was the moral argument about animal welfare, not arguments around health or climate change, that persuaded me. I especially came to think that torturing animals in factory farms was bad and wrong. I did not overcome my laziness to become vegetarian until 2016 or so. In 2021, I [became vegan]({{ '/posts/my-path-towards-veganism/' | url }}).
+So at some point around or prior to 2012 I must have been persuaded that eating meat was wrong. I don't remember exactly what persuaded me, but I remember that it was the moral argument about animal welfare, not arguments around health or climate change, that persuaded me. I especially came to think that torturing animals in factory farms was bad and wrong. As mentioned, I did not overcome my laziness to become vegetarian until 2015 or so. In 2021, I [became vegan]({{ '/posts/my-path-towards-veganism/' | url }}).
 
 **Isn't "torture" a little extreme?**
 
