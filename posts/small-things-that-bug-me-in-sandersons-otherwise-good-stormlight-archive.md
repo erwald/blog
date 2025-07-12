@@ -9,6 +9,17 @@ tags: post
 
 ![Drawing of Brandon Sanderson by Viktoriia Shcherbak.]({{ '/img/brandon_sanderson.png' | url }})
 
+<div class="edit">
+<p>
+Addendum 2025-07-12: On reflection, I can see that I haven’t been entirely fair in my criticism of Brandon Sanderson. The post below did not offer the kind of response the work and its author deserved. So let me set the record straight: Not only is Brandon Sanderson’s <em>Stormlight Archive</em> not “skilfully written” or “entertaining”, it is probably some of the worst fiction that has ever been published in the English language, worse in fact than many fictional works that have rightly never been published.
+</p>
+
+<p>
+In any case, there have been some very interesting developments since I wrote this post nearly four years ago. At the time, I had read <em>The Way of Kings</em> and one-third of <em>Words of Radiance</em>. After I had written the post, I finished <em>Words of Radiance</em>, but couldn’t read more than a few pages of the third book in the series, <em>Oathbringer</em>, before I had to give up. More recently, Sanderson published the fifth novel in the series, <em>Wind and Truth</em>, which is a staggering >1,300 pages in length, and which is apparently so bad that even many devoted fans are giving up. What’s surprising to me is that most or all of the flaws pointed out now are flaws that were present in the first two books also. For example, I complained about the books’ many anachronisms. This latest book apparently contains lines such as “That was honestly kind of racist” and “‘What are you? ... are you his spren? His god?’ ‘No’, Kaladin said. ‘I’m his therapist.’” and even “Let’s kick some Fused ass.” So it seems the greatest fantasy author of our time has not yet read my critique, which you however can still read below.
+</p>
+
+</div>
+
 All my instincts and prejudices tell me that I should dislike Brandon Sanderson's books. They are popular, American, film script-like, products of workshops and beta readings, philosophically naïve, wholesome and lacking anything like the spiritual or transcendental or even allegorical. In his lectures, their author, dressed usually in jeans, tee shirt and blazer, draws his examples from and constantly alludes to contemporary popular culture. Even so, I have now read _The Way of Kings_ and two thirds of _Words of Radiance_ – books one and two in Sanderson's _Stormlight Archive_ series – and I quite like them. The plots are well constructed, the world-building is excellent and everything is skilfully written. You root for the heroes, mostly. In sum, they are entertaining, and that's nothing to sneeze at. And who knows, maybe that's because they are written by the sort of person who does beta readings and does not care too much about fashion.
 
 With that throat clearing out of the way, we can move on to what annoys me about these books. If you suspect you will be offended by criticism of your favourite fantasy books, do not read any further. If you want to avoid spoilers for _The Way of Kings_ and the first third of _Words of Radiance_, do not read any further. But if you have read the books and if you are anything at all like me, you might take pleasure in knowing that somebody else was bothered by some of the things that you, too, were bothered by.
