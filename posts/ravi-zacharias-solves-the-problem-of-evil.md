@@ -7,7 +7,7 @@ tags: post
 
 # Ravi Zacharias Solves the Problem of Evil
 
-![img]({{ '/img/moses.jpeg' | url }})
+![img]({{ '/img/hero/religion.png' | url }})
 
 > My argument against God was that the universe seemed so cruel and unjust. But how had I got this idea of just and unjust? A man does not call a line crooked unless he has some idea of a straight line.
 >

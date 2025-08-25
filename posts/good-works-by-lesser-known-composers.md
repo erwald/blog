@@ -23,7 +23,7 @@ Each of these composers has for some or another reason not become as popular as 
 
 In 1877 in Paris, Helena Munktell met and began to study under Vincent d'Indy.[^4] She was 25 then, a young woman. She spent years in Paris singing, performing on the piano and studying with d'Indy and Benjamin Godard, who both championed her works there.[^5] Once, a colleague of hers commented that she was not a lady who composes, but a composer.[^6] But d'Indy advised her to look for inspiration not in the Parisian salons but in the soil of her native land and in 1910 she returned permanently to Sweden, where she would spend her winters in Stockholm and her summers in Dalarna, the two places she'd grown up.[^7]
 
-![Photograph of Helena Munktell.]({{ '/img/munktell.jpg' | url }})
+![Photograph of Helena Munktell.]({{ '/img/hero/munktell.png' | url }})
 
 That decade she wrote her last orchestral work, _Valborgsmässoeld_, or in English _Walpurgis Night Fire_, a tone poem inspired by Dalarna.[^8] It's a conservative piece, more backwards-looking than the earlier, more impressionistic and modern work _Bränningar_. But it is beautiful. It will remind you of Richard Wagner and Franz Liszt. It is largely taken up with a single theme which sounds like springtime, full of hope and light, delicate, triumphant. If it's not quite as good as _Les Preludes_ or _Orpheus_, it is at least every bit as good as _Mazeppa_ and _Hunnenschlacht_.
 
@@ -33,7 +33,7 @@ _Valborgsmässoeld_ was recorded by the Gävle Symphony Orchestra with Tobias Ri
 
 In June of 1940 the Wehrmacht broke in towards the Loire and the town of Saumur. A soldier who was on reconnoitre east of the town could hear a troop of Germans approach: he dismounted his bike and mowed down 16 of them before being killed himself. This man was Jehan Alain. He left behind a wife, Madeleine, and three young daughters. He also left behind some one hundred and forty odd compositions, most of them for the organ, which he played.
 
-![Photograph of Jehan Alain.]({{ '/img/alain.jpeg' | url }})
+![Photograph of Jehan Alain.]({{ '/img/hero/alain.png' | url }})
 
 He wrote the _Deux Chorals_ in 1935 at the age of 24. The first is a quiet, contemplative work in the Dorian mode[^9]. It seems like a simple piece at first, but the graceful harmonies and chiasmically varying phrase lengths make it more than interesting; it sounds a little like Erik Satie but with the organ substituted for the piano. The second is an eerily proceeding piece in the Phrygian mode[^10] with a tentative, doleful melody. It reminds us, as we hear it, that no one was better able to explore the quieter, more mystical aspect of the organ than Jehan Alain.
 
@@ -45,7 +45,7 @@ In his youth, Harold Shapero drew crowds with Leonard Bernstein, who was not yet
 
 But Shapero's is a sad story, in a way. His flame burned bright and quick. After he had joined the Brandeis University faculty in 1951, his output began to dry up. "There’s something about the teaching that is deadening to composition", he said years later.[^13]
 
-![Still from a documentary in which Harold Shapero was interviewed.]({{ '/img/shapero.jpg' | url }})
+![Still from a documentary in which Harold Shapero was interviewed.]({{ '/img/hero/shapero.png' | url }})
 
 The _Variations in C Minor_ could not be any less similar to the _Symphony for Classical Orchestra_, nor, for that matter, to Bernstein's own music: whereas Bernstein exudes insecurity, the _Variations_ are as natural and assured as a swift-running river. Like many of Shapero's pieces, this one seems to me to adhere to a [strict inner logic]({{ '/posts/strictness-of-logic-versus-openness-of-logic/' | url }}) where a small set of motives receive extraordinarily inventive and beautiful treatment. It is mostly quiet, calm, gentle. It takes its time. But many things that are worth the while do.
 
@@ -55,7 +55,7 @@ The _Variations in C Minor_ have been performed without fault by Sally Pinkas fo
 
 Around the time that Harold Shapero wrote his _Variations_, a Jewish boy named Arnold Rosner was born in New York City.[^14] Arnold Rosner was an exile in his own land. He refused the fashions of the time – serialism, minimalism and all the others – and instead turned his eyes on the past, on the music of the Renaissance and the late Romantics.[^15] He never got the breakthrough that he desired. The bitterness seeped into his music.
 
-![Photograph of Arnold Rosner.]({{ '/img/rosner.jpg' | url }})
+![Photograph of Arnold Rosner.]({{ '/img/hero/rosner.png' | url }})
 
 _The Parable of the Law_ is a long orchestral song, or maybe a tone poem for baritone and orchestra, or maybe a cantata in a single movement, without a choir and with just one character. That character is the narrator of a short passage taken from Franz Kafka's _The Trial_[^16]. The passage is a parable which goes like this. A man wants to get through the door of the Law but is rebuffed by the doorkeeper. He spends the remainder of his days waiting outside, uncertain if he will ever be allowed to enter. In the end, he dies and the door is shut forever ... I suppose you, dear reader, are already thinking of the obvious comparison here, namely with Rosner himself, who similarly spent his days anxiously waiting outside the gates of Acceptance.
 

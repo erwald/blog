@@ -8,7 +8,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/9zBnN5LEcRALFYWg3/interview-
 
 # Interview with Lucia Coulter: Lead Exposure, Effective Altruism, Progress in Malawi
 
-![Drawing by Viktoriia Shcherbak of a bucket of paint.]({{ '/img/lead_based_paint.png' | url }})
+![Drawing by Viktoriia Shcherbak of a bucket of paint.]({{ '/img/hero/lead_based_paint.png' | url }})
 
 ## Background
 

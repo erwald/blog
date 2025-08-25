@@ -7,7 +7,7 @@ tags: post
 
 # The Literary Technique of Recapitulation
 
-![Drawing by Viktoriia Shcherbak of racehorse and jockey in livery.]({{ '/img/murnane_horseracing.png' | url }})
+![Drawing by Viktoriia Shcherbak of racehorse and jockey in livery.]({{ '/img/hero/murnane_horseracing.png' | url }})
 
 > Both historically and within Sonata Theory the term recapitulation (German, _Reprise_) suggests a postdevelopmental recycling of all or most of the expositional materials [...] The recapitulation delivers the _telos_ of the entire sonata – the point of _essential structural closure_, the goal toward which the entire sonata-trajectory has been aimed.[^1]
 >

@@ -9,7 +9,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/Sux3vLaSrJqbHxyhT/interview-
 
 # Interview with Christine M. Korsgaard: Animal Ethics, Kantianism, Utilitarianism
 
-![Drawing by Viktoriia Shcherbak of five cats.]({{ '/img/cats.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of five cats.]({{ '/img/hero/cats.png' | url }})
 
 ## Background
 

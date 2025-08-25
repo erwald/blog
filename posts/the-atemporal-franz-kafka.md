@@ -7,7 +7,7 @@ tags: post
 
 # The Atemporal Franz Kafka
 
-![img]({{ '/img/kafka.jpeg' | url }})
+![img]({{ '/img/hero/kafka.png' | url }})
 
 > Accustom yourself to the idea that death is nothing to us. For all good and all bad are vested in sense perception, and death is deprivation of sense perception.
 >

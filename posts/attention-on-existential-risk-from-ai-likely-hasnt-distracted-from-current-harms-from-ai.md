@@ -9,7 +9,7 @@ lw_link: https://www.lesswrong.com/posts/5rexNxtZgkEQBi3Sd/attention-on-ai-x-ris
 
 # Attention on Existential Risk from AI Likely Hasn't Distracted from Current Harms from AI
 
-![img]({{ '/img/datacenter_2.jpeg' | url }})
+![img]({{ '/img/hero/datacenter_2.png' | url }})
 
 ## Summary
 

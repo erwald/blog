@@ -8,7 +8,7 @@ lw_link: https://www.lesswrong.com/posts/c9FmsNH6xYKp4WyDM/rediscovery-the-mind-
 
 # Rediscovery, the Mind's Curare
 
-![Drawing by Viktoriia Shcherbak of inventor's desk.]({{ '/img/discovery.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of inventor's desk.]({{ '/img/hero/discovery.png' | url }})
 
 I'm often apprehensive about writing things that may already have been written, of sharing ideas that may already have been thought of, of saying things that may be cliché or dull or commonplace. I think I can trace this to a fear of being seen as ignorant or uneducated, which itself can be traced to my valuing knowledge and education.[^1]
 

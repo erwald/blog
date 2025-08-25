@@ -8,7 +8,7 @@ lw_link: https://www.lesswrong.com/posts/josSvCNbYthxwi7cM/moral-golems
 
 # Moral Golems
 
-![Drawing by Viktoriia Shcherbak of huddling golem.]({{ '/img/golem.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of huddling golem.]({{ '/img/hero/golem.png' | url }})
 
 > Stop thinking of the project of ethics as "figure out which simple theory is True".
 >

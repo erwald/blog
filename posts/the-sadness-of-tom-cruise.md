@@ -7,7 +7,7 @@ tags: post
 
 # The Sadness of Tom Cruise
 
-![Drawing by Viktoriia Shcherbak of poster of Tom Cruise alongside an empty chair.]({{ '/img/tom_cruise_1.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of poster of Tom Cruise alongside an empty chair.]({{ '/img/hero/tom_cruise_1.png' | url }})
 
 > We talked about how Martian-like Patrick Bateman was, how he was looking at the world like somebody from another planet, watching what people did and trying to work out the right way to behave. And then one day he [Christian Bale] called me and he had been watching Tom Cruise on David Letterman, and [Cruise] just had this very intense friendliness with nothing behind the eyes, and [Bale] was really taken with this energy.[^1]
 >
@@ -29,7 +29,7 @@ The implied Tom Cruise is a rarity in the cinema business. Because he isn't real
 
 He has some admirable strengths. He is dedicated, reliable, loyal. He is organised. He delivers. He finishes what he starts.
 
-![Drawing by Viktoriia Shcherbak of a black eye against an abstract grey background.]({{ '/img/tom_cruise_2.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of a black eye against an abstract grey background.]({{ '/img/hero/tom_cruise_2.png' | url }})
 
 But he is also rigid. He judges. He wants people to conform. And he's strung up: he gets agitated when people don't live up to the standards that he sets for them.
 

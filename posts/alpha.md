@@ -8,7 +8,7 @@ lw_link: https://www.lesswrong.com/posts/yGzgyasdHTHRc4rDe/alpha
 
 # Alpha
 
-![img]({{ '/img/gorilla.jpeg' | url }})
+![img]({{ '/img/hero/gorilla.png' | url }})
 
 ## Summary
 

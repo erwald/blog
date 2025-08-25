@@ -7,7 +7,7 @@ tags: post
 
 # Code Purity and Principles
 
-![Drawing by Viktoriia Shcherbak of woman with laptop.]({{ '/img/code_purity_1.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of woman with laptop.]({{ '/img/hero/code_purity_1.png' | url }})
 
 Code, like rooms, can be dirty. Mary Douglas wrote that dirt – the real, physical sort – is "matter out of place".[^1] You have an image of how you want your room to look, and all the stuff that doesn't fit that image, everything that's unwanted – that's dirt. And when you have rid your room of dirt, when it conforms to your image of how it should look, then it is clean, or pure. In this sense, cleaning is a creative act.
 
@@ -21,7 +21,7 @@ But these things are not irrational if we follow Jonathan Baron's definition of 
 
 General principles are better than nothing. But the moment you understand the deep reason a principle exists, the need for the principle vanishes. For instance, we hear that hardcoding configuration values is bad. Instead, you should parametrise. If you stick to this rule, you'll do all right. But if you understand why the rule exists – here, for reasons of extendability, reusability and portability – you already know when you ought to avoid hardcoded values and you don't need to remember a rule that will misfire part of the time.
 
-![Drawing by Viktoriia Shcherbak of scaffolding.]({{ '/img/code_purity_2.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of scaffolding.]({{ '/img/hero/code_purity_2.png' | url }})
 
 The principle of Chesterton's fence, generally stated, says that one shouldn't change something when one doesn't know how it came to be that way.[^5] Or, as the popular saying goes, _you've got to learn the rules before you can break them_. We can look at our best practices in that way. They have evolved over time and distil much of our best understanding about coding into a concise set of maxims. And as with any generalisation, they will miss the mark under some particular conditions. But for the most part they help us achieve our goals.[^6]
 

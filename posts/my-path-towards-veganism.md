@@ -7,7 +7,7 @@ tags: post
 
 # My Path towards Veganism
 
-![Drawing by Viktoriia Shcherbak of animal ascending stairs.]({{ '/img/animal_ascending_stairs.png' | url }})
+![Drawing by Viktoriia Shcherbak of animal ascending stairs.]({{ '/img/hero/animal_ascending_stairs.png' | url }})
 
 > Patience opens every door.[^1]
 >

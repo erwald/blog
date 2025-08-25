@@ -17,9 +17,7 @@ tags: post
 
 He was born somewhere in England, probably during the reign of Henry VI, or maybe Edward IV – in a time of war, banditry and God, anyway. He would have had a mother and a father. He may have been a King's Scholar at Eton or Coventry. He may have been a canon of this or that parish church. He may have been a husband, brother, father, or not. We don't know much about John Browne, but we know this: he wrote music not like a warrior or like a bandit, but like an angel.
 
-![img]({{ '/img/browne.jpeg' | url }})
-
-_(This is a drawing by Viktoriia Shcherbak of what Browne might have looked like; Browne's true likeness has not survived.)_
+![img]({{ '/img/hero/browne.png' | url }})
 
 Only a handful of works by Browne are known to us, all of them through the [Eton Choirbook](https://en.wikipedia.org/wiki/Eton_Choirbook). One of those is _Stabat iuxta Christi crucem_, an [antiphon](https://en.wikipedia.org/wiki/Antiphon#Polyphonic_votive_antiphons) scored for four tenors and two basses, an almost unheard-of combination. The absence of higher voices meant Browne was limited to a narrow vocal range – two octaves – as a result of which each chord is shimmering and full-bodied, chords, by the way, which present one surprising and beautiful harmony after another.
 
@@ -46,7 +44,7 @@ They all agree that she was talented, witty, gracious and beautiful. She was an 
 
 "My wife's recovery is slower this time than ever before. She has been in bed six weeks, and the doctor cannot convince himself whether this inertia is a good or a bad sign", he wrote in a letter to their friend Johannes Brahms. And a year later, "Her sufferings hurt me more now that I have no hope to keep me up and deceive me. My suffering has given me no time to realise my own position, and, indeed, I have buried myself in work, hoping not to be aroused from it again." By then she had died, aged 44, in Italy.
 
-![img]({{ '/img/herzogenbergs.jpeg' | url }})
+![img]({{ '/img/hero/herzogenbergs.png' | url }})
 
 Heinrich von Herzogenberg worked through his grief by making music. He completed a sacred cantata, the _Totenfeier_, a year after Elisabeth's death. It's a fine work, clearly influenced by Bach's cantatas and oratorios, but at the same time plainly Romantic. It's a little uneven, but there are some real highlights: I especially like the introduction, the first recitative and aria for bass (which uses snippets of text from the Book of Psalms, as quoted above) and the third section, which alternates between hushed passages for alto and organ and mournful laments by the chorus and orchestra.
 
@@ -56,7 +54,7 @@ Herzogenberg's _Totenfeier_ has been recorded for CPO by the Thüringen Philharm
 
 In photographs his face looks like a statue, pale, stern, though somewhat liquefied by age; he has the hawkish nose, high hairline and pouchy, sorrowful eyes of an ageing philosopher or politician, and looking at him you almost feel you're being deceived: you think, here's a strong face, hard like stone, but then realise it's made of pudding. In life he was a member of Alfred Rosenberg's _Kampfbund für deutsche Kultur_ and vice president of the _Reichsmusikkammer_ (having succeeded Wilhelm Furtwängler after the latter resigned, his relation with party leaders having become unbearable).
 
-![img]({{ '/img/graener.jpeg' | url }})
+![img]({{ '/img/hero/graener.png' | url }})
 
 As Paul Graener benefitted from the Third Reich during his life, so his reputation suffered from it after his death.
 
@@ -75,7 +73,7 @@ _Aus dem Reiche des Pan_ has been recorded by the North German Radio Philharmoni
 
 One year after the dour-looking German published his tone poem about Pan, an English girl was born into a musical family in a seaside town in East Sussex. She, the girl, learned to play the piano and oboe at a young age, and began composing at the age of eight. It seems she had a talent for everything, including determination. But Ruth Gipps had fallen into a crack. She was a Romantic composer after the Romantic style had gone out of fashion, and a woman composer before women were fully accepted by the European art music establishment.
 
-![img]({{ '/img/gipps.jpeg' | url }})
+![img]({{ '/img/hero/gipps.png' | url }})
 
 _Ambarvalia_ is an orchestral piece, very Anglo-Saxon, recalling English greats like Frederick Delius and (again) Ralph Vaughan Williams (who was also Gipp's teacher for a period of time). The main draw and focal point is a serene, very memorable main theme. From there the piece progresses without straying very far in style or mood, though a contrasting middle section is a bit more mysterious and understated. The title is a reference to a [pagan Roman fertility rite](https://en.wikipedia.org/wiki/Ambarvalia). It's a very good composition.
 

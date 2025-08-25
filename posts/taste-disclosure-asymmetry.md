@@ -7,7 +7,7 @@ tags: post
 
 # Taste Disclosure Asymmetryx
 
-![img]({{ '/img/street_conversation.jpeg' | url }})
+![img]({{ '/img/hero/street_conversation.png' | url }})
 
 Jacques says he really likes some new Star Wars movie. Then immediately Gilberte says she really dislikes it. Isn't Gilberte being a little rude? If I were Gilberte, I'd probably feel the urge to cushion my opinion, maybe emphasising that mine is the minority view or saying I only dislike the thing due to some weird personal deficiency.
 

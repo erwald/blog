@@ -183,12 +183,8 @@ h3 {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   margin: 0px;
-  padding: 1ch;
+  padding: 10px;
   background-color: var(--light-grey);
-  filter: grayscale(100%) contrast(150%);
-}
-.post-abbrev-featured-body:hover {
-  filter: none;
 }
 .post-abbrev-featured-img {
   padding-top: 68%;

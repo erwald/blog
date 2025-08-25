@@ -7,7 +7,7 @@ tags: post
 
 # Does It Smell like Pollocks in Here?
 
-![Drawing by Viktoriia Shcherbak of Jackson Pollock painting.]({{ '/img/pollock.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of Jackson Pollock painting.]({{ '/img/hero/pollock.png' | url }})
 
 Let me tell you about this interesting study. Turpin et al. (2019) took a bunch of abstract artworks – some computer-generated and others taken from MoMA's digital library – and assigned to these two types of titles, mundane ones (e.g. _Canvas 8_ or _Version 4: Abstract Elements_ or _Colour Mixing_ or _Objects in Tint_) and descriptive yet nonsensical ones (e.g. _The Deaf Echo_ or _Undefined Singularity of Pain_ or _The Pathological Interior_ or _Evolving Model of Dreams_).[^1] Armed with these, they ran four experiments.[^2] (For some of the experiments, they also used a control group of paintings that were assigned no title at all.[^3]) What they found was that subjects considered both varieties of artworks more profound if they were accompanied with a nonsensical descriptive title than with either a mundane title or no title at all.[^4]
 

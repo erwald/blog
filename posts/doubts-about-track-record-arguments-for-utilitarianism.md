@@ -8,7 +8,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/jGFsL6xshCXHMdNAM/doubts-abo
 
 # Doubts about Track Record Arguments for Utilitarianism
 
-![img]({{ '/img/utilitarianism.jpeg' | url }})
+![img]({{ '/img/hero/utilitarianism.png' | url }})
 
 Utilitarians occasionally submit as evidence in favour of their philosophy the fact that early utilitarians were advocates for social and political positions that have now become norms. One [example](https://www.utilitarianism.net/introduction-to-utilitarianism#track-record) among many, from the authors of [utilitarianism.net](https://www.utilitarianism.net/):
 

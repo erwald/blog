@@ -7,7 +7,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/ttqDt3batMJSAoWmh/not-a-meat
 ---
 # Not a Meat Eater FAQ
 
-![img]({{ '/img/pigs.png' | url }})
+![img]({{ '/img/hero/pigs.png' | url }})
 
 *... I admit that these questions are not exactly frequently asked of me. They are questions that I imagine would've been frequently asked of me, had I had a sizable, curious following. I don't, but perhaps this will be of interest to my readership, such as it is, even so ...*
 

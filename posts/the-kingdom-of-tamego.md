@@ -25,7 +25,7 @@ As for the official, he deliberated. The true numbers were shut off from him. Ho
 
 "What have I done, young one, that you should disturb my peace and privacy?" she said upon seeing the official. "Well, tell me and let me know. I am not clairvoyant and neither do I have time for pointless talk." The official gave a summary account of his problem. When he'd finished, she stretched out her arm and said, "You must go to the shimmering plains of Hosthengu. There you will find a man with a pauper's costume and one hand missing. He will tell you all there is to know."
 
-![Drawing by Viktoriia Shcherbak of woman and man.]({{ '/img/kingdom_of_tamego_1.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of woman and man.]({{ '/img/hero/kingdom_of_tamego_1.png' | url }})
 
 The official left the wart-nosed lady's house giddy with joy. He did not know that, in fact, she loathed the queen and had as soon as she had set eyes on him decided to send the official, this slack-tongued queen's man, to the furthermost province in Tamego, where no answers could possibly be found to the questions he posed.
 
@@ -43,7 +43,7 @@ He staggered through the town's streets. He came to a garden with fruit trees an
 
 He remembered that there was on the plains of Hoshtengu a blue-plumaged bird which the plain-dwellers worshipped. They never killed these birds. But when a plain-dweller child reached the age of 12, they had to prove themself to the village by stealing and walking away with its egg from the nest, well-hidden and -guarded though it was.
 
-![Drawing by Viktoriia Shcherbak of birds.]({{ '/img/kingdom_of_tamego_2.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of birds.]({{ '/img/hero/kingdom_of_tamego_2.png' | url }})
 
 Now, it happened that these nests became more difficult to find as the years passed. This was a cause of great worry for the plain-dwellers. So they came up with a scheme to count the birds. Of course they could not see all the birds at once. So they were forced to use their cunning wits. They went to the eastern reaches of the plains where they knew the birds went to mate and play. There they chose a small section of the area, set up traps and, having caught all the birds in that area, attached sturdy bronze rings around their feet and released them again.
 

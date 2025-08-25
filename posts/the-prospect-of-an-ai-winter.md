@@ -9,7 +9,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/i7aKatsck7x3aLoiH/the-prospe
 
 # The Prospect of an AI Winter
 
-![img]({{ '/img/ai_winter.jpeg' | url }})
+![img]({{ '/img/hero/ai_winter.png' | url }})
 
 ## Summary
 

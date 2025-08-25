@@ -8,7 +8,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/CbkfwmwD2BBuFzwsZ/erich_grun
 
 # A Kantian View on Human Extinction
 
-![img]({{ '/img/hazmat_suit.jpeg' | url }})
+![img]({{ '/img/hero/hazmat_suit.png' | url }})
 
 ## Summary
 

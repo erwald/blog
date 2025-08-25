@@ -41,7 +41,7 @@ _(There are spoilers ahead. If you have not yet read the story, this is a good t
 
 _The Call of Cthulhu_ tells the tale of a man – the narrator – who, finding "[a] queer clay bas-relief and [...] disjointed jottings, ramblings, and cuttings" among the papers of his grand-uncle, a professor of Semitic languages who has recently died under suspicious circumstances, follows in the deceased one's footsteps as he pieces together clues gathered from the dream reports of a young, unstable artist, press cuttings describing strange incidents from all corners of the world and a night raid in the swamps outside New Orleans led by an unwitting police inspector. These clues hint at obscure cults worshipping ancient beings known as the Great Old Ones. In the third and final act, the narrator comes across by chance a news report of the misfortunes of the crew of a New Zealand steam yacht, out of which only one man survived, an incident that leads the narrator to sense at last the full extent of everything that has happened.
 
-![Illustration by Dan Hillier from the Folio Society edition of The Call of Cthulhu & Other Weird Stories.]({{ '/img/call_of_cthulhu_1.jpeg' | url }})
+![Illustration by Dan Hillier from the Folio Society edition of The Call of Cthulhu & Other Weird Stories.]({{ '/img/hero/call_of_cthulhu_1.png' | url }})
 
 Now you will see why I took that long detour before. I think that this story, in my view the finest that Lovecraft ever wrote, is extraordinary because it revolves around both kinds of mystery. There is the unknown, which is summoned by the narrator's gradually learning what his grand-uncle learned and then finding out what happened to the New Zealand steamer. There is the unknowable, which is the nature and history of Cthulhu, which nature and history, in the narrator's view and in the view of the implied author[^12], are the stuff of nightmarish horror, as is made clear in the story's famous opening paragraph:
 
@@ -59,7 +59,7 @@ But he does have many more artful ways of doing it, too. One is through **anomal
 
 – the same cult-members which the narrator (and it may be worth pointing out here that Lovecraft had deep-seated prejudices) describes as "mongrel" and of "mixed blood", highlighting their ambiguous nature. Of which origin are the cultists? Why are these people making sounds like animals? The young artist claims that R'lyeh, the sunken, "nightmare corpse-city" in which Cthulhu rests, in his dream-visions, had a geometry that was "all wrong". This is later confirmed by the surviving seaman, who reports that the same city had a geometry that was "abnormal, non-Euclidean, and loathsomely redolent of spheres and dimensions apart from ours". And so on.
 
-![Illustration by Dan Hillier from the Folio Society edition of The Call of Cthulhu & Other Weird Stories.]({{ '/img/call_of_cthulhu_2.jpeg' | url }})
+![Illustration by Dan Hillier from the Folio Society edition of The Call of Cthulhu & Other Weird Stories.]({{ '/img/hero/call_of_cthulhu_2.png' | url }})
 
 Another technique that Lovecraft uses is **paradox**. A paradox is a seeming contradiction that may, upon investigation, not be a contradiction after all. A paradox poses a question, too: it asks, "If both parts of me are not true, which is wrong?" The Gnostics realised this and used paradox freely, for example the author of _Thunder, Perfect Mind_:
 

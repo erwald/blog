@@ -7,7 +7,7 @@ tags: post
 
 # Frunimius
 
-![img]({{ '/img/frunimius_1.jpeg' | url }})
+![img]({{ '/img/hero/frunimius.png' | url }})
 
 ENDEQUINA: Dear cousin, dear Frunimius, don't you think I see, in those tired eyes, in those pursed lips, in those slumped shoulders, that you are not quite all right? You look like a rainy day, that's just it. No, no, that's not it, you look like a small, tired animal in its burrow, like an old rabbit lying down somewhere to die ... I spoke to your lovely wife yesterday, who painted a picture of bliss and sunshine. What gives?
 
@@ -58,8 +58,6 @@ ENDEQUINA: You seemed to suggest that disability is not bad at all, that it's no
 FRUNIMIUS: Finally these two blockheads are getting somewhere! Well, let's take suffering, then. Do I suffer more than you do?
 
 ENDEQUINA: You are a most cheerful fellow.
-
-![img]({{ '/img/frunimius_2.jpeg' | url }})
 
 FRUNIMIUS: That's right. You know me. I'm not bitter -- or well, maybe I'm bitter, but I'm not angry. I think if you took any number of people, you would not be able to predict their happiness any better after learning that they are or are not disabled ... True, once in a while a maidservant shows up to ruin one's day. But there aren't that many maidservants in this world. You probably feel that you wouldn't want to be of my height, but that is because it would involve a major change for you -- it would disrupt your sense of self. _I_ was born like me, and would not want to, and cannot, be otherwise ... Besides, it's not the sort of thing you should be doing to someone without their permission.
 

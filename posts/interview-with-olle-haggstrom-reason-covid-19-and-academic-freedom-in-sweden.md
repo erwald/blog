@@ -8,7 +8,7 @@ lw_link: https://www.lesswrong.com/posts/h6frhsPPjz5B2nWpX/interview-with-olle-h
 
 # Interview with Olle Häggström: Reason, COVID-19 and Academic Freedom in Sweden
 
-![Drawing by Viktoriia Shcherbak of dice.]({{ '/img/dice.png' | url }})
+![Drawing by Viktoriia Shcherbak of dice.]({{ '/img/hero/dice.png' | url }})
 
 ## Background
 

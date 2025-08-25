@@ -7,7 +7,7 @@ tags: post
 
 # Tolstoy in Ryazan
 
-![Tolstoy with a group of peasants.]({{ '/img/tolstoy.jpg' | url }})
+![Tolstoy with a group of peasants.]({{ '/img/hero/tolstoy.png' | url }})
 
 > You have heard that it was said, "An eye for an eye and a tooth for a tooth." But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also. And if anyone would sue you and take your tunic, let him have your cloak as well. And if anyone forces you to go one mile, go with him two miles. Give to the one who begs from you, and do not refuse the one who would borrow from you.[^1]
 

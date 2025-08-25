@@ -7,7 +7,7 @@ tags: post
 
 # The Mating Season
 
-![img]({{ '/img/peacocks.jpeg' | url }})
+![img]({{ '/img/hero/peacocks.png' | url }})
 
 The majority of Swedes, and Swedish politicians, and certainly the new conservative Swedish government, want Sweden to join NATO.
 

@@ -7,7 +7,7 @@ tags: post
 
 # Life Is a School of Probability
 
-![img]({{ '/img/pond.jpeg' | url }})
+![img]({{ '/img/hero/probability.png' | url }})
 
 The Nazarene said: "If you abide in my word, you are truly my disciples, and you will know the truth, and the truth will set you free." (John 8:31-32 [NIV]) And: "[E]veryone who practices sin is a slave to sin. The slave does not remain in the house forever; the son remains forever. So if the Son sets you free, you will be free indeed." (John 8:34-36 [NIV])
 
@@ -41,7 +41,7 @@ Compare this with rationality. One thing I like about rationality is that it is 
 
 (Effective altruism, in my interpretation, is a subset of rationality. If rationality is about finding better beliefs, goals and actions for achieving those goals, effective altruism is about finding better beliefs, sub-goals and actions, conditional on the overarching goal of "doing good". But doing good is a very general goal that nearly everyone thinks is worth pursuing.)
 
-![img]({{ '/img/gamblers.jpeg' | url }})
+![img]({{ '/img/hero/gamblers.png' | url }})
 
 ## The Problem of False Certainty
 

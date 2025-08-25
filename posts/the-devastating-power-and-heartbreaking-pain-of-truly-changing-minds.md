@@ -8,7 +8,7 @@ lw_link: https://www.lesswrong.com/posts/YupHmkD3Qj8tu7kDm/scout-mindset-and-lat
 
 # The Devastating Power and Heartbreaking Pain of Truly Changing Minds
 
-![Painting of the Prophet Joseph Smith by Alvin Gittins.]({{ '/img/lds_joseph_smith.jpeg' | url }})
+![Painting of the Prophet Joseph Smith by Alvin Gittins.]({{ '/img/hero/lds_joseph_smith.png' | url }})
 
 > The human understanding when it has once adopted an opinion [...] draws all things else to support and agree with it. And though there be a greater number and weight of instances to be found on the other side, yet these it either neglects and despises, or else by some distinction sets aside and rejects, in order that by this great and pernicious predetermination the authority of its former conclusions may remain inviolate.[^1]
 >
@@ -44,7 +44,7 @@ For example:
 
 Possibly because of easier access to this sort of information, but probably also for other reasons given the general increase of nonbelievers in America, Church growth has been [stagnating](https://www.timesandseasons.org/index.php/2021/10/is-church-growth-declining/) since the 1980s.
 
-![Painting of the First Vision by Del Parson.]({{ '/img/lds_first_vision.jpeg' | url }})
+![Painting of the First Vision by Del Parson.]({{ '/img/hero/lds_first_vision.png' | url }})
 
 ## The Church Is All or Nothing
 
@@ -72,7 +72,7 @@ Apostasy is a condition in which "spiritual darkness [replaces] the light of tru
 
 Losing your faith in the Church doesn't mean just changing your mind about factual matters – it can mean losing your identity, community, friends and family. It means disappointing a whole lot of people. It means looking loved ones in the eyes and confirming their worst fears. It means realising that what you have evangelised as a missionary, what you have taught your children and what you have argued against colleagues was wrong. In sum, it is a terrifying thing. That is the impression that I have from listening to accounts of people who have gone through this.
 
-![Painting of Latter-day Saint pioneer by Julie Rogers.]({{ '/img/lds_pioneer_girl.jpeg' | url }})
+![Painting of Latter-day Saint pioneer by Julie Rogers.]({{ '/img/hero/lds_pioneer_girl.png' | url }})
 
 In other words, there are various incentives for Latter-day Saints to keep believing. Latter-day Saints who have gone through faith crises always say that they desperately _wanted_ the Church to be true but that they just could not bring themselves to believe it. If I try to imagine finding factual issues that would cause me to renounce my whole worldview, I find it easy to believe them.
 
@@ -145,7 +145,7 @@ One of the things that Galef discusses is "confusion". We should get comfortable
 
 She compares that last point to [Kuhnian paradigm shifts](https://en.wikipedia.org/wiki/Paradigm_shift) – one by one you notice anomalies that don't fit your current theory, and eventually will need to construct a new theory to accommodate those anomalies, a new paradigm. This is exactly what former Latter-day Saints refer to when they talk about "the shelf". The only difference is that, to Galef, it is something one does more or less consciously, but for Latter-day Saints it happens more or less against one's will.
 
-![Painting of Emma Smith by Theodore S. Gorka.]({{ '/img/lds_emma_smith.jpeg' | url }})
+![Painting of Emma Smith by Theodore S. Gorka.]({{ '/img/hero/lds_emma_smith.png' | url }})
 
 Here are some other things that seem to help Latter-day Saints change their minds:
 

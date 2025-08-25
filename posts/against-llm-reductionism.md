@@ -9,7 +9,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/jZgzvFocK9XGzjEgL/against-ll
 
 # Against LLM Reductionism
 
-![img]({{ '/img/datacenter.jpeg' | url }})
+![img]({{ '/img/hero/datacenter.png' | url }})
 
 ## Summary
 

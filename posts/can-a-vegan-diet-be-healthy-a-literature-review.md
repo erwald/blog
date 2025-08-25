@@ -9,7 +9,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/oNzwJ9juHkgbhFGqA/can-a-vega
 
 # Can a Vegan Diet Be Healthy? A Literature Review
 
-![img]({{ '/img/woman_eating_bowl.jpeg' | url }})
+![img]({{ '/img/hero/woman_eating_bowl.png' | url }})
 
 <div class="edit">
 <p>

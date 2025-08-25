@@ -7,7 +7,7 @@ tags: post
 
 # Does Human Purpose Have Anywhere to Retreat to?
 
-![img]({{ '/img/zeus.jpeg' | url }})
+![img]({{ '/img/hero/zeus.png' | url }})
 
 As gods once lived in streams and forests and then on mountain tops and deep down below the earth, then withdrawn to the blue heavens and, at last, as we mapped the heavens too, altogether outside the material world, so purpose is on the retreat as science marches on, telling us first that we humans, like all animals, are mere products of evolution, that love is an [adaptation executor](https://www.lesswrong.com/tag/adaptation-executors), that the gods are not real, and finally -- what?
 

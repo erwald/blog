@@ -7,7 +7,7 @@ tags: post
 
 # Why I Am Not a Conservative
 
-![img]({{ '/img/conservatism.jpeg' | url }})
+![img]({{ '/img/hero/conservatism.png' | url }})
 
 <div class="edit" id="org1ca336a">
 <p>

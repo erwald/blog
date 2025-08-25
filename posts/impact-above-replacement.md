@@ -8,7 +8,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/5XNGJxu8YEzutPGzD/impact-abo
 
 # Impact above Replacement
 
-![img]({{ '/img/twins.jpeg' | url }})
+![img]({{ '/img/hero/twins.png' | url }})
 
 ## Summary
 

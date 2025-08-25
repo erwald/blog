@@ -7,7 +7,7 @@ tags: post
 
 # Amish Country
 
-![img]({{ '/img/pennsylvanian_hill.jpeg' | url }})
+![img]({{ '/img/hero/pennsylvanian_hill.png' | url }})
 
 He rarely watched movies anymore, but not long ago he let himself enjoy Peter Weir's _Witness_, a film about a police detective who goes into hiding among the Amish. It had been billed as a crime thriller, but he found its crime and thriller elements forgettable -- it was the drama of the stranger among the Amish that was worth seeing. The drama was most beautifully expressed in the famous barn-raising scene, where guest and host work alongside one another and all the good parts of Amish culture come together on a gentle Pennsylvanian hill. True, he thought, the way that _Witness_ presented Amish life and thought was not subtle -- in that sense, it was very different from that other Anabaptist movie, _Silent Light_, which he had watched many years ago -- but it captured, through its tender pictures of rural landscape and Maurice Jarre's simple music, the pastoral serenity that was what he imagined was the essence of Amish culture.
 

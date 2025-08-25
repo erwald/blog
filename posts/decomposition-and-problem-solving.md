@@ -28,7 +28,7 @@ I know that sounds abstruse, so here is an example, a basic decision-making prob
 
 Berlin has 12 districts, and let's say I divide all restaurants into 20 types of cuisine. That leaves an average of 7,000 ÷ 12 ÷ 20 = 29 restaurants for each combination of cuisine and district. Now, instead of trying to solve a problem with 7,000 possible answers, I solve first one with 12 possibilities, then one with 20 possibilities and finally one with (on average) 29 possibilities. That's much more manageable. We could even look through all 29 possibilities to see which one we like more.
 
-![img]({{ '/img/search_space.jpeg' | url }})
+![img]({{ '/img/hero/search_space.png' | url }})
 
 (Of course we usually only do _something like_ this – we rarely make an exhaustive search, or split up problems consciously and deliberately – but the idea should be essentially the same; the difference is one of degree, and the difficulty of and time needed for any search are generally more substantial when the size of the search space is larger, and vice versa.)
 

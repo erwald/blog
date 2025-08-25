@@ -19,7 +19,7 @@ To be fair, Ravel's concerto just doesn't do anything for me. But Sibelius's sym
 
 Except ... something in this recording is a little off for me. I first noticed it in the kind of slapback or bouncing effect in the rolling, expanding, intensifying sequences that lead into the grand climaxes of the first movement. Those are defining passages in this symphony. But here they sound somehow wild and overeager. Maybe this one peculiarity is a symptom of a deeper flaw. Or maybe it has somehow lodged itself in my brain and is now forever associated with the entire recording. That's not fair, but neither is it my fault. Three out of five feathery peacocks.
 
-![Portrait of a young Jean Sibelius.]({{ '/img/sibelius_1.jpeg' | url }})
+![Portrait of a young Jean Sibelius.]({{ '/img/hero/sibelius_1.png' | url }})
 
 ## Paavo Järvi with the Orchestre de Paris, 2019
 
@@ -37,7 +37,7 @@ I feel that I am wearing out my reader. But we are nearing the end (as we are al
 
 What about the music? you ask. It's adequate. The recording sounds lush, though at times perhaps also heavy, opaque and as if foggy, like the northern-looking lake on its cover art. The strings sometimes have a harsh, grating sound. But the orchestra is adept. The conductor is adept. There isn't much to complain about, but there isn't much that stands out either. Three out of five homeopathic prefaces.
 
-![Portrait of Jean Sibelius.]({{ '/img/sibelius_2.jpeg' | url }})
+![Portrait of Jean Sibelius.]({{ '/img/hero/sibelius_2.png' | url }})
 
 ## Osmo Vänskä with the Minnesota Orchestra, 2020
 

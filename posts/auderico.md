@@ -7,7 +7,7 @@ tags: post
 
 # Auderico
 
-![img]({{ '/img/auderico.jpeg' | url }})
+![img]({{ '/img/hero/auderico.png' | url }})
 
 > Self-love but serves the virtuous mind to wake,  
 > As the small pebble stirs the peaceful lake;  

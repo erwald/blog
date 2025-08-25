@@ -11,7 +11,7 @@ I suspect that roughly not a one of you knows that, in addition to being a mad-b
 
 Heaven knows I don't want to sound like a braggart, but I think it's pretty good. I think it is dense, detailed, varied and rewards repeat listens. I think it's ambitious and I hope that it succeeds in its ambitions, though perhaps I am not the man to judge. I think it ends beautifully. I think you might like it. At least if you like ambient or drone music generally, but who doesn't?
 
-![Photograph of the DIE-BRVECKE-003 tape cover.]({{ '/img/die_bruecke_003.jpeg' | url }})
+![Photograph of the DIE-BRVECKE-003 tape cover.]({{ '/img/hero/die_bruecke_003.png' | url }})
 
 Here is the track list:
 

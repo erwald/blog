@@ -7,7 +7,7 @@ tags: post
 
 # Moral Standing Is Not Moral Agency
 
-![Drawing by Viktoriia Shcherbak of a predator attacking its prey.]({{ '/img/wild_animal_suffering.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of a predator attacking its prey.]({{ '/img/hero/wild_animal_suffering.png' | url }})
 
 > PETER SINGER: I hold these views because I think there are real problems, and you seem to acknowledge that in terms of the separation that we make between humans and animals, and the fact that we seem to think it's fine to confine billions of animals to, you know, appalling conditions in factory farms. I think, actually, that the religious traditions, and even specifically the Christian tradition, with its complete separation of humans and animals, is largely – or not largely – significantly responsible for this fact, that we don't bring animals within the moral sphere. I don't see you defending that, and I do see it as a serious objection to the claim that Christianity is such an enlightened morality.
 >

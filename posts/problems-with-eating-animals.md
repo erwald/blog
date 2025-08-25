@@ -7,7 +7,7 @@ tags: post
 
 # Problems with "Eating Animals"
 
-![Drawing by Viktoriia Shcherbak of cow.]({{ '/img/eating_animals_1.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of cow.]({{ '/img/hero/eating_animals_1.png' | url }})
 
 Mindy Isser used to hold the unnuanced opinion that eating animals is wrong and one should not do it. Now she holds the [much more nuanced opinion](https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.currentaffairs.org%2F2021%2F04%2Feating-animals) that eating animals is wrong and one should not do it, except sometimes when it's kinda okay; besides, choosing veganism is far less important than working for systemic change.
 
@@ -47,7 +47,7 @@ So much for the core of Isser's argument. The other thing I want to comment on i
 
 There can be social costs to not eating meat. I know this well: I did not have to pay these costs myself, but my wife did have to pay them when she grew up. But, shit, these are all weak and selfish reasons to eat meat. We do not usually think these are good reasons not to do the right thing – to, say, not repudiate racism or gay bashing. Isser admits that it is a small thing. So what point is she trying to make? Does she think these reasons weigh heavily enough that they can render null one's duty not to kill animals? I am not sure.
 
-![Drawing by Viktoriia Shcherbak of seal.]({{ '/img/eating_animals_2.jpeg' | url }})
+![Drawing by Viktoriia Shcherbak of seal.]({{ '/img/hero/eating_animals_2.png' | url }})
 
 The second reason she mentions is that some non-Western cultures sometimes have relationships with animals that are different from ours, different in such a way that killing and eating animals can be permitted:
 

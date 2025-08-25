@@ -7,7 +7,7 @@ tags: post
 
 # Uncommon Sensations: A Review of _The Selected Prose of Fernando Pessoa_
 
-![img]({{ '/img/pessoa.jpeg' | url }})
+![img]({{ '/img/hero/pessoa.png' | url }})
 
 I bought _The Selected Prose of Fernando Pessoa_ having read _Forever Someone Else_, a collection of poetry by the same author, the Portuguese modernist. The latter is great and beautiful. The former, a mishmash of short stories, plays, letters, essays, introductions, commentaries, manifestos, automatic writing, fragments and more, is weirder. Reading it is to be both awed and bewildered.
 

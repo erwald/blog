@@ -7,7 +7,7 @@ tags: post
 
 # An Estimate of Cattle Killed due to EU GMO Scepticism
 
-![img]({{ '/img/cattle.jpeg' | url }})
+![img]({{ '/img/hero/cattle.png' | url }})
 
 ## Summary
 

@@ -7,7 +7,7 @@ tags: post
 
 # Walter Simmons Article about Arnold Rosner in _Harper's Magazine_
 
-![Photograph of Arnold Rosner.]({{ '/img/rosner.jpg' | url }})
+![Photograph of Arnold Rosner.]({{ '/img/hero/rosner.png' | url }})
 
 Musicologist, critic and indomitable champion of neglected music Walter Simmons has [written](https://archive.is/20210729125355/https://harpers.org/archive/2021/06/arnold-rosner-requiem-op-59/) about the American composer Arnold Rosner in _Harper's Magazine_. I [wrote]({{ '/posts/good-works-by-lesser-known-composers/#arnold' | url }}) about Rosner myself in a post about lesser-known composers:
 

@@ -7,7 +7,7 @@ tags: post
 
 # Strictness of Logic versus Openness of Logic
 
-![img]({{ '/img/stream.jpeg' | url }})
+![img]({{ '/img/hero/stream.png' | url }})
 
 > When the conversation turned to the essence of the symphony, I remarked that I admired its severity and style and that profound logic which created an inner connection between the motives. That agreed with the experience I had come to in my creative work. Mahler was of the opposite view. "No, the symphony must be like the world. It must embrace everything!"[^1]
 >

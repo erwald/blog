@@ -7,7 +7,7 @@ tags: post
 
 # Child Prodigies
 
-![Detail of painting of Mozart as a child.]({{ '/img/child_mozart.jpeg' | url }})
+![Detail of painting of Mozart as a child.]({{ '/img/hero/child_mozart.png' | url }})
 
 "Mozart Magnus, corpore parvus." – It was said that the child could play pieces on the piano when he was two. When he was four, he had written his first compositions. When five, he had performed in public. When six, before the imperial family. He was so dazzlingly talented that the Royal Society in London had to test him to see if he really was a child and not secretly older than he let on. His father called him "a miracle, which God has allowed to see the light in Salzburg".[^1] A journalist proclaimed that he was "no longer surprised that Saint Paul should have lost his head after his strange vision".[^2] The child grew up and, having fulfilled his promise, died at age 35, still in some ways a child.
 

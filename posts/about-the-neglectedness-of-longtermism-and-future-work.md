@@ -8,7 +8,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/zmn5jckrCKzgyPmEE/about-the-
 
 # About the Neglectedness of Longtermism and Future Work
 
-![img]({{ '/img/xrisk.jpeg' | url }})
+![img]({{ '/img/hero/xrisk.png' | url }})
 
 <div class="edit" id="orgb52df60">
 <p>

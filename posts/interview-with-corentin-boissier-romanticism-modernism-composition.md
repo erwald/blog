@@ -7,7 +7,7 @@ tags: post
 
 # Interview with Corentin Boissier: Romanticism, Modernism, Composition
 
-!["Scuola perfetta per imparare a disegnare", engraving by Luca Ciamberlano or maybe Francesco Brizio after Agostino Carracci, 1599–1629.]({{ '/img/piano_hands.jpg' | url }})
+!["Scuola perfetta per imparare a disegnare", engraving by Luca Ciamberlano or maybe Francesco Brizio after Agostino Carracci, 1599–1629.]({{ '/img/hero/piano_hands.png' | url }})
 
 ## Background
 

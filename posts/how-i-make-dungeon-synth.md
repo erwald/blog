@@ -9,7 +9,7 @@ tags: post
 
 Last week, on 30 December 2021, the great Milan-based [dungeon synth](https://en.wikipedia.org/wiki/Dungeon_synth) label [Heimat der Katastrophe](https://heimatderkatastrophe.bandcamp.com/) released the fifth edition of the Dungeon Synth Magazine, a series of albums released on cassette tape, each comprising four tracks by four artists and four accompanying short stories printed in the tape booklet. The first track on this fifth release is by myself, under the moniker ICEWIND DALE. (I borrowed the name from the Dungeons & Dragons-based video game series.) The piece gets its title from the accompanying story, "A Distant Apocalypse" (henceforth ADA). You can listen to it [here](https://heimatderkatastrophe.bandcamp.com/album/hdk-104-hdk-dungeon-synth-magazine-5).
 
-![Photo of Heimat der Katastrophe's Dungeon Synth Magazine No. 5.]({{ '/img/hdk_mag_cover.jpg' | url }})
+![Photo of Heimat der Katastrophe's Dungeon Synth Magazine No. 5.]({{ '/img/hero/hdk_mag_cover.png' | url }})
 
 In this post I will outline my method for making dungeon synth, in the hope that it might inspire somebody else, with the obvious caveats that this is just one way of doing it and that I am far from the greatest or most experienced dungeon synth producer.
 

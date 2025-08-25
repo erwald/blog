@@ -7,7 +7,7 @@ tags: post
 
 # Forecasts on the Population, Stability and Upcoming Election of Nigeria
 
-![img]({{ '/img/nigeria.jpeg' | url }})
+![img]({{ '/img/hero/nigeria.png' | url }})
 
 This post explains my reasoning on three forecasts I made on questions that have to do with Nigeria. I spent ~1 hour on the first two questions and ~3 hours on the third question, having had little prior knowledge. The questions are:
 

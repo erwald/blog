@@ -13,7 +13,7 @@ tags: post
 
 Like many people of my age and place, much of the nostalgia that I feel is rooted in virtual worlds – in the worlds of the video games of my youth. The foremost of those was probably _World of Warcraft_, which encompassed forests, mountains, farmlands, jungles, deserts, plains, swamps, highlands, badlands and more. It has been something like a decade and a half since I last played it, but I still occasionally find myself thinking back fondly, not to the painful day-to-day grind and the constant striving, but to the (far more detached and pure) exploring and absorbing of it.
 
-![img]({{ '/img/wow-ashenvale.jpeg' | url }})
+![img]({{ '/img/hero/wow-ashenvale.png' | url }})
 
 To me, the landscapes in _Warcraft_ were really compelling, by which I mean that they _powerfully evoked interest and longing_.[^1] Why? What gave them their allure? Remembering as always the nebulous nature of questions like these, and making no claim to completeness or certainty, I will nevertheless try to sketch an answer.
 
@@ -80,7 +80,7 @@ So armed with this set of candidate features – these eight properties of envir
 
 So _Warcraft_, for example, I judged to be above average in compellingness (obviously) and naturalness (to be sure, there are other people there, but the overwhelming impression is one of large, natural landscapes) but only around average in beauty. Another game I included, _Deus Ex_, was, for example, below average in complexity (pretty sparse environments) and naturalness (many indoor or urban environments) but around average in openness (you do get a sense of distance at times but hardly on the scale of _Warcraft_ and similar games).
 
-![img]({{ '/img/wow-dun-morogh.jpeg' | url }})
+![img]({{ '/img/hero/wow-dun-morogh.png' | url }})
 
 What I did next was simply to calculate the correlations between the candidate features and compellingness.[^3] That produced the following ranking:
 
@@ -97,7 +97,7 @@ I cannot stress enough how unscientific this is. The sample is small. The statis
 
 But enough throat-clearing. The results did kind of fit my priors. The two features that I added without evidence from the literature, beauty and colourfulness, were both uncorrelated with the outcome variable, whereas the most correlated features were recurring themes in the literature. And I myself have always been drawn to natural landscapes and have always loved [mystery]({{ '/posts/mysteries-of-the-unknown-the-unknowable/' | url }}) and the promise of things to come. That is why I prefer old-growth forests over parks, and why I sometimes derive more pleasure from fantasising about a book's contents than I do from actually reading it.
 
-![img]({{ '/img/wow-elwynn-forest.jpeg' | url }})
+![img]({{ '/img/hero/wow-elwynn-forest.png' | url }})
 
 ## Conclusion
 

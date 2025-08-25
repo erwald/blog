@@ -7,7 +7,7 @@ tags: post
 
 # Small Things That Bug Me in Sanderson's Otherwise Good _Stormlight Archive_
 
-![Drawing of Brandon Sanderson by Viktoriia Shcherbak.]({{ '/img/brandon_sanderson.png' | url }})
+![Drawing of Brandon Sanderson by Viktoriia Shcherbak.]({{ '/img/hero/brandon_sanderson.png' | url }})
 
 <div class="edit">
 <p>

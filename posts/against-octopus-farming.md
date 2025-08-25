@@ -7,7 +7,7 @@ tags: post
 
 # Against Octopus Farming
 
-![]({{ '/img/octopus.jpeg' | url }})
+![]({{ '/img/hero/octopus.png' | url }})
 
 > Convergent evidence indicates that non-human animals have the neuroanatomical, neurochemical, and neurophysiological substrates of conscious states along with the capacity to exhibit intentional behaviors. Consequently, the weight of evidence indicates that humans are not unique in possessing the neurological substrates that generate consciousness. Non-human animals, including all mammals and birds, and many other creatures, including octopuses, also possess these neurological substrates.[^1]
 >

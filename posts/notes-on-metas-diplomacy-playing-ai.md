@@ -8,7 +8,7 @@ lw_link: https://www.lesswrong.com/posts/oT8fmwWddGwnZbbym/notes-on-meta-s-diplo
 
 # Notes on Meta's Diplomacy-Playing AI
 
-![img]({{ '/img/europe.jpeg' | url }})
+![img]({{ '/img/hero/europe.png' | url }})
 
 ## Summary
 

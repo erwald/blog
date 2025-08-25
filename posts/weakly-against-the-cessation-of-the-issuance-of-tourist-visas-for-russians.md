@@ -7,7 +7,7 @@ tags: post
 
 # Weakly Against the Cessation of the Issuance of Tourist Visas for Russians
 
-![img]({{ '/img/russian_tourists.jpeg' | url }})
+![img]({{ '/img/hero/russian_tourists.png' | url }})
 
 ## Summary
 

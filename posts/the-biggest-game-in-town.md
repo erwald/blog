@@ -8,7 +8,7 @@ lw_link: https://www.lesswrong.com/posts/tLzyQNs5bD4tJ5hMg/erich_grunewald-s-sho
 
 # The Biggest Game in Town
 
-![img]({{ '/img/game_b.jpeg' | url }})
+![img]({{ '/img/hero/game_b.png' | url }})
 
 > The end result is our present age's maladaptation and creative incapacity. We must, at this point, either accept the death of our civilization or else opt for artificial adaptation, since natural, instinctive adaptation has failed. (Pessoa 2001)
 >

@@ -8,7 +8,7 @@ lw_link: https://www.lesswrong.com/posts/vPgnjbMmobh626w6s/moral-golems-assume-u
 
 # Moral Golems Assume Uncertainty
 
-![Drawing by Viktoriia Shcherbak of huddling golem.]({{ '/img/golem2.png' | url }})
+![Drawing by Viktoriia Shcherbak of huddling golem.]({{ '/img/hero/golem2.png' | url }})
 
 > [T]he Christian humanist and Hebraist Johannes Reuchlin (1492) report[ed] the creation of an artificial anthropoid whose forehead bore the Hebrew inscription "YHVH Elohim emeth" (The name of God is truth) and who fell dead to the ground when the aleph, the first letter forming the Hebrew word for truth, was removed.[^1]
 >

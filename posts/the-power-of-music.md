@@ -7,7 +7,7 @@ tags: post
 
 # The Power of Music
 
-![img]({{ '/img/music.jpeg' | url }})
+![img]({{ '/img/hero/music.png' | url }})
 
 The sirens mesmerised their victims with song. Snake charmers play their vipers and cobras music that they -- the snakes -- don't even perceive. And the Rat-Catcher of Hamelin misled the children of that town with a silver flute. What these stories tell us is that music is an intoxicating drug.
 

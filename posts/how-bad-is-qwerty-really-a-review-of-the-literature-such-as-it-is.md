@@ -8,7 +8,7 @@ lw_link: https://www.lesswrong.com/posts/dTaL7qDreYirurgez/how-bad-is-qwerty-rea
 
 # How Bad Is QWERTY, Really? A Review of the Literature, such as It Is
 
-![Drawing of hands locked in prayer and keyboard by Viktoriia Shcherbak.]({{ '/img/qwerty.jpeg' | url }})
+![Drawing of hands locked in prayer and keyboard by Viktoriia Shcherbak.]({{ '/img/hero/qwerty.png' | url }})
 
 Some six or so years ago, not long after I had started working as a programmer, I developed a bad case of repetitive strain injury (RSI) and for a while couldn't use my left hand for typing, but had to rely on my right hand and dictation. This situation being obviously untenable, I took action: I purchased an ergonomic keyboard (Microsoft Sculpt), remapped shift to the space bar when pressed in combination with another key, started doing hand/wrist stretches and switched from typing on the QWERTY layout to [Colemak](https://colemak.com/). This grab bag of interventions worked, my RSI got better and, though it still flares up sometimes, I now have it under control.
 

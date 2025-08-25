@@ -95,39 +95,45 @@ module.exports = function (eleventyConfig) {
   // add filter for creating "start here" collection
   eleventyConfig.addFilter("featuredPosts", (posts) => {
     postsAndImages = [
-      { slug: "against-llm-reductionism", image: "/img/datacenter.jpeg" },
-      { slug: "the-prospect-of-an-ai-winter", image: "/img/ai_winter.jpeg" },
+      {
+        slug: "against-llm-reductionism",
+        image: "/img/hero/datacenter_thumbnail.png",
+      },
+      {
+        slug: "the-prospect-of-an-ai-winter",
+        image: "/img/hero/ai_winter_thumbnail.png",
+      },
       {
         slug: "how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is",
-        image: "/img/qwerty.jpeg",
+        image: "/img/hero/qwerty_thumbnail.png",
       },
       {
         slug: "the-devastating-power-and-heartbreaking-pain-of-truly-changing-minds",
-        image: "/img/lds_joseph_smith.jpeg",
+        image: "/img/hero/lds_joseph_smith_thumbnail.png",
       },
       {
         slug: "can-a-vegan-diet-be-healthy-a-literature-review",
-        image: "/img/woman_eating_bowl.jpeg",
+        image: "/img/hero/woman_eating_bowl_thumbnail.png",
       },
       {
         slug: "doubts-about-track-record-arguments-for-utilitarianism",
-        image: "/img/utilitarianism.jpeg",
+        image: "/img/hero/utilitarianism_thumbnail.png",
       },
       {
         slug: "uncommon-sensations-a-review-of-the-selected-prose-of-fernando-pessoa",
-        image: "/img/pessoa.jpeg",
+        image: "/img/hero/pessoa_thumbnail.png",
       },
       {
         slug: "the-atemporal-franz-kafka",
-        image: "/img/kafka.jpeg",
+        image: "/img/hero/kafka_thumbnail.png",
       },
       {
         slug: "does-it-smell-like-pollocks-in-here",
-        image: "/img/pollock.jpeg",
+        image: "/img/hero/pollock_thumbnail.png",
       },
       {
         slug: "the-biggest-game-in-town",
-        image: "/img/game_b.jpeg",
+        image: "/img/hero/game_b_thumbnail.png",
       },
     ];
     return postsAndImages.map(({ slug, image }) => {

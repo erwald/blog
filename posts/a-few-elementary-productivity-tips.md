@@ -7,7 +7,7 @@ tags: post
 
 # A Few Elementary Productivity Tips
 
-![img]({{ '/img/smartphone.jpeg' | url }})
+![img]({{ '/img/hero/smartphone.png' | url }})
 
 I'm no productivity monster, but I know a thing or two about doing things, and am after all able to write a blog post a week, [make]({{ '/posts/hello-die-brvecke-003/' | url }}) [music]({{ '/posts/how-i-make-dungeon-synth/' | url }}) and read some while working a fairly demanding full-time job. (It helps, of course, to have, when times are busy, low enough standards that one is ok with publishing posts as lazy as this one.) Even if that does qualify me as a giver of advice, given that I do nearly all of my work in front of one or another computer, I should be frank and admit that that's the only sort of productivity with which I have much experience. If your life goal is to go on a Lord of the Rings tour in New Zealand, commune with the ghost of Nietzsche or ascend to heaven as the rapture envelops us, you need to go somewhere else for advice. But if your life goal will involve a lot of button-mashing and screen-staring, I might be able to help.
 

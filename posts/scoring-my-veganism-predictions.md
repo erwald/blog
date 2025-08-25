@@ -7,7 +7,7 @@ tags: post
 
 # Scoring My Veganism Predictions
 
-![Drawing of cow by Viktoriia Shcherbak.]({{ '/img/eating_animals_1.jpeg' | url }})
+![Drawing of cow by Viktoriia Shcherbak.]({{ '/img/hero/eating_animals_1.png' | url }})
 
 Six months ago [I vowed]({{ '/posts/my-path-towards-veganism/' | url }}) to adopt the vegan diet and set up a step-by-step plan to get there. I also made six predictions about how things would turn out. I prophesied:
 

@@ -8,7 +8,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/CbkfwmwD2BBuFzwsZ/erich_grun
 
 # Is There a Place among the Barbarians for Me and My Puny Muscles?
 
-![img]({{ '/img/barbarians.jpeg' | url }})
+![img]({{ '/img/hero/barbarians.png' | url }})
 
 There's been [some consternation](https://forum.effectivealtruism.org/posts/x9Rn5SfapcbbZaZy9/ea-for-dumb-people) within effective altruism recently about whether "dumb" people have a place in the community.[^1] The linked post generated quite a bit of discussion. Some commenters observed that the post's author, who'd communicated a feeling of not fitting in on account of not being smart enough, seemed not dumb at all, but quite intelligent. Occasionally, such-and-such a prominent effective altruist would weigh in to insist that they themself wasn't as smart as they might seem. [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) was linked, as it should be on these occasions (and to it we could also add [Against Individual IQ Worries](https://slatestarcodex.com/2017/09/27/against-individual-iq-worries/)).
 
