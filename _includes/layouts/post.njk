@@ -25,7 +25,7 @@ layout: layouts/base.njk
     {% if date %}<span class="nowrap">{{ date | readableDate }}</span>{% endif %}
     • {{ content | emojiReadTime }}
     {% set html_items = [] %}
-    {% for item in [{url: lw_link, name: "LW"}, {url: eaf_link, name: "EAF"}] %}
+    {% for item in [{url: lw_link, name: "LW"}, {url: eaf_link, name: "EAF"}, {url: substack_link, name: "Substack"}] %}
         {% if item.url %}
             {% set _ %}
             {{- html_items.push('<a href="' + item.url + '">' + item.name + '</a>') -}}
