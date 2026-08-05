@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Cardinal rules
 
-1. **The user must approve all code changes.** Never edit, create, or delete files without first describing the intended change and getting explicit approval in this conversation. When a change is approved, make only that change — approval does not extend to other files or follow-up changes. Never commit or push unless asked.
+1. **The user must approve all code changes.** Never edit, create, or delete files without first describing the intended change and getting explicit approval in this conversation. Show every proposed edit as an exact diff in chat before making it, since the permission prompt does not display the change contents. When a change is approved, make only that change — approval does not extend to other files or follow-up changes. Never commit or push unless asked.
 2. **Always follow the project's conventions.** Before writing anything, look at how the existing posts, templates, and scripts do it, and match them. When a convention here conflicts with a general best practice, the convention wins. If you're unsure what the convention is, ask rather than guess.
 
 ## What this is
