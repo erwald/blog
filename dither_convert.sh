@@ -24,6 +24,7 @@ for img in img_original/hero/*; do
     [ -f "$img" ] || continue
     filename=$(basename "$img")
     dest="img/hero/${filename%.*}.png"
+    dest_substack="img/hero/${filename%.*}_substack.png"
     dest_thumbnail="img/hero/${filename%.*}_thumbnail.png"
 
     if [ "$convert_all" = true ] || [ ! -f "$dest" ]; then
@@ -33,9 +34,11 @@ for img in img_original/hero/*; do
             mkdir -p img/hero
             magick "$img" -resize 660x -gamma 1.5 -attenuate 1.2 +noise gaussian -monochrome \
                 +level-colors "black,white" "$dest"
+            magick "$img" -resize 730x -gamma 1.5 -attenuate 1.2 +noise gaussian -monochrome \
+                +level-colors "black,white" "$dest_substack"
             magick "$img" -resize 300x -gamma 1.5 -attenuate 0.6 +noise gaussian -monochrome \
                 +level-colors "black,white" "$dest_thumbnail"
-            echo "converted: $img to $dest and $dest_thumbnail"
+            echo "converted: $img to $dest and $dest_substack and $dest_thumbnail"
         fi
     fi
 done
