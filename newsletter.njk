@@ -3,13 +3,8 @@ layout: layouts/base.njk
 permalink: newsletter/
 title: Newsletter
 ---
-<form id="subscribe-form" action="https://buttondown.email/api/emails/embed-subscribe/erichgrunewald" method="post"
-      target="popupwindow" onsubmit="window.open('https://buttondown.email/erichgrunewald', 'popupwindow')"
-      class="embeddable-buttondown-form notopmargin">
-    <label for="bd-email">Join the newsletter by typing in your email address and pressing "Subscribe":</label>
-    <input type="email" name="email" id="bd-email" placeholder="auderico@example.com" />
-    <input type="hidden" value="1" name="embed" />
-    <input type="submit" value="Subscribe" />
-</form>
-<p>If there's a problem with the newsletter, with the RSS feed or with the website generally – or if you just want to get in touch – please write me at <code>contact AT erichgrunewald DOT com</code>.</p>
-<img src="{{ '/img/golem.jpeg' | url }}" />
+<div id="subscribe-form" class="notopmargin">
+    <iframe src="https://erichgrunewald.substack.com/embed?transparent=1" width="100%" height="120" style="border: 0; background: transparent" frameborder="0" scrolling="no"></iframe>
+</div>
+<p>You can also subscribe via the RSS feed. If there's a problem with the RSS feed or with the website generally – or if you just want to get in touch – please write me at <code>contact AT erichgrunewald DOT com</code>.</p>
+<img src="{{ '/img/hero/golem.png' | url }}" />

@@ -322,6 +322,10 @@ input#bd-email {
   margin: 2ch 0;
 }
 
+#subscribe-form iframe {
+  display: block;
+}
+
 @media only screen and (max-width: 800px) {
   pre code {
     font-size: 14px;
