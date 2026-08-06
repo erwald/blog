@@ -3,6 +3,9 @@ layout: layouts/post.njk
 title: Why You Should Almost Never Use AI to Write Anything Substantive
 date: 2026-08-06
 tags: post
+lw_link: https://www.lesswrong.com/posts/kjQdL3dxaACSbjkSx/why-you-should-almost-never-use-ai-to-write-anything-1
+eaf_link: https://forum.effectivealtruism.org/posts/stmA3cmXY8jaZahtg/why-you-should-almost-never-use-ai-to-write-anything
+substack_link: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai
 ---
 # Why You Should Almost Never Use AI to Write Anything Substantive
 
