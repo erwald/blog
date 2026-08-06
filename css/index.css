@@ -9,7 +9,7 @@
     --accent: #090a06;
     --light-accent: #f6f6f6;
 
-    --title-font: "Bagnard", serif;
+    --title-font: "Junicode", serif;
     --body-font: "Junicode", serif;
     --mono-font: "Iosevka Fixed", monospace;
 }
@@ -135,21 +135,20 @@ h1 {
     font-family: var(--title-font);
     font-size: 36px;
     font-weight: 700;
-    letter-spacing: -1px;
     line-height: 2ch;
     margin: 0;
 }
 
 h2 {
     font-family: var(--title-font);
-    font-size: 26px;
+    font-size: 28px;
     font-weight: 400;
     color: var(--accent);
 }
 
 h3 {
     font-family: var(--title-font);
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 400;
     font-style: italic;
     color: var(--accent);
