@@ -452,7 +452,7 @@ That is okay; I'm glad you stuck with me to the end.
 
 [^4]:	 According to the US Population Reference Bureau, about [117B people](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/) have ever lived on Earth.
 
-[^5]:	 Each year, the EU [produces](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Agricultural_production_-_livestock_and_meat) 22M tons of pork, 6.6M tons of veal and beef, and 13M tons of poultry. If a pig produces 75 kg of pork, that's 290M pigs slaughtered annually. If a cow (ignoring calves killed for veal) produces 270 kg of beef, that's 24M cows slaughtered annually. If a chicken produces 1.4 kg of meat, that's 9.3B chickens slaughtered annually.
+[^5]:	 Each year, the EU [produces](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Agricultural_production_-_livestock_and_meat) 22M metric tons of pork, 6.6M metric tons of veal and beef, and 13M metric tons of poultry. If a pig produces 75 kg of pork, that's 290M pigs slaughtered annually. If a cow (ignoring calves killed for veal) produces 270 kg of beef, that's 24M cows slaughtered annually. If a chicken produces 1.4 kg of meat, that's 9.3B chickens slaughtered annually.
 
 [^6]:	 I had initially linked a video of a farmer dehorning a cow, but YouTube removed it due to its graphical content. Anyway, needless to say, it is not easy to watch. Cattle horns are filled with blood vessels and nerves, so it is not like cutting nails. It might feel something like having your teeth amputated at the root.
 
