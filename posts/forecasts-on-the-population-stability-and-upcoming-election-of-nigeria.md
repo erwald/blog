@@ -242,11 +242,11 @@ Edit 2023-03-01: It appears that, pending court challenges, <a href="https://arc
 </p>
 
 <p>
-<b>I count this as a failure of prediction</b>; in particular, (1) I expected high turnout, whereas turnout was abysmal (27% is the lowest in Nigerian history, possibly in part due to naira and/or gasoline scarcities), (2), relatedly, I expected the election to be well run, whereas INEC failed in many ways (delays, violence, suppression, irregularities, utter lack of transparency), and (3) I thought that Obi would pick up some votes at least in the north, whereas he was hardly a rounding error there.
+<b>I count this as a failure of prediction</b>; in particular, (1) I expected high turnout, whereas turnout was abysmal (27% is the lowest in Nigerian history, possibly in part due to naira and/or petrol scarcities), (2), relatedly, I expected the election to be well run, whereas INEC failed in many ways (delays, violence, suppression, irregularities, utter lack of transparency), and (3) I thought that Obi would pick up some votes at least in the north, whereas he was hardly a rounding error there.
 </p>
 
 <p>
-This seems, on the whole, like it should update me somewhat in the directions of (1) deferring more to pundits, at least when I don’t have much inside knowledge myself, (2) putting less weight on individual polls, especially in areas where polling infrastructure is not highly developed, and (3) paying more attention to cruxy or important-seeming developments, in this case the naira and gasoline scarcities, and the concerns about election violence and delays, that likely affected turnout.
+This seems, on the whole, like it should update me somewhat in the directions of (1) deferring more to pundits, at least when I don’t have much inside knowledge myself, (2) putting less weight on individual polls, especially in areas where polling infrastructure is not highly developed, and (3) paying more attention to cruxy or important-seeming developments, in this case the naira and petrol scarcities, and the concerns about election violence and delays, that likely affected turnout.
 </p>
 
 </div>
