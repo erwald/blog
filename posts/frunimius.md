@@ -27,7 +27,7 @@ FRUNIMIUS: But you, dear Endequina, are perfectly tone-deaf. Are you disabled? I
 
 ENDEQUINA: I can imagine living in such a place, and the thought doesn't please me. Still, isn't it good to have the ability to do something? It's good to be able to tell one musical note from another, isn't it?
 
-FRUNIMIUS: On the contrary, how could it be good? Ability alone is not good, it is only potentially good ... it needs to be realised to be good. The realisation of goods happens in our village. Our village can -- in theory, at least -- change so that my abilities can realise similar goods as your abilities, or even the Señora's. For example, you, dear Endequina, are a woman. Being a woman is not a disability, I think you'll agree. But you are treated differently -- worse -- because our village has decided to treat you that way. How is my condition different?
+FRUNIMIUS: On the contrary, how could it be good? Ability alone is not good, it is only potentially good ... it needs to be realized to be good. The realization of goods happens in our village. Our village can -- in theory, at least -- change so that my abilities can realize similar goods as your abilities, or even the Señora's. For example, you, dear Endequina, are a woman. Being a woman is not a disability, I think you'll agree. But you are treated differently -- worse -- because our village has decided to treat you that way. How is my condition different?
 
 ENDEQUINA: But wait a moment. Isn't it good to have more options? Options open up possibilities, possibilities allow us to find better actions, actions that give us what we want.
 
@@ -43,15 +43,15 @@ FRUNIMIUS: Look, I am short. We see things differently from down here. But as be
 
 ENDEQUINA: You are not talking about prejudice?
 
-FRUNIMIUS: Most certainly not! There's prejudice, but there's also accident, ignorance, forgetfulness, stupidity and all the other sources of evil that afflict humankind.
+FRUNIMIUS: Most certainly not! There's prejudice, but there's also accident, ignorance, forgetfulness, stupidity, and all the other sources of evil that afflict humankind.
 
-ENDEQUINA: Then per my definition you are not disabled. But some people are. They are if their condition is meaningfully bad for them, or if it isn't, if other people need to meaningfully accommodate them. Yes, being a woman, or a man, can be somewhat disadvantageous under some circumstances, but being paralysed from the neck down is really disadvantageous under most circumstances.
+ENDEQUINA: Then per my definition you are not disabled. But some people are. They are if their condition is meaningfully bad for them, or if it isn't, if other people need to meaningfully accommodate them. Yes, being a woman, or a man, can be somewhat disadvantageous under some circumstances, but being paralyzed from the neck down is really disadvantageous under most circumstances.
 
 FRUNIMIUS: It is starting to sound as if you agree with me, sweet cousin! You are saying that a condition is a disability only depending on the village one lives in.
 
-ENDEQUINA: I agree with nothing and everything, always and everywhere ... But don't you think, Frunimius, that it's useful to have a word that means roughly "lacking some capacities such that other people need to make significant accommodations"? That's no reason why anyone should be stigmatised or ill-treated, but there has to be a limit to the accommodations people need to make for others. Isn't it bad to need other people to accommodate you?
+ENDEQUINA: I agree with nothing and everything, always and everywhere ... But don't you think, Frunimius, that it's useful to have a word that means roughly "lacking some capacities such that other people need to make significant accommodations"? That's no reason why anyone should be stigmatized or ill-treated, but there has to be a limit to the accommodations people need to make for others. Isn't it bad to need other people to accommodate you?
 
-FRUNIMIUS: Very few accommodations need to be made for me. Yet I am stigmatised and pitied.
+FRUNIMIUS: Very few accommodations need to be made for me. Yet I am stigmatized and pitied.
 
 ENDEQUINA: You seemed to suggest that disability is not bad at all, that it's no worse on its own than is being tall, or strong, or a woman. I say that it is worse, but it's a difference of degree -- the degree to which people must make accommodations for you, or the degree to which it causes you to suffer, should they make no accommodations.
 

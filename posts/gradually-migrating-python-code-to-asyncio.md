@@ -9,7 +9,7 @@ tags: post
 
 Say we have a Python app that is doing something with the internet. A minimal example would be a program that retrieves the names of a few characters from the [Rick and Morty API](https://rickandmortyapi.com/documentation) and prints the result to standard output. (We could just as well be talking about other I/O tasks, like reading from a file or database.) Let's take that as our specification.
 
-So we write a `_get()` function that, given some path, sends a request to the API and returns the response JSON. Then we write a `_get_character()` function that takes a character identifier (which is just an integer), retrieves the corresponding record from the API using the `_get()` function, plucks the name from the JSON and returns the result (a string). Finally, we call `_get_character()` once for each hardcoded character identifier and print the result.
+So we write a `_get()` function that, given some path, sends a request to the API and returns the response JSON. Then we write a `_get_character()` function that takes a character identifier (which is just an integer), retrieves the corresponding record from the API using the `_get()` function, plucks the name from the JSON, and returns the result (a string). Finally, we call `_get_character()` once for each hardcoded character identifier and print the result.
 
 ```python
 # main.py
@@ -89,7 +89,7 @@ await my_func()
 
 You can always call normal functions from coroutines, and you can always `await` coroutines from other coroutines, but scheduling coroutines from normal functions requires some care. We can create a new event loop and run a coroutine in it using the `asyncio.run()` function. But there's a rub. Because there can only be one event loop at a time, we can't call `asyncio.run()` from code that is already running with an event loop. The recommended solution is to only call `asyncio.run()` once at the program's entry point.
 
-We are almost ready to port our program. But we also need a way to turn our `_get()` function, which does blocking I/O, into a `_get_async()` coroutine that does asynchronous I/O. The `loop.run_in_executor()` function allows us to do this. When we give it a function, it returns a `Future` object (which is similar to a coroutine). The passed-in function will be executed in a new thread as soon as we `await` this `Future`. (This means that we have to take care that we synchronise any shared resources, for example using mutex locks, though that is not a problem in our `_get()` function.)
+We are almost ready to port our program. But we also need a way to turn our `_get()` function, which does blocking I/O, into a `_get_async()` coroutine that does asynchronous I/O. The `loop.run_in_executor()` function allows us to do this. When we give it a function, it returns a `Future` object (which is similar to a coroutine). The passed-in function will be executed in a new thread as soon as we `await` this `Future`. (This means that we have to take care that we synchronize any shared resources, for example using mutex locks, though that is not a problem in our `_get()` function.)
 
 Now we have everything we need to speed up our program.
 
@@ -183,7 +183,7 @@ def _get_async(path):
 
 Now when I want a function – like `_get_character()` – to make asynchronous requests, I can add `async` and `await` the `_get_async()` coroutine in the function body. Then any functions that call _that_ coroutine will also need `async`, and so on until we reach the top level. But any function that doesn't have `_get_character()` in its call hierarchy can stay synchronous, just like it was before.
 
-This has worked pretty well. One issue that I have run into is trying to port a function that takes a callback. In our previous example, pre-migration, we may have a `_handle_error()` function that takes a function as an argument, invokes it and if an error appears, logs the error and tries again.
+This has worked pretty well. One issue that I have run into is trying to port a function that takes a callback. In our previous example, pre-migration, we may have a `_handle_error()` function that takes a function as an argument, invokes it, and if an error appears, logs the error and tries again.
 
 ```python
 # main.py (synchronous version)

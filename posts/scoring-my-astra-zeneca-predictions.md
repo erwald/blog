@@ -8,13 +8,13 @@ lw_link: https://www.lesswrong.com/posts/xACexfbwgQukhRmcr/scoring-my-astrazenec
 
 # Scoring My AstraZeneca Predictions
 
-After a relatively good month or so, as many Western countries have begun to relax their restrictions, COVID-19 cases and deaths are on the rise again, increasing especially in Africa, the Levant and South-East Asia.[^1] Over fifty thousand people die each week, and to date over four million people have died.[^2] The increase is largely due to the Delta variant, which now has a foothold on every continent that isn't Antarctica.[^3]
+After a relatively good month or so, as many Western countries have begun to relax their restrictions, COVID-19 cases and deaths are on the rise again, increasing especially in Africa, the Levant, and Southeast Asia.[^1] Over fifty thousand people die each week, and to date over four million people have died.[^2] The increase is largely due to the Delta variant, which now has a foothold on every continent that isn't Antarctica.[^3]
 
 At the same time, just over a fourth of the world population has received at least one vaccination dose; about half of that number are fully vaccinated.[^4] I now see that the global vaccination rate has been declining since it peaked at the end of June.[^5] This makes me somewhat concerned. I am certain that the most likely way out of this purgatory phase of COVID-19 is through mass vaccination campaigns; in Texas, for example, 8,787 people have died from the virus since early February, and of those only 43 were fully vaccinated[^6]. That is why I argued [against the suspension of the AstraZeneca (AZ) vaccine]({{ '/posts/the-astra-zeneca-vaccine-will-save-lives/' | url }}) that many European countries announced last March, calling it among other things "stupid" and "a frustrating mess".
 
 I think the arguments I made in that post are sound and that ultimately I was right. But I also made four predictions for the future, predictions that were less impressive. I wrote:
 
-> By 1 July 2021,
+> By July 1, 2021,
 >
 > 1. the expert consensus will be that continuing with the AstraZeneca vaccinations would have saved more lives than pausing it ⇒ 95%
 > 2. a majority of the listed countries will have resumed administering the AstraZeneca vaccine ⇒ 90%.
@@ -66,7 +66,7 @@ As far as I can tell, out of the 16 countries that I mentioned as having suspend
 
 **Verdict:** True.
 
-**Discussion:** The fact that several countries chose not to suspend the AZ vaccine meant that resuming its use was a viable option for the suspending nations. Still, I might have been too confident here, because (1) some nations, like Denmark, had very low transmission rates, which would have changed the cost-benefit calculation, (2) countries may have been able to get ahold of more mRNA vaccines more quickly than I thought and (3) hesitancy towards the AZ vaccine may have reduced the benefits of resuming its use. Still, I think this was a solid prediction.
+**Discussion:** The fact that several countries chose not to suspend the AZ vaccine meant that resuming its use was a viable option for the suspending nations. Still, I might have been too confident here, because (1) some nations, like Denmark, had very low transmission rates, which would have changed the cost-benefit calculation, (2) countries may have been able to get ahold of more mRNA vaccines more quickly than I thought, and (3) hesitancy toward the AZ vaccine may have reduced the benefits of resuming its use. Still, I think this was a solid prediction.
 
 ## Prediction #3: the FDA Will Approve the AZ Vaccine, 95%
 
@@ -98,7 +98,7 @@ As it turned out, the increased efficacy was due to the larger gap between the t
 
 **Verdict:** False.
 
-**Discussion:** If I recall correctly, I mostly deferred to Metaculus here. On 16 March, the day that I published my predictions, the [median prediction on Metaculus](https://www.metaculus.com/questions/6124/astrazenecaoxford-vaccine-us-eua-date/) was 16 April, two and a half months ahead of 1 July. But I have only myself to blame; I was far too confident. For one, I was not really aware of the bad history between AZ and the FDA. I also did not consider the fact that another vaccine, also based on an adenovirus vector, was being ramped up in the U.S. around that time, reducing the need for AZ. Bad and lazy prediction.
+**Discussion:** If I recall correctly, I mostly deferred to Metaculus here. On March 16, the day that I published my predictions, the [median prediction on Metaculus](https://www.metaculus.com/questions/6124/astrazenecaoxford-vaccine-us-eua-date/) was April 16, two and a half months ahead of July 1. But I have only myself to blame; I was far too confident. For one, I was not really aware of the bad history between AZ and the FDA. I also did not consider the fact that another vaccine, also based on an adenovirus vector, was being ramped up in the U.S. around that time, reducing the need for AZ. Bad and lazy prediction.
 
 ## Prediction #4: an Elected Official Will Admit that Suspension Was a Mistake, 70%
 

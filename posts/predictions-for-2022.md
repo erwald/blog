@@ -78,7 +78,7 @@ In 2022,
 1. Somebody will eat a factory farmed animal. ⇒ 90%
 2. Somebody will use cosmetics tested on animals. ⇒ 90%
 3. Somebody will use medicine tested on animals. ⇒ 90%
-4. Somebody will hunt deer, hare or grouse. ⇒ 90%
+4. Somebody will hunt deer, hare, or grouse. ⇒ 90%
 5. Somebody will fish. ⇒ 90%
 6. Somebody will exterminate animals they consider to be pests. ⇒ 90%
 7. Somebody will mistreat their pet. ⇒ 90%

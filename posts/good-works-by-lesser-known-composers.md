@@ -21,7 +21,7 @@ Each of these composers has for some or another reason not become as popular as 
 
 ## Helena
 
-In 1877 in Paris, Helena Munktell met and began to study under Vincent d'Indy.[^4] She was 25 then, a young woman. She spent years in Paris singing, performing on the piano and studying with d'Indy and Benjamin Godard, who both championed her works there.[^5] Once, a colleague of hers commented that she was not a lady who composes, but a composer.[^6] But d'Indy advised her to look for inspiration not in the Parisian salons but in the soil of her native land and in 1910 she returned permanently to Sweden, where she would spend her winters in Stockholm and her summers in Dalarna, the two places she'd grown up.[^7]
+In 1877 in Paris, Helena Munktell met and began to study under Vincent d'Indy.[^4] She was 25 then, a young woman. She spent years in Paris singing, performing on the piano, and studying with d'Indy and Benjamin Godard, who both championed her works there.[^5] Once, a colleague of hers commented that she was not a lady who composes, but a composer.[^6] But d'Indy advised her to look for inspiration not in the Parisian salons but in the soil of her native land and in 1910 she returned permanently to Sweden, where she would spend her winters in Stockholm and her summers in Dalarna, the two places she'd grown up.[^7]
 
 ![Photograph of Helena Munktell.]({{ '/img/hero/munktell.png' | url }})
 
@@ -31,7 +31,7 @@ _Valborgsmässoeld_ was recorded by the Gävle Symphony Orchestra with Tobias Ri
 
 ## Jehan
 
-In June of 1940 the Wehrmacht broke in towards the Loire and the town of Saumur. A soldier who was on reconnoitre east of the town could hear a troop of Germans approach: he dismounted his bike and mowed down 16 of them before being killed himself. This man was Jehan Alain. He left behind a wife, Madeleine, and three young daughters. He also left behind some one hundred and forty odd compositions, most of them for the organ, which he played.
+In June of 1940 the Wehrmacht broke in toward the Loire and the town of Saumur. A soldier who was on reconnoiter east of the town could hear a troop of Germans approach: he dismounted his bike and mowed down 16 of them before being killed himself. This man was Jehan Alain. He left behind a wife, Madeleine, and three young daughters. He also left behind some one hundred and forty odd compositions, most of them for the organ, which he played.
 
 ![Photograph of Jehan Alain.]({{ '/img/hero/alain.png' | url }})
 
@@ -53,7 +53,7 @@ The _Variations in C Minor_ have been performed without fault by Sally Pinkas fo
 
 ## Arnold
 
-Around the time that Harold Shapero wrote his _Variations_, a Jewish boy named Arnold Rosner was born in New York City.[^14] Arnold Rosner was an exile in his own land. He refused the fashions of the time – serialism, minimalism and all the others – and instead turned his eyes on the past, on the music of the Renaissance and the late Romantics.[^15] He never got the breakthrough that he desired. The bitterness seeped into his music.
+Around the time that Harold Shapero wrote his _Variations_, a Jewish boy named Arnold Rosner was born in New York City.[^14] Arnold Rosner was an exile in his own land. He refused the fashions of the time – serialism, minimalism, and all the others – and instead turned his eyes on the past, on the music of the Renaissance and the late Romantics.[^15] He never got the breakthrough that he desired. The bitterness seeped into his music.
 
 ![Photograph of Arnold Rosner.]({{ '/img/hero/rosner.png' | url }})
 
@@ -64,14 +64,14 @@ _The Parable of the Law_ begins with some angular motives that are developed for
 _The Parable of the Law_ was recorded just a few years ago by the London Philharmonic Orchestra with Nick Palmer conducting and Christopher Burchett singing, again for Toccata Classics.
 
 [^1]: Simmons, W. "Five Ko-Ans for Orchestra; Unraveling Dances; The Parable of the Law." _Arnold Rosner_, 2 Dec. 2018, [https://walter-simmons.com/writings/1863](https://walter-simmons.com/writings/1863).
-[^2]: I counted Daniel Barenboim, Martin Haselböck, Marek Janowski, Christoph König, Andrew Manze, Seiji Ozawa, Kirill Petrenko, Lahav Shani and Robert Trevino. I think at least that all of these are new and none are reissues. There may be some I haven't thought of or come across.
+[^2]: I counted Daniel Barenboim, Martin Haselböck, Marek Janowski, Christoph König, Andrew Manze, Seiji Ozawa, Kirill Petrenko, Lahav Shani, and Robert Trevino. I think at least that all of these are new and none are reissues. There may be some I haven't thought of or come across.
 [^3]: It is a good thing that these recordings always improve on those that came before because otherwise there'd be no point to them, except of course to keep the wheels of industry turning.
 [^4]: Edling, A. “Biography.” _Levande Musikarv_, 2013, [https://www.levandemusikarv.se/tonsattare/munktell-helena](https://www.levandemusikarv.se/tonsattare/munktell-helena).
 [^5]: ibid.
 [^6]: ibid.
 [^7]: ibid.
 [^8]: ibid.
-[^9]: Actually, it's in what we now call the Phrygian mode. But back then things were not so standardised and Alain followed Maurice Emmanuel in referring to this mode as the Dorian. I'll keep that term here to avoid confusion.
+[^9]: Actually, it's in what we now call the Phrygian mode. But back then things were not so standardized and Alain followed Maurice Emmanuel in referring to this mode as the Dorian. I'll keep that term here to avoid confusion.
 [^10]: The modern Dorian mode. See the previous footnote.
 [^11]: [Interview with Shapero for a documentary.](https://www.youtube.com/watch?v=ZNNo8DrDCnM)
 [^12]: ibid.

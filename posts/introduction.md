@@ -23,13 +23,13 @@ Nevertheless, I do think there is something special about outsiders. The epigrap
 > Let Pallas live in the city that she founded.  
 > Let me dwell here lamenting in the forest.[^3]
 
-Two boons favour the forest-dweller. The first is the freedom of not having to engage in the ever-shifting fashions of the city. Whether you want it or not, those fashions may eat your mind; your mind will be preoccupied by the city-dweller's orthodoxies whether you agree with them or not. (If you are fortunate enough to find a community of people who are focused on what matters, that is a different story.)
+Two boons favor the forest-dweller. The first is the freedom of not having to engage in the ever-shifting fashions of the city. Whether you want it or not, those fashions may eat your mind; your mind will be preoccupied by the city-dweller's orthodoxies whether you agree with them or not. (If you are fortunate enough to find a community of people who are focused on what matters, that is a different story.)
 
 The second is the freedom of not having to compete. In a city, you will be comparing yourself to your peers, and you will be tempted to try to one-up them, and to judge your work by their standards. The forest gives you the solitude and quiet needed for experimentation and reflection. (Of course there's a tension here in that Athens was the forge and founding place for much of the kind of intellectual pursuit that I enjoy. I don't know how to resolve that though as so often it appears one must strike a balance.)
 
 Here's what to expect from this blog moving forward:
 
-1. I've decided to make things simple for myself and so will simply write about whatever I'm interested in at any moment. "I learned to trust my obsessions."[^4] That may or may not include things like philosophy, poetry, literature, history, politics, science, programming and music.
+1. I've decided to make things simple for myself and so will simply write about whatever I'm interested in at any moment. "I learned to trust my obsessions."[^4] That may or may not include things like philosophy, poetry, literature, history, politics, science, programming, and music.
 2. I will try to write short pieces, 500 to 2,000 words, which should make for 2-8 minutes or so of reading time. That should make it easier for me to write them and easier for you to read them.
 3. I speak for no one but myself. Other people speak for others, but I don't know what gives them the right. No popular movement, no democratic process, no Quakerish consensus-making has put me here.
 

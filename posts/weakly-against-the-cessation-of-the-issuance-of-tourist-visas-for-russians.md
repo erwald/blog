@@ -11,7 +11,7 @@ tags: post
 
 ## Summary
 
-I argue that, while each nation should be free to decide for itself whether to receive Russian tourists, the arguments commonly given in favour of tourist visa bans for Russians are weak:
+I argue that, while each nation should be free to decide for itself whether to receive Russian tourists, the arguments commonly given in favor of tourist visa bans for Russians are weak:
 
 - I don't think a ban will affect the outcome or timeline of the war.
 - I don't think a ban will meaningfully reduce the risks of high-stakes Russian black ops.
@@ -24,7 +24,7 @@ So since there are benefits to allowing Russians to travel to Europe on tourist 
 Let me just get this out of the way before I set out to defend the rights of Russian citizens:
 
 - I think the Russian invasion of Ukraine is nauseating and has caused and will keep causing much suffering, especially for Ukrainians.
-- Vladimir Putin is reckless, authoritarian and seemingly heartless and we should for those and other reasons oppose him. The denial of the events in Bucha and the protection of those who perpetrated them is alone sufficient grounds for prosecuting him for war crimes.
+- Vladimir Putin is reckless, authoritarian, and seemingly heartless and we should for those and other reasons oppose him. The denial of the events in Bucha and the protection of those who perpetrated them is alone sufficient grounds for prosecuting him for war crimes.
 - Each country should be allowed to decide for itself whether or not to accept tourists (and other visitors) from this or that other country.
 
 The reason I mention this is to assure you that I'm not a Kremlin supporter. I just happen to think that the proponents of a Russian tourist visa ban are wrong on this particular point, as I will soon explain. (However, you'll find some caveats in this footnote.[^1])
@@ -33,7 +33,7 @@ The reason I mention this is to assure you that I'm not a Kremlin supporter. I j
 
 Let's set the scene ...
 
-**Exhibit 1.** On 8 August, the Washington Post [reported](https://archive.ph/59rfp#selection-929.16-944.0):
+**Exhibit 1.** On August 8, the Washington Post [reported](https://archive.ph/59rfp#selection-929.16-944.0):
 
 > The way to stop Russia from annexing any more of Ukraine's territory, President Volodymyr Zelensky said Monday, is for Western countries to announce that they would ban all Russian citizens in response.
 >
@@ -43,7 +43,7 @@ The piece goes on to quote Zelensky as saying:
 
 > Whichever kind of Russian ... make them go to Russia. [...] They'll understand then. They'll say, "This [war] has nothing to do with us. The whole population can't be held responsible, can it?" It can. The population picked this government and they're not fighting it, not arguing with it, not shouting at it.
 
-**Exhibit 2.** On 18 August, the AP [reported](https://archive.ph/6qsp2#selection-848.0-848.1):
+**Exhibit 2.** On August 18, the AP [reported](https://archive.ph/6qsp2#selection-848.0-848.1):
 
 > Estonia's foreign minister on Thursday defended his country's decision to bar Russian tourists, saying they are shirking their "moral responsibility" to stand up to Russian President Vladimir Putin's regime and its "genocidal war" in Ukraine. [...] "Our idea is to give a signal to all our European partners, all our Western community partners, to close down our borders to Russian citizens, except humanitarian cases", Foreign Minister Urmas Reinsalu told The Associated Press in an interview in Tallinn. "Russian citizens are not welcome in Europe. Their country is committing a genocidal war against an innocent people." [...] Reinsalu said "hundreds of thousands" of Russian citizens passing through Estonian soil posed an "evident security threat" and dismissed concerns that the visa ban could backfire by turning ordinary Russians against Europe and the West.
 
@@ -51,7 +51,7 @@ The piece goes on to quote Reinsalu as saying:
 
 > [Though the legal responsibility for the war lies with Putin,] there is also a [...] moral responsibility of Russian citizens as citizens of [the] aggressor state. [...] They have to wake up and protest against the regime's atrocities. Their tax money literally is used to buy rockets and bombs to kill children in Ukraine.
 
-**Exhibit 3.** On 17 August, Bloomberg published [an opinion piece by Leonid Bershidsky](https://archive.ph/GBRsm) that argued that the Russian opposition shouldn't criticise these demands. (They have.) Bershidsky writes:
+**Exhibit 3.** On August 17, Bloomberg published [an opinion piece by Leonid Bershidsky](https://archive.ph/GBRsm) that argued that the Russian opposition shouldn't criticize these demands. (They have.) Bershidsky writes:
 
 > We anti-Putin Russians are missing a great chance to keep mum. Instead, the volume of media and social network commentary suggests that we are putting our concern over the possible loss of travel to Europe (with no effect on visa-free travel to dozens of other countries) at least on a par with our concern over what our birth country is perpetrating daily in Ukraine. This loss of face and show of selfishness is one the emigre community cannot afford.
 >
@@ -59,7 +59,7 @@ The piece goes on to quote Reinsalu as saying:
 >
 > The arguments for and against the visa ban are obvious: On the one hand, it's weird to let Russians vacation blithely in countries that materially support Ukraine and accept Ukrainian refugees; on the other, "tourist" visas allow fugitives from the regime to seek asylum in Europe rather than be pushed back from the border, like, for example, many Chechen asylum seekers who have tried to enter Poland in recent years. Yet the issue has resonated so widely -- and put Peskov and Russian liberals on the same side of a virtual border fence -- because it transcends rational and moral arguments. The underlying truth is that Russians of any stripe, whatever they say about Putin and the war in Ukraine, are not wanted in many European countries these days. Without exception, these countries are those that were attacked, occupied or subjugated by the Soviet Union in the 20th century.
 
-(I don't have a strong opinion on whether the Russian opposition should or should not criticise this. That's a strategic and empirical question I don't know much about.)
+(I don't have a strong opinion on whether the Russian opposition should or should not criticize this. That's a strategic and empirical question I don't know much about.)
 
 Since then European foreign ministers [have convened in Prague](https://archive.ph/xPhKW) to discuss the matter, though the Union remains partly divided.
 
@@ -68,8 +68,8 @@ Since then European foreign ministers [have convened in Prague](https://archive.
 The main strands of argument for why the EU should stop issuing Russian tourist visas that I've come across are:
 
 1. This will put pressure on Russian citizens and/or the Russian government, making the war (and regime) end sooner.[^2]
-2. This will reduce security risks in the EU, for example of Russian espionage, sabotage and assassinations.[^3]
-3. This will send a strong, galvanising message. It will show Ukraine that the EU's support doesn't waver, and it'll show the EU itself that it's able to act meaningfully.[^4]
+2. This will reduce security risks in the EU, for example of Russian espionage, sabotage, and assassinations.[^3]
+3. This will send a strong, galvanizing message. It will show Ukraine that the EU's support doesn't waver, and it'll show the EU itself that it's able to act meaningfully.[^4]
 4. This will be an act of justice. All Russians are responsible for the invasion, and should be punished the way a person is punished for being an accomplice to a crime. And as with any crime, the punishment here acts as a deterrence against future crimes. (This argument is somewhat rarer but not uncommon.)
 
 In addition, advocates of a visa ban assert that getting to visit Europe is a privilege, not a human right, and one that can be revoked if warranted. (I concur.) They may agree that the default should be to allow people to visit Europe, since it's beneficial to visitors (who get to see the Louvre or whatever) and to the hosts (who get money for it) and freedom of movement in general seems like a good thing. But, they'd say, in this case the benefits of barring Russians tourists far outweigh the costs.
@@ -77,7 +77,7 @@ In addition, advocates of a visa ban assert that getting to visit Europe is a pr
 I think the effects of doing so are unclear or even negative. Specifically, looking at each of the four arguments in turn:
 
 1. It's not clear to me how a visa ban is meant to make Russian citizens cause an end to the war (or topple the government). I guess it must either (i) convince apolitical or pro-regime Russians that they should advocate for Russia's withdrawal from Ukraine or (ii) convince dissident Russians that they should do more to end the war. But:
-   - I think a visa ban is more likely to turn apolitical and pro-regime Russians (further) against the EU and Ukraine than against the war and the regime. If another country banned me (as a Swedish citizen) from visiting their country for something I wasn't directly responsible for, I'd probably feel a little bit annoyed. It definitely wouldn't make me more sympathetic towards them.
+   - I think a visa ban is more likely to turn apolitical and pro-regime Russians (further) against the EU and Ukraine than against the war and the regime. If another country banned me (as a Swedish citizen) from visiting their country for something I wasn't directly responsible for, I'd probably feel a little bit annoyed. It definitely wouldn't make me more sympathetic toward them.
      - I suspect that economic sanctions are more effective at this, and I support them. They _appear_ more targeted at the Russian state, and less at Russian citizens.
    - I don't think a visa ban is likely to make dissident Russians do more to end the war. I think they're mostly in a state of collective learned helplessness, and I doubt the stick is the tool to get them out of it.
 2. I'm not convinced that this will meaningfully reduce security risks. It's true that Russians have in the past used tourist visas when carrying out black ops in the EU, including things like espionage and assassinations. But -- and maybe this is just me being naive -- surely that's a very minor inconvenience for a state intelligence agency: seems like you could easily obtain student or business visas or use faked Kazakh passports or whatever instead. I'm not confident about this, but I'd like to see visa ban proponents actually make the case, instead of simply asserting it to be so.
@@ -86,20 +86,20 @@ I think the effects of doing so are unclear or even negative. Specifically, look
 4. It does not make sense to assign guilt to ordinary Russians and to demand that they act on the basis of that guilt. The argument [proves too much](https://slatestarcodex.com/2013/04/13/proving-too-much/). All of us are mildly guilty of something all the time, and different people have different ideas about what's most important.
    - I, for example, happen to think that reducing malaria death counts (~600K people annually, mostly children) is at least as important as working to end the war in Ukraine.[^5] Just as many ordinary Russians neither actively support Putin nor actively oppose him, I expect most visa ban proponents neither actively support nor actively oppose malaria. Does this mean that I should put a rod to their backs for enabling the terrible suffering of malaria victims?
      - I think a visa ban proponent is likely in a position to do more for a (potential) malaria sufferer than a Russian can do to oust Putin. $5,000 donated to [AMF](https://www.againstmalaria.com/) saves a life, on average; the average EU wage earner can donate that amount in 2 years if they give 10% of their income.[^6] A Russian protesting Putin for two years will get harassed, beat up, arrested, threatened with expulsion if they're a student, etc.[^7]
-   - I'm generally suspicious of advocates of any cause who tell me I'm not doing more to further their cause. Sometimes this criticism is true and correct. But mostly I think it misses the mark. I think it misses the mark when it doesn't consider, or seems mistaken about, (i) how bad the state of affairs is, (ii) how much power I have to change it and (iii) the costs of trying to change it.
+   - I'm generally suspicious of advocates of any cause who tell me I'm not doing more to further their cause. Sometimes this criticism is true and correct. But mostly I think it misses the mark. I think it misses the mark when it doesn't consider, or seems mistaken about, (i) how bad the state of affairs is, (ii) how much power I have to change it, and (iii) the costs of trying to change it.
    - Sometimes punishment is warranted, but the bar has to be higher than "stuff of the sort everyone everywhere does or neglects".
 
 ### Who Are These Tourists?
 
 It does feel weird and unseemly, as Bershidsky says, for wealthy, pro-regime Russians to tour Europe while their compatriots are warring in Ukraine. I wouldn't do it if I were them. But I'm against bans on weird and unseemly.
 
-More importantly, the wealthy and pro-regime are not the only Russians who want to enter the EU, and people don't only use tourists visas for leisure (despite what [foreign policy connoisseurs say](https://nitter.net/MacaesBruno/status/1563615396942745600#m)). They also use them to visit family, friends and loved ones, they use them to do entry exams at European universities, they use them to emigrate, etc. Migrating and studying abroad are not the tourist visa's intended purpose, but it's a common use.[^8] I know ≥3 (dissenting) Russians who have lived in Europe ≥5 years and who all initially came here using tourist visas.
+More importantly, the wealthy and pro-regime are not the only Russians who want to enter the EU, and people don't only use tourists visas for leisure (despite what [foreign policy connoisseurs say](https://nitter.net/MacaesBruno/status/1563615396942745600#m)). They also use them to visit family, friends, and loved ones, they use them to do entry exams at European universities, they use them to emigrate, etc. Migrating and studying abroad are not the tourist visa's intended purpose, but it's a common use.[^8] I know ≥3 (dissenting) Russians who have lived in Europe ≥5 years and who all initially came here using tourist visas.
 
-(After Ukrainian asylum applications in the EU peaked in March and April, there have been as many Russian applications as Ukrainian.[^9] Many Russian emigrants are skilled labourers: Iontsev, Ryazantsev, and Iontseva (2016) says the share of specialists went "from 14% in 1992 to 31% in 1999 and to 47% in 2012"; as of five years ago, >1M Russians worked abroad, many of them young. People who move away from Russia are likely less supportive of the regime than those who stay behind.)
+(After Ukrainian asylum applications in the EU peaked in March and April, there have been as many Russian applications as Ukrainian.[^9] Many Russian emigrants are skilled laborers: Iontsev, Ryazantsev, and Iontseva (2016) says the share of specialists went "from 14% in 1992 to 31% in 1999 and to 47% in 2012"; as of five years ago, >1M Russians worked abroad, many of them young. People who move away from Russia are likely less supportive of the regime than those who stay behind.)
 
 ## Conclusion
 
-I think the arguments for a ban are weak and don't outweigh the drawbacks. But here are some things that'd shift my view in the direction of favouring a ban:
+I think the arguments for a ban are weak and don't outweigh the drawbacks. But here are some things that'd shift my view in the direction of favoring a ban:
 
 - Learning that a ban would effectively reduce the number of significant Russian black ops in the EU.
 - Learning that Putin's hold on power is actually quite weak, and that a ban would weaken it further.
@@ -135,4 +135,4 @@ I hope and believe that at some point in the coming decades relations between Ru
     Ryazantsev and Lukyanets (2016): "[S]tudies show that nowadays many Russian citizens find a job abroad without going through the official channels, arriving in different countries having work, business, tourist and guest visas, directly meeting employers and do not fall into the data of the Federal Migration Service."
 
 [^9]: This can be gleaned from the data at [Eurostat](https://ec.europa.eu/eurostat/web/migration-asylum/asylum).
-[^10]: That's a mangled passage from _Sir Gawain and the Green Knight_. For example, a decade ago Russia, in its foreign policy documents, still viewed itself as a part of European civilisation (Wood 2020, 147). Now it seems more in the grip of Duginist Neo-Eurasianism, which Wood (2020) argues is partly a result of the vacuum left by pro-Western ideas, ideas that became untenable as relations with the West deteriorated.
+[^10]: That's a mangled passage from _Sir Gawain and the Green Knight_. For example, a decade ago Russia, in its foreign policy documents, still viewed itself as a part of European civilization (Wood 2020, 147). Now it seems more in the grip of Duginist Neo-Eurasianism, which Wood (2020) argues is partly a result of the vacuum left by pro-Western ideas, ideas that became untenable as relations with the West deteriorated.

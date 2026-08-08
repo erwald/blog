@@ -26,8 +26,8 @@ Key takeaways:
 - **_Maybe_ we should consider adopting the replacement view.**
   - I’m pretty sure the replacement view is more accurate than the naive and single comparison views, but I’m less sure whether it’d improve people’s decisions in practice. I assign 15% credence to the claim "people aiming to do good with their careers would have noticeably more impact were they to use the replacement view".
   - That said, **there are complicated effects to account for that are beyond the scope of the replacement view**, e.g. supply and demand elasticities and lag times for changes to percolate through a system.
-- The evidence in this post comes mainly from, in decreasing order of importance, (i) me reasoning about the problem, (ii) me doing some Monte Carlo simulations and (iii) somewhat analogous methods being used in sports.
-  - The Monte Carlo simulations test how often views (1), (2) and (3) lead to the same career choice as view (4) under four idealised scenarios.
+- The evidence in this post comes mainly from, in decreasing order of importance, (i) me reasoning about the problem, (ii) me doing some Monte Carlo simulations, and (iii) somewhat analogous methods being used in sports.
+  - The Monte Carlo simulations test how often views (1), (2), and (3) lead to the same career choice as view (4) under four idealized scenarios.
     - The naive and single comparison views do badly under some scenarios, but the replacement view does well under all scenarios.
     - The simulations make a lot of assumptions (see the Appendix for more) in order to more easily model the problem, and so should be taken with a grain of salt.
 
@@ -56,7 +56,7 @@ The paradigmatic example is choosing a career: if you're thinking of becoming a 
 <tbody>
 <tr>
 <td class="org-left">Choosing a job</td>
-<td class="org-left">Salary, opportunities for direct impact and support from employer and colleagues</td>
+<td class="org-left">Salary, opportunities for direct impact, and support from employer and colleagues</td>
 </tr>
 
 <tr>
@@ -66,7 +66,7 @@ The paradigmatic example is choosing a career: if you're thinking of becoming a 
 
 <tr>
 <td class="org-left">Applying for a grant</td>
-<td class="org-left">Grant, grantmaker's time and grantmaker's connections</td>
+<td class="org-left">Grant, grantmaker's time, and grantmaker's connections</td>
 </tr>
 
 <tr>
@@ -91,7 +91,7 @@ We can look at impact in at least four different ways:
 4. **The God view.** Your impact is the value produced by everyone (including you) in the world where you use some amount of resources, minus the value that would've been produced by everyone in the world where you didn't use those resources. (Because God is omniscient.)
    - This view is perhaps normatively correct but requires perfect information and computing power.
 
-Benjamin Todd, [Paul Christiano](https://rationalaltruist.com/2013/01/22/replaceability/) and others have thought and written about replaceability, but I think it's fair to say no one has reached any definitive conclusion: it's a hard problem. Todd [recommends focusing on other, more robustly predictable factors](https://80000hours.org/podcast/episodes/ben-todd-on-what-effective-altruism-most-needs/#replaceability-005327), like [personal fit](https://80000hours.org/articles/personal-fit/) and [scale](https://forum.effectivealtruism.org/topics/importance) and [solvability](https://forum.effectivealtruism.org/topics/tractability), when choosing a career. In fact, there's been remarkably little discussion about replaceability in the past few years, I think partly because people have realised that replaceability differs less across career options than those other things (personal fit, etc.), and partly because people have tactically retreated from a difficult problem.
+Benjamin Todd, [Paul Christiano](https://rationalaltruist.com/2013/01/22/replaceability/), and others have thought and written about replaceability, but I think it's fair to say no one has reached any definitive conclusion: it's a hard problem. Todd [recommends focusing on other, more robustly predictable factors](https://80000hours.org/podcast/episodes/ben-todd-on-what-effective-altruism-most-needs/#replaceability-005327), like [personal fit](https://80000hours.org/articles/personal-fit/) and [scale](https://forum.effectivealtruism.org/topics/importance) and [solvability](https://forum.effectivealtruism.org/topics/tractability), when choosing a career. In fact, there's been remarkably little discussion about replaceability in the past few years, I think partly because people have realized that replaceability differs less across career options than those other things (personal fit, etc.), and partly because people have tactically retreated from a difficult problem.
 
 I _think_ this is somewhat unfortunate, as replaceability seems to me to be decision-relevant and somewhat tractable, even if not as important as the problems Todd and Christiano have moved on to.
 
@@ -103,13 +103,13 @@ To imagine a rather extreme scenario, I think it's easy for someone who's choosi
 
 Sports seems somewhat analogous here. Sports teams are also making decisions about how to allocate scarce resources (e.g. playing time), and they do so by explicitly considering replaceability. (It's easier for them; they have good measures of how teams and players perform.)
 
-For example, suppose a hockey team is deciding whether to sign a star left winger or equally talented star right winger. Suppose currently its top left winger is near star calibre, whereas its top right winger is middling. Suppose its _worst_ left winger is so bad as to be a liability, whereas its worst right winger is pretty good. If the team only compared each potential addition to the player whose spot they'd take, they'd go with the star right winger (who's much better than the currently best right winger on the team, who's middling). But it may be better for the team to sign the star left winger (to get rid of the marginal left winger, who's a liability).[^2]
+For example, suppose a hockey team is deciding whether to sign a star left winger or equally talented star right winger. Suppose currently its top left winger is near star caliber, whereas its top right winger is middling. Suppose its _worst_ left winger is so bad as to be a liability, whereas its worst right winger is pretty good. If the team only compared each potential addition to the player whose spot they'd take, they'd go with the star right winger (who's much better than the currently best right winger on the team, who's middling). But it may be better for the team to sign the star left winger (to get rid of the marginal left winger, who's a liability).[^2]
 
 I think it's currently unclear how we are looking or should look at replaceability. My impression is that the single comparison view was circulated once long ago and that, ever since [its flaws became apparent](https://80000hours.org/2015/07/replaceability-isnt-as-important-as-you-might-think-or-weve-suggested/), there's been something of a vacuum. With what do people fill this vacuum? I have no idea. But we make decisions, so it must be something.
 
 ## Simulations
 
-I've run Monte Carlo simulations with the aim of seeing how these views perform in four simple, idealised scenarios. The scenarios pit two fields (as in, spheres of activity) against each other. (For more on how the simulations were run, see the Appendix.) The percentages signify how often you'd choose Field A if you took a given view:
+I've run Monte Carlo simulations with the aim of seeing how these views perform in four simple, idealized scenarios. The scenarios pit two fields (as in, spheres of activity) against each other. (For more on how the simulations were run, see the Appendix.) The percentages signify how often you'd choose Field A if you took a given view:
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -195,7 +195,7 @@ I interpret the results thusly:
 4. People are equally talented in both fields, but Field B has fewer people relative to its number of jobs (2x) than does Field A (10x).
    - This isn't a toss-up -- we should choose Field A 57% of the time. That's because we stipulated that you're always in a position to choose between the two fields, meaning, because there are fewer people for each job in Field B, a randomly chosen person who gets a job there is less talented than a randomly chosen person who gets a job in Field A (which is more competitive). So we'll tend to pick Field A more.
      - The single comparison (56%) and replacement (56%) views do well here.
-       - But the naive view does poorly (68%). It's too pessimistic about fields where there's less competition in the labour market, though I'm not sure why.
+       - But the naive view does poorly (68%). It's too pessimistic about fields where there's less competition in the labor market, though I'm not sure why.
 
 Like any model, this one rests on a number of simplifying assumptions. None of these results are guaranteed to hold outside the model's world. Still ...
 
@@ -204,7 +204,7 @@ Like any model, this one rests on a number of simplifying assumptions. None of t
 Though I don't feel sure enough to actually make recommendations to people faced with career decisions, **I'm tentatively bullish on the replacement view**. Arguments for:
 
 - **There may be serious failure modes for both the naive and single comparison views.**
-  - If we trust the simulations, the naive view seems too bullish on fields with better candidates, and also too bearish on fields with less competition on the labour market. The single comparison view is too bullish on fields with fewer people and jobs (even if the people-to-jobs ratio is constant).
+  - If we trust the simulations, the naive view seems too bullish on fields with better candidates, and also too bearish on fields with less competition on the labor market. The single comparison view is too bullish on fields with fewer people and jobs (even if the people-to-jobs ratio is constant).
   - If we don't trust the simulations, there still seem to be intuitive issues like not considering counterfactuals at all (the naive view) and not considering trickle-down effects (the single comparison view).
   - I don't know of any practical alternatives to these views. I have come across considerations that seem important and have to do with replaceability, but no action-guiding frameworks or theories.
 - **These same failure modes may not affect the replacement view.** The replacement view does well in the simulations, though I wouldn't put too much weight on that. It also just takes into account counterfactuals as well as trickle-down effects, which seems good.
@@ -215,7 +215,7 @@ Arguments against:
 - **It seems unworkable.** It's unclear which reference group to use when locating the replacement-level person. Say you're a wild animal welfare researcher. Is the correct reference group all wild animal welfare researchers? Is it all animal welfare researchers? Is it all impact-focused animal welfare researchers? Is it impact-focused people period? Or something else?
 - **It seems conceptually confused.** I don't have a mathematical proof for the replacement view. It isn't, as far as I know, solidly grounded in economic or moral theory.
   - In sports, stats like Wins Above Replacement are used to compare the impact of people, not the impact of actions. (Choosing which player to sign is an action, but I'm not sure whether the assumptions hold if you look at it that way.) That makes me suspicious of simply transposing it over to career decisions.
-- **Maybe thinking about replaceability is getting too in the weeds when we still haven't figured out more important considerations.** It seems likely to me that factors like how pressing a problem is, career capital and so on are substantially more important than replaceability. Maybe those factors swamp replaceability, such that it's basically not worth thinking about when you could instead be thinking about those other things?
+- **Maybe thinking about replaceability is getting too in the weeds when we still haven't figured out more important considerations.** It seems likely to me that factors like how pressing a problem is, career capital, and so on are substantially more important than replaceability. Maybe those factors swamp replaceability, such that it's basically not worth thinking about when you could instead be thinking about those other things?
 - **Maybe replaceability is subsumed by personal fit.** If personal fit is the distance between a candidate and the average candidate, it's analogous to the replacement view, which is the distance between a candidate and the replacement-level candidate. These measures should correlate. I think the way they differ depends on how talent is distributed.
   - They both help you predict how much effort you add to a problem.[^3] (They don't say anything about scale or solvability.) So maybe we only need one of them.
     - However, when I ran the same simulations with a "personal fit view", it picked the wrong thing ≥30% of runs in scenario (2) and ≥17% of runs in scenario (4). Maybe the right framing is something like "we should start thinking of personal fit as not comparing ourselves to the average, but comparing ourselves to the replacement level"?
@@ -224,20 +224,20 @@ Arguments against:
 Replaceability is also more complicated than this post makes it out to be. For example, in the real world:
 
 - **It can take time for changes to percolate down**, unlike in sports where an empty position must be filled immediately. A company may not immediately find a replacement, if it does at all.
-  - Perhaps the model could include a probability P that some person will take a job had one not taken it, as Benjamin Todd does [here](https://80000hours.org/articles/coordination/#problems-with-a-simple-single-player-approach-and-the-value-of-freed-up-resources). This probability would depend on how many candidates there are, how talented they are, how broadly openings are advertised and so on. These factors surely differ from field to field.
+  - Perhaps the model could include a probability P that some person will take a job had one not taken it, as Benjamin Todd does [here](https://80000hours.org/articles/coordination/#problems-with-a-simple-single-player-approach-and-the-value-of-freed-up-resources). This probability would depend on how many candidates there are, how talented they are, how broadly openings are advertised, and so on. These factors surely differ from field to field.
 - **Employers don't always hire the best candidates.** However, I expect them to choose the better candidate more often than not, so maybe it's correct to say that they hire the best candidates in expectation.
 - **People don't always know what they're a good fit for.** That means one may end up displacing someone into a career where they end up doing much _more_ good. But again, I expect people to have a pretty clear picture most of the time of how good they'd be at a thing.
-- **Talent may not be lognormally distributed.** I'm pretty sure it follows a heavy-tailed distribution (that seems to be the case in [hockey](https://evolving-hockey.com/blog/wins-above-replacement-replacement-level-decisions-results-and-final-remarks-part-3/), [baseball](https://www.beyondtheboxscore.com/2012/5/23/3038977/wins-above-replacement-distribution-and-rarity-of-talent-2011), [programming](http://blog.webfoot.com/2008/11/03/programmer-productivity-update/) and [labour in the UK](https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/labourproductivitymeasuresfromtheannualbusinesssurvey/2006to2015#results)[^4]), but it's not clear to me which one, and this may make a difference.
-- **Choosing to use a scarce resource [may increase or decrease the supply of that resource](https://80000hours.org/podcast/episodes/ben-todd-on-what-effective-altruism-most-needs/#replaceability-005327)** (on top of the amount one used), and the degree to which this happens can vary from field to field. For example, if more people try to be doctors, hospitals can pay them lower salaries, meaning they have more money to spend (assuming the labour market for doctors has non-zero supply and demand elasticities).
+- **Talent may not be lognormally distributed.** I'm pretty sure it follows a heavy-tailed distribution (that seems to be the case in [hockey](https://evolving-hockey.com/blog/wins-above-replacement-replacement-level-decisions-results-and-final-remarks-part-3/), [baseball](https://www.beyondtheboxscore.com/2012/5/23/3038977/wins-above-replacement-distribution-and-rarity-of-talent-2011), [programming](http://blog.webfoot.com/2008/11/03/programmer-productivity-update/), and [labor in the UK](https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/labourproductivitymeasuresfromtheannualbusinesssurvey/2006to2015#results)[^4]), but it's not clear to me which one, and this may make a difference.
+- **Choosing to use a scarce resource [may increase or decrease the supply of that resource](https://80000hours.org/podcast/episodes/ben-todd-on-what-effective-altruism-most-needs/#replaceability-005327)** (on top of the amount one used), and the degree to which this happens can vary from field to field. For example, if more people try to be doctors, hospitals can pay them lower salaries, meaning they have more money to spend (assuming the labor market for doctors has non-zero supply and demand elasticities).
 
-The problem that replaceability is meant to address is a pretty rare one. There doesn't seem to be much research on it. There aren't that many situations where people (1) pursue the same goal[^5], (2) don't usually coordinate, (3) use shared scarce resources with substantial supply and demand and (4) are able to use those resources to varying degrees of efficiency. But effective altruists are in this rare situation.
+The problem that replaceability is meant to address is a pretty rare one. There doesn't seem to be much research on it. There aren't that many situations where people (1) pursue the same goal[^5], (2) don't usually coordinate, (3) use shared scarce resources with substantial supply and demand, and (4) are able to use those resources to varying degrees of efficiency. But effective altruists are in this rare situation.
 
 ## Appendix: Monte Carlo Simulations
 
 Here is the procedure I used to simulate career choices based on the four replaceability views:
 
 1. For two different fields, Field A and Field B, generate N people with different Talent Levels, and M jobs with different "Effort Multipliers".[^6] Assume these are [lognormally distributed](https://en.wikipedia.org/wiki/Log-normal_distribution).[^7]
-   - Effort Multipliers represent the fact that some jobs allow a person to get more work done towards solving a problem than other jobs, e.g. by providing more opportunities or better support.
+   - Effort Multipliers represent the fact that some jobs allow a person to get more work done toward solving a problem than other jobs, e.g. by providing more opportunities or better support.
    - We can describe the effort added by a person working a job with the formula Effort = Talent Level × Effort Multiplier. So the total effort of people working on a problem (corresponding to the God view) is given by the sum of Talent Level × Effort Multiplier for all person-job pairs in both fields. (We assume people who don't get a job produce zero effort.)
 2. For each field, assign the most talented people to the jobs with the highest Effort Multipliers, one at a time, until there are no more available jobs (or people).
 3. Select a person at random from each field, excluding those people who didn't get a job.[^8] This is you and your talent at each thing. You're now going to decide which field to work in.
@@ -257,11 +257,11 @@ Here is the procedure I used to simulate career choices based on the four replac
 </div>
 
 [^1]: Replaceability is different from counterfactuals. Pearl, Glymour, and Jewell (2016) describes a counterfactual as "an 'if' statement in which the 'if' portion is untrue or unrealized". This involves tallying up _all the ways_ a thing would've gone differently. Replaceability is a special kind of counterfactual reasoning, dealing only with the use (or non-use) of a scarce resource.
-[^2]: True, ice time makes this a more subtle calculation. Signing the star left winger means the near-star-calibre left winger gets pushed down to the second line, meaning their (considerable) impact is reduced. But I think it serves as an example of these kinds of considerations mattering in practice.
+[^2]: True, ice time makes this a more subtle calculation. Signing the star left winger means the near-star-caliber left winger gets pushed down to the second line, meaning their (considerable) impact is reduced. But I think it serves as an example of these kinds of considerations mattering in practice.
 [^3]:
     I frame it as "how much effort you add", not "how much impact you have", because impact also depends on other things, in particular the problem areas' relative [scale](https://forum.effectivealtruism.org/topics/importance) (defined, [after 80,000 Hours](https://80000hours.org/articles/problem-framework/#top), as Good Done ÷ % of Problem Solved) and [solvability](https://forum.effectivealtruism.org/topics/tractability) (% of Problem Solved ÷ % Increase in Effort). Focusing on effort alone is cleaner as we can bracket those other concepts. As far as this post is concerned, all problems have the same scale and solvability.
 
-    NB. "Increase in Effort" is called by 80,000 Hours "Increase in Resources", but since I'm already using the word "resource" to refer to labour, time and money, I'm calling it "Increase in Effort" instead.
+    NB. "Increase in Effort" is called by 80,000 Hours "Increase in Resources", but since I'm already using the word "resource" to refer to labor, time, and money, I'm calling it "Increase in Effort" instead.
 
 [^4]:
     Some posts, like [this one](https://80000hours.org/2019/08/how-replaceable-are-top-candidates-in-large-hiring-rounds/#some-possible-distributions-of-job-performance), point to income and researcher citation count as evidence of this (emphasis mine): "**If job performance is like income, or the number of citations people have on academic papers, it is more like a log normal distribution[.]** That is, most aspiring academics have few citations, while some have thousands, tens of thousands, or even hundreds of thousands. [...] We're very unsure about this question, and would like to see more research into it. Some evidence we've seen suggests that output is normally distributed even in 'complex' jobs, like being a doctor. However, for the most difficult and creative work, like academic research, we suspect that the variance is high in the tails. Even there, it's hard to be confident since **many measures of output (such as citation count) are likely to overstate differences in productivity**."

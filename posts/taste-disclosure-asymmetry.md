@@ -5,17 +5,17 @@ date: 2022-07-02
 tags: post
 ---
 
-# Taste Disclosure Asymmetryx
+# Taste Disclosure Asymmetry
 
 ![img]({{ '/img/hero/street_conversation.png' | url }})
 
-Jacques says he really likes some new Star Wars movie. Then immediately Gilberte says she really dislikes it. Isn't Gilberte being a little rude? If I were Gilberte, I'd probably feel the urge to cushion my opinion, maybe emphasising that mine is the minority view or saying I only dislike the thing due to some weird personal deficiency.
+Jacques says he really likes some new Star Wars movie. Then immediately Gilberte says she really dislikes it. Isn't Gilberte being a little rude? If I were Gilberte, I'd probably feel the urge to cushion my opinion, maybe emphasizing that mine is the minority view or saying I only dislike the thing due to some weird personal deficiency.
 
 Now imagine it was the other way round. First Gilberte says she dislikes the movie. Then immediately Jacques says he likes it. This seems totally fine!
 
 That's the taste disclosure asymmetry. It seems rude to state one's dislike of a thing after someone else has stated their like of it, whereas the reverse doesn't seem rude at all. Why? I can think of some possible reasons:
 
-- Maybe it's to do with signalling? When Jacques says he likes the Star Wars movie, it means Star Wars is "on his level". When Gilberte says she dislikes it, it's implied that Star Wars is beneath her -- that she is too smart or sophisticated or discerning to like Star Wars -- and that way strips Jacques of some of his respect and dignity. Hence the asymmetry: it's rude to try to raise your own status at someone else's expense, but it's not rude to raise someone else's status at your own expense.
+- Maybe it's to do with signaling? When Jacques says he likes the Star Wars movie, it means Star Wars is "on his level". When Gilberte says she dislikes it, it's implied that Star Wars is beneath her -- that she is too smart or sophisticated or discerning to like Star Wars -- and that way strips Jacques of some of his respect and dignity. Hence the asymmetry: it's rude to try to raise your own status at someone else's expense, but it's not rude to raise someone else's status at your own expense.
   - Making your taste known is like making an investment. By declaring that he likes the Star Wars movie, Jacques invests some of his status in it. When Gilberte says she dislikes it, its price drops, for its value as a status object depends entirely on other people valuing it. Jacques's investment is worth less now; he's lower status.
   - This predicts that Jacques would feel worse if Gilberte is someone he really admires (as opposed to someone who does not matter to him). That seems to check out.
   - This can't be all of it, though, can it? Maybe this is my limited imagination working here, but I can't imagine Jacques's declaring himself a fan of the new Star Wars movie being an actual status play. Star Wars seems pretty uncool. But it's still mildly rude for Gilberte to follow up with how much she dislikes it (justified though she may be).
@@ -23,11 +23,11 @@ That's the taste disclosure asymmetry. It seems rude to state one's dislike of a
 - Maybe it's to do with identity? Liking Star Wars may be an important part of who Jacques is; disliking Star Wars most likely isn't part of who Gilberte is. So contradicting Jacques is worse than contradicting Gilberte, because Jacques would take it personally.[^1]
   - I think there's something here. I think if Jacques said, "Hey, I really don't care about these things, and this is really unlike me, but I really, really liked that new Star Wars movie", then it seems quite okay for Gilberte to disagree with him. Whereas if he'd said, "I'm really lukewarm on this new Star Wars movie, but Star Wars is such an important part of who I am", then it seems like Gilberte should at least tread carefully in her criticism.
 - Maybe it's to do with judgment? Suppose either (cynically) that taste is mostly just the ability to predict what people you admire would like or (implausibly) that taste is mostly just the ability to discern true, objective aesthetic facts. If Jacques likes Star Wars and Gilberte dislikes Star Wars, that's a challenge to Jacques. It says: "You've misjudged this thing." And that means: "You are a bad judge of things."
-  - I don't think this is it, because it doesn't explain the asymmetry. Jacques would just as much be criticising Gilberte's judgment had he said he likes it after hearing her say she dislikes it.
+  - I don't think this is it, because it doesn't explain the asymmetry. Jacques would just as much be criticizing Gilberte's judgment had he said he likes it after hearing her say she dislikes it.
 - Maybe it's to do with negativity? There's a general norm against negativity: nobody likes a naysayer. They bring other people's attention to bad stuff, and thinking about bad stuff makes people unhappy (unless there's a clear practical reason to do so). Is Gilberte being rude only because she's being negative?
   - I don't think this is it, again because it doesn't explain the asymmetry. Gilberte is being just as negative if she goes first as she is if she's following Jacques. Also, had Gilberte stated her dislike for Star Trek instead, she would have been equally negative, but not rude.
 
-So my best guess is that the asymmetry is generated by some combination of signalling and identity dynamics. By the way, I too have been guilty of this in the past. Nowadays I rarely give negative opinions on things others like unless asked, but I suspect the disapproval is written on my face.
+So my best guess is that the asymmetry is generated by some combination of signaling and identity dynamics. By the way, I too have been guilty of this in the past. Nowadays I rarely give negative opinions on things others like unless asked, but I suspect the disapproval is written on my face.
 
 ## References
 

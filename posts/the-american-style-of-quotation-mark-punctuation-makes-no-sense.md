@@ -26,7 +26,7 @@ When faced with this contrast, the proper reaction is to recoil in horror at the
     [--------------------sentence---------------------]
                                             [--quote-]
 
-Since a period marks the end of a sentence, it should not be placed before marking the end of the quotation. You can compare this with nested or hierarchical structures, or with stacks, or even with first in, first out methods of computing, systems theory or asset management. Under any comparison, the British style will seem preferable to the American. You resolve the nested item first, before resolving the parent. I do not know but suspect that this is why the British style is also called **logical quotation**.
+Since a period marks the end of a sentence, it should not be placed before marking the end of the quotation. You can compare this with nested or hierarchical structures, or with stacks, or even with first in, first out methods of computing, systems theory, or asset management. Under any comparison, the British style will seem preferable to the American. You resolve the nested item first, before resolving the parent. I do not know but suspect that this is why the British style is also called **logical quotation**.
 
 In the sentence beginning with _Dr Johnson ..._, we do place the period within the quotation marks, because what is being quoted is a full sentence. We are placing the period to mark the end of the inner, quoted sentence.[^5]
 

@@ -9,9 +9,9 @@ tags: post
 
 ![Photograph of Arnold Rosner.]({{ '/img/hero/rosner.png' | url }})
 
-Musicologist, critic and indomitable champion of neglected music Walter Simmons has [written](https://archive.is/20210729125355/https://harpers.org/archive/2021/06/arnold-rosner-requiem-op-59/) about the American composer Arnold Rosner in _Harper's Magazine_. I [wrote]({{ '/posts/good-works-by-lesser-known-composers/#arnold' | url }}) about Rosner myself in a post about lesser-known composers:
+Musicologist, critic, and indomitable champion of neglected music Walter Simmons has [written](https://archive.is/20210729125355/https://harpers.org/archive/2021/06/arnold-rosner-requiem-op-59/) about the American composer Arnold Rosner in _Harper's Magazine_. I [wrote]({{ '/posts/good-works-by-lesser-known-composers/#arnold' | url }}) about Rosner myself in a post about lesser-known composers:
 
-> Around the time that Harold Shapero wrote his _Variations_, a Jewish boy named Arnold Rosner was born in New York City.[^1] Arnold Rosner was an exile in his own land. He refused the fashions of the time – serialism, minimalism and all the others – and instead turned his eyes on the past, on the music of the Renaissance and the late Romantics.[^2] He never got the breakthrough that he desired. The bitterness seeped into his music.
+> Around the time that Harold Shapero wrote his _Variations_, a Jewish boy named Arnold Rosner was born in New York City.[^1] Arnold Rosner was an exile in his own land. He refused the fashions of the time – serialism, minimalism, and all the others – and instead turned his eyes on the past, on the music of the Renaissance and the late Romantics.[^2] He never got the breakthrough that he desired. The bitterness seeped into his music.
 
 Simmons sketches the man's life similarly:
 
@@ -35,7 +35,7 @@ The [interview]({{ '/posts/interview-with-corentin-boissier-romanticism-modernis
 >
 > You were quoting the American composers Rosner and Shapero who felt alienated, but many French (and, generally speaking, European) composers suffered much more than feeling alienated. Pierre Boulez stated in 1952 that "any musician who has not experienced – I do not say understood, but, in all exactness, experienced – the necessity of dodecaphonic [12-tone] language is USELESS. For his whole work is irrelevant to the needs of his epoch."[^3] The man who wrote that had full control over the entire French music scene for several decades. This logically put an end to the careers of the vast majority of composers who did not want to conform to the dodecaphonic style. And even today, at the level of cultural institutions and organisations, nothing has changed. Despite my Masters in Musical Writing and Orchestration, it is very unlikely that I will be able to make a career as a classical composer in France.
 
-As I write this, I am listening to the new recording of Rosner's opera _The Chronicle of Nine: The Tragedy of Queen Jane_. It is about as good as anything he's done. (The _Requiem_, I'm sorry to report, is not one of my favourites among his works. I think it feels too scattered, and not lyrical enough for me.)
+As I write this, I am listening to the new recording of Rosner's opera _The Chronicle of Nine: The Tragedy of Queen Jane_. It is about as good as anything he's done. (The _Requiem_, I'm sorry to report, is not one of my favorites among his works. I think it feels too scattered, and not lyrical enough for me.)
 
 [^1]: Simmons, W. "Biography." _Arnold Rosner_, 31 Oct. 2014, [www.arnoldrosnermusic.com/biography/](http://www.arnoldrosnermusic.com/biography/).
 [^2]: ibid.

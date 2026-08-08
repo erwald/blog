@@ -16,7 +16,7 @@ Here's an Emacs Lisp function for getting a BibTeX entry from a URL (like those 
   (write-bibtex-entry (get-bibtex-url-contents url)))
 ```
 
-It's very simple: `interactive` allows the user to enter a URL, `get-bibtex-url-contents` fetches the contents of that URL and `write-bibtex-entry` appends the contents to my `references.bib` file.
+It's very simple: `interactive` allows the user to enter a URL, `get-bibtex-url-contents` fetches the contents of that URL, and `write-bibtex-entry` appends the contents to my `references.bib` file.
 
 Now a somewhat less simple function. This one takes a [Digital Object Identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI), fetches the corresponding BibTeX entry from the [Crossref](https://www.crossref.org/) API and, again, appends the entry to `references.bib`. (I adapted this from [Pavel Iosad's original](https://www.anghyflawn.net/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/).) The returned entry contains the DOI (as a full URL) with an ASCII-encoded slash – the `%2F` there – so the function also replaces that with a decoded slash.
 
@@ -64,11 +64,11 @@ The `write-bibtex-entry` function takes a BibTeX entry (as a string) and adds it
 
 I wrote these functions because, having started using Emacs to manage my references back in February (you might've noticed the new References section at the end of [some]({{ '/posts/doubts-about-track-record-arguments-for-utilitarianism/#references' | url }}) [posts]({{ '/posts/nuclear-decay/#references' | url }})), I wanted to reduce the friction of adding a paper or book to my bibliography. That's the blessing and the curse of Emacs: you get endless extensibility, but you also get endless extensibility. It's kind of a trap, which is why I don't recommend it for other people. But it's also fun, and powerful.
 
-Will this save me time in the long run? I've added 116 citations to my `references.bib` so far; over a period of five months that makes roughly 0.77 citations per day. Suppose it would take me ten seconds to find the reference, copy the BibTeX entry, open up `references.bib`, paste the entry and refresh Citar without these functions. Suppose it does take me three seconds to do the same with these functions. Suppose I spent roughly three hours implementing these functions (they were passable pretty early on but I spent some time fixing a bug). To make up my deficit I need to add 3 × 60 × 60 ÷ (10 - 3) = 1,543 entries. At the current rate, that will take me only 1,543 ÷ 0.77 = 2,004 days or five and a half years!
+Will this save me time in the long run? I've added 116 citations to my `references.bib` so far; over a period of five months that makes roughly 0.77 citations per day. Suppose it would take me ten seconds to find the reference, copy the BibTeX entry, open up `references.bib`, paste the entry, and refresh Citar without these functions. Suppose it does take me three seconds to do the same with these functions. Suppose I spent roughly three hours implementing these functions (they were passable pretty early on but I spent some time fixing a bug). To make up my deficit I need to add 3 × 60 × 60 ÷ (10 - 3) = 1,543 entries. At the current rate, that will take me only 1,543 ÷ 0.77 = 2,004 days or five and a half years!
 
 There are some more advantages in doing this sort of thing:
 
 - It's satisfying!
 - It makes me excited about doing stuff like collecting and citing references.
-- It teaches me more Emacs Lisp, which I can use to more skilfully lose time in future.
+- It teaches me more Emacs Lisp, which I can use to more skillfully lose time in future.
 - It gives me something to write blog posts about.

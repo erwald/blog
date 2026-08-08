@@ -21,15 +21,15 @@ Here is Neil Strauss (of _The Game_ fame) in a feature from 2004:
 
 > And now, here it comes: the famous Tom Cruise laugh. It comes on just fine, a regular laugh by any standards. You will be laughing too. But then, when the humour subsides, you will stop laughing. At this point, however, Cruise's laugh will just be reaching a crescendo, and he will be making eye contact with you. Ha ha HA HA heh heh. And you will try to laugh again, to join him, because you know you're supposed to. But it doesn't come out right, because it's not natural. He will squeeze out a couple of words sometimes between chuckles – in this case, "Wouldn't that be awesome?" – and then, as suddenly as he started, he will stop, and you will be relieved.[^2]
 
-In movies, it's as if he's trying to emulate emotion, but everything is artificial. I suppose that can simply be called "bad acting", though with him you get the sense that he is that way in life, too. He is a man who has outsourced his wants, needs, ideas and terminology to a two-faced god, one side his career and the other an unholy racket.
+In movies, it's as if he's trying to emulate emotion, but everything is artificial. I suppose that can simply be called "bad acting", though with him you get the sense that he is that way in life, too. He is a man who has outsourced his wants, needs, ideas, and terminology to a two-faced god, one side his career and the other an unholy racket.
 
 Of course I am talking about the implied actor, the Tom Cruise that I infer from interviews and movies. I know nothing about the breathing actor who goes under that name. _He_ may for all I know be entirely normal.
 
-The implied Tom Cruise is a rarity in the cinema business. Because he isn't really creative. He is unable to act, not in the sense of "doing the job of an actor" but in the sense of "performing so as to appear to do, think or feel something". He's gotten by through hard work, discipline and something that seems closer to instinct than talent. In that he reminds me of Donald Trump, who, though he is unlike Tom Cruise in that he's lazy and in many ways apathetic, nevertheless seems to share with him a primal sort of instinct that has helped both of them find success against all odds (in Trump's case as a campaigner and businessman, not as a public official; in Cruise's case as a movie star, not as an artist).
+The implied Tom Cruise is a rarity in the cinema business. Because he isn't really creative. He is unable to act, not in the sense of "doing the job of an actor" but in the sense of "performing so as to appear to do, think or feel something". He's gotten by through hard work, discipline, and something that seems closer to instinct than talent. In that he reminds me of Donald Trump, who, though he is unlike Tom Cruise in that he's lazy and in many ways apathetic, nevertheless seems to share with him a primal sort of instinct that has helped both of them find success against all odds (in Trump's case as a campaigner and businessman, not as a public official; in Cruise's case as a movie star, not as an artist).
 
-He has some admirable strengths. He is dedicated, reliable, loyal. He is organised. He delivers. He finishes what he starts.
+He has some admirable strengths. He is dedicated, reliable, loyal. He is organized. He delivers. He finishes what he starts.
 
-![Drawing by Viktoriia Shcherbak of a black eye against an abstract grey background.]({{ '/img/hero/tom_cruise_2.png' | url }})
+![Drawing by Viktoriia Shcherbak of a black eye against an abstract gray background.]({{ '/img/hero/tom_cruise_2.png' | url }})
 
 But he is also rigid. He judges. He wants people to conform. And he's strung up: he gets agitated when people don't live up to the standards that he sets for them.
 

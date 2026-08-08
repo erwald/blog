@@ -63,11 +63,11 @@ $ bc <<< "68139984 / (190 + 181 + 175 + 121 + 52 + 64 + 110)"
 76304
 ```
 
-The AstraZeneca vaccine seems to be [about 57-86% effective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3777268). It has a number of advantages over its competitors: it's cheaper, it's not sold for profit and it's much easier to store. But a vaccine isn't just useful in that it protects the person who gets it. It's also useful because it reduces population-level transmission rates. It gets us closer to herd immunity. The virus has shown that it won't leave Europe on its own, no matter how long lockdowns carry on. The EMA realises this and [states](https://www.ema.europa.eu/en/news/emas-safety-committee-continues-investigation-covid-19-vaccine-astrazeneca-thromboembolic-events):
+The AstraZeneca vaccine seems to be [about 57-86% effective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3777268). It has a number of advantages over its competitors: it's cheaper, it's not sold for profit, and it's much easier to store. But a vaccine isn't just useful in that it protects the person who gets it. It's also useful because it reduces population-level transmission rates. It gets us closer to herd immunity. The virus has shown that it won't leave Europe on its own, no matter how long lockdowns carry on. The EMA realizes this and [states](https://www.ema.europa.eu/en/news/emas-safety-committee-continues-investigation-covid-19-vaccine-astrazeneca-thromboembolic-events):
 
 > While its investigation is ongoing, EMA currently remains of the view that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalisation and death, outweigh the risks of side effects.
 
-Let me finish by making some predictions. By 1 July 2021,
+Let me finish by making some predictions. By July 1, 2021,
 
 1. the expert consensus will be that continuing with the AstraZeneca vaccinations would have saved more lives than pausing it ⇒ 95%
 2. a majority of the listed countries will have resumed administering the AstraZeneca vaccine ⇒ 90%.
@@ -76,6 +76,6 @@ Let me finish by making some predictions. By 1 July 2021,
 
 This is all so draining. I am European. I love Europe. But this is a frustrating mess.
 
-[^1]: My source here and below is [Die Zeit](https://www.zeit.de/politik/ausland/2021-03/astrazeneca-corona-impfstoff-impfungen-gestoppt-thrombose-nebenwirkungen). Belgium's health minister has [spoken out](https://twitter.com/BNODesk/status/1371563480449486848) in favour of continuing vaccination, so I added it to the list of the praiseworthy.
+[^1]: My source here and below is [Die Zeit](https://www.zeit.de/politik/ausland/2021-03/astrazeneca-corona-impfstoff-impfungen-gestoppt-thrombose-nebenwirkungen). Belgium's health minister has [spoken out](https://twitter.com/BNODesk/status/1371563480449486848) in favor of continuing vaccination, so I added it to the list of the praiseworthy.
 [^2]: ibid.
 [^3]: My source here is Worldometer [1](https://www.worldometers.info/coronavirus/country/uk/) and [2](https://www.worldometers.info/world-population/uk-population/).

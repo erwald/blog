@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
-title: "Interview with Olle Häggström: Reason, COVID-19 and Academic Freedom in Sweden"
+title: "Interview with Olle Häggström: Reason, COVID-19, and Academic Freedom in Sweden"
 date: 2021-08-21
 tags: post
 lw_link: https://www.lesswrong.com/posts/h6frhsPPjz5B2nWpX/interview-with-olle-haeggstroem-reason-covid-19-and-academic
 ---
 
-# Interview with Olle Häggström: Reason, COVID-19 and Academic Freedom in Sweden
+# Interview with Olle Häggström: Reason, COVID-19, and Academic Freedom in Sweden
 
 ![Drawing by Viktoriia Shcherbak of dice.]({{ '/img/hero/dice.png' | url }})
 
 ## Background
 
-Olle Häggström is a Professor of Mathematical Statistics at Chalmers University of Technology and has written texts about probability theory, existential and AI risk and futurology among many other subjects. His latest book, _[Tänkande maskiner](https://fritanke.se/bocker/tankande-maskiner/)_ _(Thinking Machines)_, draws on research in AI and AI safety to give an overview of where we are heading and what we ought to do. His excellent blog, [Häggström hävdar](https://haggstrom.blogspot.com), recently turned ten. He was kind enough to answer some of my questions; these answers are reproduced below.
+Olle Häggström is a Professor of Mathematical Statistics at Chalmers University of Technology and has written texts about probability theory, existential and AI risk, and futurology among many other subjects. His latest book, _[Tänkande maskiner](https://fritanke.se/bocker/tankande-maskiner/)_ _(Thinking Machines)_, draws on research in AI and AI safety to give an overview of where we are heading and what we ought to do. His excellent blog, [Häggström hävdar](https://haggstrom.blogspot.com), recently turned ten. He was kind enough to answer some of my questions; these answers are reproduced below.
 
 ## The State of Things in Sweden
 
@@ -30,7 +30,7 @@ OLLE: I must say you're good at guessing who some of my favorite intellectuals m
 
 ## COVID-19
 
-ERICH: Karlinsky & Kobak [estimate](https://elifesciences.org/articles/69336#table1) an increase in excess mortality since March 2020 of ten per cent in Sweden, compared with one per cent in Finland and _decreases_ of one per cent in Denmark and four per cent in Norway. How well have the Public Health Agency and Anders Tegnell carried out their jobs?
+ERICH: Karlinsky & Kobak [estimate](https://elifesciences.org/articles/69336#table1) an increase in excess mortality since March 2020 of ten percent in Sweden, compared with one percent in Finland and _decreases_ of one percent in Denmark and four percent in Norway. How well have the Public Health Agency and Anders Tegnell carried out their jobs?
 
 OLLE: Well, as you know, it's controversial to compare Sweden only to our Nordic neighbours. We come out looking a lot better if you add the rest of Europe to the equation. But with that said, I do think the Public Health Agency of Sweden could have done things a lot better. At the outset, their prior for properties of the virus (such as reproduction number and infection fatality rate) was unreasonably concentrated around "just a bit worse than an ordinary flu". They were deliberately obfuscating the important discussion of mitigation versus suppression strategies – something that I took part in [trying to correct](https://www.dn.se/debatt/alternativ-coronastrategi-for-sverige-kan-radda-liv/), although not very successfully. They've consistently been terribly slow in reacting to increasing spread of the virus, and they've been terribly uninterested in testing and tracing. And then there's [the face mask issue](https://blog.isi-web.org/react/2020/11/danish-face-mask-study/): their irrational and scientifically unsupported opposition to face masks throughout 2020 is indicative of something being wrong with the intellectual culture at the agency. Groupthink is probably a large part of the problem.
 
@@ -58,7 +58,7 @@ ERICH: Having read your blog posts, including comments, about [Göran Lambertz](
 
 OLLE: I actually had dinner with Göran Lambertz in the fall of 2016, when most of our fights over his bizarre new probability calculus in _Quickologi_ were done with, and I found that his personality is in some ways similar to mine. A high self-confidence on intellectual matters is part of that. So for me personally, the _Quickologi_ incident is an alarm call for being on guard against making similar mistakes to what Lambertz has done. In particular, to avoid making confident proclamations in a field which is not my own without proper respect for the available body of knowledge in the field and without having first learned what the experts say.
 
-ERICH: Your [latest book](https://fritanke.se/bocker/tankande-maskiner/) was released on Christer Sturmark and Björn Ulvaeus's publishing house [Fri Tanke](https://fritanke.se/), but so was the Lambertz book that you were criticising! What role do Sturmark and Humanisterna play in Sweden today?
+ERICH: Your [latest book](https://fritanke.se/bocker/tankande-maskiner/) was released on Christer Sturmark and Björn Ulvaeus's publishing house [Fri Tanke](https://fritanke.se/), but so was the Lambertz book that you were criticizing! What role do Sturmark and Humanisterna play in Sweden today?
 
 OLLE: I think Fri Tanke is a wonderful thing with their Enlightenment profile, contributing importantly to the publishing landscape in Sweden. Yes, they did publish _Quickologi_ (and I could mention one or two other books that really suck), but I think the fair thing is to judge a publisher by the quality of their best books rather than their worst, and by this criterion (and my own books aside) I give them an A+.
 

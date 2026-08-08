@@ -11,7 +11,7 @@ tags: post
 
 > To change my own mind. I try to create a new vocabulary or terrain for myself, so that I open out – I always think of the Dutch claiming land from the sea – or open up something that would have been closed to me before. That's the point and the pleasure of it. I continuously scrutinize my own thinking. I write something and think, How do I know that that's true?
 
-Having beliefs that are true is important because it helps us achieve our goals. I think Marilynne Robinson's goals on these topics are not that different from mine – I think she wants sentient life to flourish, suffering to disappear, prosperity, world peace, spiritual growth and all that stuff. To achieve these goals, the mindset she describes – what Julia Galef calls a scout mindset – is extremely useful. Unfortunately she fails to live up to her own standard.
+Having beliefs that are true is important because it helps us achieve our goals. I think Marilynne Robinson's goals on these topics are not that different from mine – I think she wants sentient life to flourish, suffering to disappear, prosperity, world peace, spiritual growth, and all that stuff. To achieve these goals, the mindset she describes – what Julia Galef calls a scout mindset – is extremely useful. Unfortunately she fails to live up to her own standard.
 
 ## Summary
 
@@ -21,9 +21,9 @@ Marilynne Robinson argues that cost-benefit analysis (CBA) is bad. I argue that 
 
 In an [essay](https://archive.is/20211011103314/https://www.nybooks.com/articles/2020/06/11/what-kind-of-country-do-we-want/) for the New York Review of Books titled _What Kind of Country Do We Want?_, Marilynne Robinson argues that:
 
-1. The state of things in America is bad. Life expectancies are down, suicides are up, optimism is gone and there is a "decline in hope and purpose" which amounts to a "crisis of civilization". America is the wealthiest nation ever to exist, but still budget cuts are made in education, infrastructure, national parks and the postal service.
-2. The reason that things are bad is the profit motive. For example, low-income workers have no hope for fair compensation. That is because companies optimise for profit at the expense of everything else, for example moving production to countries like China (as Robinson puts it, "American workers have been competing against expatriated American capital").
-3. We have internalised the profit motive in the form of CBA. This way of thinking kills altruism and enshrines self-interest.
+1. The state of things in America is bad. Life expectancies are down, suicides are up, optimism is gone, and there is a "decline in hope and purpose" which amounts to a "crisis of civilization". America is the wealthiest nation ever to exist, but still budget cuts are made in education, infrastructure, national parks, and the postal service.
+2. The reason that things are bad is the profit motive. For example, low-income workers have no hope for fair compensation. That is because companies optimize for profit at the expense of everything else, for example moving production to countries like China (as Robinson puts it, "American workers have been competing against expatriated American capital").
+3. We have internalized the profit motive in the form of CBA. This way of thinking kills altruism and enshrines self-interest.
 
 I think there is some truth to (1) and (2), but I think that (3) is mistaken.
 
@@ -47,7 +47,7 @@ Robinson's pitiful reply was:
 
 The puzzling absence of understanding of and interest in CBA in Robinson's essay does makes perfect sense if we understand her to use the term "cost-benefit analysis" as a stand-in for "capitalism". But Robinson is a professional writer and surely no professional writer would be so careless (or underhanded) in their choice of words. Or, put more charitably, maybe she is not talking about CBA as a way of deciding between possible courses of actions, but as a practice – as an activity that humans engage in in order to achieve some goal (in her view, making money). On this view, her critique of CBA is more like anti-gun activists' critique of guns – sure, they are not intrinsically bad, but they enable, or encourage even, evil practices.
 
-I don't think CBA encourages evil practices. I think we live in a world that has finite resources. I think [we are in triage every second of every day](https://mhollyelmoreblog.wordpress.com/2016/08/26/we-are-in-triage-every-second-of-every-day/). I think we have to decide how to do the most good with the money, time and attention available to us. I think CBA is a fine way of making such decisions, because I agree with Robinson that the purpose of CBA is "to realize a maximum of benefit at a minimum of cost". Robinson does not say how she thinks we ought to make such decisions, because her fantasy is that we don't have to choose – that, as Holly Elmore puts it, "agreeing to choose is already going too far". But the alternative to making rigorous decisions is not making no decisions at all, but making bad decisions.
+I don't think CBA encourages evil practices. I think we live in a world that has finite resources. I think [we are in triage every second of every day](https://mhollyelmoreblog.wordpress.com/2016/08/26/we-are-in-triage-every-second-of-every-day/). I think we have to decide how to do the most good with the money, time, and attention available to us. I think CBA is a fine way of making such decisions, because I agree with Robinson that the purpose of CBA is "to realize a maximum of benefit at a minimum of cost". Robinson does not say how she thinks we ought to make such decisions, because her fantasy is that we don't have to choose – that, as Holly Elmore puts it, "agreeing to choose is already going too far". But the alternative to making rigorous decisions is not making no decisions at all, but making bad decisions.
 
 A quick primer. CBA is a decision procedure that sums rewards and subtracts costs associated with each of a set of actions, allowing us to choose the action with most benefit for the cost. It is similar to a cost-effectiveness analysis, only instead of measuring everything in utility, it measures everything in money. But it can be used to make decisions about any desired outcome, not only profit. You just translate the intangible outcome into a monetary value.[^1]
 
@@ -93,11 +93,11 @@ Now, I don't know what variables Robinson refers to, nor which old answers are n
 
 ## Conclusion
 
-I am not a Panglossian. I know that things are really bad for a lot of people out there. That is why it is necessary to look at the world rationally, in order to see what works and what doesn't, how we can help people achieve their goals and what prevents them from doing so. If Marilynne Robinson were truly interested in questioning her own thinking, Wittman's remarks about global poverty should not have provoked in her a sneering dismissal, but genuine curiosity. If she really wanted to "create a new vocabulary or terrain" for herself, then she might have seen some of the virtues of cost-benefit analysis and adopted it as a tool in her toolbox. Because I take it that she is so interested and that she does so want, I can only conclude that either she keeps making flawed inferences, or she has other goals in conflict with those.
+I am not a Panglossian. I know that things are really bad for a lot of people out there. That is why it is necessary to look at the world rationally, in order to see what works and what doesn't, how we can help people achieve their goals, and what prevents them from doing so. If Marilynne Robinson were truly interested in questioning her own thinking, Wittman's remarks about global poverty should not have provoked in her a sneering dismissal, but genuine curiosity. If she really wanted to "create a new vocabulary or terrain" for herself, then she might have seen some of the virtues of cost-benefit analysis and adopted it as a tool in her toolbox. Because I take it that she is so interested and that she does so want, I can only conclude that either she keeps making flawed inferences, or she has other goals in conflict with those.
 
 ## Appendix: How Bad Are Things in America?
 
-I said I was not really interested in Robinson's argument that the state of things in America is bad. But I did make some [epistemic spot checks](https://www.lesswrong.com/tag/epistemic-spot-check) in order to get an idea of Robinson's epistemic rigour.
+I said I was not really interested in Robinson's argument that the state of things in America is bad. But I did make some [epistemic spot checks](https://www.lesswrong.com/tag/epistemic-spot-check) in order to get an idea of Robinson's epistemic rigor.
 
 One, Robinson mentions "reports of declines of life expectancy in America". Is American life expectancy down? I would say it looks more like the increase has plateaued (whereas it is steadily rising in the world in general) (Max Roser and Ritchie 2013):
 

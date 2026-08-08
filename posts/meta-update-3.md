@@ -7,9 +7,9 @@ tags: post
 
 # Meta Update 3
 
-You'll have noticed that I've redesigned the blog somewhat. The main changes are a new (sans-serif) typeface and the replacement of the sidebar with a menu at the top. What hasn't changed is the focus on content, the brutalism and the reliance on plain HTML and CSS. I hope it strikes the right balance between innovative art museum caption that doesn't understand itself and free software blog of impenetrable simplicity and few readers ...
+You'll have noticed that I've redesigned the blog somewhat. The main changes are a new (sans-serif) typeface and the replacement of the sidebar with a menu at the top. What hasn't changed is the focus on content, the brutalism, and the reliance on plain HTML and CSS. I hope it strikes the right balance between innovative art museum caption that doesn't understand itself and free software blog of impenetrable simplicity and few readers ...
 
-It's been a fine six months for the blog. Here are the most viewed posts published since the last meta update (that is, 4 December 2021):
+It's been a fine six months for the blog. Here are the most viewed posts published since the last meta update (that is, December 4, 2021):
 
 1. [What Made *World of Warcraft*'s Environments so Compelling?]({{ '/posts/what-made-world-of-warcrafts-environments-so-compelling/' | url }})
 2. [How Bad Is QWERTY, Really? A Review of the Literature, such as It Is]({{ '/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/' | url }})
@@ -22,4 +22,4 @@ It's been a fine six months for the blog. Here are the most viewed posts publish
 9. [Does Human Purpose Have Anywhere to Retreat to?]({{ '/posts/does-human-purpose-have-anywhere-to-retreat-to/' | url }})
 10. [Doubts about Track Record Arguments for Utilitarianism]({{ '/posts/doubts-about-track-record-arguments-for-utilitarianism/' | url }})
 
-The first three reached the front page of [Hacker News](https://news.ycombinator.com/), which has the usual effect. But in importance of subject-matter, I'd put (9), (6) and (10) on top. In comprehensiveness, (2) is in a league of its own, though I think (10) is pretty tightly argued. In practical usefulness, maybe (5), (7) and (8), though it depends completely on what activities one's engaged in.
+The first three reached the front page of [Hacker News](https://news.ycombinator.com/), which has the usual effect. But in importance of subject-matter, I'd put (9), (6), and (10) on top. In comprehensiveness, (2) is in a league of its own, though I think (10) is pretty tightly argued. In practical usefulness, maybe (5), (7), and (8), though it depends completely on what activities one's engaged in.

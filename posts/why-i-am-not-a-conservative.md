@@ -26,14 +26,14 @@ That said, seven months later <b>I still agree with this post and think it point
 
 </div>
 
-I am by nature a prudent person. Prudence is one of my strengths. (Everyone has strengths, so I don't think it's boastful to say so.) That being the case, you might think that I'd tend towards conservatism. Prudence does after all involve an awareness of risk and care in decision making. But I do not so tend. I think prudence is a virtue and this is precisely why I don't agree with conservatism.
+I am by nature a prudent person. Prudence is one of my strengths. (Everyone has strengths, so I don't think it's boastful to say so.) That being the case, you might think that I'd tend toward conservatism. Prudence does after all involve an awareness of risk and care in decision making. But I do not so tend. I think prudence is a virtue and this is precisely why I don't agree with conservatism.
 
 Venturing a precise definition of conservatism would be a fool's errand, but to me it means roughly a set of beliefs like:
 
 - There are eternal moral facts of the matter (and they have been revealed to us).
 - Human nature is deeply flawed and unchanging.
 - Utopian ideals lead to disaster.
-- Greater faith should be placed in tradition (and we should be very sceptical about reform).
+- Greater faith should be placed in tradition (and we should be very skeptical about reform).
 
 The usual caveats apply. Not all conservatives think these things. There are other beliefs that are common in conservatism. I am probably doing a bad job representing them. Et cetera. If you want to understand conservatism, you should go read a conservative. That said, this list mostly draws on Russell Kirk's [ten conservative principles](https://kirkcenter.org/conservatism/ten-conservative-principles/), so it shouldn't be too far off.
 
@@ -63,7 +63,7 @@ That brings us to the next idea, namely that human nature is deeply flawed and u
 
 Humans are only mammals. For mammals, we're pretty good, I think. We repeatedly fall short of our ideals, but that is because, unlike the other animals, we _can_ fall short of our ideals. We can think of ways to better ourselves morally, and as long as that is true we will be imperfect.
 
-The realisation that humans are mammals also tells us that human nature is not unchanging, although it may seem that way. We have been (and continue to be) the products of an evolutionary process. If we take human nature to be that (in my view, significant, though not overwhelming) part of our behaviour that cannot be explained by our environment, in other words the genetic part, it is impossible to think both that human nature is unchanging and that it is a product of evolution. (The change is however happening very slowly compared to cultural and technological change.)
+The realization that humans are mammals also tells us that human nature is not unchanging, although it may seem that way. We have been (and continue to be) the products of an evolutionary process. If we take human nature to be that (in my view, significant, though not overwhelming) part of our behavior that cannot be explained by our environment, in other words the genetic part, it is impossible to think both that human nature is unchanging and that it is a product of evolution. (The change is however happening very slowly compared to cultural and technological change.)
 
 Now whether or not we can stand a utopia is not really of interest to me. What matters is whether we can make things incrementally better. I think we can. To me, that is a position obviously borne out by history, though I suspect some conservatives would disagree.
 
@@ -79,15 +79,15 @@ This impulse, by the way, is [still alive today](https://nitter.net/existentialc
 >
 > But if you mean someone who wants to immediately guillotine every rich capitalist and form a revolutionary workers [sic] State, then also yes.
 
-I think the conservative view of utopia is essentially true. But I don't think this view is especially conservative. All quality of life improvements that I can think of -- be they moral, political, technological or something else -- have been brought about in increments. (Sometimes these changes were fairly abrupt, but they didn't -- and weren't meant to -- bring about utopia in one fell swoop.) Utopian thinking can be useful because it can tell us which destinations we have to choose from. But we need to realise that this is going to be a slow march, with plenty of opportunities for getting lost, that we may never reach our destination and that we may change our minds about where to go as we get more information. We should not expect there to be shortcuts.
+I think the conservative view of utopia is essentially true. But I don't think this view is especially conservative. All quality of life improvements that I can think of -- be they moral, political, technological, or something else -- have been brought about in increments. (Sometimes these changes were fairly abrupt, but they didn't -- and weren't meant to -- bring about utopia in one fell swoop.) Utopian thinking can be useful because it can tell us which destinations we have to choose from. But we need to realize that this is going to be a slow march, with plenty of opportunities for getting lost, that we may never reach our destination, and that we may change our minds about where to go as we get more information. We should not expect there to be shortcuts.
 
-## Reform Scepticism
+## Reform Skepticism
 
 The final belief is that we should place greater faith in tradition than in reason. As a consequence, we should make reforms only with extreme care. "Sudden and slashing reforms are as perilous as sudden and slashing surgery." The notion is well expressed by [Chesterton's Fence](https://www.lesswrong.com/tag/chesterton-s-fence), "the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood".
 
-Human culture has evolved over many centuries, and as such is the product of many, many generations of accumulated knowledge. That is a treasure which we should safeguard (cf. Tanner Greer's [Tradition Is Smarter than You Are](https://scholars-stage.org/tradition-is-smarter-than-you-are/)). But instead (the conservative may think) non-conservatives are dragging that treasure of norms, institutions and practices through the mud first chance that they get, proposing reforms that are obviously incompatible with human nature and culture and thoughtlessly giving up traditions that have served us well over the years.
+Human culture has evolved over many centuries, and as such is the product of many, many generations of accumulated knowledge. That is a treasure which we should safeguard (cf. Tanner Greer's [Tradition Is Smarter than You Are](https://scholars-stage.org/tradition-is-smarter-than-you-are/)). But instead (the conservative may think) non-conservatives are dragging that treasure of norms, institutions, and practices through the mud first chance that they get, proposing reforms that are obviously incompatible with human nature and culture, and thoughtlessly giving up traditions that have served us well over the years.
 
-I have read _The Secret of Our Success_ (Henrich 2015) and agree that the cumulative knowledge is important, and that there is often wisdom in norms and practices that we benefit from but are not aware of. The problem with Chesterton's Fence is that the existing state of affairs _is one where change is ever-present_. That is how we got our current norms, institutions and practices in the first place -- through cultural evolution. What's more, growth is accelerating. The faster we accumulate cultural knowledge, the faster our existing norms, institutions and practices are made obsolete.
+I have read _The Secret of Our Success_ (Henrich 2015) and agree that the cumulative knowledge is important, and that there is often wisdom in norms and practices that we benefit from but are not aware of. The problem with Chesterton's Fence is that the existing state of affairs _is one where change is ever-present_. That is how we got our current norms, institutions, and practices in the first place -- through cultural evolution. What's more, growth is accelerating. The faster we accumulate cultural knowledge, the faster our existing norms, institutions, and practices are made obsolete.
 
 That said, it's hard to say whether a society is being too eager with reforms, or too prudent. That is a question of policy. I don't know anything about policy.
 

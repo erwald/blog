@@ -15,7 +15,7 @@ tags: post
 
 ## John
 
-He was born somewhere in England, probably during the reign of Henry VI, or maybe Edward IV – in a time of war, banditry and God, anyway. He would have had a mother and a father. He may have been a King's Scholar at Eton or Coventry. He may have been a canon of this or that parish church. He may have been a husband, brother, father, or not. We don't know much about John Browne, but we know this: he wrote music not like a warrior or like a bandit, but like an angel.
+He was born somewhere in England, probably during the reign of Henry VI, or maybe Edward IV – in a time of war, banditry, and God, anyway. He would have had a mother and a father. He may have been a King's Scholar at Eton or Coventry. He may have been a canon of this or that parish church. He may have been a husband, brother, father, or not. We don't know much about John Browne, but we know this: he wrote music not like a warrior or like a bandit, but like an angel.
 
 ![img]({{ '/img/hero/browne.png' | url }})
 
@@ -34,29 +34,29 @@ to without delay grant those of us<br />
 who are his servants joy.<br />
 </p>
 
-where the final word – _gaudia_ – marks the end of the composition as it's introduced in imitation and then beautifully elaborated in the span of some 12 bars ... This one's different from all other Renaissance polyphony I've heard. It is one of my favourite artworks of any genre, medium, style or era.
+where the final word – _gaudia_ – marks the end of the composition as it's introduced in imitation and then beautifully elaborated in the span of some 12 bars ... This one's different from all other Renaissance polyphony I've heard. It is one of my favorite artworks of any genre, medium, style, or era.
 
 As far as I know, _Stabat iuxta_ has been recorded only once, by the Tallis Scholars on Gimmell Records, but it's an extraordinary recording, maybe perfect.
 
 ## Heinrich
 
-They all agree that she was talented, witty, gracious and beautiful. She was an excellent pianist, though she didn't play for the public. Elisabeth von Stockhausen had every gift except that of health. When she married Heinrich von Herzogenberg in 1868, he must have thanked his lucky stars. But after two decades of happy marriage, she fell ill, having exerted herself nursing her husband back to health from some or other illness.
+They all agree that she was talented, witty, gracious, and beautiful. She was an excellent pianist, though she didn't play for the public. Elisabeth von Stockhausen had every gift except that of health. When she married Heinrich von Herzogenberg in 1868, he must have thanked his lucky stars. But after two decades of happy marriage, she fell ill, having exerted herself nursing her husband back to health from some or other illness.
 
 "My wife's recovery is slower this time than ever before. She has been in bed six weeks, and the doctor cannot convince himself whether this inertia is a good or a bad sign", he wrote in a letter to their friend Johannes Brahms. And a year later, "Her sufferings hurt me more now that I have no hope to keep me up and deceive me. My suffering has given me no time to realise my own position, and, indeed, I have buried myself in work, hoping not to be aroused from it again." By then she had died, aged 44, in Italy.
 
 ![img]({{ '/img/hero/herzogenbergs.png' | url }})
 
-Heinrich von Herzogenberg worked through his grief by making music. He completed a sacred cantata, the _Totenfeier_, a year after Elisabeth's death. It's a fine work, clearly influenced by Bach's cantatas and oratorios, but at the same time plainly Romantic. It's a little uneven, but there are some real highlights: I especially like the introduction, the first recitative and aria for bass (which uses snippets of text from the Book of Psalms, as quoted above) and the third section, which alternates between hushed passages for alto and organ and mournful laments by the chorus and orchestra.
+Heinrich von Herzogenberg worked through his grief by making music. He completed a sacred cantata, the _Totenfeier_, a year after Elisabeth's death. It's a fine work, clearly influenced by Bach's cantatas and oratorios, but at the same time plainly Romantic. It's a little uneven, but there are some real highlights: I especially like the introduction, the first recitative and aria for bass (which uses snippets of text from the Book of Psalms, as quoted above), and the third section, which alternates between hushed passages for alto and organ and mournful laments by the chorus and orchestra.
 
 Herzogenberg's _Totenfeier_ has been recorded for CPO by the Thüringen Philharmonie Gotha with Matthias Beckert conducting.
 
 ## Paul
 
-In photographs his face looks like a statue, pale, stern, though somewhat liquefied by age; he has the hawkish nose, high hairline and pouchy, sorrowful eyes of an ageing philosopher or politician, and looking at him you almost feel you're being deceived: you think, here's a strong face, hard like stone, but then realise it's made of pudding. In life he was a member of Alfred Rosenberg's _Kampfbund für deutsche Kultur_ and vice president of the _Reichsmusikkammer_ (having succeeded Wilhelm Furtwängler after the latter resigned, his relation with party leaders having become unbearable).
+In photographs his face looks like a statue, pale, stern, though somewhat liquefied by age; he has the hawkish nose, high hairline, and pouchy, sorrowful eyes of an aging philosopher or politician, and looking at him you almost feel you're being deceived: you think, here's a strong face, hard like stone, but then realize it's made of pudding. In life he was a member of Alfred Rosenberg's _Kampfbund für deutsche Kultur_ and vice president of the _Reichsmusikkammer_ (having succeeded Wilhelm Furtwängler after the latter resigned, his relation with party leaders having become unbearable).
 
 ![img]({{ '/img/hero/graener.png' | url }})
 
-As Paul Graener benefitted from the Third Reich during his life, so his reputation suffered from it after his death.
+As Paul Graener benefited from the Third Reich during his life, so his reputation suffered from it after his death.
 
 On the one hand, the Nazis' control of the entire cultural sector, and the corollary death of free German culture, stifled music in the Reich.[^1] On the other hand, German music to some extent carried on by sheer momentum, and having been a bona fide Nazi meant obscurity after the war, so you might on that basis expect there to be an obscure gem or two produced by composers of the Third Reich.
 

@@ -8,7 +8,7 @@ lw_link: https://www.lesswrong.com/posts/K3kyo96szJgBDCsGf/utilitarianism-expres
 
 # Utilitarianism Expressed in Julia
 
-I had been looking for a small programming project for learning the basics of [Julia](https://julialang.org/) when I had the idea of modelling a moral system in code. Due to its computational nature, Utilitarianism seemed a likely candidate. Any moral system involves functions in the sense that, given a state of the world and one or more possible actions, it can tell you whether those actions are right or wrong, or which action is better than the others. But Utilitarianism goes beyond that, because it does this by putting numbers on things, aggregating those numbers and mathematically comparing the results. That is probably one reason why it is so popular among programmers.
+I had been looking for a small programming project for learning the basics of [Julia](https://julialang.org/) when I had the idea of modeling a moral system in code. Due to its computational nature, Utilitarianism seemed a likely candidate. Any moral system involves functions in the sense that, given a state of the world and one or more possible actions, it can tell you whether those actions are right or wrong, or which action is better than the others. But Utilitarianism goes beyond that, because it does this by putting numbers on things, aggregating those numbers, and mathematically comparing the results. That is probably one reason why it is so popular among programmers.
 
 Quoting [utilitarianism.net](https://www.utilitarianism.net/) quoting Peter Singer, Utilitarianism says that, "as far as it is within our power, we should bring about a world in which every individual has the highest possible level of wellbeing". There are of course different ways of interpreting and implementing that in practice, and as a result there are many different variants of Utilitarianism. This will become obvious as we are faced with design choices in our implementation.[^1]
 
@@ -46,7 +46,7 @@ So there are a bunch of receptacles living normal lives around the baseline valu
 
 ## Classical Utilitarianism
 
-Now we have to measure how much utility there is in total in a world. Otherwise we cannot compare worlds, and we need to compare worlds in order to compare actions, because each action produces a different world. In **Classical Utilitarianism**, the one of Jeremy Bentham, John Stuart Mill and Henry Sidgwick, we take the sum of the utilities of all the receptacles:
+Now we have to measure how much utility there is in total in a world. Otherwise we cannot compare worlds, and we need to compare worlds in order to compare actions, because each action produces a different world. In **Classical Utilitarianism**, the one of Jeremy Bentham, John Stuart Mill, and Henry Sidgwick, we take the sum of the utilities of all the receptacles:
 
 ```julia
 getutility(world::World) = sum(world)
@@ -266,7 +266,7 @@ histogram(
 
 ![Plot showing utility distributions of choices leading to alternative Repugnant Conclusion.]({{ '/img/utilitarianism_cl_repugnant_conclusion.png' | url }})
 
-Here is another possible weirdness with all the previous versions of Utilitarianism. Say we are faced with the choice of making the worst-off receptacle in the world happier and making the best-off receptacle in the world happier. So we can either remove the agonising suffering of some really wretched soul, or we can put David Guetta on permanent Ecstasy.
+Here is another possible weirdness with all the previous versions of Utilitarianism. Say we are faced with the choice of making the worst-off receptacle in the world happier and making the best-off receptacle in the world happier. So we can either remove the agonizing suffering of some really wretched soul, or we can put David Guetta on permanent Ecstasy.
 
 ```julia
 # assume we get worlds sorted in ascending order.
@@ -387,9 +387,9 @@ Got actions and consequences: [(2, 902.3415834900601), (1, 211.14893530485276)]
 
 I want to be clear in pointing out that utilitarians are aware of and have responded to all these concerns; they have long since [noticed the skulls](https://slatestarcodex.com/2017/04/07/yes-we-have-noticed-the-skulls/). One excellent resource for utilitarian theory is the aforementioned [utilitarianism.net](https://www.utilitarianism.net/). Another good introduction is reading the Stanford Encyclopedia of Philosophy's articles on [consequentialism](https://plato.stanford.edu/entries/consequentialism/) and [the history of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/).
 
-Further variants of Utilitarianism include actual Egalitarian Utilitarianism, Negative Utilitarianism, Critical-Range Utilitarianism and Rule Utilitarianism, which does not alter the utility function but instead says that we should not choose the action that causes the greatest aggregate utility, but act according to the general rule that on average causes the greatest aggregate utility. Those are just a taste. There are many more distinctions cutting across various axes of Utilitarianism. Utilitarianism is not a church, it is a bazaar. I may visit it again in future, if I feel up for it.
+Further variants of Utilitarianism include actual Egalitarian Utilitarianism, Negative Utilitarianism, Critical-Range Utilitarianism, and Rule Utilitarianism, which does not alter the utility function but instead says that we should not choose the action that causes the greatest aggregate utility, but act according to the general rule that on average causes the greatest aggregate utility. Those are just a taste. There are many more distinctions cutting across various axes of Utilitarianism. Utilitarianism is not a church, it is a bazaar. I may visit it again in future, if I feel up for it.
 
-[^1]: In fact, I was surprised at how useful this exercise was in revealing all the decisions you make when constructing a moral system; when doing so by thinking, discussing or writing alone, it is easy to let assumptions pass by unnoticed and unscrutinised.
+[^1]: In fact, I was surprised at how useful this exercise was in revealing all the decisions you make when constructing a moral system; when doing so by thinking, discussing, or writing alone, it is easy to let assumptions pass by unnoticed and unscrutinized.
 [^2]: I have scrubbed the plotting code of some noisy details, which is why the plots generated by the code examples are not as polished as those shown in the images. Forgive me.
 [^3]: Parfit, D. (1984). _Reasons and persons_. OUP Oxford.
 [^4]: Huemer, M. (2008). In defence of repugnance. _Mind_, _117_(468), 899-933.

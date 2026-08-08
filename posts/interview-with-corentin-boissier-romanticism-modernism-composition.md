@@ -23,7 +23,7 @@ ERICH: What is it that you love about Romantic music?
 
 CORENTIN: Romantic music, in the broad sense of this term, is the culmination of centuries of evolution and thousands of masterworks that sought to convey the maximum amount of emotion to the listener in the clearest and most expressive language possible. I deeply believe in the humanistic nature of art and especially classical music. Beethoven said that music must go from the heart of the composer to the heart of the listener. Until the first half of the 20th century, this motto was understood and shared by everyone. But from the 1950s onwards, our Occidental societies have turned away from this philosophy.
 
-ERICH: You have collected and shared a [list](https://www.scribd.com/document/495012993/Gallery-of-my-76-Favorite-Romantic-and-Post-Romantic-Composers) of 76 of your favourite Romantic and post-Romantic composers.
+ERICH: You have collected and shared a [list](https://www.scribd.com/document/495012993/Gallery-of-my-76-Favorite-Romantic-and-Post-Romantic-Composers) of 76 of your favorite Romantic and post-Romantic composers.
 
 CORENTIN: I've had the chance to be trained by my father who is a seasoned music lover. Musical pleasure was always the basis of my formation. When I was very young, I listened to a great number of composers and I learned to familiarise myself with their styles. I have always had an insatiable curiosity about classical music and I think I can say that all styles have brought me something. At 18 I established this "Gallery of My 76 Favorite Composers" as a tribute to all these composers who had brought me so much emotion. Since many of them are little-known, I wanted to show them to those who did not have the same opportunity as I did and who do not know where to go to discover new music that they will like.
 
@@ -33,7 +33,7 @@ CORENTIN: I do not think so. Of course I have more affinity with certain compose
 
 ## Modernism
 
-ERICH: I think it's tempting to look at Western art music as this progression towards increasing chromaticism and dissonance and bigger, looser forms, where Romanticism and especially late-Romantic music was a final intensification and the Second Viennese School the logical endpoint. Do you think atonality was inevitable? Could Western art music have taken an alternative path?
+ERICH: I think it's tempting to look at Western art music as this progression toward increasing chromaticism and dissonance and bigger, looser forms, where Romanticism and especially late-Romantic music was a final intensification and the Second Viennese School the logical endpoint. Do you think atonality was inevitable? Could Western art music have taken an alternative path?
 
 CORENTIN: Always wanting to experiment further, to move forward, is part of human nature. The use of new chords and more and more complex rhythms in order to express as closely as possible the spirit of the new times has led to the dissolution of tonality. As long as it remained natural, this evolution produced masterworks in which tradition and novelty coexist in infinitely variable percentages. The dosage was sometimes explosive, sometimes tousling, but often successful.
 
@@ -55,7 +55,7 @@ ERICH: Both of your piano concertos in the Toccata Classics release are inspired
 
 CORENTIN: Indeed, film music has always been able (and required) to adapt to its time. It has always been conceived to be at the service of the film it serves and of the audience for whom it was intended. This is its primary characteristic but, in this, film music does not fundamentally differ from classical music in the broad sense of the term. Bach was at the service of his employers: he wrote for strictly timed religious services and had to satisfy scrupulous parishioners. The more baroque and classical music have integrated into their society, the better they have blossomed. Both classical and film music have always had to be adapted to the constraints of time and society.
 
-ERICH: In your essay "Living Music and the Values of the Past" you write that a young composer should familiarise themself with many styles "in order to arrive at his or her own style". I always wondered, is a composer's style entirely downstream from their taste? By that I mean, all these preferences that a composer has – the kinds of harmonies, melodies, rhythms, forms, moods and so on that they prefer over other kinds – is that their style?
+ERICH: In your essay "Living Music and the Values of the Past" you write that a young composer should familiarize themself with many styles "in order to arrive at his or her own style". I always wondered, is a composer's style entirely downstream from their taste? By that I mean, all these preferences that a composer has – the kinds of harmonies, melodies, rhythms, forms, moods, and so on that they prefer over other kinds – is that their style?
 
 CORENTIN: It seems to me that it is essential for an artist to try his or her hand at various styles before forging one with which he or she will make a career. I have doubts about anyone who immediately opts for a specific and exclusive style. Most people want to see it as proof of his or her personality; but one can also see there his or her lack of capacity to renew him- or herself.
 

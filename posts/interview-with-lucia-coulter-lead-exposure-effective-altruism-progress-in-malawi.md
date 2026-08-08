@@ -12,7 +12,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/9zBnN5LEcRALFYWg3/interview-
 
 ## Background
 
-Lead, the most abundant of heavy metals, has been used by humans for thousands of years; there are records of lead poisoning in the ancient world, where it was used in water pipes and earthenware vessels.[^1] Still today, lead exposure is a significant global problem, especially among poorer people in the developed world and in the developing world generally.[^2] Even exposure to small amounts of lead can have significant and often irreversible health effects, especially in children, including impaired cognition, hyperactivity, cardiovascular disease and so on.[^3][^4][^5] Attina & Trasande estimates the yearly cost of lead exposure in low- and middle-income countries to be nearly one trillion dollars, well over one per cent of world GDP when the study was made.[^6] One of the main sources of lead exposure in children today is lead-based paint.[^7]
+Lead, the most abundant of heavy metals, has been used by humans for thousands of years; there are records of lead poisoning in the ancient world, where it was used in water pipes and earthenware vessels.[^1] Still today, lead exposure is a significant global problem, especially among poorer people in the developed world and in the developing world generally.[^2] Even exposure to small amounts of lead can have significant and often irreversible health effects, especially in children, including impaired cognition, hyperactivity, cardiovascular disease, and so on.[^3][^4][^5] Attina & Trasande estimates the yearly cost of lead exposure in low- and middle-income countries to be nearly one trillion dollars, well over one percent of world GDP when the study was made.[^6] One of the main sources of lead exposure in children today is lead-based paint.[^7]
 
 Lucia Coulter is a co-founder and co-director of the [Lead Exposure Elimination Project](https://leadelimination.org/) (LEEP), a non-profit working to reduce lead exposure via lead-based paint. Lucia was kind enough to answer some questions of mine about lead exposure generally and LEEP's work specifically; these answers are reproduced with only very minor edits below. (As a declaration of interest, I should note that I have [donated](https://leadelimination.org/donate/) a small sum to LEEP, though only after Lucia had sent me her answers.)
 
@@ -58,7 +58,7 @@ LUCIA: Firstly they provided a two-month full-time incubation program, which I w
 
 ## LEEP's Progress
 
-ERICH: Besides LEEP, there are also a few other organisations working in this space, notably [Pure Earth](https://www.pureearth.org/global-lead-program/). How does your work differ from theirs?
+ERICH: Besides LEEP, there are also a few other organizations working in this space, notably [Pure Earth](https://www.pureearth.org/global-lead-program/). How does your work differ from theirs?
 
 LUCIA: Pure Earth focuses on other sources of lead exposure, for example toxic hotspots caused by informal lead-acid battery recycling and lead-contaminated spices. We currently focus on lead paint, but would be open to targeting other sources of lead exposure if the evidence is strong enough for the sources being important and tractable to address.
 
@@ -72,7 +72,7 @@ We have since run a paint sampling study in Botswana, which showed that househol
 
 ![Map of countries with lead paint laws, 2020. Source is the United Nations Environment Programme's 2020 report on lead-based paint.]({{ '/img/countries_with_lead_paint_laws_2020.png' | url }})
 
-ERICH: So it sounds as if you've begun picking the low-hanging fruit by going to countries that are likely to have lots of lead-based paint, that you think are willing to listen and where no one else is doing similar work. Do you have any sense of whether it'll be possible (or desirable – I guess at some point lead-based paint will be all but gone) to scale your operations up?
+ERICH: So it sounds as if you've begun picking the low-hanging fruit by going to countries that are likely to have lots of lead-based paint, that you think are willing to listen, and where no one else is doing similar work. Do you have any sense of whether it'll be possible (or desirable – I guess at some point lead-based paint will be all but gone) to scale your operations up?
 
 LUCIA: Yes, that's right. In year two we plan to expand our operations to around three further countries with the aim of testing the effectiveness of our approach more quickly and improving it through iteration. Then, if we have sufficient evidence to suggest that what we're doing is impactful and cost-effective we'd like to scale up rapidly. There are still over 76 countries yet to regulate lead paint, and many others that are yet to effectively implement their regulation. Most of these are likely to have a lot of lead paint on the market. Some do look like "low-hanging fruit", but others are likely to be less tractable due to less receptive or unstable governments. The more quickly we can reduce the amount of lead paint being used in as many countries as possible the better, partly because in many potential target countries there are currently rapid increases in paint use and population growth.
 

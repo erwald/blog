@@ -14,7 +14,7 @@ Edit 2022-10-22: I no longer use this program; I made the switch to <a href="htt
 
 </div>
 
-There are of course hundreds of newsletter services out there, the lich queen of them being MailChimp, which owns over half of the market share. But maybe you don't want to use proprietary software, or maybe you don't want to depend on an organisation that can [ban swathes of its users](https://www.inc.com/sonya-mann/mailchimp-icos.html) because of the (seemingly innocent) content they circulate. The alternative then is Mailtrain and other free and open source options. But these need to be self-hosted, have fairly involved installation procedures and are weighed down by far more features than people like myself ever need.
+There are of course hundreds of newsletter services out there, the lich queen of them being MailChimp, which owns over half of the market share. But maybe you don't want to use proprietary software, or maybe you don't want to depend on an organization that can [ban swathes of its users](https://www.inc.com/sonya-mann/mailchimp-icos.html) because of the (seemingly innocent) content they circulate. The alternative then is Mailtrain and other free and open source options. But these need to be self-hosted, have fairly involved installation procedures, and are weighed down by far more features than people like myself ever need.
 
 Me, I just wanted two things: for people to be able to subscribe to my newsletter and to be able to send emails to my subscribers. That's it. So I thought it might be fun to implement a simple command-line utility that accomplishes those two things. The result is `nwsl` (pronounced "newsletter").
 
@@ -111,12 +111,12 @@ eleventyExcludeFromCollections: true
 
 {% endraw %}
 
-This is the Nunjucks template used in generating the HTML files I feed into `nwsl send-email`. The `formatForNewsletter` filter adjusts the post content for displaying it in emails, e.g. by replacing images with caption texts, removing anchor links and adding a ref parameter to all links pointing to my blog. So, having put a new post in my blog's directory, I can straightaway send it out to my subscribers with a simple terminal command. That's even easier than publishing it on the web, which requires me to commit and push!
+This is the Nunjucks template used in generating the HTML files I feed into `nwsl send-email`. The `formatForNewsletter` filter adjusts the post content for displaying it in emails, e.g. by replacing images with caption texts, removing anchor links, and adding a ref parameter to all links pointing to my blog. So, having put a new post in my blog's directory, I can straightaway send it out to my subscribers with a simple terminal command. That's even easier than publishing it on the web, which requires me to commit and push!
 
-There are, however, some limitations. For instance, subscribing is somewhat harder than with other services, it doesn't allow for segmenting subscribers into separate mailing lists and it hasn't been tested at scale. There are many features that want implementing, optimisations that want doing and documentation that wants writing. In short, this is an early alpha version. But for the core use case it works.
+There are, however, some limitations. For instance, subscribing is somewhat harder than with other services, it doesn't allow for segmenting subscribers into separate mailing lists, and it hasn't been tested at scale. There are many features that want implementing, optimizations that want doing, and documentation that wants writing. In short, this is an early alpha version. But for the core use case it works.
 
 If you're feeling brave, you can subscribe to this blog. All you need to do is send an email with "subscribe" in the subject line to `newsletter AT erichgrunewald DOT com`. (It's also possible to subscribe via [RSS](https://www.erichgrunewald.com/feed.xml).)
 
 You can read the Python source code for `nwsl` [here](https://github.com/erwald/nwsl). It's licensed under GNU GPLv3.
 
-[^1]: This is an _O(n)_ operation. If I ever get enough subscribers that this starts becoming slow, I'll consider optimising it, maybe by implementing some sort of local cache.
+[^1]: This is an _O(n)_ operation. If I ever get enough subscribers that this starts becoming slow, I'll consider optimizing it, maybe by implementing some sort of local cache.
