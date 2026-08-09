@@ -28,6 +28,10 @@ npx @11ty/eleventy
 # Convert hero images in img_original/hero/ to dithered PNGs in img/hero/
 # (requires ImageMagick; --dry-run to preview, --convert-all to redo existing)
 ./dither_convert.sh
+
+# Or dither arbitrary images in place (one 660px <name>_dithered.png each,
+# written beside the source); leaves the repo's img folders untouched
+./dither_convert.sh ~/Downloads/*.jpg
 ```
 
 ## Architecture
