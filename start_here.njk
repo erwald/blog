@@ -12,7 +12,7 @@ title: Start Here
         <div class="post-abbrev-featured-body">
             <div class="post-abbrev-featured-img"><img src="{{ post.image | url }}"></div>
             <div class="post-abbrev-link">{{ loop.index }}. <a href="{{ post.url | url }}">{{ post.data.title | markdown | safe }}</a></div>
-            <div class="post-abbrev-read-time">{{ post.data.state_block.src | emojiReadTime }}</div>
+            <div class="post-abbrev-read-time">{{ post.rawInput | emojiReadTime }}</div>
         </div>
     {% endfor %}
 </div>

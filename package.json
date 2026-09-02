@@ -3,19 +3,20 @@
   "version": "1.0.0",
   "description": "My personal blog.",
   "main": ".eleventy.js",
+  "type": "module",
   "dependencies": {},
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.1",
-    "@11ty/eleventy-plugin-rss": "^1.0.9",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
+    "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy-plugin-rss": "^3.0.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
     "@11tyrocks/eleventy-plugin-emoji-readtime": "^1.0.1",
-    "@gerhobbelt/markdown-it": "^12.0.2-49",
-    "@gerhobbelt/markdown-it-anchor": "^6.0.0-23",
-    "@gerhobbelt/markdown-it-footnote": "3.0.2-4",
-    "@gerhobbelt/markdown-it-sub": "^1.0.1-5",
-    "@gerhobbelt/markdown-it-sup": "^1.0.1-4",
-    "luxon": "^1.25.0",
-    "prettier": "^2.2.1"
+    "luxon": "^3.7.2",
+    "markdown-it": "^15.0.1",
+    "markdown-it-anchor": "^9.2.1",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-sub": "^2.0.0",
+    "markdown-it-sup": "^2.0.0",
+    "prettier": "^3.9.6"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

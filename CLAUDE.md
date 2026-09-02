@@ -9,7 +9,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Erich Grunewald's personal blog ([erichgrunewald.com](https://www.erichgrunewald.com/)), a static site built with Eleventy (11ty) and deployed on Netlify (`_redirects` holds redirect rules). There is no build/lint/test tooling beyond Eleventy itself; Prettier (v2) is available for formatting JS.
+Erich Grunewald's personal blog ([erichgrunewald.com](https://www.erichgrunewald.com/)), a static site built with Eleventy (11ty) and deployed on Netlify (`_redirects` holds redirect rules). There is no build/lint/test tooling beyond Eleventy itself; Prettier (v3) is available for formatting JS.
 
 A mirror of the blog, mainly for making it easier to discover and subscribe, [exists on Substack](https://erichgrunewald.substack.com/).
 

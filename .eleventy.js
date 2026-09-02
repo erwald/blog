@@ -1,16 +1,16 @@
-const { DateTime } = require("luxon");
-const markdownIt = require("@gerhobbelt/markdown-it");
-const markdownItAnchor = require("@gerhobbelt/markdown-it-anchor");
-const markdownItFootnote = require("@gerhobbelt/markdown-it-footnote");
-const markdownItSup = require("@gerhobbelt/markdown-it-sup");
-const markdownItSub = require("@gerhobbelt/markdown-it-sub");
-const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-const emojiReadTime = require("@11tyrocks/eleventy-plugin-emoji-readtime");
+import { DateTime } from "luxon";
+import markdownIt from "markdown-it";
+import markdownItAnchor from "markdown-it-anchor";
+import markdownItFootnote from "markdown-it-footnote";
+import markdownItSup from "markdown-it-sup";
+import markdownItSub from "markdown-it-sub";
+import syntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
+import pluginRss from "@11ty/eleventy-plugin-rss";
+import emojiReadTime from "@11tyrocks/eleventy-plugin-emoji-readtime";
 
 const removeTitle = (str) => str.replace(/<h\d.+<\/h\d>\s+/, "");
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
     const md = new markdownIt({
         html: true,
     });
@@ -54,13 +54,15 @@ module.exports = function (eleventyConfig) {
         typographer: true,
     })
         .use(markdownItAnchor, {
-            permalink: true,
-            permalinkClass: "direct-link",
-            permalinkSymbol: "#",
+            permalink: markdownItAnchor.permalink.linkInsideHeader({
+                class: "direct-link",
+                symbol: "#",
+            }),
         })
         .use(markdownItFootnote)
         .use(markdownItSup)
         .use(markdownItSub);
+    markdownLibrary.linkify.set({ fuzzyLink: true });
 
     markdownLibrary.renderer.rules.footnote_block_open = () =>
         "<h2 id='footnotes'>Footnotes <a class='direct-link' href='#footnotes'>#</a></h2>\n" +
@@ -68,6 +70,7 @@ module.exports = function (eleventyConfig) {
     markdownLibrary.renderer.rules.footnote_block_close = () => "</ol>\n";
 
     eleventyConfig.setLibrary("md", markdownLibrary);
+    eleventyConfig.amendLibrary("md", (mdLib) => mdLib.enable("code"));
 
     // add filter for removing title header from content.
     eleventyConfig.addNunjucksFilter("removeTitle", (str) => removeTitle(str));
@@ -96,7 +99,7 @@ module.exports = function (eleventyConfig) {
 
     // add filter for creating "start here" collection
     eleventyConfig.addFilter("featuredPosts", (posts) => {
-        postsAndImages = [
+        const postsAndImages = [
             {
                 slug: "against-llm-reductionism",
                 image: "/img/hero/datacenter_thumbnail.png",
