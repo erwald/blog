@@ -34,7 +34,7 @@ To me, using somebody's data without their informed consent is wrong.[^6] The wa
 
 If another person's interests matter to you, you ask them before doing something with them or to them of which they might disapprove. That is what treating a person with respect means. By their conduct, people and organizations who collect and use our data without our informed consent show that they don't care about us. They have no respect for us. We are only unwitting value producers or something like that.
 
-Needless to say, this website – my blog – does not store any information about you, the reader. (Not unless you are [Tom Cruise]({{ '/posts/the-sadness-of-tom-cruise/' | url }}), at least, but even with you, Tom, we are only talking about publicly available information.) It does track page views. But it does this without storing any user data, without using cookies, and without being able to recognize the same user on different days. This would have been the case even if GDPR had never existed.
+Needless to say, this website – my blog – does not store any information about you, the reader. It does track page views. But it does this without storing any user data, without using cookies, and without being able to recognize the same user on different days. This would have been the case even if GDPR had never existed.
 
 [^1]: This is from [GDPR.eu](https://gdpr.eu/what-is-gdpr), a project funded but not run by the European Union.
 [^2]: People have [pointed out](https://archive.md/VaS0E) that GDPR has not been strictly and forcefully enforced, so it's possible that businesses who choose not to do anything about GDPR don't really get punished for it. That would be pretty bad, because it means bad actors gain a competitive advantage.
