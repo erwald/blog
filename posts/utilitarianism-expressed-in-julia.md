@@ -242,17 +242,18 @@ bar(result)
 Once again it depends on the configuration of the particular receptacles we start the experiment with, but on average Critical-Level Utilitarianism prefers killing the one to save the many, and likes the sadistic action the least. But had we set a higher critical level, say at two, it *would* sometimes recommend killing everyone. That is because, with a critical level at two, we consider any receptacle with a utility below two to have a life not worth living, even if they themselves do not do so. That leads to some pretty weird conclusions, for instance that it is better to add one truly miserable life, full of torture and agony, than it is to add one thousand lives only barely below the critical threshold.[^7]
 
 ```julia
+getutility_cl2(world::World) = sum(world .- 2)
 addmiserablelife = w -> [w;-2]
 addmanybelowaveragelives = w -> [w;map(_ -> genreceptacle() - 0.1, zeros(1000))]
 ```
 
-Running the simulation we see that Critical-Level Utilitarianism (at our chosen level) recommends adding the truly miserable life:
+Running the simulation with the critical level at two, we see that Critical-Level Utilitarianism recommends adding the truly miserable life:
 
 ```julia
 julia> act(
-    genworld(), [addmiserablelife, addmanybelowaveragelives], getutility_cl)
-Got actions and consequences: [(1, 108.01495726536602), (2, 91.56568171210701)]
-(1, 108.01495726536602)
+    genworld(), [addmiserablelife, addmanybelowaveragelives], getutility_cl2)
+Got actions and consequences: [(1, -8.74156560676612), (2, -137.2107968430313)]
+(1, -8.74156560676612)
 ```
 
 We can also plot the distributions:
@@ -288,8 +289,8 @@ Got actions and consequences: [(1, 2.2018468020290545), (2, 2.2018468020290545)]
 
 julia> act(
     sort(genworld()), [makeworstoffhappier, makebestoffhappier], getutility_cl)
-Got actions and consequences: [(1, 23.5264454626259), (2, 23.5264454626259)]
-(1, 23.5264454626259)
+Got actions and consequences: [(1, 106.01960931050579), (2, 106.01960931050579)]
+(1, 106.01960931050579)
 ```
 
 are equally good, whereas most people would say that improving the situation of the wretched one is more desirable.

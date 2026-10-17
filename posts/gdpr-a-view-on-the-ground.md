@@ -40,7 +40,7 @@ Needless to say, this website -- my blog -- does not store any information about
 
 [^2]:	 People have [pointed out](https://archive.md/VaS0E) that GDPR has not been strictly and forcefully enforced, so it's possible that businesses who choose not to do anything about GDPR don't really get punished for it. That would be pretty bad, because it means bad actors gain a competitive advantage.
 
-[^3]:	 My source here is Sue Halpern's [article](https://archive.md/20210512042557/https://www.nybooks.com/articles/2018/09/27/privacy-technology-known-known/). I wasn't able to find the original source. I am not sure exactly what this means, but I assume the data was previously stored in the EU, and is now stored in the US.
+[^3]:	 My source here is Sue Halpern's [article](https://archive.md/20210512042557/https://www.nybooks.com/articles/2018/09/27/privacy-technology-known-known/). The original source seems to be a [Reuters report](https://www.reuters.com/article/us-facebook-privacy-eu-exclusive/exclusive-facebook-to-put-1-5-billion-users-out-of-reach-of-new-eu-privacy-law-idUSKBN1HQ00P) from April 2018, which says that Facebook changed its terms of service so that users outside the US, Canada and the EU, who had had an agreement with Facebook Ireland, would now have one with Facebook Inc. in California, putting them out of reach of GDPR. This would have changed the legal responsibility for those users' data, without necessarily moving the data itself to a different location or jurisdiction.
 
 [^4]:	 ibid.
 

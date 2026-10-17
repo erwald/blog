@@ -57,7 +57,7 @@ But he does have many more artful ways of doing it, too. One is through **anomal
 
 > There are vocal qualities peculiar to men, and vocal qualities peculiar to beasts; and it is terrible to hear the one when the source should yield the other.[^15]
 
--- the same cult-members which the narrator (and it may be worth pointing out here that Lovecraft had deep-seated prejudices) describes as "mongrel" and of "mixed blood", highlighting their ambiguous nature. Of which origin are the cultists? Why are these people making sounds like animals? The young artist claims that R'lyeh, the sunken, "nightmare corpse-city" in which Cthulhu rests, in his dream-visions, had a geometry that was "all wrong". This is later confirmed by the surviving seaman, who reports that the same city had a geometry that was "abnormal, non-Euclidean, and loathsomely redolent of spheres and dimensions apart from ours". And so on.
+-- the same cult-members which the narrator (and it may be worth pointing out here that Lovecraft had deep-seated prejudices) describes as "mongrel" and of "mixed blood", highlighting their ambiguous nature. Of which origin are the cultists? Why are these people making sounds like animals? The young artist claims that R'lyeh, the sunken, "nightmare corpse-city" in which Cthulhu rests, in his dream-visions, had a geometry that was "all wrong" -- "abnormal, non-Euclidean, and loathsomely redolent of spheres and dimensions apart from ours". This is later confirmed by the surviving seaman, who speaks of "vast angles" and of an angle "which was acute, but behaved as if it were obtuse". And so on.
 
 ![Illustration by Dan Hillier from the Folio Society edition of The Call of Cthulhu & Other Weird Stories.]({{ '/img/hero/call_of_cthulhu_2.png' | url }})
 

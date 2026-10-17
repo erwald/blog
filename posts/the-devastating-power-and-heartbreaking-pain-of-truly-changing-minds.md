@@ -149,7 +149,7 @@ She compares that last point to [Kuhnian paradigm shifts](https://en.wikipedia.o
 
 Here are some other things that seem to help Latter-day Saints change their minds:
 
-- Reading about issues in official or Church-friendly sources like the [Gospel Topics essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/essays?lang=eng) or [FAIR](https://fairlatterdaysaints.org/); this avoids any tendency to dismiss the evidence as "anti-Mormon", which Latter-day Saints are honest about calling most things that seem vaguely critical of the Church or discuss Church history in a way that isn't "faith-promoting".
+- Reading about issues in official or Church-friendly sources like the [Gospel Topics essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/essays?lang=eng) or [FAIR](https://fairlatterdaysaints.org/); this avoids any tendency to dismiss the evidence as "anti-Mormon", which Latter-day Saints are quick to call most things that seem vaguely critical of the Church or discuss Church history in a way that isn't "faith-promoting".
 - Finding people -- family, friends, acquaintances, support groups, online communities -- who have gone through the same thing; this both shows that things will get better and validates the doubter, reassuring them that they are not crazy after all.
 - Disclosing doubts to close ones; this usually eases the pressure of one strong force preventing honest inquiry, namely the fear of what will happen to a marriage or various other close relationships; much care is needed when broaching this subject but staying quiet about it seems worse.
 
@@ -171,7 +171,7 @@ Here is a former [Relief Society](https://www.churchofjesuschrist.org/study/manu
 > 
 > And I went outside and it's raining and I can't see the stars [...] but then I saw the mountains and [I think], "Okay, the mountains are real, I've been in them, I've touched them, the mountains are real, therefore I am real."
 
-Twice a year the Church of Jesus Christ of Latter-day Saints holds its General Conference in Salt Lake City, Utah. This month was the first time it was held in person since the pandemic started. Prophet Russell M. Nelson [spoke](https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson?lang=eng) to the faithful:
+Twice a year the Church of Jesus Christ of Latter-day Saints holds its General Conference in Salt Lake City, Utah. This month it was held in the Conference Center's main hall for the first time since the pandemic started (though still closed to the public). Prophet Russell M. Nelson [spoke](https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson?lang=eng) to the faithful:
 
 > Contrary to the doubts of some, there really *is* such a thing as right and wrong. There really *is* absolute truth -- eternal truth. One of the plagues of our day is that too few people know where to turn for truth. I can assure you that what you will hear today and tomorrow constitutes pure truth.
 

@@ -7,7 +7,7 @@ tags: post
 
 # Some Books that Have Influenced Me during the Past Decade
 
-> Number fifteen *Tamarisk Row*, green of a shade that has never been seen in Australia, orange of shadeless plains and pink of naked skin, for the hope of discovering something rare and enduring that sustains a man and his wife at the centre of what seems to be no more than stubborn plains where they spend long uneventful years waiting for the afternoon when they and the whole of a watching city see in the last few strides of a race what it was all for.[^1]
+> Number fifteen *Tamarisk Row*, green of a shade that has never been seen in Australia, orange of shadeless plains and pink of naked skin, for the hope of discovering something rare and enduring that sustains a man and his wife at the centre of what seem to be no more than stubborn plains where they spend long uneventful years waiting for the afternoon when they and the whole of a watching city see in the last few strides of a race what it was all for.[^1]
 > 
 > -- Gerald Murnane
 
