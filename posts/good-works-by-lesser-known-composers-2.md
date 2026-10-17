@@ -36,7 +36,7 @@ who are his servants joy.<br />
 
 where the final word -- *gaudia* -- marks the end of the composition as it's introduced in imitation and then beautifully elaborated in the span of some 12 bars ... This one's different from all other Renaissance polyphony I've heard. It is one of my favorite artworks of any genre, medium, style, or era.
 
-As far as I know, *Stabat iuxta* has been recorded only once, by the Tallis Scholars on Gimmell Records, but it's an extraordinary recording, maybe perfect.
+As far as I know, *Stabat iuxta* has been recorded only once, by the Tallis Scholars on Gimell Records, but it's an extraordinary recording, maybe perfect.
 
 ## Heinrich
 
@@ -75,7 +75,7 @@ One year after the dour-looking German published his tone poem about Pan, an Eng
 
 ![img]({{ '/img/hero/gipps.png' | url }})
 
-*Ambarvalia* is an orchestral piece, very Anglo-Saxon, recalling English greats like Frederick Delius and (again) Ralph Vaughan Williams (who was also Gipp's teacher for a period of time). The main draw and focal point is a serene, very memorable main theme. From there the piece progresses without straying very far in style or mood, though a contrasting middle section is a bit more mysterious and understated. The title is a reference to a [pagan Roman fertility rite](https://en.wikipedia.org/wiki/Ambarvalia). It's a very good composition.
+*Ambarvalia* is an orchestral piece, very Anglo-Saxon, recalling English greats like Frederick Delius and (again) Ralph Vaughan Williams (who was also Gipps's teacher for a period of time). The main draw and focal point is a serene, very memorable main theme. From there the piece progresses without straying very far in style or mood, though a contrasting middle section is a bit more mysterious and understated. The title is a reference to a [pagan Roman fertility rite](https://en.wikipedia.org/wiki/Ambarvalia). It's a very good composition.
 
 *Ambarvalia* was recorded for the excellent SOMM Recordings a few years ago by the Royal Liverpool Philharmonic Orchestra with Charles Peebles.
 

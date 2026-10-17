@@ -41,4 +41,4 @@ As I write this, I am listening to the new recording of Rosner's opera *The Chro
 
 [^2]:	 ibid.
 
-[^3]:	 Nichols, J. F. J. W. (1997). *Composers on music: Eight centuries of writings*. UPNE.
+[^3]:	 Fisk, J. (Ed.) (1997). *Composers on music: Eight centuries of writings*. Northeastern University Press.

@@ -9,7 +9,7 @@ tags: post
 
 Irony is saying one thing while expressing another, often opposite, thing. As Schaeffer (1975) observes:
 
-- The ironist make truth appear in errors, or in erroneous language.
+- The ironist makes truth appear in errors, or in erroneous language.
 - The ironist chooses to temporarily partake in an error.
 - Irony is similar to metaphor in that there's a literal meaning and an intended meaning.
 
@@ -27,7 +27,7 @@ There are many little things going on in Arnheim's mind:
 
 - He feels that his wealth does not make him important. That may seem modest, until you realize that he thinks he is important independently of his wealth -- that it is *he who lends importance to his wealth*.
 - He feels that it's okay to abolish private property. That may seem selfless, until you realize that he expects this to happen after his death.
-- He feels that he must be a man of compassion and humility if principled socialists visit him. That may seem true, until you realize that those principled socialist may not be as principled or as socialist as it seems at first.
+- He feels that he must be a man of compassion and humility if principled socialists visit him. That may seem true, until you realize that those principled socialists may not be as principled or as socialist as it seems at first.
 
 That is, Arnheim, who is rich, but feels that this is something that needs to be defended, conveniently finds that it is acceptable to be rich, and that his outstanding moral character is not in conflict with his wealth. But while this is what he says, you sense that he is actually giving expression to the opposite view.
 

@@ -57,7 +57,7 @@ Finally we are ready to look at the code. We begin by declaring our input types:
 data {
   int<lower=0> P; // number of distinct populations
   int<lower=0> R; // number of distinct regions
-  int<lower=0> M; // size of augumented data set
+  int<lower=0> M; // size of augmented data set
   int<lower=0> T; // number of sampling occasions
   int<lower=0, upper=1> y[P, R, M, T]; // capture-history matrix
 }
@@ -153,7 +153,7 @@ And finally we use the estimated inclusion probability, `omega`, to also estimat
 ```stan
 generated quantities {
   // because stan does not support vectors where each element has a different
-  // upper/lower constaint, we need to calculate the population size as scaled
+  // upper/lower constraint, we need to calculate the population size as scaled
   // to (0, 1) and then rescale it.
   //
   // => https://mc-stan.org/docs/2_18/stan-users-guide/vectors-with-varying-bounds.html
@@ -198,7 +198,7 @@ The model produces results basically identical to the much simpler Lincoln-Peter
 
 This is not a novel use of the capture-recapture method. It has previously been employed to estimate the number of Gulf War veterans who have ALS[^2]; opioid use in Massachusetts[^3]; software defects[^4]; traffic injuries and deaths in Karachi[^5]; and, indeed, killings in the internal conflict in Peru[^6][^7][^8][^9] among much else. This is in addition to its extensive use in population ecology. It is, in other words, an established method, to which I am not sure whether partially pooling faction- and region-level data actually adds anything; in future, I might use Hiroki Itô's original model to make estimations on the same data and compare the results with my extended model. But even if my extension is not an improvement on the original, simpler model, doing this exercise has taught me a lot about population ecology, R, Stan, and good Bayesian modeling workflows, which was the goal in any case.
 
-I will end by observing that the model makes a number of assumptions. One of those assumptions is that the numbers of individuals whose names appear in both the official records and the census need to be large enough that the estimates are not noisy. The model will not capture uncertainty correctly if that is the case -- it will be fairly confident yet utterly wrong. This will be the subject of the next and final post in this series.
+I will end by observing that the model makes a number of assumptions. One of those assumptions is that the numbers of individuals whose names appear in both the official records and the census need to be large enough that the estimates are not noisy. The model will not capture uncertainty correctly if that is not the case -- it will be fairly confident yet utterly wrong. This will be the subject of the next and final post in this series.
 
 You can find the code for the model [here](https://github.com/erwald/capture-recapture-simulations), though it is kind of messy and I am too exhausted with it all to summon the willpower to clean it up.
 
@@ -210,7 +210,7 @@ You can find the code for the model [here](https://github.com/erwald/capture-rec
 
 [^4]:	 Briand, L. C., El Emam, K., Freimut, B. G., & Laitenberger, O. (2000). *A comprehensive evaluation of capture-recapture models for estimating software defect content*. IEEE Transactions on Software Engineering, 26(6), 518--540.
 
-[^5]:	 Razzak, J. (1998). *Estimating deaths and injuries due to road traffic accidents in Karachi, Pakistan, through the capture-recapture method*. International Journal of Epidemiology, 27(5), 866--870.
+[^5]:	 Razzak, J. A., & Luby, S. P. (1998). *Estimating deaths and injuries due to road traffic accidents in Karachi, Pakistan, through the capture-recapture method*. International Journal of Epidemiology, 27(5), 866--870.
 
 [^6]:	 Manrique-Vallier, D., Ball, P., & Sulmont, D. (2019). *Estimating the Number of Fatal Victims of the Peruvian Internal Armed Conflict, 1980-2000: an application of modern multi-list Capture-Recapture techniques*. arXiv preprint arXiv:1906.04763.
 

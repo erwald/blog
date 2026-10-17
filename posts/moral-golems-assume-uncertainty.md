@@ -38,7 +38,7 @@ Probably the more useful idea in the original blog post was that of overfitting 
 
 > Say Eithne has philosophized herself a moral system. Now she comes across an interesting thought experiment. When she applies her moral system to the thought experiment (this is the new context), it produces an outlandish outcome which she cannot possibly accept. Maybe it fails, in the new situation, to judge wanton murder to be wrong. So she adjusts her moral system to account for the new data. It now produces sensible outcomes on both the new example and the old examples that she has tested it against. Neat! But Eithne has also made her system more complex. If she keeps doing that, it may become closely tied to the contexts she has considered and won't transfer well to new contexts.
 
-That was an example of overfitting. Here is one of underfitting. Scott Alexander talks about [crystallised metaphysical heuristics](https://slatestarcodex.com/2018/07/24/value-differences-as-differently-crystallized-metaphysical-heuristics/), where a complicated model for preventing antisocial behavior, to use one of his examples, is distilled into a simple maxim ("avenge wrongdoing") that regular people can use. That seems like a very simple model indeed. In fact, it is so simple that it will underfit -- it will not be able to capture the complexity of the real world: heuristics like "avenge wrongdoing" will under some circumstances recommend seemingly immoral actions. "Do not lie" is another heuristic that serves us pretty well most of the time, but had Suleiman adhered to it when talking to the Ottoman general, he would have done something blameworthy.
+That was an example of overfitting. Here is one of underfitting. Scott Alexander talks about [crystallized metaphysical heuristics](https://slatestarcodex.com/2018/07/24/value-differences-as-differently-crystallized-metaphysical-heuristics/), where a complicated model for preventing antisocial behavior, to use one of his examples, is distilled into a simple maxim ("avenge wrongdoing") that regular people can use. That seems like a very simple model indeed. In fact, it is so simple that it will underfit -- it will not be able to capture the complexity of the real world: heuristics like "avenge wrongdoing" will under some circumstances recommend seemingly immoral actions. "Do not lie" is another heuristic that serves us pretty well most of the time, but had Suleiman adhered to it when talking to the Ottoman general, he would have done something blameworthy.
 
 (I am reminded that Arthur Schopenhauer described pedantry as what happens when people "lack confidence in their own understanding" and, instead of looking at the particular details of their situation, "start out from universal concepts, rules and maxims and seek to hold themselves exactingly to these".[^6] In other words, pedantry is over-reliance on heuristics; compare with the German *Prinzipienreiter*, literally "principle-rider", used to describe a person who pettishly insists on their principles.)
 
@@ -70,7 +70,7 @@ I suppose I should be flattered that the moral golem approach to ethics that I t
 
 [^3]:	 Harman, E. (2015). The irrelevance of moral uncertainty. *Oxford studies in metaethics*, *10*, 53-79.
 
-[^4]:	 MacAskill, M., Bykvist, K., & Ord, T. (2020). *Moral uncertainty* (p. 240). Oxford University Press.
+[^4]:	 MacAskill, W., Bykvist, K., & Ord, T. (2020). *Moral uncertainty* (p. 240). Oxford University Press.
 
 [^5]:	 ibid.
 

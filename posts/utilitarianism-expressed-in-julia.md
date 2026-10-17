@@ -75,7 +75,7 @@ The simplest of actions, doing nothing, is just the identity function:
 donothing(world::World) = world
 ```
 
-Let us test all this. Say you are faced with two options, doing nothing or telling your a friend about a great blog, thereby increasing their lifetime utility by a small amount. We can implement that second action by slightly adding to the utility of the first element of the input world vector. Which action should you choose?
+Let us test all this. Say you are faced with two options, doing nothing or telling a friend about a great blog, thereby increasing their lifetime utility by a small amount. We can implement that second action by slightly adding to the utility of the first element of the input world vector. Which action should you choose?
 
 ```julia
 julia> act(genworld(), [donothing, w -> [(w[1] + 0.1);w[2:end]]])
@@ -125,7 +125,7 @@ it is really clear how the chosen world is a far more miserable one on average t
 
 ![Plot showing utility distributions of choices leading to Repugnant Conclusion.]({{ '/img/utilitarianism_repugnant_conclusion.png' | url }})
 
-(At this point you may be thinking that something here is a little bit weird. What is so special about two, our baseline value? If we had all lived in a world where this action happened, we would have set our baseline to 0.1 and called that "normal". None of us would have taken it to be terrible that so many of us lived such bad lives, because they would all have been average lives. Of course *we* all prefer the world with the average utility of two, because to us those lives with a utility of 0.1 seem so bad as to be basically not worth living. But in fact they are by definition worth living. In other words, perhaps we should not trust our intuitions here. This is one point that Michael Huemer makes in arguing that utilitarians should accept the Repugnant Conclusion.[^4])
+(At this point you may be thinking that something here is a little bit weird. What is so special about two, our baseline value? If we had all lived in a world where this action happened, we would have set our baseline to 0.01 and called that "normal". None of us would have taken it to be terrible that so many of us lived such bad lives, because they would all have been average lives. Of course *we* all prefer the world with the average utility of two, because to us those lives with a utility of 0.01 seem so bad as to be basically not worth living. But in fact they are by definition worth living. In other words, perhaps we should not trust our intuitions here. This is one point that Michael Huemer makes in arguing that utilitarians should accept the Repugnant Conclusion.[^4])
 
 ## Average Utilitarianism
 
@@ -205,7 +205,7 @@ Because of these and other problems, Average Utilitarianism is, so I gather, not
 
 ## Critical-Level Utilitarianism
 
-In Classical Utilitarianism, we said that adding new lives were good if those lives were worth living, in other words if they had a utility above zero. In **Critical-Level Utilitarianism**, we change the threshold (the critical level) from zero to another number.[^6] For example, we could say that adding a new life is good iff it has a utility at or above one. In effect, this means that we are adding a penalty proportional to the number of receptacles there are. Critical-Level Utilitarianism ought to fix our problems with the original Repugnant Conclusion while also not recommending killing receptacles whose lives are only a fraction below average, as does Average Utilitarianism. The implementation is easy:
+In Classical Utilitarianism, we said that adding new lives was good if those lives were worth living, in other words if they had a utility above zero. In **Critical-Level Utilitarianism**, we change the threshold (the critical level) from zero to another number.[^6] For example, we could say that adding a new life is good iff it has a utility at or above one. In effect, this means that we are adding a penalty proportional to the number of receptacles there are. Critical-Level Utilitarianism ought to fix our problems with the original Repugnant Conclusion while also not recommending killing receptacles whose lives are only a fraction below average, as does Average Utilitarianism. The implementation is easy:
 
 ```julia
 getutility_cl(world::World) = sum(world .- 1)
@@ -239,7 +239,7 @@ bar(result)
 
 ![Plot showing results of Trolley Problem simulations (for Critical-Level Utilitarianism).]({{ '/img/utilitarianism_cl_trolley.png' | url }})
 
-Once again it depends on the configuration of the particular receptacles we start the experiment with, but on average Critical-Level Utilitarianism prefers killing the one to save the many, and likes the sadistic action the least. But had we set a higher critical level, say at two, it *would* sometimes recommend killing everyone. That is because, with a critical level at two, we consider any receptacle with a utility below two to have a life not worth living, even if they themselves do not do so. That leads to some pretty weird conclusions, for instance that it is better to add one truly miserable life, full of torture and agony, than it is to add one hundred lives only barely below the critical threshold.[^7]
+Once again it depends on the configuration of the particular receptacles we start the experiment with, but on average Critical-Level Utilitarianism prefers killing the one to save the many, and likes the sadistic action the least. But had we set a higher critical level, say at two, it *would* sometimes recommend killing everyone. That is because, with a critical level at two, we consider any receptacle with a utility below two to have a life not worth living, even if they themselves do not do so. That leads to some pretty weird conclusions, for instance that it is better to add one truly miserable life, full of torture and agony, than it is to add one thousand lives only barely below the critical threshold.[^7]
 
 ```julia
 addmiserablelife = w -> [w;-2]
@@ -326,7 +326,7 @@ Got actions and consequences: [(1, 1986.8005537494912), (2, 1642.2104443441826)]
 There is a trade-off here: the outcome depends on which population size we start out with. If we start out with a small population size, it is, according to the egalitarian utility function, better to add one thousand lives barely worth living, just like in Classical Utilitarianism, because since there are almost only the thousand in the world, the world is rather equal; however, when we begin with a large population, adding the one thousand produces great inequality.
 
 ```julia
-getutilities_ega(action::Function) = getutility_ega.(a.(genworld.(1:1000)))
+getutilities_ega(action::Function) = getutility_ega.(action.(genworld.(1:1000)))
 plot([getutilities_ega(addnormallife), getutilities_ega(addshoddylives)],
      label = ["One Normal Life Added" "1,000 Shoddy Lives Added"])
 ```

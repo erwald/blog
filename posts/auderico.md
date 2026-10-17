@@ -72,7 +72,7 @@ ENDEQUINA: I see, Auderico. Now things are clearer to me. You are confusing two 
 
 AUDERICO: I understand. Your distinction is a sound one, noble Endequina. But does it really matter whether a thing is good functionally or good in the final sense? Either way we use the word "good". We use it to judge the quality or desirability of that thing. Why should only the final good create an obligation for us and not the instrumental good?
 
-ENDEQUINA: That is a good question, dear Auderico, thoughtful friend. I am not sure if that is true, but I think we are nearing the crux. Now I wish to ask you something. Do you agree that living things have points of views, but lifeless things don't?
+ENDEQUINA: That is a good question, dear Auderico, thoughtful friend. I am not sure if that is true, but I think we are nearing the crux. Now I wish to ask you something. Do you agree that living things have points of view, but lifeless things don't?
 
 AUDERICO: I do.
 
@@ -80,15 +80,15 @@ ENDEQUINA: And do you agree that humans and other animals strive to keep themsel
 
 AUDERICO: With very few exceptions, yes.
 
-ENDEQUINA: And that these animals, in their continual striving to flourish, to keep on striving, having their points of views, can experience things as good or bad for them when their strivings are fulfilled or thwarted?
+ENDEQUINA: And that these animals, in their continual striving to flourish, to keep on striving, having their points of view, can experience things as good or bad for them when their strivings are fulfilled or thwarted?
 
 AUDERICO: I suppose that's true.
 
-ENDEQUINA: And don't you think that they, in striving thusly, take the things that are good for them -- the things that allow them to live and function well and maybe even reproduce or feel pleasure -- to be good in the final sense? That is, it is not the absolute goodness of those things that cause the animals to take them as good for them, but, on the contrary, those things are good in the final sense *because* the animals take them to be good for them.
+ENDEQUINA: And don't you think that they, in striving thusly, take the things that are good for them -- the things that allow them to live and function well and maybe even reproduce or feel pleasure -- to be good in the final sense? That is, it is not the absolute goodness of those things that causes the animals to take them as good for them, but, on the contrary, those things are good in the final sense *because* the animals take them to be good for them.
 
 AUDERICO: Perhaps.
 
-ENDEQUINA: But lifeless objects have no points of views. Neither do they strive to keep themselves alive and so on. They cannot experience things as good or bad for them. They have no strivings that can be thwarted or fulfilled. And because of that, they cannot take the things that are good for them to be good in the final sense.
+ENDEQUINA: But lifeless objects have no points of view. Neither do they strive to keep themselves alive and so on. They cannot experience things as good or bad for them. They have no strivings that can be thwarted or fulfilled. And because of that, they cannot take the things that are good for them to be good in the final sense.
 
 AUDERICO: That all seems reasonable to me, Endequina. I suppose you are saying that, because my shepherd's staff neither strived nor had a point of view, because it did not experience being broken as something that was bad, I did not have a duty requiring me not to break it. The only duty I had was toward myself, because the shepherd's staff was a kind of moral intermediate, such that its good was also my good, because I had made it so. And though the feeling I felt toward it was real, its foundation was illusory ... I will think about this, dear friend, as I go into the woods to carve myself a new shepherd's staff of pale-brown ash.
 

@@ -33,7 +33,7 @@ Just one final word of warning. I am myself a vegetarian leaning vegan, my wife 
 
 If the Four Horsemen of the Apocalypse in the Christian tradition were Death, Famine, War, and Conquest, today they would have had to have been named Heart Problem, Cancer, Respiratory Disease, and Diabetes.[^4] But Heart Problem would be the ruler of them all, which is probably why there are so many studies on veganism/vegetarianism and cardiovascular disease.
 
-High body mass index, high blood fat, high blood pressure, and diabetes all increase the risk of heart problems, stroke, and so on.[^5] In a meta-study from 2018, Benatar & Stewart looked at these risk factors among vegans.[^6] They included 40 observational studies, mostly done in the West but with a considerable number also from Taiwan.[^7] In what will be a bit of a recurring theme, they found different results in the West and in Asia.[^8] In Western studies, vegans had lower body mass index, lesser waist circumference, reduced blood sugar levels, lower low-density lipoprotein *(protein that transfer lipids around the body; fats are a kind of lipid)* cholesterol *(a type of lipid)*, less body fat, and lower blood pressure than omnivores.[^9] But in the Taiwanese studies these differences were much smaller or vanished completely.[^10] Other observational studies seem to produce similarly significant results when comparing with Western diets.[^11]
+High body mass index, high blood fat, high blood pressure, and diabetes all increase the risk of heart problems, stroke, and so on.[^5] In a meta-study from 2018, Benatar & Stewart looked at these risk factors among vegans.[^6] They included 40 observational studies, mostly done in the West but with a considerable number also from Taiwan.[^7] In what will be a bit of a recurring theme, they found different results in the West and in Asia.[^8] In Western studies, vegans had lower body mass index, lesser waist circumference, reduced blood sugar levels, lower low-density lipoprotein *(proteins that transfer lipids around the body; fats are a kind of lipid)* cholesterol *(a type of lipid)*, less body fat, and lower blood pressure than omnivores.[^9] But in the Taiwanese studies these differences were much smaller or vanished completely.[^10] Other observational studies seem to produce similarly significant results when comparing with Western diets.[^11]
 
 But again, these are not RCTs. I don't think these studies even control for confounds, or at least the authors of the meta-studies don't mention that. They just do some subpopulation analyses. But as mentioned before, if self-selected vegans tend to exercise more, smoke less, eat less junk food, and afford healthier lifestyles generally, that might be enough to explain the difference.
 
@@ -47,7 +47,7 @@ López et al. did a meta-study (2019) of 11 RCTs, also looking at blood pressure
 
 In a 2020 meta-study of 15 RCTs, mostly from the West, Lee et al. found that vegetarian diets reduced blood pressure.[^22] They also found, in a subgroup analysis, that vegan diets were more effective in reducing blood pressure than were vegetarian diets.[^23] (I don't think they correct for multiple comparisons, but this result was significant even after I made a Bonferroni correction.) Once again the effect was stronger in U.S.-based studies (which makes sense given the pretty abysmal diet of the median American).[^24]
 
-Viguiliouk et al. conducted a meta-study (2018) of 9 RCTs, mainly done in the West, all of which looked specifically at diabetics.[^25] The control diets were a pretty even mixture of normal diets and conventional diabetes diets.[^26] They found that vegan diets were really good on body weight and possibly better on blood fats and blood sugar level.[^27] But there was no effect at all on blood pressure.[^28] That makes me think that the Lòpez et al. meta-study, which found that vegan diets don't result in decreased blood pressure, found no improvement precisely because six of its 11 included studies were of diabetics.[^29] Actually, having just now gone back to that study, I see the authors commenting that "because major clinical trials and a recent meta-analysis have noted differences in hypertension outcomes between diabetic and non-diabetic patients, this could have influenced our findings".[^30]
+Viguiliouk et al. conducted a meta-study (2018) of 9 RCTs, mainly done in the West, all of which looked specifically at diabetics.[^25] The control diets were a pretty even mixture of normal diets and conventional diabetes diets.[^26] They found that vegan diets were really good on body weight and possibly better on blood fats and blood sugar level.[^27] But there was no effect at all on blood pressure.[^28] That makes me think that the López et al. meta-study, which found that vegan diets don't result in decreased blood pressure, found no improvement precisely because six of its 11 included studies were of diabetics.[^29] Actually, having just now gone back to that study, I see the authors commenting that "because major clinical trials and a recent meta-analysis have noted differences in hypertension outcomes between diabetic and non-diabetic patients, this could have influenced our findings".[^30]
 
 **Verdict:** I'm pretty confident that vegan diets are better for the heart than common Western diets, though the difference seems to be smaller for diabetics and may not exist at all between vegan diets and common non-Western diets or healthy omnivore diets generally.
 
@@ -69,7 +69,7 @@ A meta-study from 2017 found in ten prospective *(selecting subjects before thei
 
 Chronic inflammatory diseases apparently include things like type 2 diabetes, heart disease and cancer.[^40] There's some evidence that inflammatory biomarkers are linked or contribute to these chronic diseases.[^41] A biomarker is just something in the body that you can measure. Menzel et al., in a 2020 meta-study of 21 cross-sectional studies, look at associations between veganism/vegetarianism and abnormal levels in these inflammatory biomarkers.[^42] They found that vegan and vegetarian diets are associated with lower C-reactive protein levels (this being a major inflammation marker).[^43] They found no differences in the many other biomarkers studied, though they caution that the important ones (except for C-reactive protein) haven't been studied much yet.[^44]
 
-Of course, correlation does not equal causation. And the included studies were mainly carried out in Asian countries. As of now, there are no RCTs on veganism and inflammatory biomarkers.[^45] If you are in the business, make one!
+Of course, correlation does not equal causation. And the included studies were mainly carried out in Asian countries. As of now, there are very few RCTs on veganism and inflammatory biomarkers.[^45] If you are in the business, make one!
 
 Nor are there any RCTs on vegan/vegetarian diets and diabetes -- we had seen many studies of diabetics, but so far we haven't looked at the risk of *getting* diabetes. Lee & Park performed a meta-study in 2017 of 12 cross-sectional and two cohort studies.[^46] They found that vegetarianism was associated with not having diabetes, though not in the Asian studies; this result held even after conditioning on body mass index.[^47] Though these were all observational studies, they note that other studies indicate that whole grains, fruit, and vegetables help prevent diabetes whereas higher consumption of red and processed meat is positively correlated with diabetes risk.[^48]
 
@@ -85,7 +85,7 @@ Judging purely from the author names, I assume most of these 12 RCTs were carrie
 
 ## Bone Health
 
-There are two main ways of measuring bone health. One is by looking at the bone mineral density; the lower the bone mineral density, the higher the risk of bone fracture. The other is by simply counting bone fractures. Iguacel et al., in a 2018 meta-study looking at 20 observational studies (of which 15 studied bone mineral densities and 5 fracture rates), found that vegans had both lower bone mineral density and higher fracture rates than both vegetarians and omnivores.[^54] These studies mostly included women subjects, elderly women being at particular risk of fracture, and were pretty evenly split between Western and Asian countries.[^55] They are observational studies, of course, so they are not going to prove causation.[^56] However, since vegan diets are known to be low on calcium and vitamin D, and since adequate calcium and vitamin D intakes are the most important ways of preventing low bone mineral density, we can make guesses.
+There are two main ways of measuring bone health. One is by looking at the bone mineral density; the lower the bone mineral density, the higher the risk of bone fracture. The other is by simply counting bone fractures. Iguacel et al., in a 2018 meta-study looking at 20 observational studies (of which 15 studied bone mineral densities and 5 fracture rates), found that vegetarians and vegans had lower bone mineral density than omnivores, and that vegans also had higher fracture rates.[^54] These studies mostly included women subjects, elderly women being at particular risk of fracture, and were pretty evenly split between Western and Asian countries.[^55] They are observational studies, of course, so they are not going to prove causation.[^56] However, since vegan diets are known to be low on calcium and vitamin D, and since adequate calcium and vitamin D intakes are the most important ways of preventing low bone mineral density, we can make guesses.
 
 Ho-Pham et al., in a 2009 meta-study, find lower bone mineral densities among vegans, but note that the difference is "clinically insignificant".[^57] They don't mention anything about controlled trials, so I suppose these are observational studies.
 
@@ -111,7 +111,7 @@ Sebastiani et al. reviewed (2019) the evidence for effects of vegan diets on mot
 
 ## Fatigue and Cognitive Function
 
-So much for the stuff that kills you. One of the more common complaints I hear anecdotally about veganism is that makes you tired or enervated or unable to focus. This seems less important than not dying to me, but sure, it's no fun not having any energy.
+So much for the stuff that kills you. One of the more common complaints I hear anecdotally about veganism is that it makes you tired or enervated or unable to focus. This seems less important than not dying to me, but sure, it's no fun not having any energy.
 
 Unfortunately, I haven't been able to find many studies on this. Medawar et al. reviewed (2019) the evidence for effects of vegan/vegetarian diets on cognitive function among other things.[^73] They cover a few observational studies the results of which I suspect can be explained by selection effects, concluding that:
 
@@ -125,7 +125,7 @@ Overall, it seems highly probable that vegan diets are healthier than common Wes
 
 [^1]:	 Homer. & Lattimore, R. (1967). *The Odyssey of Homer*. New York: Harper & Row.
 
-[^2]:	 Here and for the remainder of this post, when I write "vegetarian", I refer to all diets that exclude fish and meat (the most common variant being lact-ovo-vegetarian) unless otherwise noted. I'll avoid the term "plant-based diet" because it seems to have many different definitions.
+[^2]:	 Here and for the remainder of this post, when I write "vegetarian", I refer to all diets that exclude fish and meat (the most common variant being lacto-ovo-vegetarian) unless otherwise noted. I'll avoid the term "plant-based diet" because it seems to have many different definitions.
 
 [^3]:	 Though observational studies are not good for inferring causality, they can be useful here both for giving evidence *against* correlations and for inferring long-term health effects.
 
@@ -253,11 +253,11 @@ Overall, it seems highly probable that vegan diets are healthier than common Wes
 
 [^65]:	 ibid.
 
-[^66]:	 Pawlak, R., Parrott, S. J., Raj, S., Cullum-Dugan, D., & Lucus, D. (2013). *How prevalent is vitamin B12deficiency among vegetarians?* Nutrition Reviews, 71(2), 110--117.
+[^66]:	 Pawlak, R., Parrott, S. J., Raj, S., Cullum-Dugan, D., & Lucus, D. (2013). *How prevalent is vitamin B12 deficiency among vegetarians?* Nutrition Reviews, 71(2), 110--117.
 
 [^67]:	 Allès, B., Baudry, J., Méjean, C., Touvier, M., Péneau, S., Hercberg, S., & Kesse-Guyot, E. (2017). *Comparison of Sociodemographic and Nutritional Characteristics between Self-Reported Vegetarians, Vegans, and Meat-Eaters from the NutriNet-Santé Study*. Nutrients, 9(9), 1023.
 
-[^68]:	 Sebastiani, G., Herranz Barbero, A., Borrás-Novell, C., Alsina Casanova, M., Aldecoa-Bilbao, V., Andreu-Fernández, V., Pascual Tutusaus, M., Ferrero Martínez, S., Gómez Roig, M., & García-Algar, O. (2019). *The Effects of Vegetarian and Vegan Diet during Pregnancy* on the Health of Mothers and Offspring. Nutrients, 11(3), 557.
+[^68]:	 Sebastiani, G., Herranz Barbero, A., Borrás-Novell, C., Alsina Casanova, M., Aldecoa-Bilbao, V., Andreu-Fernández, V., Pascual Tutusaus, M., Ferrero Martínez, S., Gómez Roig, M., & García-Algar, O. (2019). *The Effects of Vegetarian and Vegan Diet during Pregnancy on the Health of Mothers and Offspring*. Nutrients, 11(3), 557.
 
 [^69]:	 ibid.
 
@@ -267,6 +267,6 @@ Overall, it seems highly probable that vegan diets are healthier than common Wes
 
 [^72]:	 ibid.
 
-[^73]:	 Medawar, E., Huhn, S., Villringer, A., & Veronica Witte, A. (2019). *The effects of plant-based diets on the body and the brain: a systematic review*. Translational Psychiatry, 9(1).
+[^73]:	 Medawar, E., Huhn, S., Villringer, A., & Witte, A. V. (2019). *The effects of plant-based diets on the body and the brain: a systematic review*. Translational Psychiatry, 9(1).
 
 [^74]:	 ibid.

@@ -85,7 +85,7 @@ What he describes is of course an artwork of [strict logic]({{ '/posts/strictnes
 
 In my language, what Proust's narrator is describing is a network of meaning so widely and densely connected that the bearer can find, in however unlikely a place, something that relates to it. This idea is supported by research suggesting that meaning in life is associated with habit.[^23] It is also supported by research showing that meaning in life is associated with old age, as mentioned previously.[^24] Anything becomes interesting when you've seen enough similar things.
 
-Gerald Murnane, who greatly admires "[the] effeminate, hypochondriac Frenchman", does not seem able to find profound stuff just anywhere. He finds it in a handful of seemingly ordinary places -- in, among others, horse-racing, marbles, color, ground-dwelling birds, plains and grasslands, maps, the Hungarian language, and of course *À la recherche du temps perdu*. Most of these are connected to his childhood. But though not everything is fertile to him, that which is can never be drained of its meaning; things only attain an ever deeper profundity as time passes and further things are connected to them. Ours minds are flexible; meaning is additive.
+Gerald Murnane, who greatly admires "[the] effeminate, hypochondriac Frenchman", does not seem able to find profound stuff just anywhere. He finds it in a handful of seemingly ordinary places -- in, among others, horse-racing, marbles, color, ground-dwelling birds, plains and grasslands, maps, the Hungarian language, and of course *À la recherche du temps perdu*. Most of these are connected to his childhood. But though not everything is fertile to him, that which is can never be drained of its meaning; things only attain an ever deeper profundity as time passes and further things are connected to them. Our minds are flexible; meaning is additive.
 
 [^1]:	 Murnane, *Personal Best*.
 
@@ -117,7 +117,7 @@ Gerald Murnane, who greatly admires "[the] effeminate, hypochondriac Frenchman",
 
 [^15]:	 ibid.
 
-[^16]:	 Harris, C. B., Rasmussen, A. S., & Berntsen, D. (2013). *The functions of autobiographical memory*: An integrative approach. Memory, 22(5), 559--581.
+[^16]:	 Harris, C. B., Rasmussen, A. S., & Berntsen, D. (2013). *The functions of autobiographical memory: An integrative approach*. Memory, 22(5), 559--581.
 
 [^17]:	 Sedikides, C., & Wildschut, T. (2018). *Finding Meaning in Nostalgia*. Review of General Psychology, 22(1), 48--61.
 

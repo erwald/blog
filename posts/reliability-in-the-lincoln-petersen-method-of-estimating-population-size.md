@@ -19,11 +19,11 @@ The detection probability p could be high in the first observation and low in th
 
 In the previous posts I described first how an official in the fictional Kingdom of Tamego went about [estimating killings in a civil war]({{ '/posts/the-kingdom-of-tamego/' | url }}) in that country and then how one can program [a Bayesian model for estimating population sizes]({{ '/posts/bayesian-modelling-of-simulated-data-from-the-kingdom-of-tamego/' | url }}) based on this sort of capture-recapture data. In the course of making the model -- or rather extending a model that Marc Kéry and Michael Schaub described in *Bayesian Population Analysis using WinBUGS* and that Hiroki Itô translated into Stan -- in the course of so extending, I made many simulated-data experiments for which the model (and [the Lincoln-Petersen method](https://en.wikipedia.org/wiki/Mark_and_recapture#Lincoln%E2%80%93Petersen_estimator)) produced pretty bad estimates.
 
-This kind of mystified me. In some experiments, the method produced very accurate estimations, but in others they were wildly off the mark. For a while I thought this was because the Lincoln-Petersen method did not handle data with variable detection probability well. I noticed that when I halved the detection probability for one of the observations (so that the probability of detecting an individual was higher or lower on the second visit than on the first, for example because a different method of observation was used), then estimations got much less accurate. But as mentioned above, that was a red herring. **The reason that observations were worse was that I saw too few marked individuals in the second visit**, which introduced a lot of noise in the model.
+This kind of mystified me. In some experiments, the method produced very accurate estimations, but in others they were wildly off the mark. For a while I thought this was because the Lincoln-Petersen method did not handle data with variable detection probability well. I noticed that when I halved the detection probability for one of the observations (so that the probability of detecting an individual was higher or lower on the second visit than on the first, for example because a different method of observation was used), then estimations got much less accurate. But as mentioned above, that was a red herring. **The reason that estimates were worse was that I saw too few marked individuals in the second visit**, which introduced a lot of noise in the model.
 
 ## Experiments
 
-This is the kind the experiment I ran, in R code:
+This is the kind of experiment I ran, in R code:
 
 ```r
 f <- function(N, p) {

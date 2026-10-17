@@ -10,7 +10,7 @@ eaf_link: https://forum.effectivealtruism.org/posts/CbkfwmwD2BBuFzwsZ/erich_grun
 
 ![img]({{ '/img/hero/barbarians.png' | url }})
 
-There's been [some consternation](https://forum.effectivealtruism.org/posts/x9Rn5SfapcbbZaZy9/ea-for-dumb-people) within effective altruism recently about whether "dumb" people have a place in the community.[^1] The linked post generated quite a bit of discussion. Some commenters observed that the post's author, who'd communicated a feeling of not fitting in on account of not being smart enough, seemed not dumb at all, but quite intelligent. Occasionally, such-and-such a prominent effective altruist would weigh in to insist that they themself wasn't as smart as they might seem. [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) was linked, as it should be on these occasions (and to it we could also add [Against Individual IQ Worries](https://slatestarcodex.com/2017/09/27/against-individual-iq-worries/)).
+There's been [some consternation](https://forum.effectivealtruism.org/posts/x9Rn5SfapcbbZaZy9/ea-for-dumb-people) within effective altruism recently about whether "dumb" people have a place in the community.[^1] The linked post generated quite a bit of discussion. Some commenters observed that the post's author, who'd communicated a feeling of not fitting in on account of not being smart enough, seemed not dumb at all, but quite intelligent. Occasionally, such-and-such a prominent effective altruist would weigh in to insist that they themself weren't as smart as they might seem. [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) was linked, as it should be on these occasions (and to it we could also add [Against Individual IQ Worries](https://slatestarcodex.com/2017/09/27/against-individual-iq-worries/)).
 
 My reaction when reading this was empathy (in the sense of understanding, not in the sense of sharing the feeling) but also a sneaking suspicion that everybody was missing something important.
 
@@ -105,7 +105,7 @@ Getting to contribute to the dragon's demise is not itself a good -- it's not so
 
 I don't know whether the first unfairness -- that of unevenly allocated power -- is necessary, but I believe the second unfairness -- that of unevenly allocated ability and opportunity to contribute -- is necessary. If, when picking mushrooms or berries or cleaning pots or sharpening knives, I'm feeling inadequate, I can always remind myself
 
-- that one shouldn't be judged based things that are out of one's control, only based on what one can actually control;
+- that one shouldn't be judged based on things that are out of one's control, only based on what one can actually control;
 - that I'm still making a difference, even though it's not as great as those made by some other people;
 - that -- who knows? -- with some time and effort I may be able to contribute directly, even if I'll never be as able as the best;
 - that everybody fails, and nobody is perfect; and
@@ -127,7 +127,7 @@ I don't know whether the first unfairness -- that of unevenly allocated power --
 	- effective altruists often work in intellectually challenging professions, like research, science, engineering, and finance;
 	- the movement has a pretty impressive track record for its age (and, as mentioned later on, I think success in a wide range of domains is correlated with *g*);
 	- posts on the EA Forum often discuss pretty complicated subjects; and
-	- my general impressions from reading about and interacting with effective altruists is that they're pretty sharp.
+	- my general impression from reading about and interacting with effective altruists is that they're pretty sharp.
 
 [^3]:	 I've only been following effective altruism for about two and a half years and actively participating for about one and a half years, so while I'm on board with the effective altruist ethos and donate to effective altruist-aligned charities and so on, I don't know many effective altruists personally and only partly feel I'm a member of the community.
 

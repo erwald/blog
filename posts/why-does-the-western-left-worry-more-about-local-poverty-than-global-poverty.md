@@ -35,7 +35,7 @@ Now, my home is somewhere on the Left, though some of my views may be unorthodox
 
 *But any political party operates in a certain country. You cannot expect it to have as much impact when working internationally as it can at home.*
 
-You can just give money to poor people. For every 100 euro donated through [GiveDirectly](https://www.givedirectly.org/), 83 go directly to recipients.[^5] About 725 million people still survive on less than 600 euro per year.[^6] In 2020, the Swedish state [spent](https://www.regeringen.se/sveriges-regering/finansdepartementet/statens-budget/statens-budget-i-siffror/) 4.6 billion euro on foreign aid (around 0.38% of the state budget), compared with ten billion euro on health care and 25 billion euro on economic welfare for families, the elderly, and people with disabilities or long-term illnesses. If Sweden increased its foreign aid spending by around 16% (an increase of roughly 723 million euro), it could bring a million people out of extreme poverty.[^7] This is a great opportunity for a country of only ten million people. Why is it not a higher priority on the Left?
+You can just give money to poor people. For every 100 euro donated through [GiveDirectly](https://www.givedirectly.org/), 83 go directly to recipients.[^5] About 725 million people still survive on less than 600 euro per year.[^6] In 2020, the Swedish state [spent](https://www.regeringen.se/sveriges-regering/finansdepartementet/statens-budget/statens-budget-i-siffror/) 4.6 billion euro on foreign aid (around 4% of the state budget), compared with ten billion euro on health care and 25 billion euro on economic welfare for families, the elderly, and people with disabilities or long-term illnesses. If Sweden increased its foreign aid spending by around 16% (an increase of roughly 723 million euro), it could bring a million people out of extreme poverty.[^7] This is a great opportunity for a country of only ten million people. Why is it not a higher priority on the Left?
 
 *Well, historically, the West has done nothing but harm to the developing world, from colonialism on through neocolonialism. We should let the developing world get on with their business without interfering with it.*
 
@@ -49,7 +49,7 @@ I think the point about relatability is useful in describing why the Left does n
 
 Another reason I think this is neglected on the Left is that Leftist political parties, like all political parties, optimize chiefly for a single goal, namely to win votes in the next election. We know that because, in due course, the parties that do not, perish. People abroad cannot vote, and they cannot advocate for themselves in the West like marginalized people within those countries can, and so helping them will not be a high priority. But, again, while I think that helps us see why it is so, it is not a good reason for us to keep it so.
 
-*Even so, a state has special duties toward its citizens, duties it does not have toward non-citizens. The reason it exist in the first place is to serve the people that constitute it.*
+*Even so, a state has special duties toward its citizens, duties it does not have toward non-citizens. The reason it exists in the first place is to serve the people that constitute it.*
 
 I think that is partly true, and might have been fully true had all nations been isolated from one another. But today, through trade, research, tourism, and so on, Western nations benefit from people outside the West, including many who live in extreme poverty. That is one reason why I think Western nations have reciprocal duties toward people in poorer nations.
 
@@ -57,7 +57,7 @@ Here is another possible reason. If we as citizens of a nation decide that we wa
 
 [^1]:	 Paine, T. (2000). *Agrarian justice*. Alex Catalogue.
 
-[^2]:	 I am not sure how reliable my [source](https://dqydj.com/income-by-race/) here is, but it seems roughly in line with other sources. The Department of Justice [gives](https://www.dol.gov/agencies/ofccp/about/data/earnings/race-and-ethnicity) 32% more for non-Hispanic whites than Blacks, but because they provide only weekly numbers I prefer to use the former source. Either way, there is an order of magnitude difference between this disparity and the one between rich and poor nations.
+[^2]:	 I am not sure how reliable my [source](https://dqydj.com/income-by-race/) here is, but it seems roughly in line with other sources. The Department of Labor [gives](https://www.dol.gov/agencies/ofccp/about/data/earnings/race-and-ethnicity) 32% more for non-Hispanic whites than Blacks, but because they provide only weekly numbers I prefer to use the former source. Either way, there is an order of magnitude difference between this disparity and the one between rich and poor nations.
 
 [^3]:	 I am not sure whether the figure for Black Americans is of the average wage per worker, or if it is the average income per working-age adult. If it is the former, the ratio here may be somewhat smaller than six to one, as the number for Africans has the latter unit.
 
@@ -65,6 +65,6 @@ Here is another possible reason. If we as citizens of a nation decide that we wa
 
 [^5]:	 My source here is [GiveWell](https://www.givewell.org/charities/top-charities/citations#Efficiency_of_GiveDirectly). [GiveDirectly's website](https://www.givedirectly.org/) puts the number at 88 per 100, but let's use the more conservative estimate for the sake of argument.
 
-[^6]:	 More specifically, [on 1,90 USD per day](https://www.worldvision.org/sponsorship-news-stories/global-poverty-facts). That is the World Bank's (contested) cut-off for extreme poverty.
+[^6]:	 More specifically, [on $1.90 per day](https://www.worldvision.org/sponsorship-news-stories/global-poverty-facts). That is the World Bank's (contested) cut-off for extreme poverty.
 
 [^7]:	 Yes, this is a rough calculation. There are questions about how much it costs to scale up existing programs and so on. And the whole concept of bringing someone out of poverty is elusive, because obviously not everyone starts out with nothing, and in some places the World Bank's cut-off income is not enough to get by on. But I hope the calculation shows that it is orders of magnitude cheaper to support people in extremely poor nations than in Western nations.

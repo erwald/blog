@@ -11,7 +11,7 @@ tags: post
 > 
 > -- Gerald Murnane
 
-Since 2011, I keep a record of every book that I finish reading. Some of these books were [mere entertainment]({{ '/posts/small-things-that-bug-me-in-sandersons-otherwise-good-stormlight-archive/' | url }}), some were excruciatingly boring (I'm looking at you, Mia Couto's *Sleepwalking Land*, and the hours you stole from me that I'll never get back), some were educational (gold star for Alex Mesoudi's *Cultural Evolution* which could have been included here), and some of them good and interesting and that's it. A few, though, I can look back on and see that they have deeply influenced the way I think, write, act, and feel. Here are some of those.
+Since 2011, I have kept a record of every book that I finish reading. Some of these books were [mere entertainment]({{ '/posts/small-things-that-bug-me-in-sandersons-otherwise-good-stormlight-archive/' | url }}), some were excruciatingly boring (I'm looking at you, Mia Couto's *Sleepwalking Land*, and the hours you stole from me that I'll never get back), some were educational (gold star for Alex Mesoudi's *Cultural Evolution* which could have been included here), and some of them good and interesting and that's it. A few, though, I can look back on and see that they have deeply influenced the way I think, write, act, and feel. Here are some of those.
 
 ## *Tamarisk Row*
 

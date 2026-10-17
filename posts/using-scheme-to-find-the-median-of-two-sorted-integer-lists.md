@@ -9,7 +9,7 @@ tags: post
 
 I have been picking up the basics of Scheme recently as part of reading and working my way through Chris Hanson and Gerald Jay Sussman's *Software Design for Flexibility*. Scheme is a dialect of Lisp created in the 1970s by Gerald Jay Sussman and Guy L. Steele. As such, it is older than some other well-known dialects like Common Lisp, Clojure, and Racket, all of which have been influenced by Scheme. Specifically, I am using [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/) -- there are apparently pretty large differences between implementations due to the minimalism of the language specification.
 
-I don't have much experience with Lisps, apart from some noodling with Clojure in our functional programming group at work years ago. So a few months ago, in order to get familiar with the syntax and some of the more basic constructs (leaving the metaprogramming and so on for later), I solved a few problems from LeetCode, one of which was [Median of Two Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/), which I will now proceed to explain.
+I don't have much experience with Lisps, apart from some noodling with Clojure in our functional programming group at work years ago. So a few months ago, in order to get familiar with the syntax and some of the more basic constructs (leaving the metaprogramming and so on for later), I solved a few problems from LeetCode, one of which was [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/), which I will now proceed to explain.
 
 The problem is this: given two sorted integer lists, calculate the median value of the combination of the two lists, ideally in *O*(log(m+n)) time. For example:
 
@@ -66,7 +66,7 @@ One more thing. I have been calling the procedure's inputs *lists*, but in fact 
 Before turning our eyes to the actual implementation we will need to write some utility procedures. Amazingly, as far as I can tell, there is no procedure in MIT/GNU Scheme for checking whether a vector is empty or not (though there is one, `null?`, for lists). So let us begin with that one:
 
 ```scheme
-;; Returns :t if the vector is empty; otherwise returns :f.
+;; Returns #t if the vector is empty; otherwise returns #f.
 (define (vector-null? v) (= 0 (vector-length v)))
 ```
 

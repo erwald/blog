@@ -395,9 +395,9 @@ That is okay; I'm glad you stuck with me to the end.
   <div class="csl-entry">Bostrom, Nick, and Toby Ord. 2006. “The Reversal Test: Eliminating Status Quo Bias in Applied Ethics.” <i>Ethics</i> 116 (4): 656–79. https://doi.org/10.1086/505233</div>
   <div class="csl-entry">Brown, Culum. 2015. “Fish Intelligence, Sentience and Ethics.” <i>Animal Cognition</i> 18 (1): 1–17.</div>
   <div class="csl-entry">Clark, JA MacArthur, Martin Potter, and E Harding. 2006. “The Welfare Implications of Animal Breeding and Breeding Technologies in Commercial Agriculture.” <i>Livestock Science</i> 103 (3): 270–81.</div>
-  <div class="csl-entry">Crook, Robyn J. 2021. “Behavioral and Neurophysiological Evidence Suggests Affective Pain Experience in Octopus.” <i>Iscience</i> 24 (3).</div>
+  <div class="csl-entry">Crook, Robyn J. 2021. “Behavioral and Neurophysiological Evidence Suggests Affective Pain Experience in Octopus.” <i>iScience</i> 24 (3).</div>
   <div class="csl-entry">Danbury, TC, CA Weeks, AE Waterman-Pearson, SC Kestin, and JP Chambers. 2000. “Self-Selection of the Analgesic Drug Carprofen by Lame Broiler Chickens.” <i>Veterinary Record</i> 146 (11): 307–11.</div>
-  <div class="csl-entry">De Briyne, Nancy, Charlotte Berg, Thomas Blaha, and Déborah Temple. 2016. “Pig Castration: Will the Eu Manage to Ban Pig Castration by 2018?” <i>Porcine Health Management</i> 2: 1–11.</div>
+  <div class="csl-entry">De Briyne, Nancy, Charlotte Berg, Thomas Blaha, and Déborah Temple. 2016. “Pig Castration: Will the EU Manage to Ban Pig Castration by 2018?” <i>Porcine Health Management</i> 2: 1–11.</div>
   <div class="csl-entry">Dunlop, Rebecca, Sarah Millsopp, and Peter Laming. 2006. “Avoidance Learning in Goldfish (Carassius Auratus) and Trout (Oncorhynchus Mykiss) and Implications for Pain Perception.” <i>Applied Animal Behaviour Science</i> 97 (2): 255–71. https://doi.org/10.1016/j.applanim.2005.06.018</div>
   <div class="csl-entry">Edsinger, Eric, and Gül Dölen. 2018. “A Conserved Role for Serotonergic Neurotransmission in Mediating Social Behavior in Octopus.” <i>Current Biology</i> 28 (19): 3136–42.</div>
   <div class="csl-entry">Epley, Nicholas, and Thomas Gilovich. 2016. “The Mechanics of Motivated Reasoning.” <i>Journal of Economic Perspectives</i> 30 (3): 133–40.</div>
@@ -410,7 +410,7 @@ That is okay; I'm glad you stuck with me to the end.
   <div class="csl-entry">Gottardo, Flaviana, E Nalon, Barbara Contiero, S Normando, P Dalvit, and Giulio Cozzi. 2011. “The Dehorning of Dairy Calves: Practices and Opinions of 639 Farmers.” <i>Journal of Dairy Science</i> 94 (11): 5724–34.</div>
   <div class="csl-entry">Govoni, Camilla, Davide Danilo Chiarelli, Alice Luciano, Matteo Ottoboni, Simge Nur Perpelek, Luciano Pinotti, and Maria Cristina Rulli. 2021. “Global Assessment of Natural Resources for Chicken Production.” <i>Advances in Water Resources</i> 154: 103987.</div>
   <div class="csl-entry">Hayes, Dave J, and Georg Northoff. 2011. “Identifying a Network of Brain Regions Involved in Aversion-Related Processing: A Cross-Species Translational Investigation.” <i>Frontiers in Integrative Neuroscience</i> 5: 49.</div>
-  <div class="csl-entry">———. 2012. “Common Brain Activations for Painful and Non-Painful Aversive Stimuli.” <i>Bmc Neuroscience</i> 13: 1–18.</div>
+  <div class="csl-entry">———. 2012. “Common Brain Activations for Painful and Non-Painful Aversive Stimuli.” <i>BMC Neuroscience</i> 13: 1–18.</div>
   <div class="csl-entry">Huemer, Michael. 2019. <i>Dialogues on Ethical Vegetarianism</i>. Routledge.</div>
   <div class="csl-entry">Korsgaard, Christine M. 2018. <i>Fellow Creatures: Our Obligations to the Other Animals</i>. Oxford University Press.</div>
   <div class="csl-entry">Kuenzel, WJ. 2007. “Neurobiological Basis of Sensory Perception: Welfare Implications of Beak Trimming.” <i>Poultry Science</i> 86 (6): 1273–82.</div>
@@ -418,7 +418,7 @@ That is okay; I'm glad you stuck with me to the end.
   <div class="csl-entry">Lear, Jonathan. 1988. <i>Aristotle: The Desire to Understand</i>. Cambridge University Press.</div>
   <div class="csl-entry">Lewis, Danny. 2016. “New Way to Wean Calves Leaves Them Happier and Healthier.” <i>Smithsonian Magazine</i>, January. <a href="https://www.smithsonianmag.com/smart-news/new-way-wean-calves-leaves-them-happier-healthier-180957919/">https://www.smithsonianmag.com/smart-news/new-way-wean-calves-leaves-them-happier-healthier-180957919/</a>.</div>
   <div class="csl-entry">Loughnan, Steve, Nick Haslam, and Brock Bastian. 2010. “The Role of Meat Consumption in the Denial of Moral Status and Mind to Meat Animals.” <i>Appetite</i> 55 (1): 156–59.</div>
-  <div class="csl-entry">Mekonnen, Mesfin M, Christopher MU Neale, Chittaranjan Ray, Galen E Erickson, and Arjen Y Hoekstra. 2019. “Water Productivity in Meat and Milk Production in the Us from 1960 to 2016.” <i>Environment International</i> 132: 105084.</div>
+  <div class="csl-entry">Mekonnen, Mesfin M, Christopher MU Neale, Chittaranjan Ray, Galen E Erickson, and Arjen Y Hoekstra. 2019. “Water Productivity in Meat and Milk Production in the US from 1960 to 2016.” <i>Environment International</i> 132: 105084.</div>
   <div class="csl-entry">Nogueira, BRF, MP Reis, AC Carvalho, EAC Mendoza, BL Oliveira, VA Silva, and AG Bertechini. 2019. “Performance, Growth Curves and Carcass Yield of Four Strains of Broiler Chicken.” <i>Brazilian Journal of Poultry Science</i> 21 (04): eRBCA–2018.</div>
   <div class="csl-entry">Pinel, John P, Michael J Mana, and J’Anne A Ward. 1989. “Stretched-Approach Sequences Directed at a Localized Shock Source by Rattus Norvegicus.” <i>Journal of Comparative Psychology</i> 103 (2): 140.</div>
   <div class="csl-entry">Pinker, Steven. 2011. <i>The Better Angels of Our Nature: The Decline of Violence in History and Its Causes</i>. Penguin UK.</div>
@@ -429,7 +429,7 @@ That is okay; I'm glad you stuck with me to the end.
   <div class="csl-entry">Scruton, Roger. 1996. <i>Animal Rights and Wrongs</i>. Demos.</div>
   <div class="csl-entry">Scully, Matthew. 2002. <i>Dominion: The Power of Man, the Suffering of Animals, and the Call to Mercy</i>. Macmillan.</div>
   <div class="csl-entry">Singer, Peter. 1975. <i>Animal Liberation: A New Ethics for Our Treatment of Animals</i>. New York Review/Random House.</div>
-  <div class="csl-entry">Smith, Ewan St John, and Gary R Lewin. 2009. “Nociceptors: A Phylogenetic View.” <i>Journal of Comparative Physiology a</i> 195: 1089–1106.</div>
+  <div class="csl-entry">Smith, Ewan St John, and Gary R Lewin. 2009. “Nociceptors: A Phylogenetic View.” <i>Journal of Comparative Physiology A</i> 195: 1089–1106.</div>
   <div class="csl-entry">Sneddon, Lynne U., Robert W. Elwood, Shelley A. Adamo, and Matthew C. Leach. 2014. “Defining and Assessing Animal Pain.” <i>Animal Behaviour</i> 97: 201–12. https://doi.org/10.1016/j.anbehav.2014.09.007</div>
   <div class="csl-entry">Spain, C Victor, Daisy Freund, Heather Mohan-Gibbons, Robert G Meadow, and Laurie Beacham. 2018. “Are They Buying It? United States Consumers’ Changing Attitudes toward More Humanely Raised Meat, Eggs, and Dairy.” <i>Animals</i> 8 (8): 128.</div>
   <div class="csl-entry">Sporchia, Fabio, Ermias Kebreab, and Dario Caro. 2021. “Assessing the Multiple Resource Use Associated with Pig Feed Consumption in the European Union.” <i>Science of the Total Environment</i> 759: 144306.</div>

@@ -17,7 +17,7 @@ Emacs's org-mode can do lots of things, and one of them is clock hours. However,
 :LOGBOOK:
 CLOCK: [2022-01-10 Mon 10:30]--[2022-01-10 Mon 20:00] =>  9:30
 CLOCK: [2022-01-11 Tue 12:00]--[2022-01-11 Tue 19:00] =>  7:00
-CLOCK: [2022-01-12 Wen 11:30]--[2022-01-12 Wen 20:00] =>  8:30
+CLOCK: [2022-01-12 Wed 11:30]--[2022-01-12 Wed 20:00] =>  8:30
 CLOCK: [2022-01-13 Thu 12:00]--[2022-01-13 Thu 20:00] =>  8:00
 :END:
 ```
@@ -46,16 +46,16 @@ data (e.g. <2022-01-01>) and :tend for the last date (e.g. <now>)."
               (seconds-to-time (org-matcher-time (plist-get params :tstart))))
              (end
               (seconds-to-time (org-matcher-time (plist-get params :tend))))
-             (t start)
+             (current-time start)
              (total-days-worked 0))
         (progn
           ;; loop through all the days in the time frame provided and count how
           ;; many days minutes were reported.
-          (while (time-less-p t end)
-            (let* ((next-day (time-add t (date-to-time "1970-01-02T00:00Z")))
-                   (minutes-in-day (get-minutes-from-log t next-day)))
+          (while (time-less-p current-time end)
+            (let* ((next-day (time-add current-time (date-to-time "1970-01-02T00:00Z")))
+                   (minutes-in-day (get-minutes-from-log current-time next-day)))
               (if (> minutes-in-day 0) (cl-incf total-days-worked 1))
-              (setq t next-day)))
+              (setq current-time next-day)))
           ;; now we can just do some simple arithmetic to get the difference
           ;; between hours ideally worked and hours actually worked.
           (let* ((total-minutes-worked (get-minutes-from-log start end))

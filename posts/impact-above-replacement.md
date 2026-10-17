@@ -268,10 +268,10 @@ Here is the procedure I used to simulate career choices based on the four replac
 
 [^5]:	 Benjamin Todd calls this a ["shared aim community"](https://80000hours.org/articles/coordination/#shared-aim-communities-and-trade-plus).
 
-[^6]:	 This model implicitly takes neglectedness and personal fit into account -- neglectedness (and importance) is captured by a job's impact level, and personal fit is captured by a person's talent level.
+[^6]:	 This model implicitly takes neglectedness and personal fit into account -- neglectedness (and importance) is captured by a job's Effort Multiplier, and personal fit is captured by a person's talent level.
 
 [^7]:	 Page (2018) writes: "In some cases, we may know the mean of the distribution and also know that all values must be positive. Given those constraints, the maximal entropy distribution must have a long tail, and as we spread the distribution across more values, we must balance high values with many low-value outcomes."
 
-	I don't know the means of these talent distributions, but it does seem likely to me that (a) that talent can't be negative and (b) the distance between the average talent and zero talent is smaller than the distance between the average talent and the greatest talent. That seems like a pretty good justification for a heavy-tailed distribution.
+	I don't know the means of these talent distributions, but it does seem likely to me that (a) talent can't be negative and (b) the distance between the average talent and zero talent is smaller than the distance between the average talent and the greatest talent. That seems like a pretty good justification for a heavy-tailed distribution.
 
-[^8]:	 Note that this means that, if the number of people exceeds the number of jobs, you'll tend to have an above average talent level. If there are 10x as many people as jobs, for example, you're randomly selected from the 90th percentile.
+[^8]:	 Note that this means that, if the number of people exceeds the number of jobs, you'll tend to have an above average talent level. If there are 10x as many people as jobs, for example, you're randomly selected from the top 10%.

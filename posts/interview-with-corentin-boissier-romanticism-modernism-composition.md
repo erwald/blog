@@ -97,4 +97,4 @@ CORENTIN: Absolutely. In my view, the problem is not to be "modern" or not, but 
 
 [^3]:	 Corentin pointed me to two interesting-looking documentaries -- *[Quand la CIA infiltrait la culture](https://www.youtube.com/watch?v=58QTcf_mFag)* *(When the CIA Infiltrated Culture)* and *[La face cachée de l'Art américain](https://www.youtube.com/watch?v=yUi-un4rpzU)* *(The Dark Side of American Art)* -- discussing this, mainly in the context of pictorial art, but perhaps there's a similar story to be told about music.
 
-[^4]:	 Nichols, J. F. J. W. (1997). *Composers on Music: Eight Centuries of Writings*. UPNE.
+[^4]:	 Fisk, J. (Ed.) (1997). *Composers on Music: Eight Centuries of Writings*. Northeastern University Press.

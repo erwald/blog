@@ -25,7 +25,7 @@ Consider the following examples:
 - In the 16th century, a Spanish nun, deep in prayer, sees an angel close by, small of stature, face burning, a beautiful cherub. In his hand, the cherub is holding a long golden spear, the point of which burns, too. He thrusts the spear into her heart, pulls it out and pulls out the entrails with it. It is terribly painful, but there's a sweetness in the pain. She moans. She is on fire with the love of God.[^9]
 - An old man is about to leave his little apartment when he realizes that his keys are gone. He definitely remembers putting them on the hallway table and there's no one besides him living in the apartment. But after half an hour of searching, he still hasn't found them.
 
-The distinction I want to make is this. Sometimes we mean by *mystery* a situation where a thing is not known that could or should be known. This is the case for three of the examples above: the circumstances of the young monk's murder, the link between COVID-19 and sleep, and the whereabouts of the old man's keys are all things that we should, or at least could in theory, know. But we don't. And the fact that we don't but should or would ordinarily know focuses our attention on these unanswered questions. That's what makes them mysterious. I call this **the mystery of the unknown**. It is the domain of secrecy and mystery fiction.
+The distinction I want to make is this. Sometimes we mean by *mystery* a situation where a thing is not known that could or should be known. This is the case for three of the examples above: the circumstances of the young monk's death, the link between COVID-19 and sleep, and the whereabouts of the old man's keys are all things that we should, or at least could in theory, know. But we don't. And the fact that we don't but should or would ordinarily know focuses our attention on these unanswered questions. That's what makes them mysterious. I call this **the mystery of the unknown**. It is the domain of secrecy and mystery fiction.
 
 But there is another kind of mystery in which the sought-after information is not only unknown, but in a sense cannot be known, or cannot be understood with the human intellect, or cannot be expressed in human language. This is what Teresa of Ávila experienced in her vision of the cherub and perhaps what you yourself experience when you think about the meaning and purpose of life. I call this **the mystery of the unknowable**. It is the domain of poetry, philosophy, and religion.
 
@@ -61,7 +61,7 @@ But he does have many more artful ways of doing it, too. One is through **anomal
 
 ![Illustration by Dan Hillier from the Folio Society edition of The Call of Cthulhu & Other Weird Stories.]({{ '/img/hero/call_of_cthulhu_2.png' | url }})
 
-Another technique that Lovecraft uses is **paradox**. A paradox is a seeming contradiction that may, upon investigation, not be a contradiction after all. A paradox poses a question, too: it asks, "If both parts of me are not true, which is wrong?" The Gnostics realized this and used paradox freely, for example the author of *Thunder, Perfect Mind*:
+Another technique that Lovecraft uses is **paradox**. A paradox is a seeming contradiction that may, upon investigation, not be a contradiction after all. A paradox poses a question, too: it asks, "If both parts of me cannot be true, which is wrong?" The Gnostics realized this and used paradox freely, for example the author of *Thunder, Perfect Mind*:
 
 > For I am the first and the last.  
 > I am the honored and the scorned.  
@@ -78,7 +78,7 @@ All these things add up to a full-frontal assault on certainty and knowing. Love
 
 Early on in *The Call of Cthulhu*, having recounted his grand-uncle's having correlated a number of dream reports, the narrator repeatedly notes that it's well that the dreamers lacked the opportunity to compare notes, or to hear of what the narrator himself has learned. Because this is knowledge that warps and shatters the human mind. He might have rejoiced that the ordeal was over. But as he prepares to recount the misfortunes of the surviving seaman, and having learned all there is to learn, the narrator issues a prophecy:
 
-> I shall never sleep calmly again when I think of the horrors that lurk ceaselessly behind life in time and in space, and of those unhallowed blasphemies from elder stars which dream beneath the seas.[^19]
+> I shall never sleep calmly again when I think of the horrors that lurk ceaselessly behind life in time and in space, and of those unhallowed blasphemies from elder stars which dream beneath the sea.[^19]
 
 [^1]:	 Lovecraft, H. & Schweitzer, D. (2008). *Supernatural horror in literature & other literary essays*. Rockville, Md: Wildside Press.
 

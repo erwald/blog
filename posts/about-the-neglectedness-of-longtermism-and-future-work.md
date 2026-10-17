@@ -17,7 +17,7 @@ Addendum 2022-10-20: Seven months later, I think this post is essentially correc
 
 </div>
 
-Quantified risks of human extinction always play out over a certain stretch of time. For example, Ord (2020, 87) estimates the probability of extinction from all natural risks to be below 0.05 percent *per century*. Usually extinction risks are calculated over relatively long timeframes, maybe because probabilities are just too small to parse on shorter timescales. The fact that the problems are long-term are of course also the reason that they are so important: If we expected the risk of nuclear warfare to drop to zero in a few years, it would be much less pressing a problem.
+Quantified risks of human extinction always play out over a certain stretch of time. For example, Ord (2020, 87) estimates the probability of extinction from all natural risks to be below 0.05 percent *per century*. Usually extinction risks are calculated over relatively long timeframes, maybe because probabilities are just too small to parse on shorter timescales. The fact that the problems are long-term is of course also the reason that they are so important: If we expected the risk of nuclear warfare to drop to zero in a few years, it would be much less pressing a problem.
 
 When determining how neglected longtermist interventions are, people usually refer to work being done at present. I suppose it is fitting to start with *The Precipice*. (And I don't mean to single out any of these writers or organizations, which are all great. They just serve to illustrate the premise.) Ord (2020, 57–58) writes:
 

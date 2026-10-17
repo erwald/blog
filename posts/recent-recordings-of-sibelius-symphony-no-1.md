@@ -27,11 +27,11 @@ Here is another connection to the orchestra I grew up with, via another great Si
 
 I don't have much to say about it.[^1] It's competent but I suppose kind of bland. Two out of five sons following in their fathers' footsteps.
 
-## Yannick Nézet-Seguin with the Orchestre Métropolitain de Montréal, 2019
+## Yannick Nézet-Séguin with the Orchestre Métropolitain de Montréal, 2019
 
-I don't have much to say about this one, either. It is kind of impeccable, not in the way that timing is, but in the way that manners can be. It sounds careful, refined, almost prudent. So unlike the cover art, which displays a brawny-looking Yannick Nézet-Seguin in a gray tweed jacket, the performance here is soft, gentle, and unaffected. The conductor is one with his orchestra. The orchestra has swallowed the music and now breathes it like air. Four out of five gray tweed jackets.
+I don't have much to say about this one, either. It is kind of impeccable, not in the way that timing is, but in the way that manners can be. It sounds careful, refined, almost prudent. So unlike the cover art, which displays a brawny-looking Yannick Nézet-Séguin in a gray tweed jacket, the performance here is soft, gentle, and unaffected. The conductor is one with his orchestra. The orchestra has swallowed the music and now breathes it like air. Four out of five gray tweed jackets.
 
-## Owain Arwel Hughes with the Royal Philharmonic Orchestra. 2020
+## Owain Arwel Hughes with the Royal Philharmonic Orchestra, 2020
 
 I feel that I am wearing out my reader. But we are nearing the end (as we are also approaching the present). This penultimate record was released last summer, which I suppose makes it late to the party. Owain Arwel Hughes is a Welsh conductor, I have learned, the Prince of Wales himself having written the preface to his autobiography, which preface is unfortunately a mere seven sentences long. I hope Owain Arwel wasn't too disappointed when he received it. The biography, by the way, opens with a scene in which a recording session of Rachmaninov's *Symphony No. 3* is momentarily interrupted by news of an airplane having flown into a New York City skyscraper ... but enough gossip.
 

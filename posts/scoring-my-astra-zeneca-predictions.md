@@ -90,7 +90,7 @@ As it turned out, the increased efficacy was due to the larger gap between the t
 > 
 > The data safety monitoring board issued a statement accusing them of putting out "potentially misleading" figures.
 > 
-> [..]
+> [...]
 > 
 > [Anthony] Fauci appeared on Good Morning America, describing the data issue as "an unforced error [...] this kind of thing does nothing but really cast some doubt".
 > 

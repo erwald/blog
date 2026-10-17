@@ -79,7 +79,7 @@ I am sympathetic to Tolstoy's attempts at building a moral system. But to me it'
 
 [^7]:	 ibid.
 
-[^8]:	 Tolstoy, having inherited much land and then expanded his wealth through the success of his writing, had previously, after spending many years anguishing about the state of his soul, given up all of that wealth, although the benefactors of this cleansing were mostly his wife and children, with whom he went on living, so that not much changed in practice.
+[^8]:	 Tolstoy, having inherited much land and then expanded his wealth through the success of his writing, had previously, after spending many years anguishing about the state of his soul, given up all of that wealth, although the beneficiaries of this cleansing were mostly his wife and children, with whom he went on living, so that not much changed in practice.
 
 [^9]:	 Troyat, H. (1967). *Tolstoy*. Doubleday & Company, Inc.
 

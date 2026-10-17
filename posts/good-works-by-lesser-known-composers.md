@@ -11,7 +11,7 @@ tags: post
 > 
 > -- Franz Kafka[^1]
 
-The habitual craving for novelty that grips the contemporary composer makes it impossible for them to return to the style of the Romantics, say, or to that of the Moderns or of the heroes of the Renaissance. Composers are like explorers in that way. There's no point trodding ground that's already been mapped out since centuries. Hence we will never have another Richard Wagner, another Jean Sibelius, another Josquin des Prez, no matter how many people of their talent we produce.
+The habitual craving for novelty that grips the contemporary composer makes it impossible for them to return to the style of the Romantics, say, or to that of the Moderns or of the heroes of the Renaissance. Composers are like explorers in that way. There's no point treading ground that's already been mapped out for centuries. Hence we will never have another Richard Wagner, another Jean Sibelius, another Josquin des Prez, no matter how many people of their talent we produce.
 
 That leaves those of us who admire that sort of music in a strange position. Because Wagner only wrote so many operas, Sibelius so many symphonies, des Prez so many masses. We discover them, we exhaust them, we go on listening to them ... what then? Sooner or later we begin to crave new things. And so we move on to their less talented contemporaries and do the same thing to those. Anyone can see where this plot is heading: to the exact state of affairs we experience today, where we burst with enthusiasm over the discovery of such-and-such a new though insignificant work of one of the olds, where our critics talk not about the music but about performance and sound quality and where, in one year alone, we have lived through the release of no less than nine[^2] new recordings of Beethoven's Symphony No. 5.[^3]
 
@@ -21,17 +21,17 @@ Each of these composers has for some or another reason not become as popular as 
 
 ## Helena
 
-In 1877 in Paris, Helena Munktell met and began to study under Vincent d'Indy.[^4] She was 25 then, a young woman. She spent years in Paris singing, performing on the piano, and studying with d'Indy and Benjamin Godard, who both championed her works there.[^5] Once, a colleague of hers commented that she was not a lady who composes, but a composer.[^6] But d'Indy advised her to look for inspiration not in the Parisian salons but in the soil of her native land and in 1910 she returned permanently to Sweden, where she would spend her winters in Stockholm and her summers in Dalarna, the two places she'd grown up.[^7]
+In 1887 in Paris, Helena Munktell met and began to study under Vincent d'Indy.[^4] She was 34 then, a young woman. She spent years in Paris singing, performing on the piano, and studying with d'Indy and Benjamin Godard, who both championed her works there.[^5] Once, a colleague of hers commented that she was not a lady who composes, but a composer.[^6] But d'Indy advised her to look for inspiration not in the Parisian salons but in the soil of her native land and in 1910 she returned permanently to Sweden, where she would spend her winters in Stockholm and her summers in Dalarna, the two places she'd grown up.[^7]
 
 ![Photograph of Helena Munktell.]({{ '/img/hero/munktell.png' | url }})
 
-That decade she wrote her last orchestral work, *Valborgsmässoeld*, or in English *Walpurgis Night Fire*, a tone poem inspired by Dalarna.[^8] It's a conservative piece, more backwards-looking than the earlier, more impressionistic and modern work *Bränningar*. But it is beautiful. It will remind you of Richard Wagner and Franz Liszt. It is largely taken up with a single theme which sounds like springtime, full of hope and light, delicate, triumphant. If it's not quite as good as *Les Preludes* or *Orpheus*, it is at least every bit as good as *Mazeppa* and *Hunnenschlacht*.
+That decade she wrote her last orchestral work, *Valborgsmässoeld*, or in English *Walpurgis Night Fire*, a tone poem inspired by Dalarna.[^8] It's a conservative piece, more backwards-looking than the earlier, more impressionistic and modern work *Bränningar*. But it is beautiful. It will remind you of Richard Wagner and Franz Liszt. It is largely taken up with a single theme which sounds like springtime, full of hope and light, delicate, triumphant. If it's not quite as good as *Les Préludes* or *Orpheus*, it is at least every bit as good as *Mazeppa* and *Hunnenschlacht*.
 
 *Valborgsmässoeld* was recorded by the Gävle Symphony Orchestra with Tobias Ringborg and released in 2005 on Sterling Records.
 
 ## Jehan
 
-In June of 1940 the Wehrmacht broke in toward the Loire and the town of Saumur. A soldier who was on reconnoiter east of the town could hear a troop of Germans approach: he dismounted his bike and mowed down 16 of them before being killed himself. This man was Jehan Alain. He left behind a wife, Madeleine, and three young daughters. He also left behind some one hundred and forty odd compositions, most of them for the organ, which he played.
+In June of 1940 the Wehrmacht broke in toward the Loire and the town of Saumur. A soldier who was on reconnaissance east of the town could hear a troop of Germans approach: he dismounted his bike and mowed down 16 of them before being killed himself. This man was Jehan Alain. He left behind a wife, Madeleine, and three young children. He also left behind some one hundred and forty odd compositions, most of them for the organ, which he played.
 
 ![Photograph of Jehan Alain.]({{ '/img/hero/alain.png' | url }})
 

@@ -23,7 +23,7 @@ It won't surprise you to learn that, with the exception of the most saintly and 
   <div class="csl-entry">Dostoevsky, Fyodor. 2004. <i>The Brothers Karamazov</i>. Translated by Richard Pevear and Larissa Volokhonsky. Vintage Classics.</div>
   <div class="csl-entry">Engel, Christoph. 2011. “Dictator Games: A Meta Study.” <i>Experimental Economics</i> 14 (4): 583–610.</div>
   <div class="csl-entry">Hoffman, Elizabeth, Kevin McCabe, Keith Shachat, and Vernon Smith. 1994. “Preferences, Property Rights, and Anonymity in Bargaining Games.” <i>Games and Economic Behavior</i> 7 (3): 346–80.</div>
-  <div class="csl-entry">Tisserand, Jean-Christian, François Cochard, and Julie Le Gallo. 2015. “Altruistic or Strategic Considerations: A Meta-Analysis on the Ultimatum and Dictator Games.” <i>Besançon: Crese, Université de Franche-Comté</i>.</div>
+  <div class="csl-entry">Tisserand, Jean-Christian, François Cochard, and Julie Le Gallo. 2015. “Altruistic or Strategic Considerations: A Meta-Analysis on the Ultimatum and Dictator Games.” <i>Besançon: CRESE, Université de Franche-Comté</i>.</div>
 </div>
 
 [^1]:	 That's a half-baked thought. I guess what I mean is that any model of meta-ethics, or any account of practical ethics, benefits from incorporating norms, because norms are such an important part of human moral behavior. I like this about [constructivist](https://plato.stanford.edu/entries/constructivism-metaethics/) accounts. They don't say "here's the Good, now let's evaluate how humans behave according to that standard", they say something like "here's how humans (and other animals) behave, from this we infer that this or that thing is the Good, now let's evaluate how humans behave according to their own standards".

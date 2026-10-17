@@ -5,7 +5,7 @@ date: 2021-07-28
 tags: post
 ---
 
-# Meta-Update 1
+# Meta Update 1
 
 Sometimes when you are hiking and look back toward the place you came from you are gripped by surprise at the distance you have covered. Sometimes when you have friends over for dinner and look at the time you are confused that it is so late. Looking through all the posts I have written since I started this blog in December 2020, I am surprised. There are 48 of them now, of which 43 have been published, and together they comprise about 100,000 words (including footnotes and citations). Henry James is supposed to have said that, in any long work of fiction, use of the first-person point of view is barbaric.[^1]
 

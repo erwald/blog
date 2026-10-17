@@ -6,7 +6,7 @@ tags: post
 eaf_link: https://forum.effectivealtruism.org/posts/CbkfwmwD2BBuFzwsZ/erich_grunewald-s-shortform?commentId=Fw6vt7egwNJEucL4e
 ---
 
-# A Kantian View on Human Extinction
+# A Kantian View on Extinction
 
 ![img]({{ '/img/hero/hazmat_suit.png' | url }})
 

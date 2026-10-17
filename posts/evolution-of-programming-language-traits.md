@@ -117,7 +117,7 @@ Why do people contribute to FOSS? Who would have thought, during most of the pas
 
 Yet GitHub has >100M hosted repositories.[^17] Smartphones, supercomputers, web servers, and embedded systems all see Linux and Linux-derived operating systems [with the majority of the market share](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Market_share_by_category). Regular people contribute to it, corporations sponsor it, governments fund it, and [the European Commission advocates it](https://ec.europa.eu/info/news/european-commission-adopts-new-open-source-software-strategy-2020-2023-2020-oct-20_en). What gives?
 
-There are different answers to this conundrum. Stallman, trying to explain why people *should* contribute to FOSS, points to pleasure, altruism, and alternative funding models among other things. Eric S. Raymond, trying to explain why people *do* contribute to FOSS, wrote that "[t]he 'utility function' Linux hackers is maximizing is not classically economic, but is the intangible of their own ego satisfaction and reputation among other hackers." In other words, maybe there is a reputation system in which failure to share knowledge is seen as bad and prestige is granted to many of those who do share. Other accounts point to contributors' signaling to potential employers and, for companies, improving FOSS quality as a way of selling complementary services.[^18]
+There are different answers to this conundrum. Stallman, trying to explain why people *should* contribute to FOSS, points to pleasure, altruism, and alternative funding models among other things. Eric S. Raymond, trying to explain why people *do* contribute to FOSS, wrote that "[t]he 'utility function' Linux hackers are maximizing is not classically economic, but is the intangible of their own ego satisfaction and reputation among other hackers." In other words, maybe there is a reputation system in which failure to share knowledge is seen as bad and prestige is granted to many of those who do share. Other accounts point to contributors' signaling to potential employers and, for companies, improving FOSS quality as a way of selling complementary services.[^18]
 
 Programming is often seen as a solitary occupation. In fact, programming has its center in people and is a deeply social occupation, in the sense that not only did we learn to program through other people and content that they made, and not only do we do it now with tools and ideas created by them, but that this learning, these tools, and these ideas are in constant change as other people work on improving them, tirelessly, for our benefit, every minute of the hour and every hour of the day.
 
@@ -127,9 +127,9 @@ Programming is often seen as a solitary occupation. In fact, programming has its
 
 [^3]:	 Mesoudi, A. (2011). *Cultural evolution : how Darwinian theory can explain human culture and synthesize the social sciences*. Chicago London: University of Chicago Press.
 
-[^4]:	 It's true that there are different thresholds in various techniques and that these techniques are sometimes replaced by new ones with much higher thresholds. But that probably means there was a gradual development happening in another area, which become viable for this application. So while at some point the electronic calculator must have seemed like a large and sudden improvement over the abacus and the mechanical calculator, it was the product of a gradual development of computers until at a certain point they became a viable alternative in the calculating aid niche.
+[^4]:	 It's true that there are different thresholds in various techniques and that these techniques are sometimes replaced by new ones with much higher thresholds. But that probably means there was a gradual development happening in another area, which became viable for this application. So while at some point the electronic calculator must have seemed like a large and sudden improvement over the abacus and the mechanical calculator, it was the product of a gradual development of computers until at a certain point they became a viable alternative in the calculating aid niche.
 
-[^5]:	 Brien, M. & Shennan, S. (2010). *Innovation in cultural systems : contributions from evolutionary anthropology*. Cambridge, Mass: MIT Press.
+[^5]:	 O'Brien, M. J., & Shennan, S. J. (Eds.) (2010). *Innovation in cultural systems : contributions from evolutionary anthropology*. Cambridge, Mass: MIT Press.
 
 [^6]:	 Henrich, J. (2001). *Cultural Transmission and the Diffusion of Innovations: Adoption Dynamics Indicate That Biased Cultural Transmission Is the Predominate Force in Behavioral Change*. American Anthropologist, 103(4), 992--1013.
 
@@ -137,7 +137,7 @@ Programming is often seen as a solitary occupation. In fact, programming has its
 
 [^8]:	 Rogers, E. (2003). *Diffusion of innovations*. New York: Free Press.
 
-[^9]:	 These is an additional problem, too. The sudden increase around 2015--16 can partly be explained by the method I used, assuming as it does that all users of a language always use the latest version of it, which is obviously not the case in the real world, wherefore we should expect string interpolation in the real world to have seen a much more gradual increase starting 2015.
+[^9]:	 There is an additional problem, too. The sudden increase around 2015--16 can partly be explained by the method I used, assuming as it does that all users of a language always use the latest version of it, which is obviously not the case in the real world, wherefore we should expect string interpolation in the real world to have seen a much more gradual increase starting 2015.
 
 [^10]:	 Mesoudi, A. (2011). *Cultural evolution : how Darwinian theory can explain human culture and synthesize the social sciences*. Chicago London: University of Chicago Press.
 
@@ -149,10 +149,10 @@ Programming is often seen as a solitary occupation. In fact, programming has its
 
 [^14]:	 Brockhoff, K., & Pearson, A. (1998). *R&D Budgeting Reactions to a Recession*. MIR: Management International Review, 38(4), 363-376.
 
-[^15]:	 Brien, M. & Shennan, S. (2010). *Innovation in cultural systems : contributions from evolutionary anthropology*. Cambridge, Mass: MIT Press.
+[^15]:	 O'Brien, M. J., & Shennan, S. J. (Eds.) (2010). *Innovation in cultural systems : contributions from evolutionary anthropology*. Cambridge, Mass: MIT Press.
 
 [^16]:	 ibid.
 
 [^17]:	 Some of these are owned or sponsored by for-profit companies or non-profit foundations that pay their developers. But I expect the majority to be unfunded and free and open source.
 
-[^18]:	 Lerner, J., & Tirole, J. (2003). *Some Simple Economics of Open Source*. The Journal of Industrial Economics, 50(2), 197--234.
+[^18]:	 Lerner, J., & Tirole, J. (2002). *Some Simple Economics of Open Source*. The Journal of Industrial Economics, 50(2), 197--234.

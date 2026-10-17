@@ -13,7 +13,7 @@ Last week, on December 30, 2021, the great Milan-based [dungeon synth](https://e
 
 In this post I will outline my method for making dungeon synth, in the hope that it might inspire somebody else, with the obvious caveats that this is just one way of doing it and that I am far from the greatest or most experienced dungeon synth producer.
 
-The general way of it is this. First I compose the thing in [MuseScore](https://musescore.org/en). At some point I export that to a MIDI file and put it in Ableton Live, where I choose instruments, add effects, and mix everything. Then follows a period where I go back and forth between writing notes in MuseScore and changing sounds in Live. When the thing near completion, I add ambience sounds in Live. Then I listen, change things, listen more, and change more things until I am happy with it.
+The general way of it is this. First I compose the thing in [MuseScore](https://musescore.org/en). At some point I export that to a MIDI file and put it in Ableton Live, where I choose instruments, add effects, and mix everything. Then follows a period where I go back and forth between writing notes in MuseScore and changing sounds in Live. When the thing nears completion, I add ambience sounds in Live. Then I listen, change things, listen more, and change more things until I am happy with it.
 
 ## Composition
 
@@ -37,7 +37,7 @@ Musical form is recursive: larger forms are often constructed by combining small
 
 When writing music at this stage, I try not to invent new musical ideas or motives. There is enough material in the passages I already have. The final composition will be more unified if I base introductions, codas, transitions, and everything else on the motives and ideas that are already there. It is easy to generate new variations of motives, for instance by changing the rhythm, shifting it to other beats, removing notes, adding ancillary notes, changing the order of notes, embellishing and ornamenting, adding upbeats, changing the harmony, and so on.
 
-How does that work in practice? For ADA, for example, I wrote the introduction partly inspired by the introduction of Brahm's Symphony No. 1, it's true, but really using only motives based on ideas occurring later on. For example, the [dactyl](https://en.wikipedia.org/wiki/Dactyl_(poetry)) rhythm in the timpani is taken from the first theme, and the very first notes of that theme, which appear just as the introduction has ended, are the model for the ascending line in the harp-like instrument of the introduction.
+How does that work in practice? For ADA, for example, I wrote the introduction partly inspired by the introduction of Brahms's Symphony No. 1, it's true, but really using only motives based on ideas occurring later on. For example, the [dactyl](https://en.wikipedia.org/wiki/Dactyl_(poetry)) rhythm in the timpani is taken from the first theme, and the very first notes of that theme, which appear just as the introduction has ended, are the model for the ascending line in the harp-like instrument of the introduction.
 
 ![Screenshot of final HdK Dungeon Synth Magazine composition in MuseScore.]({{ '/img/hdk_mag_2.png' | url }})
 
@@ -80,7 +80,7 @@ I also add atmospheric sounds at various parts of the track. These are usually s
 
 ## Mixing
 
-The main goal I have with mixing is to give the thing clarity and to make it possible to hear the individual parts -- why write passages in a contrapuntal style if the listener can't hear it? This is kind of difficult with dungeon synth, which tends to sound pretty murky. I don't have a solid way around this. I usually just tweak stuff until I have reached something like a compromise. Some less obvious things that I find helps give clarity and just generally create a nice sound:
+The main goal I have with mixing is to give the thing clarity and to make it possible to hear the individual parts -- why write passages in a contrapuntal style if the listener can't hear it? This is kind of difficult with dungeon synth, which tends to sound pretty murky. I don't have a solid way around this. I usually just tweak stuff until I have reached something like a compromise. Some less obvious things that I find help give clarity and just generally create a nice sound:
 
 - I turn the lower frequencies mono for all tracks. This makes the mix sound less muddy. You can do this with sends and buses, but I use a plugin called VUMTdeluxe which makes it easy.
 - I make heavy use of equalizers, sometimes just to shape the sound of a synth or sample, but sometimes also to give clarity to the mix. This is an old piece of advice, but one thing that works well is, instead of boosting some instrument that is hardly audible, to attenuate some other instruments in the overloaded frequency range.
