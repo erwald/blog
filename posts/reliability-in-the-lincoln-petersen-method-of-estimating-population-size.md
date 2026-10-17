@@ -11,13 +11,13 @@ The Lincoln-Petersen method allows you to estimate the size of a population base
 
 The detection probability p describes how likely we are to observe each individual. So if we went into the field and observed 50 eastern imperial eagles, that means p = 50 ÷ 5,000 = 1%. We usually don't know this either, for if we did we would also know N.
 
-Finally, n is the number of individuals that were captured and marked on the first visit, K is the number of individuals captured on the second visit, and k is the number of individuals captured on the second visit that were also marked from the first visit. The Lincoln-Petersen method relies on the fact that n ÷ N = k ÷ K, in other words that **the proportion of marked individuals is (in expectation) identical both in the whole population and in any randomly selected subset of it**. Say for example that we marked n = 500 eastern imperial eagles on our first visit; if we then also capture K = 500 on the second visit and if k = 50 of those were marked, we would estimate a population of N = n × K ÷ k = 500 × 500 ÷ 50 = 5,000 eastern imperial eagles. (For a more arcane but perhaps also thorough description of this method, see [my other post]({{ '/posts/the-kingdom-of-tamego/).' | url }})
+Finally, n is the number of individuals that were captured and marked on the first visit, K is the number of individuals captured on the second visit, and k is the number of individuals captured on the second visit that were also marked from the first visit. The Lincoln-Petersen method relies on the fact that n ÷ N = k ÷ K, in other words that **the proportion of marked individuals is (in expectation) identical both in the whole population and in any randomly selected subset of it**. Say for example that we marked n = 500 eastern imperial eagles on our first visit; if we then also capture K = 500 on the second visit and if k = 50 of those were marked, we would estimate a population of N = n × K ÷ k = 500 × 500 ÷ 50 = 5,000 eastern imperial eagles. (For a more arcane but perhaps also thorough description of this method, see [my other post]({{ '/posts/the-kingdom-of-tamego/' | url }}).)
 
 The detection probability p could be high in the first observation and low in the second one or vice versa and still not adversely affect the reliability of the estimates because it doesn't change the equation: n ÷ N = k ÷ K. It doesn't matter if you detect more or fewer individuals in the second visit, because the proportion of them that is marked will still equal the proportion that is marked in the whole population. Though actually, in some cases it does matter, as we shall see shortly ...
 
 ## Estimating Body Counts
 
-In the previous posts I described first how an official in the fictional Kingdom of Tamego went about [estimating killings in a civil war](https://www.erichgrunewald.com/posts/the-kingdom-of-tamego/) in that country and then how one can program [a Bayesian model for estimating population sizes]({{ '/posts/bayesian-modelling-of-simulated-data-from-the-kingdom-of-tamego/' | url }}) based on this sort of capture-recapture data. In the course of making the model – or rather extending a model that Marc Kéry and Michael Schaub described in _Bayesian Population Analysis using WinBUGS_ and that Hiroki Itô translated into Stan – in the course of so extending, I made many simulated-data experiments for which the model (and [the Lincoln-Petersen method](https://en.wikipedia.org/wiki/Mark_and_recapture#Lincoln%E2%80%93Petersen_estimator)) produced pretty bad estimates.
+In the previous posts I described first how an official in the fictional Kingdom of Tamego went about [estimating killings in a civil war]({{ '/posts/the-kingdom-of-tamego/' | url }}) in that country and then how one can program [a Bayesian model for estimating population sizes]({{ '/posts/bayesian-modelling-of-simulated-data-from-the-kingdom-of-tamego/' | url }}) based on this sort of capture-recapture data. In the course of making the model -- or rather extending a model that Marc Kéry and Michael Schaub described in *Bayesian Population Analysis using WinBUGS* and that Hiroki Itô translated into Stan -- in the course of so extending, I made many simulated-data experiments for which the model (and [the Lincoln-Petersen method](https://en.wikipedia.org/wiki/Mark_and_recapture#Lincoln%E2%80%93Petersen_estimator)) produced pretty bad estimates.
 
 This kind of mystified me. In some experiments, the method produced very accurate estimations, but in others they were wildly off the mark. For a while I thought this was because the Lincoln-Petersen method did not handle data with variable detection probability well. I noticed that when I halved the detection probability for one of the observations (so that the probability of detecting an individual was higher or lower on the second visit than on the first, for example because a different method of observation was used), then estimations got much less accurate. But as mentioned above, that was a red herring. **The reason that observations were worse was that I saw too few marked individuals in the second visit**, which introduced a lot of noise in the model.
 
@@ -55,14 +55,14 @@ However, then we have to capture half of the population. That seems like a lot. 
 [1] 4068.119
 ```
 
-This, too, is better – about one fifth off from the true population. What if we have a really large population but a low detection probability?
+This, too, is better -- about one fifth off from the true population. What if we have a really large population but a low detection probability?
 
 ```r
 > f(50000, .01)
 [1] 29701.75
 ```
 
-That's a pretty bad estimate, once again off by nearly half. In general, it seems that estimates improve when either population size or detection probability (or both of these) increase. **Specifically, estimates seem to be unreliable when k – the number of recaptured individuals that were also marked – is small.** We can modify our function to return k in addition to N:
+That's a pretty bad estimate, once again off by nearly half. In general, it seems that estimates improve when either population size or detection probability (or both of these) increase. **Specifically, estimates seem to be unreliable when k -- the number of recaptured individuals that were also marked -- is small.** We can modify our function to return k in addition to N:
 
 ```r
 f <- function(N, p) {
@@ -73,7 +73,7 @@ f <- function(N, p) {
 }
 ```
 
-Then we see that k is in single digits for the first and last experiments – the two that saw bad estimates:
+Then we see that k is in single digits for the first and last experiments -- the two that saw bad estimates:
 
 ```r
 > f(500, .1)
@@ -92,7 +92,7 @@ We can visualize this volatility by making a bunch of counterfactual experiments
 
 ![Counterfactual plot of varying k (recaptured marked individuals) for the different experiments.]({{ '/img/lp_captures_counterfactual.png' | url }})
 
-The y-axis shows the squared log error – when this is 0, the estimation is perfect, but the higher it is, the further away the estimation is from the target. We can see that N = 500, p = 10% and N = 50,000, p = 1% are both estimated correctly for a narrow range of values of k – the squared log error dips down quickly before quickly rising again – whereas the other two scenarios, for which correct estimations require much higher values of k, give us much more room for error.
+The y-axis shows the squared log error -- when this is 0, the estimation is perfect, but the higher it is, the further away the estimation is from the target. We can see that N = 500, p = 10% and N = 50,000, p = 1% are both estimated correctly for a narrow range of values of k -- the squared log error dips down quickly before quickly rising again -- whereas the other two scenarios, for which correct estimations require much higher values of k, give us much more room for error.
 
 If I am correct about this, then I think the Lincoln-Petersen method alone does not provide good estimations of sparse populations. The eastern imperial eagle [really does](https://www.iucnredlist.org/species/22696048/155464885) have an estimated population of ~5K individuals. So if you have p = 1%, that is, if you have a detection probability of one percent, then the closest you could get to the true population count is by recapturing exactly one marked individual (though really you'd expect to recapture exactly one half of a marked individual, because 5,000 × .01² = .5). If you find two, the error is already bad. If you find none, you're suddenly dividing by zero. We'd need to have a detection probability of 10% or more to start getting really reliable estimates. That seems like a pretty tall order for such a sparsely populated species (though I'm sure population ecologists have ways of dealing with this problem).
 

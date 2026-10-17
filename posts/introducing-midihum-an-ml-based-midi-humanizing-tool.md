@@ -11,7 +11,9 @@ tags: post
 
 Using midihum is easy enough, if you have a basic familiarity with the command line. After installing it, you navigate to the project directory and run
 
-    python main.py humanize /path/to/input.mid /path/to/output.mid
+```
+python main.py humanize /path/to/input.mid /path/to/output.mid
+```
 
 to humanize the MIDI file at `/path/to/input.mid`, saving the humanized file to `/path/to/output.mid`.
 
@@ -40,4 +42,4 @@ The midihum model was trained on performances from the International Piano-e-Com
 
 NB: midihum does not change the rhythmical timing of notes, nor does it take into account dynamics notated in sheet music. It is distributed with a GPLv3 license, which (quoting [TLDRLegal](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3)) means you may "copy, distribute and modify the software as long as you track changes/dates in source files. Any modifications to or software including (via compiler) GPL-licensed code must also be made available under the GPL along with build & install instructions." In addition, you may use the tool freely to make music, including music that you earn money from, without crediting me or this project. I wish you the best of luck in doing so. You can find the full license, as well as the code and user instructions, in the [midihum GitHub repository](https://github.com/erwald/midihum).
 
-[^1]: It is possible that some of these compositions were also present in the training set, though in that case, in different performances, by different pianists. I don't think that is the case for all of the nine, however, and midihum has also performed well enough on tests I have done with MIDI compositions that are certain to not be present in the training set, that I am confident that it is at least able to generalize to most piano music in the European art music tradition. (Another point in favor is that some of the most important features are obviously related to dynamics, in a common sense way, e.g., you crescendo on a climax, and slower music tends to be quieter.)
+[^1]:	 It is possible that some of these compositions were also present in the training set, though in that case, in different performances, by different pianists. I don't think that is the case for all of the nine, however, and midihum has also performed well enough on tests I have done with MIDI compositions that are certain to not be present in the training set, that I am confident that it is at least able to generalize to most piano music in the European art music tradition. (Another point in favor is that some of the most important features are obviously related to dynamics, in a common sense way, e.g., you crescendo on a climax, and slower music tends to be quieter.)

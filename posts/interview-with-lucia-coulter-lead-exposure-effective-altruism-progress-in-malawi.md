@@ -40,21 +40,21 @@ LUCIA: First we identify countries where we expect there to be a lot of lead pai
 
 ERICH: You founded LEEP together with Jack Rafferty. Could you say a few words about your background? What brought you to effective altruism generally and to lead exposure as a cause area specifically?
 
-LUCIA: I've been on board with the basic ideas of effective altruism for many years (in fact, ever since I first read _Famine, Affluence and Morality_ by Peter Singer when I was 12!). I became more seriously involved when I was at university and co-ran the Cambridge chapter of [Giving What We Can](https://www.givingwhatwecan.org/). I volunteered for EA-related organisations throughout my time at medical school and during my first two years working as a doctor.
+LUCIA: I've been on board with the basic ideas of effective altruism for many years (in fact, ever since I first read *Famine, Affluence and Morality* by Peter Singer when I was 12!). I became more seriously involved when I was at university and co-ran the Cambridge chapter of [Giving What We Can](https://www.givingwhatwecan.org/). I volunteered for EA-related organisations throughout my time at medical school and during my first two years working as a doctor.
 
 After my second year working as a doctor it felt like a good time to try something new and more impactful. I had some friends who had started [Charity Entrepreneurship](https://www.charityentrepreneurship.com/) incubated charities and thought it sounded like a very high impact option, as well as a great opportunity to learn a load of new cross-applicable skills in a short space of time.
 
-Lead exposure reduction was recommended in the Charity Entrepreneurship incubation program. It appealed to me for all the normal EA reasons – huge scale problem, neglected, and potentially very tractable. I also thought that my medical background could be advantageous, especially when working with health ministries and health-related academics.
+Lead exposure reduction was recommended in the Charity Entrepreneurship incubation program. It appealed to me for all the normal EA reasons -- huge scale problem, neglected, and potentially very tractable. I also thought that my medical background could be advantageous, especially when working with health ministries and health-related academics.
 
 ERICH: So this is your first time running a non-profit. How has the experience been thus far?
 
-LUCIA: Yes, it's my first time running a non-profit. The experience has been great! I'm very happy to be doing something that has the potential for really significant impact. It's incredibly rewarding when we make progress – for example when the Malawi Bureau of Standards agreed to start implementing lead paint regulation. And it's a lot of fun working with my co-founder Jack, our volunteers, and our partners. Charity Entrepreneurship has also made a big difference – their support from the incubation program to now has helped with pretty much every aspect of our work.
+LUCIA: Yes, it's my first time running a non-profit. The experience has been great! I'm very happy to be doing something that has the potential for really significant impact. It's incredibly rewarding when we make progress -- for example when the Malawi Bureau of Standards agreed to start implementing lead paint regulation. And it's a lot of fun working with my co-founder Jack, our volunteers, and our partners. Charity Entrepreneurship has also made a big difference -- their support from the incubation program to now has helped with pretty much every aspect of our work.
 
 For me the biggest challenge is the psychological one of never having 100% certainty that what we're doing will work or will have the impact that we're expecting. I do remind myself of the "expected value" argument, but I think because of my personality I just don't really enjoy the uncertainty that comes with this type of work.
 
 ERICH: Could you expand a little on how Charity Entrepreneurship helped you prepare?
 
-LUCIA: Firstly they provided a two-month full-time incubation program, which I went through (remotely) in the summer 2020. This was where I decided to work on lead exposure (which was an idea researched and recommended by Charity Entrepreneurship), where I paired up with my co-founder Jack, and from where we received our initial seed grant. During the program we learnt a huge amount of extremely relevant and practical material – for example, how to make a cost-effectiveness analysis, how to make a six-month plan, how to develop a monitoring and evaluation strategy, how to hire, and a lot more. Since then Charity Entrepreneurship has provided LEEP with weekly mentoring and wider support through the community of staff, previous incubatees, and advisors. I highly recommend checking out the Charity Entrepreneurship incubation program if anyone is interested!
+LUCIA: Firstly they provided a two-month full-time incubation program, which I went through (remotely) in the summer 2020. This was where I decided to work on lead exposure (which was an idea researched and recommended by Charity Entrepreneurship), where I paired up with my co-founder Jack, and from where we received our initial seed grant. During the program we learnt a huge amount of extremely relevant and practical material -- for example, how to make a cost-effectiveness analysis, how to make a six-month plan, how to develop a monitoring and evaluation strategy, how to hire, and a lot more. Since then Charity Entrepreneurship has provided LEEP with weekly mentoring and wider support through the community of staff, previous incubatees, and advisors. I highly recommend checking out the Charity Entrepreneurship incubation program if anyone is interested!
 
 ## LEEP's Progress
 
@@ -72,7 +72,7 @@ We have since run a paint sampling study in Botswana, which showed that househol
 
 ![Map of countries with lead paint laws, 2020. Source is the United Nations Environment Programme's 2020 report on lead-based paint.]({{ '/img/countries_with_lead_paint_laws_2020.png' | url }})
 
-ERICH: So it sounds as if you've begun picking the low-hanging fruit by going to countries that are likely to have lots of lead-based paint, that you think are willing to listen, and where no one else is doing similar work. Do you have any sense of whether it'll be possible (or desirable – I guess at some point lead-based paint will be all but gone) to scale your operations up?
+ERICH: So it sounds as if you've begun picking the low-hanging fruit by going to countries that are likely to have lots of lead-based paint, that you think are willing to listen, and where no one else is doing similar work. Do you have any sense of whether it'll be possible (or desirable -- I guess at some point lead-based paint will be all but gone) to scale your operations up?
 
 LUCIA: Yes, that's right. In year two we plan to expand our operations to around three further countries with the aim of testing the effectiveness of our approach more quickly and improving it through iteration. Then, if we have sufficient evidence to suggest that what we're doing is impactful and cost-effective we'd like to scale up rapidly. There are still over 76 countries yet to regulate lead paint, and many others that are yet to effectively implement their regulation. Most of these are likely to have a lot of lead paint on the market. Some do look like "low-hanging fruit", but others are likely to be less tractable due to less receptive or unstable governments. The more quickly we can reduce the amount of lead paint being used in as many countries as possible the better, partly because in many potential target countries there are currently rapid increases in paint use and population growth.
 
@@ -106,25 +106,46 @@ Turmeric has been identified as an important source in Bangladesh[^21] and there
 
 A different approach could be to start from scratch and fund source apportionment studies in countries with large burdens of lead poisoning to identify the most important sources. The drawback of this approach is that it is time-consuming and costly to run large high-quality studies to give good enough evidence that is representative of exposure in the country. But it would provide a very useful starting point to work out the best interventions to address the sources that are important in the country.
 
-[^1]: Tong, S., Schirnding, Y. E. V., & Prapamontol, T. (2000). Environmental lead exposure: a public health problem of global dimensions. _Bulletin of the world health organization_, _78_, 1068-1077.
-[^2]: ibid.
-[^3]: ibid.
-[^4]: American Academy of Pediatrics Committee on Environmental Health. (2005). Lead exposure in children: prevention, detection, and management. _Pediatrics_, _116_(4), 1036-1046.
-[^5]: Navas-Acien, A., Guallar, E., Silbergeld, E. K., & Rothenberg, S. J. (2007). Lead exposure and cardiovascular disease—a systematic review. _Environmental health perspectives_, _115_(3), 472-482.
-[^6]: Attina, T. M., & Trasande, L. (2013). Economic costs of childhood lead exposure in low-and middle-income countries. _Environmental health perspectives_, _121_(9), 1097-1102.
-[^7]: My source here is the [2020 lead-based paint report](https://www.unep.org/resources/report/2020-update-global-status-legal-limits-lead-paint) by the United Nations Environment Programme, which states that "[d]ecorative paint for household use has been identified as the main source of children’s lead exposure from paints".
-[^8]: Levin, R., Brown, M. J., Kashtock, M. E., Jacobs, D. E., Whelan, E. A., Rodman, J., ... & Sinks, T. (2008). Lead exposures in US children, 2008: implications for prevention. _Environmental health perspectives_, _116_(10), 1285-1293.
-[^9]: Schwartz, J., & Levin, R. (1991). The risk of lead toxicity in homes with lead paint hazard. _Environmental research_, _54_(1), 1-7.
-[^10]: Lanphear, B. P., Burgoon, D. A., Rust, S. W., Eberly, S., & Galke, W. (1998). Environmental exposures to lead and urban children's blood lead levels. _Environmental Research_, _76_(2), 120-130.
-[^11]: Dixon, S. L., Gaitens, J. M., Jacobs, D. E., Strauss, W., Nagaraja, J., Pivetz, T., ... & Ashley, P. J. (2009). Exposure of US children to residential dust lead, 1999–2004: II. The contribution of lead-contaminated dust to children's blood lead levels. _Environmental Health Perspectives_, _117_(3), 468-474.
-[^12]: Dhimal, M., Karki, K. B., Aryal, K. K., Dhimal, B., Joshi, H. D., Puri, S., ... & Kuch, U. (2017). High blood levels of lead in children aged 6-36 months in Kathmandu Valley, Nepal: A cross-sectional study of associated factors. _PloS one_, _12_(6), e0179233.
-[^13]: Bodeau-Livinec, F., Glorennec, P., Cot, M., Dumas, P., Durand, S., Massougbodji, A., ... & Le Bot, B. (2016). Elevated blood lead levels in infants and mothers in Benin and potential sources of exposure. _International journal of environmental research and public health_, _13_(3), 316.
-[^14]: Ladele, J. I., Fajolu, I. B., & Ezeaka, V. C. (2019). Determination of lead levels in maternal and umbilical cord blood at birth at the Lagos University Teaching Hospital, Lagos. _PloS one_, _14_(2), e0211535.
-[^15]: AbuShady, M. M., Fathy, H. A., Fathy, G. A., Fatah, S. A. E., Ali, A., & Abbas, M. A. (2017). Blood lead levels in a group of children: the potential risk factors and health problems. _Jornal de pediatria_, _93_(6), 619-624.
-[^16]: Mathee, A., Röllin, H., Levin, J., & Naik, I. (2007). Lead in paint: three decades later and still a hazard for African children?. _Environmental Health Perspectives_, _115_(3), 321-322.
-[^17]: da Rocha Silva, J. P., Salles, F. J., Leroux, I. N., da Silva Ferreira, A. P. S., da Silva, A. S., Assunção, N. A., ... & Olympio, K. P. K. (2018). High blood lead levels are associated with lead concentrations in households and day care centers attended by Brazilian preschool children. _Environmental Pollution_, _239_, 681-688.
-[^18]: Kalra, V., Sahu, J. K., Bedi, P., & Pandey, R. M. (2013). Blood lead levels among school children after phasing-out of leaded petrol in Delhi, India. _The Indian Journal of Pediatrics_, _80_(8), 636-640.
-[^19]: Patel, A. B., Belsare, H., & Banerjee, A. (2011). Feeding practices and blood lead levels in infants in Nagpur, India. _International journal of occupational and environmental health_, _17_(1), 24-30.
-[^20]: Patel, A. B., Williams, S. V., Frumkin, H., Kondawar, V. K., Glick, H., & Ganju, A. K. (2001). Blood lead in children and its determinants in Nagpur, India. _International journal of occupational and environmental health_, _7_(2), 119-126.
-[^21]: Forsyth, J. E., Weaver, K. L., Maher, K., Islam, M. S., Raqib, R., Rahman, M., ... & Luby, S. P. (2019). Sources of blood lead exposure in rural Bangladesh. _Environmental science & technology_, _53_(19), 11429-11436.
-[^22]: Ericson, B., Gabelaia, L., Keith, J., Kashibadze, T., Beraia, N., Sturua, L., & Kazzi, Z. (2020). Elevated Levels of Lead (Pb) Identified in Georgian Spices. _Annals of Global Health_, _86_(1).
+[^1]:	 Tong, S., Schirnding, Y. E. V., & Prapamontol, T. (2000). Environmental lead exposure: a public health problem of global dimensions. *Bulletin of the world health organization*, *78*, 1068-1077.
+
+[^2]:	 ibid.
+
+[^3]:	 ibid.
+
+[^4]:	 American Academy of Pediatrics Committee on Environmental Health. (2005). Lead exposure in children: prevention, detection, and management. *Pediatrics*, *116*(4), 1036-1046.
+
+[^5]:	 Navas-Acien, A., Guallar, E., Silbergeld, E. K., & Rothenberg, S. J. (2007). Lead exposure and cardiovascular disease—a systematic review. *Environmental health perspectives*, *115*(3), 472-482.
+
+[^6]:	 Attina, T. M., & Trasande, L. (2013). Economic costs of childhood lead exposure in low-and middle-income countries. *Environmental health perspectives*, *121*(9), 1097-1102.
+
+[^7]:	 My source here is the [2020 lead-based paint report](https://www.unep.org/resources/report/2020-update-global-status-legal-limits-lead-paint) by the United Nations Environment Programme, which states that "[d]ecorative paint for household use has been identified as the main source of children's lead exposure from paints".
+
+[^8]:	 Levin, R., Brown, M. J., Kashtock, M. E., Jacobs, D. E., Whelan, E. A., Rodman, J., ... & Sinks, T. (2008). Lead exposures in US children, 2008: implications for prevention. *Environmental health perspectives*, *116*(10), 1285-1293.
+
+[^9]:	 Schwartz, J., & Levin, R. (1991). The risk of lead toxicity in homes with lead paint hazard. *Environmental research*, *54*(1), 1-7.
+
+[^10]:	 Lanphear, B. P., Burgoon, D. A., Rust, S. W., Eberly, S., & Galke, W. (1998). Environmental exposures to lead and urban children's blood lead levels. *Environmental Research*, *76*(2), 120-130.
+
+[^11]:	 Dixon, S. L., Gaitens, J. M., Jacobs, D. E., Strauss, W., Nagaraja, J., Pivetz, T., ... & Ashley, P. J. (2009). Exposure of US children to residential dust lead, 1999--2004: II. The contribution of lead-contaminated dust to children's blood lead levels. *Environmental Health Perspectives*, *117*(3), 468-474.
+
+[^12]:	 Dhimal, M., Karki, K. B., Aryal, K. K., Dhimal, B., Joshi, H. D., Puri, S., ... & Kuch, U. (2017). High blood levels of lead in children aged 6-36 months in Kathmandu Valley, Nepal: A cross-sectional study of associated factors. *PloS one*, *12*(6), e0179233.
+
+[^13]:	 Bodeau-Livinec, F., Glorennec, P., Cot, M., Dumas, P., Durand, S., Massougbodji, A., ... & Le Bot, B. (2016). Elevated blood lead levels in infants and mothers in Benin and potential sources of exposure. *International journal of environmental research and public health*, *13*(3), 316.
+
+[^14]:	 Ladele, J. I., Fajolu, I. B., & Ezeaka, V. C. (2019). Determination of lead levels in maternal and umbilical cord blood at birth at the Lagos University Teaching Hospital, Lagos. *PloS one*, *14*(2), e0211535.
+
+[^15]:	 AbuShady, M. M., Fathy, H. A., Fathy, G. A., Fatah, S. A. E., Ali, A., & Abbas, M. A. (2017). Blood lead levels in a group of children: the potential risk factors and health problems. *Jornal de pediatria*, *93*(6), 619-624.
+
+[^16]:	 Mathee, A., Röllin, H., Levin, J., & Naik, I. (2007). Lead in paint: three decades later and still a hazard for African children?. *Environmental Health Perspectives*, *115*(3), 321-322.
+
+[^17]:	 da Rocha Silva, J. P., Salles, F. J., Leroux, I. N., da Silva Ferreira, A. P. S., da Silva, A. S., Assunção, N. A., ... & Olympio, K. P. K. (2018). High blood lead levels are associated with lead concentrations in households and day care centers attended by Brazilian preschool children. *Environmental Pollution*, *239*, 681-688.
+
+[^18]:	 Kalra, V., Sahu, J. K., Bedi, P., & Pandey, R. M. (2013). Blood lead levels among school children after phasing-out of leaded petrol in Delhi, India. *The Indian Journal of Pediatrics*, *80*(8), 636-640.
+
+[^19]:	 Patel, A. B., Belsare, H., & Banerjee, A. (2011). Feeding practices and blood lead levels in infants in Nagpur, India. *International journal of occupational and environmental health*, *17*(1), 24-30.
+
+[^20]:	 Patel, A. B., Williams, S. V., Frumkin, H., Kondawar, V. K., Glick, H., & Ganju, A. K. (2001). Blood lead in children and its determinants in Nagpur, India. *International journal of occupational and environmental health*, *7*(2), 119-126.
+
+[^21]:	 Forsyth, J. E., Weaver, K. L., Maher, K., Islam, M. S., Raqib, R., Rahman, M., ... & Luby, S. P. (2019). Sources of blood lead exposure in rural Bangladesh. *Environmental science & technology*, *53*(19), 11429-11436.
+
+[^22]:	 Ericson, B., Gabelaia, L., Keith, J., Kashibadze, T., Beraia, N., Sturua, L., & Kazzi, Z. (2020). Elevated Levels of Lead (Pb) Identified in Georgian Spices. *Annals of Global Health*, *86*(1).

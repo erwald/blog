@@ -21,13 +21,13 @@ It follows that there are two ways of becoming more productive:
 Because (1) depends on the nature of the activity, I will limit myself to some basic advice on (2):
 
 - Never keep a phone within reach of wherever you sit or lie down.
-  - While you're at it, keep your phone on Do Not Disturb to avoid being interrupted by notifications. (Friends can call twice to get through.)
+    - While you're at it, keep your phone on Do Not Disturb to avoid being interrupted by notifications. (Friends can call twice to get through.)
 - Use [LeechBlock](https://www.proginosko.com/leechblock/) or a similar tool to block or limit the viewing time of certain websites during working hours. Good candidates are news sites, social media sites, and video platforms.
-  - This will not always work, and it will never work perfectly, but the goal here is to slowly modify your habits and instincts.
+    - This will not always work, and it will never work perfectly, but the goal here is to slowly modify your habits and instincts.
 - Delete your social media accounts, or at least delete their apps from your phone and limit their viewing time on your computer (using a tool like LeechBlock).
 - If you have spare money, buy yourself time.
-  - For example, I buy meal replacements from [Jimmy Joy](https://jimmyjoy.com/) (other options include [Soylent](https://soylent.com/) and [Huel](https://huel.com/)), which I usually have for breakfast and lunch. (We always cook and eat a proper meal for dinner.) This way I can end my workday sooner.
-  - Another way is to use grocery or prepared meal delivery services.
-  - You can find more advice in this vein [here](https://forum.effectivealtruism.org/posts/g86DhzTNQmzo3nhLE/what-are-your-favourite-ways-to-buy-time).
+    - For example, I buy meal replacements from [Jimmy Joy](https://jimmyjoy.com/) (other options include [Soylent](https://soylent.com/) and [Huel](https://huel.com/)), which I usually have for breakfast and lunch. (We always cook and eat a proper meal for dinner.) This way I can end my workday sooner.
+    - Another way is to use grocery or prepared meal delivery services.
+    - You can find more advice in this vein [here](https://forum.effectivealtruism.org/posts/g86DhzTNQmzo3nhLE/what-are-your-favourite-ways-to-buy-time).
 - If you can't concentrate because of pain or headaches, you're allowed to take painkillers. This sounds (and is) obvious, but I think I was too conservative with painkillers for a long time, and it cost me many days of basically being unable to do anything useful.
 - Use a virtual co-working and accountability tool like [FocusMate](https://www.focusmate.com/).

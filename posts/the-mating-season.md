@@ -27,16 +27,16 @@ And so Erdogan, who ostensibly wanted Sweden to have tougher laws against terror
 
 And so you see how the current geopolitical situation in Europe was in fact authored by a sniggering, Austro-Hungarian[^5] ironist in 1931.
 
-[^1]: Was the fascist state Turkey or the US? I don't know. Maybe both.
-[^2]: For now I'll stick to using what Wikipedia uses, but I expect it to be switching to Türkiye soon enough.
-[^3]:
-    The [Metaculus community prediction](https://www.metaculus.com/questions/10084/sweden-to-join-nato-before-2024/) that Sweden joins NATO this year is down from 95% on January 1 to 63% now, but 63% is still pretty likely, and again, it's only for this year. The Swedish government wants it, the majority of the Swedish people want it, and nearly all NATO members want it. I imagine we'll have a better idea after the Turkish election cycle is over.
+[^1]:	 Was the fascist state Turkey or the US? I don't know. Maybe both.
 
-    By the way, I'm unsure about whether Sweden's entry into NATO would be a good thing. I don't know if it'd be good for Sweden, and I don't know if it'd be good for the world.
+[^2]:	 For now I'll stick to using what Wikipedia uses, but I expect it to be switching to Türkiye soon enough.
 
-[^4]:
-    Erdogan apparently loves to prosecute his Kurdish enemies on grounds of supporting terrorism. [This article](https://archive.is/SWEot), a saddening and terrifying chronicle of Erdogan's efforts to seek and retain power, says: "The [pro-Kurdish] HDP's charismatic leader, Selahattin Demirtas, has been in jail since November 2016, and several of its parliamentary members have had their parliamentary immunity revoked and have been jailed, usually for 'supporting terrorism', a catchall charge liberally interpreted by the authorities. Similarly, this January, the Constitutional Court froze the HDP's state-provided funds on the spurious grounds that the party supports terrorism. The court is considering whether to ban the HDP on similar grounds, and the court rejected the party's recent request to postpone the ban till after the May elections."
+[^3]:	 The [Metaculus community prediction](https://www.metaculus.com/questions/10084/sweden-to-join-nato-before-2024/) that Sweden joins NATO this year is down from 95% on January 1 to 63% now, but 63% is still pretty likely, and again, it's only for this year. The Swedish government wants it, the majority of the Swedish people want it, and nearly all NATO members want it. I imagine we'll have a better idea after the Turkish election cycle is over.
 
-    I'm not actually sure to which extent Erdogan cares about Sweden's combatting PKK and YPG. Maybe he's just posturing for the electorate.
+	By the way, I'm unsure about whether Sweden's entry into NATO would be a good thing. I don't know if it'd be good for Sweden, and I don't know if it'd be good for the world.
 
-[^5]: I have people like Robert Musil or Joseph Roth in mind.
+[^4]:	 Erdogan apparently loves to prosecute his Kurdish enemies on grounds of supporting terrorism. [This article](https://archive.is/SWEot), a saddening and terrifying chronicle of Erdogan's efforts to seek and retain power, says: "The [pro-Kurdish] HDP's charismatic leader, Selahattin Demirtas, has been in jail since November 2016, and several of its parliamentary members have had their parliamentary immunity revoked and have been jailed, usually for 'supporting terrorism', a catchall charge liberally interpreted by the authorities. Similarly, this January, the Constitutional Court froze the HDP's state-provided funds on the spurious grounds that the party supports terrorism. The court is considering whether to ban the HDP on similar grounds, and the court rejected the party's recent request to postpone the ban till after the May elections."
+
+	I'm not actually sure to which extent Erdogan cares about Sweden's combatting PKK and YPG. Maybe he's just posturing for the electorate.
+
+[^5]:	 I have people like Robert Musil or Joseph Roth in mind.

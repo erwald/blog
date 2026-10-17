@@ -17,7 +17,7 @@ The general way of it is this. First I compose the thing in [MuseScore](https://
 
 ## Composition
 
-The method I use to actually write notes is derived from Alan Belkin's compositional method.[^1] I do this in MuseScore – in other musical projects, I play instruments live, or try to play rather, but when I make dungeon synth, I compose purely on the computer. Here are the preparatory steps, where about half of the composing work is done:
+The method I use to actually write notes is derived from Alan Belkin's compositional method.[^1] I do this in MuseScore -- in other musical projects, I play instruments live, or try to play rather, but when I make dungeon synth, I compose purely on the computer. Here are the preparatory steps, where about half of the composing work is done:
 
 1. Make several varied sketches of musical ideas, things like brief motives or melodies or chord progressions. The more, the better.
 2. Select the most promising of these.
@@ -37,7 +37,7 @@ Musical form is recursive: larger forms are often constructed by combining small
 
 When writing music at this stage, I try not to invent new musical ideas or motives. There is enough material in the passages I already have. The final composition will be more unified if I base introductions, codas, transitions, and everything else on the motives and ideas that are already there. It is easy to generate new variations of motives, for instance by changing the rhythm, shifting it to other beats, removing notes, adding ancillary notes, changing the order of notes, embellishing and ornamenting, adding upbeats, changing the harmony, and so on.
 
-How does that work in practice? For ADA, for example, I wrote the introduction partly inspired by the introduction of Brahm's Symphony No. 1, it's true, but really using only motives based on ideas occurring later on. For example, the [dactyl](<https://en.wikipedia.org/wiki/Dactyl_(poetry)>) rhythm in the timpani is taken from the first theme, and the very first notes of that theme, which appear just as the introduction has ended, are the model for the ascending line in the harp-like instrument of the introduction.
+How does that work in practice? For ADA, for example, I wrote the introduction partly inspired by the introduction of Brahm's Symphony No. 1, it's true, but really using only motives based on ideas occurring later on. For example, the [dactyl](https://en.wikipedia.org/wiki/Dactyl_(poetry)) rhythm in the timpani is taken from the first theme, and the very first notes of that theme, which appear just as the introduction has ended, are the model for the ascending line in the harp-like instrument of the introduction.
 
 ![Screenshot of final HdK Dungeon Synth Magazine composition in MuseScore.]({{ '/img/hdk_mag_2.png' | url }})
 
@@ -47,24 +47,25 @@ The thing I find most pleasurable here is writing transitions between two contra
 2. Proceed by changing only one element at a time.
 3. Introduce the new ideas while at the same time recalling something already in the listener's memory.
 
-I don't write music from beginning to end – I just start editing or continuing on a section that I feel like editing or continuing on. I work on a passage until I am happy with it. If I cannot become happy with it, I delete it and start over. Deleting passages can and should feel liberatory.
+I don't write music from beginning to end -- I just start editing or continuing on a section that I feel like editing or continuing on. I work on a passage until I am happy with it. If I cannot become happy with it, I delete it and start over. Deleting passages can and should feel liberatory.
 
 ## Instrumentation
 
 The dungeon synth I make is mostly orchestral in style. Some of it I suppose you could call chamber music. But these comparisons with traditional European art music are flawed, because dungeon synth is made almost exclusively with synthesizers, which sound very different from traditional instruments like violins or flutes. A symphony has many individual parts and is scored for an orchestra with many instruments. If you try to make a track with that many synthesizers, it will probably sound like a mess, because synthesizers are really rich, full-bodied, and laced with overtones. What's more, synthesizers are usually not recorded in a giant hall, so they sound much closer than orchestral instruments.
 
-The lesson being: for dungeon synth, I find, you can get away with scoring music for only a few parts. I wouldn't use more instruments than I did for ADA, which I scored for bass flutes, bass oboes, tenor voices, strings, harpsichord, and timpani. The precise instruments don't matter – it's just important that they sound something like the synths I have in mind for each part in the final piece.
+The lesson being: for dungeon synth, I find, you can get away with scoring music for only a few parts. I wouldn't use more instruments than I did for ADA, which I scored for bass flutes, bass oboes, tenor voices, strings, harpsichord, and timpani. The precise instruments don't matter -- it's just important that they sound something like the synths I have in mind for each part in the final piece.
 
 ## Orchestration
 
 So at some point, as I am writing the music, I want to get an idea of how it will actually sound with real synths instead of MuseScore's shoddy MIDI instruments. So I export the project to a MIDI file and import that file into Ableton Live[^3]. (Actually, after exporting and before importing, I run the MIDI file through a neural network [of my creation](https://github.com/erwald/rachel) that assigns velocity values to all notes, in other words "humanizes" the music. This step, though it adds a lot, can be skipped.) In Live, I experiment with various synths for various instruments. I usually use presets, and only sometimes modify these. I think I often try over a hundred presets from various synths until I find something I am happy with.
 
-This, for me, is the hardest and – maybe not coincidentally – least fun part. But it is important. I find that you can do almost anything in the previous steps and still have it sound like dungeon synth with proper orchestration. Dungeon synth is really an atmosphere more than a style of music, and this atmosphere is based largely on timbre.
+This, for me, is the hardest and -- maybe not coincidentally -- least fun part. But it is important. I find that you can do almost anything in the previous steps and still have it sound like dungeon synth with proper orchestration. Dungeon synth is really an atmosphere more than a style of music, and this atmosphere is based largely on timbre.
 
 <div class="edit">
 <p>
 Addendum 2023-12-14: With version 4, released at the end of 2022, MuseScore now supports the use of VST audio plugins. That means I can now compose directly using the final sound I intend each part to have, so long as I stick to software synths. This is a great convenience and relief.
 </p>
+
 </div>
 
 I own a few hardware synths but when making dungeon synth I only use software synths. Some of the ones I use are:
@@ -79,11 +80,11 @@ I also add atmospheric sounds at various parts of the track. These are usually s
 
 ## Mixing
 
-The main goal I have with mixing is to give the thing clarity and to make it possible to hear the individual parts – why write passages in a contrapuntal style if the listener can't hear it? This is kind of difficult with dungeon synth, which tends to sound pretty murky. I don't have a solid way around this. I usually just tweak stuff until I have reached something like a compromise. Some less obvious things that I find helps give clarity and just generally create a nice sound:
+The main goal I have with mixing is to give the thing clarity and to make it possible to hear the individual parts -- why write passages in a contrapuntal style if the listener can't hear it? This is kind of difficult with dungeon synth, which tends to sound pretty murky. I don't have a solid way around this. I usually just tweak stuff until I have reached something like a compromise. Some less obvious things that I find helps give clarity and just generally create a nice sound:
 
 - I turn the lower frequencies mono for all tracks. This makes the mix sound less muddy. You can do this with sends and buses, but I use a plugin called VUMTdeluxe which makes it easy.
 - I make heavy use of equalizers, sometimes just to shape the sound of a synth or sample, but sometimes also to give clarity to the mix. This is an old piece of advice, but one thing that works well is, instead of boosting some instrument that is hardly audible, to attenuate some other instruments in the overloaded frequency range.
-- I distribute the instruments in stereo space, panning some somewhat – not too much – to the left and some somewhat – not too much – to the right, following the ideal of the symphony orchestra.
+- I distribute the instruments in stereo space, panning some somewhat -- not too much -- to the left and some somewhat -- not too much -- to the right, following the ideal of the symphony orchestra.
 - I use a single reverb, put in a bus channel with sends from all instruments leading to it, for the whole track, again to simulate the sound of a symphony orchestra, where there is only the reverb of the orchestra hall. That is, I don't put reverb effects on the individual instrument tracks (though sometimes a preset uses the synth's reverb module, in which case, eh, if it sounds good, I'm not going to be a purist about it ...). Impulse Record's Convology XT is an excellent reverb plugin.
 - To reduce the problem that comes with the really rich and full-bodied sound of some synths, I use TDR Labs' Proximity plugin, which does a bunch of stuff like filtering and attenuating the sound to make it appear more distant.
 - I use the Waves's J37, PuigChild and CLA-76 plugins to introduce warmth.
@@ -94,6 +95,8 @@ I am not an expert at this stuff, however, so take my advice with a grain of sal
 
 If this all sounds like a lot of work, that's because it is. I spent many many hours making ADA, which is only 15 minutes long. It tries to optimize for quality, not quantity. If that seems daunting, try using this method to make a very short track, maybe with only two brief contrasting themes, or even with just a single theme (though even in the shortest of pieces you will need some contrasting material). At worst, you will have composed a miniature. But compositions have a tendency to expand organically as you create them, and you may well end up with a longer piece by accident, so to speak.
 
-[^1]: Belkin, A. (2018). _Musical Composition_. Yale University Press.
-[^2]: Toussaint, G. T. (2005, July). The Euclidean algorithm generates traditional musical rhythms. In _Proceedings of BRIDGES: Mathematical Connections in Art, Music and Science_ (pp. 47-56).
-[^3]: I don't necessarily recommend Ableton Live over other, similar products. It's just what I'm used to. I used to use Logic Pro and that was fine, too.
+[^1]:	 Belkin, A. (2018). *Musical Composition*. Yale University Press.
+
+[^2]:	 Toussaint, G. T. (2005, July). The Euclidean algorithm generates traditional musical rhythms. In *Proceedings of BRIDGES: Mathematical Connections in Art, Music and Science* (pp. 47-56).
+
+[^3]:	 I don't necessarily recommend Ableton Live over other, similar products. It's just what I'm used to. I used to use Logic Pro and that was fine, too.

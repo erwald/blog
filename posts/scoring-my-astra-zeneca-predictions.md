@@ -15,7 +15,7 @@ At the same time, just over a fourth of the world population has received at lea
 I think the arguments I made in that post are sound and that ultimately I was right. But I also made four predictions for the future, predictions that were less impressive. I wrote:
 
 > By July 1, 2021,
->
+> 
 > 1. the expert consensus will be that continuing with the AstraZeneca vaccinations would have saved more lives than pausing it ⇒ 95%
 > 2. a majority of the listed countries will have resumed administering the AstraZeneca vaccine ⇒ 90%.
 > 3. the FDA will have approved the AstraZeneca vaccine for use in the U.S. ⇒ 95%
@@ -73,27 +73,27 @@ As far as I can tell, out of the 16 countries that I mentioned as having suspend
 This did not happen. An [article](https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2021%2Fjun%2F26%2Fthe-oxford-vaccine-the-trials-and-tribulations-of-a-world-saving-jab) by Sarah Boseley provides some of the story. It seems that the initial trials were partly flawed, and partly tailored for scientific research, not for regulatory approval:
 
 > By the time AstraZeneca got involved, Oxford's scientists had already set up the early trials. That meant [...] that the studies were not tailored to the needs of regulators in the way that big drug companies would have done it.
->
+> 
 > [...]
->
+> 
 > Two things happened that would cause serious problems with regulators later on. Oxford had an extremely cautious approach to older people, and chose to recruit mostly under-60s for the earliest trials in the UK.
->
+> 
 > Second, there was a glitch in the production of vaccines for the studies. A contractor accidentally supplied half-doses, according to AstraZeneca's Sir Mene Pangalos [...] When they found out, the academic researchers told the Medicines and Healthcare products Regulatory Authority (MHRA) in the UK, and got the go-ahead to continue with two dosing strengths to see what happened.
->
-> When the trials reported, it turned out that volunteers given a half-dose followed by a full dose got more protection – up to 90%, compared with 62%.
->
+> 
+> When the trials reported, it turned out that volunteers given a half-dose followed by a full dose got more protection -- up to 90%, compared with 62%.
+> 
 > Pangalos described it as serendipity. Regulatory bodies such as the Food and Drug Administration in the US don't like serendipity. They like predictability and no surprises. The oddity of the information sowed doubt at the FDA.
 
 As it turned out, the increased efficacy was due to the larger gap between the two shots in that group, not the lower dosage. In September of last year, the FDA was unhappy about what they perceived as lack of transparency with regard to two cases of possible side-effects (these later proved to be unrelated to the vaccine); this slowed down trials significantly in the U.S. The article continues:
 
 > When the US trials eventually reported in March, AstraZeneca's top executives thought they were home and dry. They reported good results: 79% efficacy against symptomatic illness and 100% against deaths. They had hardly had time to pop a champagne cork before the world turned upside down again. They were accused by experts in the US of massaging the data to give a more favourable result.
->
+> 
 > The data safety monitoring board issued a statement accusing them of putting out "potentially misleading" figures.
->
+> 
 > [..]
->
+> 
 > [Anthony] Fauci appeared on Good Morning America, describing the data issue as "an unforced error [...] this kind of thing does nothing but really cast some doubt".
->
+> 
 > Oxford and AstraZeneca's scientists were astounded by the onslaught. They worked day and night to update the figures. Adding the very latest data pushed the overall efficacy down from 79% to 76%, which was barely a drop, and actually pushed up efficacy in the older age group from 80% to 85%. AstraZeneca's vaccine is still not licensed in the US.
 
 **Verdict:** False.
@@ -105,9 +105,9 @@ As it turned out, the increased efficacy was due to the larger gap between the t
 I did not really find any record of an official having stated this, though I am limited somewhat by my knowing only a few languages. To take one example, [this](https://web.archive.org/web/20210710071154/https://www.nytimes.com/2021/05/07/world/europe/germany-vaccines-astrazeneca.html) was the closest that Jens Spahn, the Health Minister of Germany, came to admitting his mistake:
 
 > In announcing the government's latest policy change on AstraZeneca, Mr. Spahn did not make a scientific argument, though anyone under 60 who takes the shot will have to discuss the risks with a doctor. Instead, he emphasized the need for flexibility and getting more people vaccinated.
->
+> 
 > [...]
->
+> 
 > "We will make a lot more flexibility possible", Mr. Spahn told the public television station WDR on Wednesday. "Many people want to have their second shot earlier, with an eye on summer, and that is possible with Astra."
 
 To the question of whether a suspension causes more deaths than it prevents, the website of the Bundesministerium für Gesundheit (the German Federal Ministry of Health) gave the following [answer](https://archive.is/20210318193643/https://www.bundesgesundheitsministerium.de/coronavirus/faq-covid-19-impfung/faq-impfung-astrazeneca.html#selection-3678.0-3678.5) back in March (original German in the footnote):
@@ -120,15 +120,26 @@ But that was an artless dodge, and not anything close to an admission of oversig
 
 **Discussion:** Although there were a lot of officials involved in this situation, and therefore a lot of potential admitters of mistakes, the base rate for an official admitting to a mistake, especially when they are still in office, must be vanishingly small. Also, there was never really any chance that they would be forced to confront the truth. Instead, the whole thing was more or less memory-holed. I have updated my beliefs accordingly.
 
-[^1]: [Weekly epidemiological update on COVID-19 – 13 July 2021](https://www.who.int/publications/m/item/weekly-epidemiological-update-on-covid-19---13-july-2021), WHO.
-[^2]: ibid.
-[^3]: ibid.
-[^4]: [Coronavirus vaccinations](https://ourworldindata.org/covid-vaccinations?country=~OWID_WRL), Our World in Data.
-[^5]: ibid.
-[^6]: My source here is an [article](https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.texastribune.org%2F2021%2F07%2F21%2Fcoronavirus-texas-vaccinated-deaths%2F) in The Texas Tribune. Note that the numbers are preliminary and that the article states "at least 43", whatever that means. Even if the number were twice as high, the vaccines' effect would still be plain.
-[^7]: Faranda, D., Alberti, T., Arutkin, M., Lembo, V., & Lucarini, V. (2021). Interrupting vaccination policies can greatly spread SARS-CoV-2 and enhance mortality from COVID-19 disease: The AstraZeneca case for France and Italy\<? A3B2 show [feature]?\>. _Chaos: An Interdisciplinary Journal of Nonlinear Science_, _31_(4), 041105.
-[^8]: ibid.
-[^9]: ibid.
-[^10]: Deiana, C., Geraci, A., Mazzarella, G., & Sabatini, F. (2021). Perceived Risk and Vaccine Hesitancy: Quasi-Experimental Evidence from Italy.
-[^11]: Sprekelmeyer, L. (2021). _Are “Trust in the COVID-19 Vaccine” and “Trust in the different Companies” Predictors of German Citizens' Willingness to get Vaccinated against COVID-19?_ (Bachelor's thesis, University of Twente).
-[^12]: Das ist ein statistischer (und legitimer) Aspekt. Aber der Staat ist rechtlich insbesondere auch dem einzelnen Bürger / der einzelnen Bürgerin verpflichtet, der / die im Rahmen einer staatlichen Impfkampagne geimpft wird! Der Staat stellt den Impfstoff zur Verfügung und hat damit besondere Sorgfaltspflichten. Amtsträger des BMG und PEI sind verpflichtet, die Sicherheit des Impfstoffs zu überwachen und bei entsprechenden Signalen zu reagieren. Wenn diese Pflichten verletzt werden, und die Impfkampagne weiterlaufen würde, ohne die Bevölkerung und die zu impfenden Personen ordentlich aufzuklären, könnten auch rechtliche Konsequenzen drohen.
+[^1]:	 [Weekly epidemiological update on COVID-19 -- 13 July 2021](https://www.who.int/publications/m/item/weekly-epidemiological-update-on-covid-19---13-july-2021), WHO.
+
+[^2]:	 ibid.
+
+[^3]:	 ibid.
+
+[^4]:	 [Coronavirus vaccinations](https://ourworldindata.org/covid-vaccinations?country=~OWID_WRL), Our World in Data.
+
+[^5]:	 ibid.
+
+[^6]:	 My source here is an [article](https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.texastribune.org%2F2021%2F07%2F21%2Fcoronavirus-texas-vaccinated-deaths%2F) in The Texas Tribune. Note that the numbers are preliminary and that the article states "at least 43", whatever that means. Even if the number were twice as high, the vaccines' effect would still be plain.
+
+[^7]:	 Faranda, D., Alberti, T., Arutkin, M., Lembo, V., & Lucarini, V. (2021). Interrupting vaccination policies can greatly spread SARS-CoV-2 and enhance mortality from COVID-19 disease: The AstraZeneca case for France and Italy\<? A3B2 show [feature]?\>. *Chaos: An Interdisciplinary Journal of Nonlinear Science*, *31*(4), 041105.
+
+[^8]:	 ibid.
+
+[^9]:	 ibid.
+
+[^10]:	 Deiana, C., Geraci, A., Mazzarella, G., & Sabatini, F. (2021). Perceived Risk and Vaccine Hesitancy: Quasi-Experimental Evidence from Italy.
+
+[^11]:	 Sprekelmeyer, L. (2021). *Are “Trust in the COVID-19 Vaccine” and “Trust in the different Companies” Predictors of German Citizens' Willingness to get Vaccinated against COVID-19?* (Bachelor's thesis, University of Twente).
+
+[^12]:	 Das ist ein statistischer (und legitimer) Aspekt. Aber der Staat ist rechtlich insbesondere auch dem einzelnen Bürger / der einzelnen Bürgerin verpflichtet, der / die im Rahmen einer staatlichen Impfkampagne geimpft wird! Der Staat stellt den Impfstoff zur Verfügung und hat damit besondere Sorgfaltspflichten. Amtsträger des BMG und PEI sind verpflichtet, die Sicherheit des Impfstoffs zu überwachen und bei entsprechenden Signalen zu reagieren. Wenn diese Pflichten verletzt werden, und die Impfkampagne weiterlaufen würde, ohne die Bevölkerung und die zu impfenden Personen ordentlich aufzuklären, könnten auch rechtliche Konsequenzen drohen.

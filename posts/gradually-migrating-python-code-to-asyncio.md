@@ -166,7 +166,7 @@ Note that we now send off all three requests before we have received a response 
 This program is so tiny that it is easy to port the whole thing over to use `asyncio`. But porting large programs is more tricky. There are a number of things we need to be aware of. Here are two important constraints:
 
 - Because coroutines can only be awaited by other coroutines, `async` will sort of "bubble up" through a program, until it reaches a terminus with `asyncio.run()`.
-- Because we cannot have multiple event loops at the same time, we cannot use `asyncio.run()` in any function that may be called from a coroutine. We should really only call `asyncio.run()` at the entry point for our program, or at least only in functions that we _know_ will never be called from coroutines.
+- Because we cannot have multiple event loops at the same time, we cannot use `asyncio.run()` in any function that may be called from a coroutine. We should really only call `asyncio.run()` at the entry point for our program, or at least only in functions that we *know* will never be called from coroutines.
 
 Given these constraints, there are various ways to go about gradually migrating a large program to use `asyncio`. The way I've done it is to call `asyncio.run()` once (or rarely) at the program's top level, and to create asynchronous alternatives of blocking I/O functions at the bottom level. (Slatkin (2019) recommends two different approaches: one top-down approach and one bottom-up approach. These might work better than mine for very large programs.) This has allowed me to keep some strands of the call hierarchy synchronous while making others asynchronous. Here is how it might look on the bottom level:
 
@@ -181,7 +181,7 @@ def _get_async(path):
     return _get(path)
 ```
 
-Now when I want a function – like `_get_character()` – to make asynchronous requests, I can add `async` and `await` the `_get_async()` coroutine in the function body. Then any functions that call _that_ coroutine will also need `async`, and so on until we reach the top level. But any function that doesn't have `_get_character()` in its call hierarchy can stay synchronous, just like it was before.
+Now when I want a function -- like `_get_character()` -- to make asynchronous requests, I can add `async` and `await` the `_get_async()` coroutine in the function body. Then any functions that call *that* coroutine will also need `async`, and so on until we reach the top level. But any function that doesn't have `_get_character()` in its call hierarchy can stay synchronous, just like it was before.
 
 This has worked pretty well. One issue that I have run into is trying to port a function that takes a callback. In our previous example, pre-migration, we may have a `_handle_error()` function that takes a function as an argument, invokes it, and if an error appears, logs the error and tries again.
 

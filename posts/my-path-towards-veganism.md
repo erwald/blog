@@ -10,8 +10,8 @@ tags: post
 ![Drawing by Viktoriia Shcherbak of animal ascending stairs.]({{ '/img/hero/animal_ascending_stairs.png' | url }})
 
 > Patience opens every door.[^1]
->
-> – Proverb
+> 
+> -- Proverb
 
 Sometimes you hear a person speak of having experienced such-and-such a revelation that caused them from that moment on to live their life differently, but none of the consequential changes I have made in my life happened anywhere near as quick as that. Before I moved to Italy I had told myself and everyone I knew for years that I intended to spend a year abroad. Before I began to make monthly donations to effective charities I had known for months that it was the right thing to do. And before I became a vegetarian some six or so years ago I had been convinced for years that eating meat was wrong and that one ought not to do it. I do not know what causes this terrible inertia in me, but I take solace in the fact that things seem to be moving in the right direction.
 
@@ -29,7 +29,7 @@ There are a few ways I could go about this. I could try to do it all in one go, 
 6. Starting on December 1, 2021, I will give up cheese when eating at home.
 7. Starting on January 1, 2022, I will give up eggs and cheese also when eating out, thereby becoming fully vegan.
 
-Just now I wrote the phrase _fully vegan_, but there is of course the question of how zealously I intend to hold myself to the vegan life. I will certainly eschew all fur, skin, and leather products without exception, as well as meat. That is easy. Even if I could imagine circumstances in which I would find it acceptable to eat meat, such as from roadkill, I have no desire to do so. I suspect that the same will eventually happen with cheese and eggs, but until then I will allow myself to eat either of those under exceptional circumstances, such as when traveling in places that have very few vegan options, or in some distant future where my wife and I have moved into the countryside and can keep some pandered egg-laying hens around. That seems reasonable to me, but I always have the option of making the diet more stringent still in future.
+Just now I wrote the phrase *fully vegan*, but there is of course the question of how zealously I intend to hold myself to the vegan life. I will certainly eschew all fur, skin, and leather products without exception, as well as meat. That is easy. Even if I could imagine circumstances in which I would find it acceptable to eat meat, such as from roadkill, I have no desire to do so. I suspect that the same will eventually happen with cheese and eggs, but until then I will allow myself to eat either of those under exceptional circumstances, such as when traveling in places that have very few vegan options, or in some distant future where my wife and I have moved into the countryside and can keep some pandered egg-laying hens around. That seems reasonable to me, but I always have the option of making the diet more stringent still in future.
 
 Here are some predictions. On February 1, 2022,
 
@@ -44,5 +44,6 @@ I put a fairly pessimistic prediction for the dairy products rule because those 
 
 I will return to these next year. For the purposes of scoring my predictions, I will not count any instance of myself unintentionally breaking a rule.
 
-[^1]: Grayling, _The Good Book: A Humanist Bible_.
-[^2]: Or maybe that is not quite correct, because currently agriculture involves the killing of many rodents and insects. However, (1) that suffering is an unfortunate side-effect, not an intentional and intrinsic part of the process and (2) animals bred for food need to be fed too, and so the agricultural costs will be there regardless. I hope for a future in which agriculture does not involve so much suffering, but even when it does, it still seems to me that veganism is the most ethical diet.
+[^1]:	 Grayling, *The Good Book: A Humanist Bible*.
+
+[^2]:	 Or maybe that is not quite correct, because currently agriculture involves the killing of many rodents and insects. However, (1) that suffering is an unfortunate side-effect, not an intentional and intrinsic part of the process and (2) animals bred for food need to be fed too, and so the agricultural costs will be there regardless. I hope for a future in which agriculture does not involve so much suffering, but even when it does, it still seems to me that veganism is the most ethical diet.

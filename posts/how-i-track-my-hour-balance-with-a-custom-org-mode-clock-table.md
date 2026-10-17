@@ -9,9 +9,9 @@ tags: post
 
 No one at my work actually cares how many hours I work; they just care that I get a certain amount of work done each day or week or month. But for the sake of my own sanity, I still track the number of hours I work each day. That might surprise you, if you associate time clocking with cost-cutting management and employee surveillance. But of course I don't share my numbers with anyone else. This way, if I've worked shorter days, I know I have some catching up to do, and if I've had a busy period, I can compensate in the days ahead. I don't need to worry about whether I'm not working enough or working too much or anything like that.
 
-(Many years ago, when I worked my first job – a ten-month stint building prototypes at Volvo Cars – management extended the physical time clock mandate to white-collar employees, who had previously been able to report their hours at their convenience via a web tool. I remember several colleagues later on saying something to the effect that they had gained many extra hours this way, though perhaps they were the conscientious ones.)
+(Many years ago, when I worked my first job -- a ten-month stint building prototypes at Volvo Cars -- management extended the physical time clock mandate to white-collar employees, who had previously been able to report their hours at their convenience via a web tool. I remember several colleagues later on saying something to the effect that they had gained many extra hours this way, though perhaps they were the conscientious ones.)
 
-Emacs's org-mode can do lots of things, and one of them is clock hours. However, it doesn't provide an out-of-the-box method for calculating hour balance. By hour balance, I mean how many hours one has worked over or under what one has decided one _should have_ worked. Say I'm supposed to work eight hours per day but have actually worked these hours:
+Emacs's org-mode can do lots of things, and one of them is clock hours. However, it doesn't provide an out-of-the-box method for calculating hour balance. By hour balance, I mean how many hours one has worked over or under what one has decided one *should have* worked. Say I'm supposed to work eight hours per day but have actually worked these hours:
 
 ```
 :LOGBOOK:
@@ -66,14 +66,14 @@ data (e.g. <2022-01-01>) and :tend for the last date (e.g. <now>)."
             (insert (format "%0.1f" hour-difference)))))))
 ```
 
-<div class="edit" id="org1b40f56">
+<div class="edit">
 <p>
-Edit 2022-01-28: There was previously a bug in this function, which bug caused one's reported hours not to count, resulting in a massive deficit. The bug has been fixed as of today.
+Edit 2022-01-28: There was previously a bug in this function, which bug caused one’s reported hours not to count, resulting in a massive deficit. The bug has been fixed as of today.
 </p>
 
 </div>
 
-A clock table, or report, is basically a view onto the raw logbook data. It's called _table_ because it normally takes the form of one; mine doesn't, but I will call it that anyway. You use this one like you do any other org-mode clock table, only you also need to remember to supply the `:tstart` and `:tend` arguments:
+A clock table, or report, is basically a view onto the raw logbook data. It's called *table* because it normally takes the form of one; mine doesn't, but I will call it that anyway. You use this one like you do any other org-mode clock table, only you also need to remember to supply the `:tstart` and `:tend` arguments:
 
 ```
 :LOGBOOK:...

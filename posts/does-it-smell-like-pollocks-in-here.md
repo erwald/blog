@@ -9,9 +9,9 @@ tags: post
 
 ![Drawing by Viktoriia Shcherbak of Jackson Pollock painting.]({{ '/img/hero/pollock.png' | url }})
 
-Let me tell you about this interesting study. Turpin et al. (2019) took a bunch of abstract artworks – some computer-generated and others taken from MoMA's digital library – and assigned to these two types of titles, mundane ones (e.g. _Canvas 8_ or _Version 4: Abstract Elements_ or _Colour Mixing_ or _Objects in Tint_) and descriptive yet nonsensical ones (e.g. _The Deaf Echo_ or _Undefined Singularity of Pain_ or _The Pathological Interior_ or _Evolving Model of Dreams_).[^1] Armed with these, they ran four experiments.[^2] (For some of the experiments, they also used a control group of paintings that were assigned no title at all.[^3]) What they found was that subjects considered both varieties of artworks more profound if they were accompanied with a nonsensical descriptive title than with either a mundane title or no title at all.[^4]
+Let me tell you about this interesting study. Turpin et al. (2019) took a bunch of abstract artworks -- some computer-generated and others taken from MoMA's digital library -- and assigned to these two types of titles, mundane ones (e.g. *Canvas 8* or *Version 4: Abstract Elements* or *Colour Mixing* or *Objects in Tint*) and descriptive yet nonsensical ones (e.g. *The Deaf Echo* or *Undefined Singularity of Pain* or *The Pathological Interior* or *Evolving Model of Dreams*).[^1] Armed with these, they ran four experiments.[^2] (For some of the experiments, they also used a control group of paintings that were assigned no title at all.[^3]) What they found was that subjects considered both varieties of artworks more profound if they were accompanied with a nonsensical descriptive title than with either a mundane title or no title at all.[^4]
 
-Now, I believe that [meaning is closely related to association]({{ '/posts/networks-of-meaning/' | url }}), that things have meaning for people if they can be connected to other meaningful things. Using that model, it seems perfectly natural for people to find more meaning in paintings with descriptive titles, even if those titles are nonsensical or nondescript, simply because they prompt the viewer to associate. The thing that mainly matters in a title is its ability to call to mind thoughts and memories in the observer. The lack of internal logic is – so I suspect – mostly a distraction. The point is the titles' descriptive quality. But that was not how the authors chose to frame their study. Instead, they chose to call these descriptive yet nonsensical titles "pseudo-profound bullshit titles" and to name their paper _Bullshit Makes the Art Grow Profounder_.[^5]
+Now, I believe that [meaning is closely related to association]({{ '/posts/networks-of-meaning/' | url }}), that things have meaning for people if they can be connected to other meaningful things. Using that model, it seems perfectly natural for people to find more meaning in paintings with descriptive titles, even if those titles are nonsensical or nondescript, simply because they prompt the viewer to associate. The thing that mainly matters in a title is its ability to call to mind thoughts and memories in the observer. The lack of internal logic is -- so I suspect -- mostly a distraction. The point is the titles' descriptive quality. But that was not how the authors chose to frame their study. Instead, they chose to call these descriptive yet nonsensical titles "pseudo-profound bullshit titles" and to name their paper *Bullshit Makes the Art Grow Profounder*.[^5]
 
 Here is how they define "bullshit":
 
@@ -29,9 +29,9 @@ In the later paper, Turpin et al. make the following clarification:
 
 > Of course, "bullshit" in this context need not carry any negative connotation. If the goal of a piece of art is to inspire the feeling of profoundness in its viewers, whether this feeling originates from the art itself or is created by the viewer is of no consequence. [...] These predictions are not intended to be taken as a value judgment on the quality of modern art, nor a dismissal of the subjectively derived meaning formed when exposed to such pieces. If anything, the production of good and satisfying "bullshit" (i.e., statements meant to be impressive regardless of truth) may simply be part of the artistic process as much as the production of a painting.[^10]
 
-But that seems a little naïve. Of course bullshit does not _need_ to sound negative. But in this world, in the year 2021, it does. On the one hand, they write that the production of good "bullshit" is a part of the artistic process, which does not imply any sort of value judgment. On the other, they define "bullshit" as "an absence of concern for truth or meaning" and write that it's fakery. In one breath they imply that artists are conning their clientele, but in the next they assure us that they have nothing bad to say about artists. I wish they would just come out and say what they think instead of this nervous hedging.
+But that seems a little naïve. Of course bullshit does not *need* to sound negative. But in this world, in the year 2021, it does. On the one hand, they write that the production of good "bullshit" is a part of the artistic process, which does not imply any sort of value judgment. On the other, they define "bullshit" as "an absence of concern for truth or meaning" and write that it's fakery. In one breath they imply that artists are conning their clientele, but in the next they assure us that they have nothing bad to say about artists. I wish they would just come out and say what they think instead of this nervous hedging.
 
-But, well, fine. That is a semantic quibble. Another quibble would be that the experiments were carried out only with undergraduate students in a Western university.[^11] But I am guessing that the results would generalize, at least in the West, so I won't argue that either. A third quibble would be that several of the pseudo-profound titles they used were not, in fact, nonsensical, for example: _Virgin Desire_, _Trapped_, _Reflecting Shape_, _The Beaten Angel_, and so on. These all seem like perfectly sane titles that would suit any number of abstract artworks. But fine, the majority of the generated titles were indeed nonsensical, so I will put that aside, too.
+But, well, fine. That is a semantic quibble. Another quibble would be that the experiments were carried out only with undergraduate students in a Western university.[^11] But I am guessing that the results would generalize, at least in the West, so I won't argue that either. A third quibble would be that several of the pseudo-profound titles they used were not, in fact, nonsensical, for example: *Virgin Desire*, *Trapped*, *Reflecting Shape*, *The Beaten Angel*, and so on. These all seem like perfectly sane titles that would suit any number of abstract artworks. But fine, the majority of the generated titles were indeed nonsensical, so I will put that aside, too.
 
 ## Bullshit as a Viable Artist Strategy
 
@@ -43,7 +43,7 @@ Is the contemporary art world full of grifters? Turpin et al. do not exactly sho
 
 > If the world of abstract art does in fact represent an ideal environment for bullshit to be deployed as an effective low-cost strategy for gaining prestige, then one would expect the presence of bullshit to be widespread in this domain.[^13]
 
-If that were true, I would think that the "pseudo-profound bullshit" strategy would have outcompeted all sorts of mundane titles like _Number 3_ (Pollock) or _Composition No. 10_ (Mondrian) by now, since it requires little effort and produces superior results. If it can't even do that, it doesn't seem like an effective strategy. So does it? I don't know for sure, but I did have a look at [the MoMA collection data set](https://github.com/MuseumofModernArt/collection). I took all their paintings since 1900 and used some (admittedly imperfect) regular expressions to label each painting as having a mundane title or not. Then I modeled the prevalence of mundane titles each year. This plot shows the medians and interquartile ranges of the model's posterior distribution:
+If that were true, I would think that the "pseudo-profound bullshit" strategy would have outcompeted all sorts of mundane titles like *Number 3* (Pollock) or *Composition No. 10* (Mondrian) by now, since it requires little effort and produces superior results. If it can't even do that, it doesn't seem like an effective strategy. So does it? I don't know for sure, but I did have a look at [the MoMA collection data set](https://github.com/MuseumofModernArt/collection). I took all their paintings since 1900 and used some (admittedly imperfect) regular expressions to label each painting as having a mundane title or not. Then I modeled the prevalence of mundane titles each year. This plot shows the medians and interquartile ranges of the model's posterior distribution:
 
 ![Time-series plot of prevalence of mundane titles among paintings in the MoMA database.]({{ '/img/moma_paintings_mundane_titles.png' | url }})
 
@@ -51,19 +51,32 @@ The variance increases in the modern era due to the smaller sample size, but jud
 
 I suppose my main issue with the study is that it seems to imply that artists are bamboozling their audiences. This requires (1) artists to intentionally use so-called bullshit with the intention of misleading the audience; (2) the audience to be misled by the so-called bullshit (as opposed to being willing participants); and (3) artists really using "pseudo-profound bullshit" in the wild. But I am not sure any of those things are actually widespread.
 
-That said, it is difficult for anyone who has read any number of artists' statements, exhibition guides, art magazines, and so on to shake the suspicion that there really is a lot of bullshit (in every sense of the word) in contemporary art. My wife just reminded me of something that I'd forgotten. She told me how, at an exhibition at Kunstraum Kreuzberg/Bethanien last summer, with the very IAE title _Interstitial Spaces_, I had gone missing for a while. She found me, at my patience's end, in a room with a row of plinths or something like that, on which rested a number of pink books that I was reading. I had already found no less than ten grammatical errors. That's how a Words' Rights Activist is made.
+That said, it is difficult for anyone who has read any number of artists' statements, exhibition guides, art magazines, and so on to shake the suspicion that there really is a lot of bullshit (in every sense of the word) in contemporary art. My wife just reminded me of something that I'd forgotten. She told me how, at an exhibition at Kunstraum Kreuzberg/Bethanien last summer, with the very IAE title *Interstitial Spaces*, I had gone missing for a while. She found me, at my patience's end, in a room with a row of plinths or something like that, on which rested a number of pink books that I was reading. I had already found no less than ten grammatical errors. That's how a Words' Rights Activist is made.
 
-[^1]: Turpin, M. H., Walker, A., Kara-Yakoubian, M., Gabert, N. N., Fugelsang, J., & Stolz, J. A. (2019). Bullshit makes the art grow profounder. _Judgment and Decision Making_, 14(6), 658-670.
-[^2]: ibid.
-[^3]: ibid.
-[^4]: ibid.
-[^5]: ibid.
-[^6]: ibid.
-[^7]: Pennycook, G., Cheyne, J. A., Barr, N., Koehler, D. J., & Fugelsang, J. A. (2015). On the reception and detection of pseudo-profound bullshit. _Judgment and Decision making_, 10(6), 549-563.
-[^8]: ibid.
-[^9]: If you recognized that as derived from the Twitter feed of the ghastly charlatan Deepak Chopra, congratulations. He, by the way, responded to news reports on this earlier paper with this hilariously wounded tweet: "Dear friends a 'scientific' study shows we (I and you) have lower intelligence".
-[^10]: Turpin, M. H., Walker, A., Kara-Yakoubian, M., Gabert, N. N., Fugelsang, J., & Stolz, J. A. (2019). Bullshit makes the art grow profounder. _Judgment and Decision Making_, 14(6), 658-670.
-[^11]: ibid.
-[^12]: ibid.
-[^13]: ibid.
-[^14]: ibid.
+[^1]:	 Turpin, M. H., Walker, A., Kara-Yakoubian, M., Gabert, N. N., Fugelsang, J., & Stolz, J. A. (2019). Bullshit makes the art grow profounder. *Judgment and Decision Making*, 14(6), 658-670.
+
+[^2]:	 ibid.
+
+[^3]:	 ibid.
+
+[^4]:	 ibid.
+
+[^5]:	 ibid.
+
+[^6]:	 ibid.
+
+[^7]:	 Pennycook, G., Cheyne, J. A., Barr, N., Koehler, D. J., & Fugelsang, J. A. (2015). On the reception and detection of pseudo-profound bullshit. *Judgment and Decision making*, 10(6), 549-563.
+
+[^8]:	 ibid.
+
+[^9]:	 If you recognized that as derived from the Twitter feed of the ghastly charlatan Deepak Chopra, congratulations. He, by the way, responded to news reports on this earlier paper with this hilariously wounded tweet: "Dear friends a 'scientific' study shows we (I and you) have lower intelligence".
+
+[^10]:	 Turpin, M. H., Walker, A., Kara-Yakoubian, M., Gabert, N. N., Fugelsang, J., & Stolz, J. A. (2019). Bullshit makes the art grow profounder. *Judgment and Decision Making*, 14(6), 658-670.
+
+[^11]:	 ibid.
+
+[^12]:	 ibid.
+
+[^13]:	 ibid.
+
+[^14]:	 ibid.

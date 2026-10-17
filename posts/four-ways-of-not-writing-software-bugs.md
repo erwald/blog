@@ -18,7 +18,7 @@ I present four ways of avoiding bugs:
 
 ## Introduction
 
-If a Heaven did exist, it would not be a place where we have everything made for us; rather, it would be a place where everything we make is without defects.[^2] I've known a lot about software bugs, having written most of them. Sometimes no one has noticed, and at other times they have caused serious and embarrassing disruptions. They've bloomed like flowers in rolling meadows. They've taken root in every garden. But they are not wild: everybody knows who planted them. And (excuse my stretching the simile to its furthest limits) they make our vibrant industry look like a flower shop.
+If a Heaven did exist, it would not be a place where we have everything made for us; rather, it would be a place where everything we make is without defects.[^1] I've known a lot about software bugs, having written most of them. Sometimes no one has noticed, and at other times they have caused serious and embarrassing disruptions. They've bloomed like flowers in rolling meadows. They've taken root in every garden. But they are not wild: everybody knows who planted them. And (excuse my stretching the simile to its furthest limits) they make our vibrant industry look like a flower shop.
 
 An old joke goes that the chief executive of a large tech company gives a speech in which he asserts that, had cars been developed like software, they would cost a hundredth of what they do now and run twice as far on a liter. "Yes", an automotive exec replies later, "and they would crash once a week and when you call for service, they'd tell you to reinstall the engine."
 
@@ -26,9 +26,9 @@ Software is great: it does amazing things. But software is also bad: it's bloate
 
 Or to borrow someone else's words:
 
-> I think it’s highly embarrassing for this profession that “program crashes/hangs/malfunctions” is such a common occurrence that 5 billion non-developers are not only acutely aware of it, but consider it an unsurprising state of things.
->
-> It’s as if large parts of humankind were familiar with civil engineering jargon because collapsing bridges were a daily occurrence.[^3]
+> I think it's highly embarrassing for this profession that “program crashes/hangs/malfunctions” is such a common occurrence that 5 billion non-developers are not only acutely aware of it, but consider it an unsurprising state of things.
+> 
+> It's as if large parts of humankind were familiar with civil engineering jargon because collapsing bridges were a daily occurrence.[^2]
 
 What, then, to do? In general, you can get better at not writing bugs (a) by practicing writing code, (b) by changing the conditions that make them more likely and/or (c\) by figuring out which sorts of behaviors can prevent them. Here I want to discuss (c\): how should we write code so as to reduce the risk of introducing bugs? That means I won't discuss tooling, learning, project management, or anything of that sort: I will limit my discussion to the activity of programming and will consider this in the context of software that is running in production systems, serving >1K users and for which defects can have serious adverse consequences.
 
@@ -42,7 +42,7 @@ Two types of code changes are relevant here, I think. The first is a change need
 
 A code change that implements a new feature is additive and therefore makes the software more complex. It is harder to avoid writing bugs in complex software. It is also harder to diagnose and fix bugs in complex software. Therefore, additive code changes involve both a direct risk and an indirect risk of introducing new bugs. That should make us think twice as hard before introducing new features, but in fact it is usually taken for granted that new features are good for software. Rid yourself of that assumption. You or somebody else should, before implementing a new feature, ask yourselves the question: how much marginal value does this feature provide for the user?
 
-Refactoring is praised everywhere. I don't claim that it isn't important; it's our finest weapon in the unending war against entropy. But every time we refactor a piece of code, we risk introducing bugs.[^4] The risk can be reduced with robust testing, as we'll see below. But it will never go away completely.
+Refactoring is praised everywhere. I don't claim that it isn't important; it's our finest weapon in the unending war against entropy. But every time we refactor a piece of code, we risk introducing bugs.[^3] The risk can be reduced with robust testing, as we'll see below. But it will never go away completely.
 
 So we need to balance the need for refactoring against the need for reliability and stability. We must ask ourselves questions like:
 
@@ -50,7 +50,7 @@ So we need to balance the need for refactoring against the need for reliability 
 - How important is reliability and stability to the system?
 - How much will the intended change improve the code?
 
-One must think critically. We often start refactoring code not because it is in a particularly bad state but simply because _we can and know how to do it_. That is a mistake. When we do, we shackle ourselves to [the politician's syllogism](https://en.wikipedia.org/wiki/Politician%27s_syllogism), which (adapted somewhat) says: we must refactor things; I can refactor this thing; therefore, I must refactor this thing.
+One must think critically. We often start refactoring code not because it is in a particularly bad state but simply because *we can and know how to do it*. That is a mistake. When we do, we shackle ourselves to [the politician's syllogism](https://en.wikipedia.org/wiki/Politician%27s_syllogism), which (adapted somewhat) says: we must refactor things; I can refactor this thing; therefore, I must refactor this thing.
 
 ## 2. If You Do Have to Make a Change, Make It As Small As Possible
 
@@ -58,15 +58,15 @@ The second maxim is a corollary of the first. It begins with the observation tha
 
 I make an exception here for whenever we can actually meaningfully reduce complexity, such as by removing branches from a conditional expression. Another exception would be to refactor code as an initial step prior to making functional changes to a component, but that should be done in the spirit of the following maxim.
 
-## 3. If You Want to Refactor Something, Make Sure It’s Covered by Automated Tests
+## 3. If You Want to Refactor Something, Make Sure It's Covered by Automated Tests
 
 Imagine that you are a spy. You are breaking into somebody's apartment in order to find and take copies of such-and-such a document. Being a good spy, it is important to you that the owner of the apartment doesn't notice that you've been there. So before rummaging around, you take photographs of every room in order that, once you have found and copied the document, you can restore the apartment to its original condition. The photographs you have taken are an external check on whether you are leaving the room in the same condition that you found it in. It doesn't guarantee that nothing is out of place. But it increases the probability that there's no discernible change.
 
-Refactoring something means changing its implementation internally without changing its behavior externally. You can create an external check similar to the spy's photos when refactoring by making sure that the thing you are refactoring is covered by automated tests.[^5] That way you can be more confident that the changes you make are not affecting the behavior. You could almost make them without thinking at all, which brings me to the final maxim ...
+Refactoring something means changing its implementation internally without changing its behavior externally. You can create an external check similar to the spy's photos when refactoring by making sure that the thing you are refactoring is covered by automated tests.[^4] That way you can be more confident that the changes you make are not affecting the behavior. You could almost make them without thinking at all, which brings me to the final maxim ...
 
 ## 4. When You Make a Change, Make Sure You Understand What You're Doing
 
-Before personal desktops were able to compile code, it had to be compiled on mainframes which often had to be booked in advance.[^6] That meant that programmers had to check their code carefully before compiling it, so as not to risk, should the program fail to compile, having to wait again in order to redo it. These days, we get near-instant feedback, not only from our compilers but also from running and testing our code. This feedback loop has been shortened further by advances like hot reloading. This is great because it helps us to iterate quickly and work in a state of flow. But it also allows us to program without really thinking hard about what we are doing.
+Before personal desktops were able to compile code, it had to be compiled on mainframes which often had to be booked in advance.[^5] That meant that programmers had to check their code carefully before compiling it, so as not to risk, should the program fail to compile, having to wait again in order to redo it. These days, we get near-instant feedback, not only from our compilers but also from running and testing our code. This feedback loop has been shortened further by advances like hot reloading. This is great because it helps us to iterate quickly and work in a state of flow. But it also allows us to program without really thinking hard about what we are doing.
 
 Exactly that happens to me now and again, usually when I'm lacking mental energy. Maybe I'm not considering all the possible inputs that a function can receive, or maybe I'm not thinking about all the possible branches in a conditional expression. I am confident that the thing I'm doing right now is correct. But I don't know whether it is messing something up elsewhere.
 
@@ -76,15 +76,20 @@ It may help you to imagine that you are going to deploy your change to be tested
 
 ## Learning from Errors
 
-> They know the water best who have waded through it.[^1]
+> They know the water best who have waded through it.[^6]
 
 What normally happens to bugs is that they are fixed and forgotten. When we discover them, we are interested in fixing them, not in understanding the reasons why they happened; and even if we are so interested, we only rarely remember the conditions of their origin anyway. But it doesn't have to be like that. The way out of this is obvious. To avoid error, we must study error.
 
 Never let a good incident go to waste. Each defect is an invitation to learn. And so is every near miss. You learn by analyzing what went wrong, for instance through a [root cause analysis](https://en.wikipedia.org/wiki/Root_cause_analysis). An analysis of a product, project, or incident after completion is sometimes called a [post-mortem](https://www.pagerduty.com/resources/learn/incident-postmortem/). Such analyses need to be non-punitive, blame-free procedures. They need to be in a sense forward-looking, not backward-looking, despite the name. Having found the deeper problem, you improve the system by putting into place changes that prevent that problem from occurring again. Practice this and you will be rewarded twice over: first in learning how serious bugs happen, then in improving the system you're working on.
 
-[^1]: Grayling, A. (2011). _The Good Book: A Humanist Bible_. New York: Walker & Co.
-[^2]: I adapted this joke from [Theodosius Dobzhansky](https://en.wikipedia.org/wiki/Theodosius_Dobzhansky#Final_illness_and_the_%22Light_of_Evolution%22).
-[^3]: See [this comment](https://lobste.rs/s/fzvd1v/former_uber_engineer_s_disaster_story#c_sy3xu2) by a user named soc on a Lobsters post about software struggles in Uber.
-[^4]: Ferreira, I., Fernandes, E., Cedrim, D., Uchôa, A., Bibiano, A. C., Garcia, A., Correia, J. L., Santos, F., Nunes, G., Barbosa, C., Fonseca, B., & de Mello, R. (2018, May 27). _The buggy side of code refactoring_. Proceedings of the 40th International Conference on Software Engineering: Companion Proceedings. ICSE ’18: 40th International Conference on Software Engineering.
-[^5]: If you are diligent about testing, the thing you are refactoring is likely to already be covered by automated tests. If not, you will need to write them. But if you're refactoring a thing, it's hopefully working correctly already. So if you write automated tests for it and those tests pass, you can be _fairly_ confident that the tests make sense. I suspect one reason that people find it hard to consistently practice test-driven development is that it is often easier to write tests for fully implemented functions and components than for skeletal interfaces.
-[^6]: Well, so I gather, anyway. I can't claim to have been around for that.
+[^1]:	 I adapted this joke from [Theodosius Dobzhansky](https://en.wikipedia.org/wiki/Theodosius_Dobzhansky#Final_illness_and_the_%22Light_of_Evolution%22).
+
+[^2]:	 See [this comment](https://lobste.rs/s/fzvd1v/former_uber_engineer_s_disaster_story#c_sy3xu2) by a user named soc on a Lobsters post about software struggles in Uber.
+
+[^3]:	 Ferreira, I., Fernandes, E., Cedrim, D., Uchôa, A., Bibiano, A. C., Garcia, A., Correia, J. L., Santos, F., Nunes, G., Barbosa, C., Fonseca, B., & de Mello, R. (2018, May 27). *The buggy side of code refactoring*. Proceedings of the 40th International Conference on Software Engineering: Companion Proceedings. ICSE ’18: 40th International Conference on Software Engineering.
+
+[^4]:	 If you are diligent about testing, the thing you are refactoring is likely to already be covered by automated tests. If not, you will need to write them. But if you're refactoring a thing, it's hopefully working correctly already. So if you write automated tests for it and those tests pass, you can be *fairly* confident that the tests make sense. I suspect one reason that people find it hard to consistently practice test-driven development is that it is often easier to write tests for fully implemented functions and components than for skeletal interfaces.
+
+[^5]:	 Well, so I gather, anyway. I can't claim to have been around for that.
+
+[^6]:	 Grayling, A. (2011). *The Good Book: A Humanist Bible*. New York: Walker & Co.

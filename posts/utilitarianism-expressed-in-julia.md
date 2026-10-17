@@ -12,9 +12,9 @@ I had been looking for a small programming project for learning the basics of [J
 
 Quoting [utilitarianism.net](https://www.utilitarianism.net/) quoting Peter Singer, Utilitarianism says that, "as far as it is within our power, we should bring about a world in which every individual has the highest possible level of wellbeing". There are of course different ways of interpreting and implementing that in practice, and as a result there are many different variants of Utilitarianism. This will become obvious as we are faced with design choices in our implementation.[^1]
 
-For example, what is well-being, or **utility**? Let us assume that it is the average of all the positive and negative experiences in the life of an individual. I will call such an individual a **receptacle** because what is relevant about it here is the fact that it can _contain_, so to put it, utility. But it could be a human, or an animal, or an alien even.
+For example, what is well-being, or **utility**? Let us assume that it is the average of all the positive and negative experiences in the life of an individual. I will call such an individual a **receptacle** because what is relevant about it here is the fact that it can *contain*, so to put it, utility. But it could be a human, or an animal, or an alien even.
 
-Let us also assume – why not? – that utility is normally distributed around a value of two, two being our baseline value. Receptacles above two have mostly happy lives, receptacles below two have mostly unhappy lives, and receptacles below zero have lives that are objectively not worth living at all.
+Let us also assume -- why not? -- that utility is normally distributed around a value of two, two being our baseline value. Receptacles above two have mostly happy lives, receptacles below two have mostly unhappy lives, and receptacles below zero have lives that are objectively not worth living at all.
 
 So a receptacle is just a floating-point value, and a world is just an array of receptacles:
 
@@ -125,7 +125,7 @@ it is really clear how the chosen world is a far more miserable one on average t
 
 ![Plot showing utility distributions of choices leading to Repugnant Conclusion.]({{ '/img/utilitarianism_repugnant_conclusion.png' | url }})
 
-(At this point you may be thinking that something here is a little bit weird. What is so special about two, our baseline value? If we had all lived in a world where this action happened, we would have set our baseline to 0.1 and called that "normal". None of us would have taken it to be terrible that so many of us lived such bad lives, because they would all have been average lives. Of course _we_ all prefer the world with the average utility of two, because to us those lives with a utility of 0.1 seem so bad as to be basically not worth living. But in fact they are by definition worth living. In other words, perhaps we should not trust our intuitions here. This is one point that Michael Huemer makes in arguing that utilitarians should accept the Repugnant Conclusion.[^4])
+(At this point you may be thinking that something here is a little bit weird. What is so special about two, our baseline value? If we had all lived in a world where this action happened, we would have set our baseline to 0.1 and called that "normal". None of us would have taken it to be terrible that so many of us lived such bad lives, because they would all have been average lives. Of course *we* all prefer the world with the average utility of two, because to us those lives with a utility of 0.1 seem so bad as to be basically not worth living. But in fact they are by definition worth living. In other words, perhaps we should not trust our intuitions here. This is one point that Michael Huemer makes in arguing that utilitarians should accept the Repugnant Conclusion.[^4])
 
 ## Average Utilitarianism
 
@@ -211,7 +211,7 @@ In Classical Utilitarianism, we said that adding new lives were good if those li
 getutility_cl(world::World) = sum(world .- 1)
 ```
 
-Of course we could have picked any number to subtract. This is only one Critical-Level Utilitarianism – there are endless more. This one easily escapes the Repugnant Conclusion:
+Of course we could have picked any number to subtract. This is only one Critical-Level Utilitarianism -- there are endless more. This one easily escapes the Repugnant Conclusion:
 
 ```julia
 julia> act(genworld(), [addnormallife, addshoddylives], getutility_cl)
@@ -239,7 +239,7 @@ bar(result)
 
 ![Plot showing results of Trolley Problem simulations (for Critical-Level Utilitarianism).]({{ '/img/utilitarianism_cl_trolley.png' | url }})
 
-Once again it depends on the configuration of the particular receptacles we start the experiment with, but on average Critical-Level Utilitarianism prefers killing the one to save the many, and likes the sadistic action the least. But had we set a higher critical level, say at two, it _would_ sometimes recommend killing everyone. That is because, with a critical level at two, we consider any receptacle with a utility below two to have a life not worth living, even if they themselves do not do so. That leads to some pretty weird conclusions, for instance that it is better to add one truly miserable life, full of torture and agony, than it is to add one hundred lives only barely below the critical threshold.[^7]
+Once again it depends on the configuration of the particular receptacles we start the experiment with, but on average Critical-Level Utilitarianism prefers killing the one to save the many, and likes the sadistic action the least. But had we set a higher critical level, say at two, it *would* sometimes recommend killing everyone. That is because, with a critical level at two, we consider any receptacle with a utility below two to have a life not worth living, even if they themselves do not do so. That leads to some pretty weird conclusions, for instance that it is better to add one truly miserable life, full of torture and agony, than it is to add one hundred lives only barely below the critical threshold.[^7]
 
 ```julia
 addmiserablelife = w -> [w;-2]
@@ -389,10 +389,16 @@ I want to be clear in pointing out that utilitarians are aware of and have respo
 
 Further variants of Utilitarianism include actual Egalitarian Utilitarianism, Negative Utilitarianism, Critical-Range Utilitarianism, and Rule Utilitarianism, which does not alter the utility function but instead says that we should not choose the action that causes the greatest aggregate utility, but act according to the general rule that on average causes the greatest aggregate utility. Those are just a taste. There are many more distinctions cutting across various axes of Utilitarianism. Utilitarianism is not a church, it is a bazaar. I may visit it again in future, if I feel up for it.
 
-[^1]: In fact, I was surprised at how useful this exercise was in revealing all the decisions you make when constructing a moral system; when doing so by thinking, discussing, or writing alone, it is easy to let assumptions pass by unnoticed and unscrutinized.
-[^2]: I have scrubbed the plotting code of some noisy details, which is why the plots generated by the code examples are not as polished as those shown in the images. Forgive me.
-[^3]: Parfit, D. (1984). _Reasons and persons_. OUP Oxford.
-[^4]: Huemer, M. (2008). In defence of repugnance. _Mind_, _117_(468), 899-933.
-[^5]: I use the phrase "utility function" here in the philosophical sense, not in the programming sense of a helper function.
-[^6]: Blackorby, C., Bossert, W., & Donaldson, D. (1997). Critical-level utilitarianism and the population-ethics dilemma. _Economics & Philosophy_, _13_(2), 197-230.
-[^7]: Broome, J. (2004). Weighing lives. _OUP Catalogue_.
+[^1]:	 In fact, I was surprised at how useful this exercise was in revealing all the decisions you make when constructing a moral system; when doing so by thinking, discussing, or writing alone, it is easy to let assumptions pass by unnoticed and unscrutinized.
+
+[^2]:	 I have scrubbed the plotting code of some noisy details, which is why the plots generated by the code examples are not as polished as those shown in the images. Forgive me.
+
+[^3]:	 Parfit, D. (1984). *Reasons and persons*. OUP Oxford.
+
+[^4]:	 Huemer, M. (2008). In defence of repugnance. *Mind*, *117*(468), 899-933.
+
+[^5]:	 I use the phrase "utility function" here in the philosophical sense, not in the programming sense of a helper function.
+
+[^6]:	 Blackorby, C., Bossert, W., & Donaldson, D. (1997). Critical-level utilitarianism and the population-ethics dilemma. *Economics & Philosophy*, *13*(2), 197-230.
+
+[^7]:	 Broome, J. (2004). Weighing lives. *OUP Catalogue*.

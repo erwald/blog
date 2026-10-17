@@ -4,6 +4,7 @@ title: Making Dungeon Synth without Perfectionism
 date: 2026-04-26
 tags: post
 ---
+
 # Making Dungeon Synth without Perfectionism
 
 Today, I'm releasing an EP titled *There Were Some Kingdoms*, recorded with my brother Hampus, under my dungeon synth project, Icewind Dale. In this post, I describe how we composed, recorded, and mixed this EP. I'll then mention a few directions I'd like to see more of in dungeon synth, hoping they inspire someone to explore them. The EP is [available on Bandcamp](https://icewinddale.bandcamp.com/album/there-were-some-kingdoms) -- I'd suggest going there now and listening to it while you read the rest of this post.

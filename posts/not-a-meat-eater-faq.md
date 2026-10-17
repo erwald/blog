@@ -5,6 +5,7 @@ date: 2024-12-31
 tags: post
 eaf_link: https://forum.effectivealtruism.org/posts/ttqDt3batMJSAoWmh/not-a-meat-eater-faq
 ---
+
 # Not a Meat Eater FAQ
 
 ![img]({{ '/img/hero/pigs.png' | url }})
@@ -387,55 +388,55 @@ That is okay; I'm glad you stuck with me to the end.
 ## References
 
 <style>.csl-entry{text-indent: -2em; margin-left: 2em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">Adams, Carol J. 1990. “The Sexual Politics of Meat: A Feminist-Vegetarian Critical Theory.”</div>
+  <div class="csl-entry">Adams, Carol J. 1990. <i>The Sexual Politics of Meat: A Feminist-Vegetarian Critical Theory</i>. Continuum.</div>
   <div class="csl-entry">Al Awaidy, Salah T, Rana Jawad Asghar, and Hassan Zaraket. 2024. “How Concerned Should We Be About the Recent Avian Influenza Outbreaks?” <i>Oman Medical Journal</i> 39 (2): e604.</div>
-  <div class="csl-entry">Alexander, Peter, Calum Brown, Almut Arneth, John Finnigan, and Mark DA Rounsevell. 2016. “Human Appropriation of Land for Food: The Role of Diet.” <i>Global Environmental Change</i> 41: 88--98.</div>
-  <div class="csl-entry">Borell, Eberhard von, J Baumgartner, M Giersing, N Jäggin, Armelle Prunier, FAM Tuyttens, and SA Edwards. 2009. “Animal Welfare Implications of Surgical Castration and Its Alternatives in Pigs.” <i>Animal</i> 3 (11): 1488--96.</div>
-  <div class="csl-entry">Bostrom, Nick, and Toby Ord. 2006. “The Reversal Test: Eliminating Status Quo Bias in Applied Ethics.” <i>Ethics</i> 116 (4): 656--79. https://doi.org/10.1086/505233</div>
-  <div class="csl-entry">Brown, Culum. 2015. “Fish Intelligence, Sentience and Ethics.” <i>Animal Cognition</i> 18 (1): 1--17.</div>
-  <div class="csl-entry">Clark, JA MacArthur, Martin Potter, and E Harding. 2006. “The Welfare Implications of Animal Breeding and Breeding Technologies in Commercial Agriculture.” <i>Livestock Science</i> 103 (3): 270--81.</div>
+  <div class="csl-entry">Alexander, Peter, Calum Brown, Almut Arneth, John Finnigan, and Mark DA Rounsevell. 2016. “Human Appropriation of Land for Food: The Role of Diet.” <i>Global Environmental Change</i> 41: 88–98.</div>
+  <div class="csl-entry">Borell, Eberhard von, J Baumgartner, M Giersing, N Jäggin, Armelle Prunier, FAM Tuyttens, and SA Edwards. 2009. “Animal Welfare Implications of Surgical Castration and Its Alternatives in Pigs.” <i>Animal</i> 3 (11): 1488–96.</div>
+  <div class="csl-entry">Bostrom, Nick, and Toby Ord. 2006. “The Reversal Test: Eliminating Status Quo Bias in Applied Ethics.” <i>Ethics</i> 116 (4): 656–79. https://doi.org/10.1086/505233</div>
+  <div class="csl-entry">Brown, Culum. 2015. “Fish Intelligence, Sentience and Ethics.” <i>Animal Cognition</i> 18 (1): 1–17.</div>
+  <div class="csl-entry">Clark, JA MacArthur, Martin Potter, and E Harding. 2006. “The Welfare Implications of Animal Breeding and Breeding Technologies in Commercial Agriculture.” <i>Livestock Science</i> 103 (3): 270–81.</div>
   <div class="csl-entry">Crook, Robyn J. 2021. “Behavioral and Neurophysiological Evidence Suggests Affective Pain Experience in Octopus.” <i>Iscience</i> 24 (3).</div>
-  <div class="csl-entry">Danbury, TC, CA Weeks, AE Waterman-Pearson, SC Kestin, and JP Chambers. 2000. “Self-Selection of the Analgesic Drug Carprofen by Lame Broiler Chickens.” <i>Veterinary Record</i> 146 (11): 307--11.</div>
-  <div class="csl-entry">De Briyne, Nancy, Charlotte Berg, Thomas Blaha, and Déborah Temple. 2016. “Pig Castration: Will the Eu Manage to Ban Pig Castration by 2018?” <i>Porcine Health Management</i> 2: 1--11.</div>
-  <div class="csl-entry">Dunlop, Rebecca, Sarah Millsopp, and Peter Laming. 2006. “Avoidance Learning in Goldfish (Carassius Auratus) and Trout (Oncorhynchus Mykiss) and Implications for Pain Perception.” <i>Applied Animal Behaviour Science</i> 97 (2): 255--71. https://doi.org/https://doi.org/10.1016/j.applanim.2005.06.018</div>
-  <div class="csl-entry">Edsinger, Eric, and Gül Dölen. 2018. “A Conserved Role for Serotonergic Neurotransmission in Mediating Social Behavior in Octopus.” <i>Current Biology</i> 28 (19): 3136--42.</div>
-  <div class="csl-entry">Epley, Nicholas, and Thomas Gilovich. 2016. “The Mechanics of Motivated Reasoning.” <i>Journal of Economic Perspectives</i> 30 (3): 133--40.</div>
+  <div class="csl-entry">Danbury, TC, CA Weeks, AE Waterman-Pearson, SC Kestin, and JP Chambers. 2000. “Self-Selection of the Analgesic Drug Carprofen by Lame Broiler Chickens.” <i>Veterinary Record</i> 146 (11): 307–11.</div>
+  <div class="csl-entry">De Briyne, Nancy, Charlotte Berg, Thomas Blaha, and Déborah Temple. 2016. “Pig Castration: Will the Eu Manage to Ban Pig Castration by 2018?” <i>Porcine Health Management</i> 2: 1–11.</div>
+  <div class="csl-entry">Dunlop, Rebecca, Sarah Millsopp, and Peter Laming. 2006. “Avoidance Learning in Goldfish (Carassius Auratus) and Trout (Oncorhynchus Mykiss) and Implications for Pain Perception.” <i>Applied Animal Behaviour Science</i> 97 (2): 255–71. https://doi.org/10.1016/j.applanim.2005.06.018</div>
+  <div class="csl-entry">Edsinger, Eric, and Gül Dölen. 2018. “A Conserved Role for Serotonergic Neurotransmission in Mediating Social Behavior in Octopus.” <i>Current Biology</i> 28 (19): 3136–42.</div>
+  <div class="csl-entry">Epley, Nicholas, and Thomas Gilovich. 2016. “The Mechanics of Motivated Reasoning.” <i>Journal of Economic Perspectives</i> 30 (3): 133–40.</div>
   <div class="csl-entry">Faccin, Jamil EG, Fernanda Laskoski, Luciana F Hernig, Rafael Kummer, Gustavo FR Lima, Uislei AD Orlando, Márcio AD Gonçalves, Ana Paula G Mellagi, Rafael R Ulguim, and Fernando P Bortolozzo. 2020. “Impact of Increasing Weaning Age on Pig Performance and Belly Nosing Prevalence in a Commercial Multisite Production System.” <i>Journal of Animal Science</i> 98 (4): skaa031.</div>
-  <div class="csl-entry">Fischer, Bob. 2022. Rethink Priorities. <a href="https://rethinkpriorities.org/research-area/the-welfare-range-table/">https://rethinkpriorities.org/research-area/the-welfare-range-table/</a>.</div>
-  <div class="csl-entry">Fischer, Bob, and Andy Lamey. 2018. “Field Deaths in Plant Agriculture.” <i>Journal of Agricultural and Environmental Ethics</i> 31: 409--28.</div>
-  <div class="csl-entry">Gallet, Craig A. 2010. “Meat Meets Meta: A Quantitative Review of the Price Elasticity of Meat.” <i>American Journal of Agricultural Economics</i> 92 (1): 258--72.</div>
-  <div class="csl-entry">------. 2012. “A Meta-Analysis of the Price Elasticity of Meat: Evidence of Regional Differences.” <i>Business and Economic Research</i> 2 (2).</div>
-  <div class="csl-entry">Gerber, Bertram, Ayse Yarali, Sören Diegelmann, Carsten T Wotjak, Paul Pauli, and Markus Fendt. 2014. “Pain-Relief Learning in Flies, Rats, and Man: Basic Research and Applied Perspectives.” <i>Learning & Memory</i> 21 (4): 232--52.</div>
-  <div class="csl-entry">Gottardo, Flaviana, E Nalon, Barbara Contiero, S Normando, P Dalvit, and Giulio Cozzi. 2011. “The Dehorning of Dairy Calves: Practices and Opinions of 639 Farmers.” <i>Journal of Dairy Science</i> 94 (11): 5724--34.</div>
+  <div class="csl-entry">Fischer, Bob. 2022. “The Welfare Range Table.” Rethink Priorities. <a href="https://rethinkpriorities.org/research-area/the-welfare-range-table/">https://rethinkpriorities.org/research-area/the-welfare-range-table/</a>.</div>
+  <div class="csl-entry">Fischer, Bob, and Andy Lamey. 2018. “Field Deaths in Plant Agriculture.” <i>Journal of Agricultural and Environmental Ethics</i> 31: 409–28.</div>
+  <div class="csl-entry">Gallet, Craig A. 2010. “Meat Meets Meta: A Quantitative Review of the Price Elasticity of Meat.” <i>American Journal of Agricultural Economics</i> 92 (1): 258–72.</div>
+  <div class="csl-entry">———. 2012. “A Meta-Analysis of the Price Elasticity of Meat: Evidence of Regional Differences.” <i>Business and Economic Research</i> 2 (2).</div>
+  <div class="csl-entry">Gerber, Bertram, Ayse Yarali, Sören Diegelmann, Carsten T Wotjak, Paul Pauli, and Markus Fendt. 2014. “Pain-Relief Learning in Flies, Rats, and Man: Basic Research and Applied Perspectives.” <i>Learning & Memory</i> 21 (4): 232–52.</div>
+  <div class="csl-entry">Gottardo, Flaviana, E Nalon, Barbara Contiero, S Normando, P Dalvit, and Giulio Cozzi. 2011. “The Dehorning of Dairy Calves: Practices and Opinions of 639 Farmers.” <i>Journal of Dairy Science</i> 94 (11): 5724–34.</div>
   <div class="csl-entry">Govoni, Camilla, Davide Danilo Chiarelli, Alice Luciano, Matteo Ottoboni, Simge Nur Perpelek, Luciano Pinotti, and Maria Cristina Rulli. 2021. “Global Assessment of Natural Resources for Chicken Production.” <i>Advances in Water Resources</i> 154: 103987.</div>
   <div class="csl-entry">Hayes, Dave J, and Georg Northoff. 2011. “Identifying a Network of Brain Regions Involved in Aversion-Related Processing: A Cross-Species Translational Investigation.” <i>Frontiers in Integrative Neuroscience</i> 5: 49.</div>
-  <div class="csl-entry">------. 2012. “Common Brain Activations for Painful and Non-Painful Aversive Stimuli.” <i>Bmc Neuroscience</i> 13: 1--18.</div>
+  <div class="csl-entry">———. 2012. “Common Brain Activations for Painful and Non-Painful Aversive Stimuli.” <i>Bmc Neuroscience</i> 13: 1–18.</div>
   <div class="csl-entry">Huemer, Michael. 2019. <i>Dialogues on Ethical Vegetarianism</i>. Routledge.</div>
   <div class="csl-entry">Korsgaard, Christine M. 2018. <i>Fellow Creatures: Our Obligations to the Other Animals</i>. Oxford University Press.</div>
-  <div class="csl-entry">Kuenzel, WJ. 2007. “Neurobiological Basis of Sensory Perception: Welfare Implications of Beak Trimming.” <i>Poultry Science</i> 86 (6): 1273--82.</div>
+  <div class="csl-entry">Kuenzel, WJ. 2007. “Neurobiological Basis of Sensory Perception: Welfare Implications of Beak Trimming.” <i>Poultry Science</i> 86 (6): 1273–82.</div>
   <div class="csl-entry">Lambert, Helen, Amelia Cornish, Angie Elwin, and Neil D’Cruze. 2022. “A Kettle of Fish: A Review of the Scientific Literature for Evidence of Fish Sentience.” <i>Animals</i> 12 (9): 1182.</div>
   <div class="csl-entry">Lear, Jonathan. 1988. <i>Aristotle: The Desire to Understand</i>. Cambridge University Press.</div>
   <div class="csl-entry">Lewis, Danny. 2016. “New Way to Wean Calves Leaves Them Happier and Healthier.” <i>Smithsonian Magazine</i>, January. <a href="https://www.smithsonianmag.com/smart-news/new-way-wean-calves-leaves-them-happier-healthier-180957919/">https://www.smithsonianmag.com/smart-news/new-way-wean-calves-leaves-them-happier-healthier-180957919/</a>.</div>
-  <div class="csl-entry">Loughnan, Steve, Nick Haslam, and Brock Bastian. 2010. “The Role of Meat Consumption in the Denial of Moral Status and Mind to Meat Animals.” <i>Appetite</i> 55 (1): 156--59.</div>
+  <div class="csl-entry">Loughnan, Steve, Nick Haslam, and Brock Bastian. 2010. “The Role of Meat Consumption in the Denial of Moral Status and Mind to Meat Animals.” <i>Appetite</i> 55 (1): 156–59.</div>
   <div class="csl-entry">Mekonnen, Mesfin M, Christopher MU Neale, Chittaranjan Ray, Galen E Erickson, and Arjen Y Hoekstra. 2019. “Water Productivity in Meat and Milk Production in the Us from 1960 to 2016.” <i>Environment International</i> 132: 105084.</div>
-  <div class="csl-entry">Nogueira, BRF, MP Reis, AC Carvalho, EAC Mendoza, BL Oliveira, VA Silva, and AG Bertechini. 2019. “Performance, Growth Curves and Carcass Yield of Four Strains of Broiler Chicken.” <i>Brazilian Journal of Poultry Science</i> 21 (04): eRBCA--2018.</div>
+  <div class="csl-entry">Nogueira, BRF, MP Reis, AC Carvalho, EAC Mendoza, BL Oliveira, VA Silva, and AG Bertechini. 2019. “Performance, Growth Curves and Carcass Yield of Four Strains of Broiler Chicken.” <i>Brazilian Journal of Poultry Science</i> 21 (04): eRBCA–2018.</div>
   <div class="csl-entry">Pinel, John P, Michael J Mana, and J’Anne A Ward. 1989. “Stretched-Approach Sequences Directed at a Localized Shock Source by Rattus Norvegicus.” <i>Journal of Comparative Psychology</i> 103 (2): 140.</div>
   <div class="csl-entry">Pinker, Steven. 2011. <i>The Better Angels of Our Nature: The Decline of Violence in History and Its Causes</i>. Penguin UK.</div>
-  <div class="csl-entry">Regan, Tom. 1983. “The Case for Animal Rights.”</div>
-  <div class="csl-entry">Ritchie, Hannah. 2023. “How Many Animals Are Factory-Farmed?” <i>Our World in Data</i>.</div>
-  <div class="csl-entry">Rosenfeld, Daniel L. 2018. “The Psychology of Vegetarianism: Recent Advances and Future Directions.” <i>Appetite</i> 131: 125--38.</div>
-  <div class="csl-entry">Rushen, J, and P Congdon. 1986. “Sheep May Be More Averse to Electro-Immobilisation than to Shearing.”</div>
+  <div class="csl-entry">Regan, Tom. 1983. <i>The Case for Animal Rights</i>. University of California Press.</div>
+  <div class="csl-entry">Ritchie, Hannah. 2023. “How Many Animals Are Factory-Farmed?” <i>Our World in Data</i>. <a href="https://ourworldindata.org/how-many-animals-are-factory-farmed">https://ourworldindata.org/how-many-animals-are-factory-farmed</a>.</div>
+  <div class="csl-entry">Rosenfeld, Daniel L. 2018. “The Psychology of Vegetarianism: Recent Advances and Future Directions.” <i>Appetite</i> 131: 125–38.</div>
+  <div class="csl-entry">Rushen, Jeffrey, and Pauline Congdon. 1986. “Sheep May Be More Averse to Electro-Immobilisation than to Shearing.” <i>Australian Veterinary Journal</i> 63 (11): 373–74. https://doi.org/10.1111/j.1751-0813.1986.tb02903.x</div>
   <div class="csl-entry">Scruton, Roger. 1996. <i>Animal Rights and Wrongs</i>. Demos.</div>
   <div class="csl-entry">Scully, Matthew. 2002. <i>Dominion: The Power of Man, the Suffering of Animals, and the Call to Mercy</i>. Macmillan.</div>
-  <div class="csl-entry">Singer, Peter. 1975. “Animal Liberation: A New Ethics for Our Treatment of Animals.”</div>
-  <div class="csl-entry">Smith, Ewan St John, and Gary R Lewin. 2009. “Nociceptors: A Phylogenetic View.” <i>Journal of Comparative Physiology a</i> 195: 1089--1106.</div>
-  <div class="csl-entry">Sneddon, Lynne U., Robert W. Elwood, Shelley A. Adamo, and Matthew C. Leach. 2014. “Defining and Assessing Animal Pain.” <i>Animal Behaviour</i> 97: 201--12. https://doi.org/https://doi.org/10.1016/j.anbehav.2014.09.007</div>
+  <div class="csl-entry">Singer, Peter. 1975. <i>Animal Liberation: A New Ethics for Our Treatment of Animals</i>. New York Review/Random House.</div>
+  <div class="csl-entry">Smith, Ewan St John, and Gary R Lewin. 2009. “Nociceptors: A Phylogenetic View.” <i>Journal of Comparative Physiology a</i> 195: 1089–1106.</div>
+  <div class="csl-entry">Sneddon, Lynne U., Robert W. Elwood, Shelley A. Adamo, and Matthew C. Leach. 2014. “Defining and Assessing Animal Pain.” <i>Animal Behaviour</i> 97: 201–12. https://doi.org/10.1016/j.anbehav.2014.09.007</div>
   <div class="csl-entry">Spain, C Victor, Daisy Freund, Heather Mohan-Gibbons, Robert G Meadow, and Laurie Beacham. 2018. “Are They Buying It? United States Consumers’ Changing Attitudes toward More Humanely Raised Meat, Eggs, and Dairy.” <i>Animals</i> 8 (8): 128.</div>
   <div class="csl-entry">Sporchia, Fabio, Ermias Kebreab, and Dario Caro. 2021. “Assessing the Multiple Resource Use Associated with Pig Feed Consumption in the European Union.” <i>Science of the Total Environment</i> 759: 144306.</div>
-  <div class="csl-entry">Sutherland, Mhairi A, and Cassandra B Tucker. 2011. “The Long and Short of It: A Review of Tail Docking in Farm Animals.” <i>Applied Animal Behaviour Science</i> 135 (3): 179--91.</div>
+  <div class="csl-entry">Sutherland, Mhairi A, and Cassandra B Tucker. 2011. “The Long and Short of It: A Review of Tail Docking in Farm Animals.” <i>Applied Animal Behaviour Science</i> 135 (3): 179–91.</div>
+  <div class="csl-entry">The Pew Charitable Trusts, and Johns Hopkins Bloomberg School of Public Health. 2008. “Putting Meat on the Table: Industrial Farm Animal Production in America.” Pew Commission on Industrial Farm Animal Production.</div>
   <div class="csl-entry">Thompson, Barton A. 2024. “Concern for Animals among Hunter-Gatherers.” <i>Cross-Cultural Research</i>, 10693971241234109.</div>
-  <div class="csl-entry">Trusts, Pew Charitable, and Johns Hopkins. 2008. “Putting Meat on the Table: Industrial Farm Animal Production in America.” <i>A Report of the Pew Commission on Industrial Farm Animal Production, a Project of the Pew Charitable Trusts and Johns Hopkins Bloomberg School of Public Health</i>.</div>
-  <div class="csl-entry">Whittaker, Alexandra L, and Gordon S Howarth. 2014. “Use of Spontaneous Behaviour Measures to Assess Pain in Laboratory Rats and Mice: How Are We Progressing?” <i>Applied Animal Behaviour Science</i> 151: 1--12.</div>
+  <div class="csl-entry">Whittaker, Alexandra L, and Gordon S Howarth. 2014. “Use of Spontaneous Behaviour Measures to Assess Pain in Laboratory Rats and Mice: How Are We Progressing?” <i>Applied Animal Behaviour Science</i> 151: 1–12.</div>
 </div>
 
 [^1]:	 A word of caution is in order. This FAQ represents my views and only my views. Many other vegetarians and vegans reached the same conclusion by different means or emphasizing different arguments.
@@ -456,7 +457,7 @@ That is okay; I'm glad you stuck with me to the end.
 
 [^6]:	 I had initially linked a video of a farmer dehorning a cow, but YouTube removed it due to its graphical content. Anyway, needless to say, it is not easy to watch. Cattle horns are filled with blood vessels and nerves, so it is not like cutting nails. It might feel something like having your teeth amputated at the root.
 
-[^7]:	 To be more precise, only two federal laws regulate the treatment of farmed animals in the US. They are (1) the Twenty-Eight Hour Law which says that, if livestock are being transported >28 consecutive hours, they must be offloaded for at least five consecutive hours to get feed, water, and rest, and (2) the Humane Methods of Slaughter Act which says that cattle, pigs, and sheep (but not chicken, fish, or other animals) must be rendered insensible to pain before being killed (Trusts and Hopkins 2008). Many states have animal cruelty laws, but those laws, which would make many common factory farming practices illegal, typically explicitly exclude farmed animals from consideration (Trusts and Hopkins 2008).
+[^7]:	 To be more precise, only two federal laws regulate the treatment of farmed animals in the US. They are (1) the Twenty-Eight Hour Law which says that, if livestock are being transported >28 consecutive hours, they must be offloaded for at least five consecutive hours to get feed, water, and rest, and (2) the Humane Methods of Slaughter Act which says that cattle, pigs, and sheep (but not chicken, fish, or other animals) must be rendered insensible to pain before being killed (The Pew Charitable Trusts and Johns Hopkins Bloomberg School of Public Health 2008). Many states have animal cruelty laws, but those laws, which would make many common factory farming practices illegal, typically explicitly exclude farmed animals from consideration (The Pew Charitable Trusts and Johns Hopkins Bloomberg School of Public Health 2008).
 
 	A few states ban some of the worst practices, but far from all, and most don't ban any. [According to the Humane Society of the United States](https://www.humanesociety.org/sites/default/files/docs/HSUS_state-farm-animal-protection-laws.pdf), as of 2024, 11/50 states ban gestation crates, 10/50 states ban veal crates, 11/50 states ban the use of cages for egg-laying hens, 3/50 states ban tail docking of cattle and California bans the production and sale of foie gras.
 

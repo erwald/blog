@@ -12,7 +12,7 @@ lw_link: https://www.lesswrong.com/posts/dTaL7qDreYirurgez/how-bad-is-qwerty-rea
 
 Some six or so years ago, not long after I had started working as a programmer, I developed a bad case of repetitive strain injury (RSI) and for a while couldn't use my left hand for typing, but had to rely on my right hand and dictation. This situation being obviously untenable, I took action: I purchased an ergonomic keyboard (Microsoft Sculpt), remapped shift to the space bar when pressed in combination with another key, started doing hand/wrist stretches, and switched from typing on the QWERTY layout to [Colemak](https://colemak.com/). This grab bag of interventions worked, my RSI got better and, though it still flares up sometimes, I now have it under control.
 
-I have stuck with Colemak since then and have liked it and occasionally even recommended it to friends and colleagues. But beyond reading popular articles about the topic, I never really looked into the evidence on key layouts and ergonomics[^1] and productivity[^2] – until now, that is!
+I have stuck with Colemak since then and have liked it and occasionally even recommended it to friends and colleagues. But beyond reading popular articles about the topic, I never really looked into the evidence on key layouts and ergonomics[^1] and productivity[^2] -- until now, that is!
 
 Before we get to the good stuff, a word of caution. I am in no way an expert on this; I estimate I spent roughly 15-25 hours researching and taking notes, so there is still a lot that I'm uncertain about. My target group here is touch-typing office workers, typing mainly in English, without disabilities that significantly impede their typing (e.g. the loss of an arm or that sort of thing). For people who don't touch-type, QWERTY is probably fine. For people who have disabilities that affect their typing, I assume special considerations, of which I know little, apply.
 
@@ -24,19 +24,19 @@ As for productivity, compared to e.g. Dvorak or Colemak, QWERTY seems somewhat s
 
 In general, the QWERTY layout, while undoubtedly suboptimal, doesn't seem as bad as I had thought previously. If you are interested in making the switch and don't mind the transaction cost, you might see small benefits on the margins; if not, don't bother.
 
-## QWERTY – Designed to Be Slow?
+## QWERTY -- Designed to Be Slow?
 
 Here is an anecdote [recounted](https://archive.ph/R3NCX) by Michael Tiemann, expressing a commonly held belief:
 
-> One weekend I visited Richard Stallman at MIT and I was shocked to learn that he could no longer type. He was given strict instructions by his doctor to not touch a computer keyboard for 6-12 months, and that if he did, he may lose forever his ability to type. He was a programming pioneer, and at the time, his symptoms were not well known or understood. We all came to understand that it was RSI – repetitive stress injury, exacerbated by the very keystroke combinations that made the Emacs editor such a powerful programming environment. But the root cause was not Emacs – it was the [punitive] design of the QWERTY keyboard, a legacy of the industrial era when complex keyboard mechanisms were not able to keep up with the speed of human fingers. The solution? Design a keyboard so confounding and unnatural that no human could ever outrun what the mechanism could handle. Or so they thought. Humans are remarkably adaptable, to a point. Human typists did manage (with practice and perseverance) to type every bit as quickly as before QWERTY, but at the expense of long-term health.
+> One weekend I visited Richard Stallman at MIT and I was shocked to learn that he could no longer type. He was given strict instructions by his doctor to not touch a computer keyboard for 6-12 months, and that if he did, he may lose forever his ability to type. He was a programming pioneer, and at the time, his symptoms were not well known or understood. We all came to understand that it was RSI -- repetitive stress injury, exacerbated by the very keystroke combinations that made the Emacs editor such a powerful programming environment. But the root cause was not Emacs -- it was the [punitive] design of the QWERTY keyboard, a legacy of the industrial era when complex keyboard mechanisms were not able to keep up with the speed of human fingers. The solution? Design a keyboard so confounding and unnatural that no human could ever outrun what the mechanism could handle. Or so they thought. Humans are remarkably adaptable, to a point. Human typists did manage (with practice and perseverance) to type every bit as quickly as before QWERTY, but at the expense of long-term health.
 
 In other words, the idea is that QWERTY was designed so that humans would type as slowly as possible in order to prevent mechanical jamming. This idea is apparently false.[^3] Christopher Latham Sholes and others developed QWERTY in the 19th century initially for telegraph workers to receive Morse transmissions, where typing speed would have been important.[^4] (Though on the other hand, jamming is really bad for typing speed!) Quoting Yasuoka & Yasuoka:
 
 > The development of QWERTY was a winding road, first by Sholes and others, second by Harrington and Craig, then by Jenne and Clough, again by Sholes, and at last by Wyckoff, Seamans & Benedict. There was no consistent policy towards QWERTY. The keyboard arrangement was incidentally changed into QWERTY, first to receive telegraphs, then to thrash out a compromise between inventors and producers, and at last to evade old patents.[^5]
 
-That said, QWERTY _was_ an early attempt at designing a key layout, and it _was_ designed under conditions very different from those we have now. It would be surprising if the last 150 years of keyboard use and technological change would not have revealed some real flaws in QWERTY – if we got it pretty much right after no more than a few tries.
+That said, QWERTY *was* an early attempt at designing a key layout, and it *was* designed under conditions very different from those we have now. It would be surprising if the last 150 years of keyboard use and technological change would not have revealed some real flaws in QWERTY -- if we got it pretty much right after no more than a few tries.
 
-(Many of the academic discussions of QWERTY's history and suitability have taken place in journals of economics. Economists are interested in whether QWERTY is an example of **path dependence**. Is the market stuck in a suboptimal equilibrium due to a seeming accident of history – the adoption of QWERTY for early typewriters – or would events have played out the same way every time even if circumstances had been slightly different? As a result, much of the literature seems to have been written answering not the question "Is QWERTY suboptimal?" but the question "Is the market efficient?" and should therefore be treated with some suspicion.)
+(Many of the academic discussions of QWERTY's history and suitability have taken place in journals of economics. Economists are interested in whether QWERTY is an example of **path dependence**. Is the market stuck in a suboptimal equilibrium due to a seeming accident of history -- the adoption of QWERTY for early typewriters -- or would events have played out the same way every time even if circumstances had been slightly different? As a result, much of the literature seems to have been written answering not the question "Is QWERTY suboptimal?" but the question "Is the market efficient?" and should therefore be treated with some suspicion.)
 
 The second claim that Tiemann makes is that QWERTY is bad for ergonomics but not for typing speed. (Though confusingly he compares QWERTY to whatever was "before", even though QWERTY became the standard when typewriter technology was still in its infancy.) We'll see whether this second claim holds up.
 
@@ -49,7 +49,7 @@ In theory, alternative keyboards like Dvorak and Colemak have a lot going for th
 - It's better if common keys are near the fingers' natural resting places.
 - It's better to avoid stretching and overusing the pinky finger, which is the weakest of the five.
 
-I have had a hard time finding much evidence either way on whether these factors make a difference as far as ergonomics and productivity are concerned. It really does seem like many of them _should_ make a difference. For example, in my experience awkward pinky movements really do cause discomfort or pain, and this also makes sense given what I've read about RSI. And it seems obvious that one can type faster if one's fingers need to travel less, right?
+I have had a hard time finding much evidence either way on whether these factors make a difference as far as ergonomics and productivity are concerned. It really does seem like many of them *should* make a difference. For example, in my experience awkward pinky movements really do cause discomfort or pain, and this also makes sense given what I've read about RSI. And it seems obvious that one can type faster if one's fingers need to travel less, right?
 
 Not so fast! Typing could be constrained by neurological not physical speed, for example.[^6] And awkward pinky movements could feel uncomfortable or painful because of RSI without actually causing it, the way jumping up and down can feel painful when you have a headache without having actually caused the headache. So is there any evidence that these factors affect ergonomics or productivity?
 
@@ -60,9 +60,9 @@ Some forward-thinking people have set about evaluating key layouts objectively o
 By Carpalx's measures, QWERTY is bad, though better than the average random key layout. Dvorak does better, and Colemak better still:
 
 > The typing effort reduction in moving to Dvorak is 30%. Each effort component for Dvorak is lower. The finger component of the penalty is higher, due to Dvorak's increased use of the pinky (18% of keystrokes vs 10% on QWERTY are done by the pinky), which can be seen by a +56% increase in the finger penalty over QWERTY. If you have very weak pinkies, Dvorak may not be for you.
->
-> Dvorak certainly does a good job in lowering the base effort – this is the component of effort that measures finger travel distance – by moving frequently used keys, such as vowels, to home row. Because Dvorak vowels are serviced by the same hand, hand-alternation is increased (one-character hand run is 62% for Dvorak and 51% for QWERTY), a desirable property of an efficient layout.
->
+> 
+> Dvorak certainly does a good job in lowering the base effort -- this is the component of effort that measures finger travel distance -- by moving frequently used keys, such as vowels, to home row. Because Dvorak vowels are serviced by the same hand, hand-alternation is increased (one-character hand run is 62% for Dvorak and 51% for QWERTY), a desirable property of an efficient layout.
+> 
 > The Colemak effort has an even lower effort than Dvorak and it achieves this by further lowering all three components of the effort. It significantly decreases the penalty component seen in Dvorak. Thus, although Colemak's finger penalty is still higher than QWERTY (again, through the increased use of the pinky), [the] overall penalty is lower by 24%.
 
 ## Ergonomics
@@ -87,11 +87,11 @@ A 2008 review, Thomsen et al., seems inconclusive on whether keyboard use causes
 
 In Pan & Schleifer (1996), subjects experienced more arm discomfort/pain/fatigue the more keys they pressed while doing a data entry task.[^23] Finally, Feng et al. is a recent (2021) cross-sectional study that found that "prolonged computer use time and working without breaks were associated with presence of wrist/hand symptoms".[^24] But of course correlation is not causation, and there are many potential confounders here, e.g. maybe people who spend lots of time at the computer exercise little, and it is the lack of exercise, not computer use, that causes problems.
 
-So we have the theory, a bunch of anecdotal reports and some (non-randomized, non-controlled) studies suggesting there is a causal link between keyboard use and CTS, and a bunch of (non-randomized, non-controlled) studies finding little evidence for such a link. The studies I've come across here leave something to be desired – they are much less rigorous than the studies I read when researching [health effects of veganism]({{ '/posts/can-a-vegan-diet-be-healthy-a-literature-review/' | url }}) – possibly because the magnitude of the problem isn't that great (or maybe it is the nefarious influence of Big Keyboard).
+So we have the theory, a bunch of anecdotal reports and some (non-randomized, non-controlled) studies suggesting there is a causal link between keyboard use and CTS, and a bunch of (non-randomized, non-controlled) studies finding little evidence for such a link. The studies I've come across here leave something to be desired -- they are much less rigorous than the studies I read when researching [health effects of veganism]({{ '/posts/can-a-vegan-diet-be-healthy-a-literature-review/' | url }}) -- possibly because the magnitude of the problem isn't that great (or maybe it is the nefarious influence of Big Keyboard).
 
-If keyboard use does carry the risk of developing RSI, what is it about the keyboard that's bad? Is it the physical design, the key layout, hand/wrist posture, or something else? My impression is that key layout is a relatively small component here, for several reasons. The first is my own experience, according to which it's much more important to use a split keyboard, say, than the appropriate layout if I want to avoid RSI flare-ups. The second is that CTS is largely caused by CTP, which in theory seems more impacted by physical design (chiefly whether a keyboard is split and/or tilted/tented) and less by finger stretching or the horizontal rotating we do with our hands to reach keys at the sides of the keyboard. The third is Carpalx's model, which suggests that established alternatives like Dvorak and Colemak, while better on the whole, use the pinky more heavily than does QWERTY – maybe it is a little bit bad to reach for the outermost keys, but any layout will have some keys at the extremes, so perhaps the difference between layouts just isn't that great.
+If keyboard use does carry the risk of developing RSI, what is it about the keyboard that's bad? Is it the physical design, the key layout, hand/wrist posture, or something else? My impression is that key layout is a relatively small component here, for several reasons. The first is my own experience, according to which it's much more important to use a split keyboard, say, than the appropriate layout if I want to avoid RSI flare-ups. The second is that CTS is largely caused by CTP, which in theory seems more impacted by physical design (chiefly whether a keyboard is split and/or tilted/tented) and less by finger stretching or the horizontal rotating we do with our hands to reach keys at the sides of the keyboard. The third is Carpalx's model, which suggests that established alternatives like Dvorak and Colemak, while better on the whole, use the pinky more heavily than does QWERTY -- maybe it is a little bit bad to reach for the outermost keys, but any layout will have some keys at the extremes, so perhaps the difference between layouts just isn't that great.
 
-What about QWERTY specifically? I wasn't really able to find any research on this. Maybe that's because it's very hard to design experiments to test it? You can't just take a bunch of people and ask half of them to start using Dvorak, because there's a significant learning curve involved. But you don't want to find out if _learning_ a new layout is good, you want to find out _using_ it is good once you have learned it. There is no natural control group for these experiments, and no obvious placebo.
+What about QWERTY specifically? I wasn't really able to find any research on this. Maybe that's because it's very hard to design experiments to test it? You can't just take a bunch of people and ask half of them to start using Dvorak, because there's a significant learning curve involved. But you don't want to find out if *learning* a new layout is good, you want to find out *using* it is good once you have learned it. There is no natural control group for these experiments, and no obvious placebo.
 
 In sum, keyboard use in general does seem to cause RSI, but the risk seems fairly small. Bad key layouts may only be a minor part of the RSI risk, though QWERTY does seem worse than most alternatives, relatively speaking. The evidence here is weak and my confidence intervals are wide.
 
@@ -127,7 +127,7 @@ I'm sure by now you're itching to point something out. Before you do, let me try
 
 ### What's the Cost of Transition?
 
-Some people find switching to a new key layout a real struggle. You have to rewire your muscle memory, and QWERTY is wired real hard. Studies I found report anywhere from two and 24 days to regain one's typing speed.[^34] When I switched from QWERTY to Colemak, I did it cold turkey and typed all day in the new layout, and it still took me something like a week until I was comfortable and two weeks until I had regained my former speed. This is definitely a drawback of switching, though not an insurmountable one. Note however that this cost of transitioning does not make QWERTY a better key layout – it only makes sticking with QWERTY a better choice than it would have been otherwise.
+Some people find switching to a new key layout a real struggle. You have to rewire your muscle memory, and QWERTY is wired real hard. Studies I found report anywhere from two and 24 days to regain one's typing speed.[^34] When I switched from QWERTY to Colemak, I did it cold turkey and typed all day in the new layout, and it still took me something like a week until I was comfortable and two weeks until I had regained my former speed. This is definitely a drawback of switching, though not an insurmountable one. Note however that this cost of transitioning does not make QWERTY a better key layout -- it only makes sticking with QWERTY a better choice than it would have been otherwise.
 
 ### What's the Cost of Not Sticking to the Universal Standard?
 
@@ -145,37 +145,70 @@ In a real sense, the stakes here are quite high. Even if alternative key layouts
 
 I have been hedging a lot in the preceding sections. That is because I am still uncertain about much of this, mostly due to the dearth of empirical evidence. But if you are a believer in revealed preferences, know this. While researching this article, I came across [the QWYRFM layout](http://mkweb.bcgsc.ca/carpalx/?partial_optimization), a product of the aforementioned Carpalx project. One week or so ago I switched from Colemak to typing on QWYRFM due to the reduced load it places on the pinkies. I have been typing on it since then, both on and off the clock. In fact, I have written most of this review on QWYRFM. And not only am I not finding it a struggle to switch, but I am even sort of enjoying the experience.
 
-[^1]: I will only look at RSI here. Obviously there is more to ergonomics than that, but RSI seems widespread and bad and well-defined enough that it's worth focusing on.
-[^2]: As with ergonomics, there is more to key layout and productivity than typing speed (maybe it's even advantageous to type in a slow and steady pace rather than in quick bursts), but speed seems like a significant component of productivity, so I will focus on it here.
-[^3]: Yasuoka, K., & Yasuoka, M. (2011). On the Prehistory of QWERTY. _Zinbun_, _42_, 161-174.
-[^4]: ibid.
-[^5]: ibid.
-[^6]: Liebowitz, S. J., & Margolis, S. E. (1990). The fable of the keys. _The Journal of Law and Economics_, _33_(1), 1-25.
-[^7]: Shieh, K. K., & Lin, C. C. (1999). A quantitative model for designing keyboard layout. _Perceptual and motor skills_, _88_(1), 113-125.
-[^8]: ibid.
-[^9]: But note that there really are a lot of judgment calls here. As Xah Lee [puts it](http://xahlee.info/kbd/most_efficient_keyboard_layout.html): "When you study keyboard layout as Carpalx did, one thing quickly becomes obvious. The difficulty in creating the 'most efficient' [layout] isn't about computing distances or gathering statistics, but making subtle judgement on what's considered more efficient. For example, is minimizing distance of finger travel more important than alternating hands? How [much importance] do we assign to ease of bigram [typing]? What weight should we attach to avoiding single-finger repetition? Should the key J and K have [an] ease-of-press score difference of 0.1 or 0.2?"
-[^10]: Van Tulder, M., Malmivaara, A., & Koes, B. (2007). Repetitive strain injury. _The Lancet_, _369_(9575), 1815-1822.
-[^11]: Fagarasanu, M., & Kumar, S. (2003). Carpal tunnel syndrome due to keyboarding and mouse tasks: a review. _International Journal of Industrial Ergonomics_, _31_(2), 119-136.
-[^12]: ibid.
-[^13]: ibid.
-[^14]: ibid.
-[^15]: Barcenilla, A., March, L. M., Chen, J. S., & Sambrook, P. N. (2012). Carpal tunnel syndrome and its relationship to occupation: a meta-analysis. _Rheumatology_, _51_(2), 250-261.
-[^16]: Battista, E. B., Yedulla, N. R., Koolmees, D. S., Montgomery, Z. A., Ravi, K., & Day, C. S. (2021). Manufacturing Workers Have a Higher Incidence of Carpal Tunnel Syndrome. _Journal of occupational and environmental medicine_, _63_(3), e120-e126.
-[^17]: Wright, A. R., & Atkinson, R. E. (2019). Carpal tunnel syndrome: An update for the primary care physician. _Hawai'i journal of health & social welfare_, _78_(11 Suppl 2), 6.
-[^18]: Battista, E. B., Yedulla, N. R., Koolmees, D. S., Montgomery, Z. A., Ravi, K., & Day, C. S. (2021). Manufacturing Workers Have a Higher Incidence of Carpal Tunnel Syndrome. _Journal of occupational and environmental medicine_, _63_(3), e120-e126.
-[^19]: Thomsen, J. F., Gerr, F., & Atroshi, I. (2008). Carpal tunnel syndrome and the use of computer mouse and keyboard: a systematic review. _BMC musculoskeletal disorders_, _9_(1), 1-9.
-[^20]: Wright, A. R., & Atkinson, R. E. (2019). Carpal tunnel syndrome: An update for the primary care physician. _Hawai'i journal of health & social welfare_, _78_(11 Suppl 2), 6.
-[^21]: Wærsted, M., Hanvold, T. N., & Veiersted, K. B. (2010). Computer work and musculoskeletal disorders of the neck and upper extremity: a systematic review. _BMC musculoskeletal disorders_, _11_(1), 1-15.
-[^22]: Trillos-Chacón, M. C., Castillo-M, J. A., Tolosa-Guzman, I., Medina, A. F. S., & Ballesteros, S. M. (2021). Strategies for the prevention of carpal tunnel syndrome in the workplace: A systematic review. _Applied Ergonomics_, _93_, 103353.
-[^23]: Pan, C. S., & Schleifer, L. M. (1996). An exploratory study of the relationship between biomechanical factors and right-arm musculoskeletal discomfort and fatigue in a VDT data-entry task. _Applied ergonomics_, _27_(3), 195-200.
-[^24]: Feng, B., Chen, K., Zhu, X., Ip, W. Y., Andersen, L. L., Page, P., & Wang, Y. (2021). Prevalence and risk factors of self-reported wrist and hand symptoms and clinically confirmed carpal tunnel syndrome among office workers in China: a cross-sectional study. _BMC Public Health_, _21_(1), 1-10.
-[^25]: Kinkead, R. (1975, October). Typing speed, keying rates, and optimal keyboard layouts. In _Proceedings of the Human Factors Society Annual Meeting_ (Vol. 19, No. 2, pp. 159-161). Sage CA: Los Angeles, CA: SAGE Publications.
-[^26]: ibid.
-[^27]: ibid.
-[^28]: Liebowitz, S. J., & Margolis, S. E. (1990). The fable of the keys. _The Journal of Law and Economics_, _33_(1), 1-25.
-[^29]: ibid.
-[^30]: Cho, H. (2014). _Comparing QWERTY and Dvorak Keyboard Speed: a Pilot Study_ (Doctoral dissertation, 서울대학교 대학원).
-[^31]: ibid.
-[^32]: ibid.
-[^33]: ibid.
-[^34]: Liebowitz, S. J., & Margolis, S. E. (1990). The fable of the keys. _The Journal of Law and Economics_, _33_(1), 1-25.
+[^1]:	 I will only look at RSI here. Obviously there is more to ergonomics than that, but RSI seems widespread and bad and well-defined enough that it's worth focusing on.
+
+[^2]:	 As with ergonomics, there is more to key layout and productivity than typing speed (maybe it's even advantageous to type in a slow and steady pace rather than in quick bursts), but speed seems like a significant component of productivity, so I will focus on it here.
+
+[^3]:	 Yasuoka, K., & Yasuoka, M. (2011). On the Prehistory of QWERTY. *Zinbun*, *42*, 161-174.
+
+[^4]:	 ibid.
+
+[^5]:	 ibid.
+
+[^6]:	 Liebowitz, S. J., & Margolis, S. E. (1990). The fable of the keys. *The Journal of Law and Economics*, *33*(1), 1-25.
+
+[^7]:	 Shieh, K. K., & Lin, C. C. (1999). A quantitative model for designing keyboard layout. *Perceptual and motor skills*, *88*(1), 113-125.
+
+[^8]:	 ibid.
+
+[^9]:	 But note that there really are a lot of judgment calls here. As Xah Lee [puts it](http://xahlee.info/kbd/most_efficient_keyboard_layout.html): "When you study keyboard layout as Carpalx did, one thing quickly becomes obvious. The difficulty in creating the 'most efficient' [layout] isn't about computing distances or gathering statistics, but making subtle judgement on what's considered more efficient. For example, is minimizing distance of finger travel more important than alternating hands? How [much importance] do we assign to ease of bigram [typing]? What weight should we attach to avoiding single-finger repetition? Should the key J and K have [an] ease-of-press score difference of 0.1 or 0.2?"
+
+[^10]:	 Van Tulder, M., Malmivaara, A., & Koes, B. (2007). Repetitive strain injury. *The Lancet*, *369*(9575), 1815-1822.
+
+[^11]:	 Fagarasanu, M., & Kumar, S. (2003). Carpal tunnel syndrome due to keyboarding and mouse tasks: a review. *International Journal of Industrial Ergonomics*, *31*(2), 119-136.
+
+[^12]:	 ibid.
+
+[^13]:	 ibid.
+
+[^14]:	 ibid.
+
+[^15]:	 Barcenilla, A., March, L. M., Chen, J. S., & Sambrook, P. N. (2012). Carpal tunnel syndrome and its relationship to occupation: a meta-analysis. *Rheumatology*, *51*(2), 250-261.
+
+[^16]:	 Battista, E. B., Yedulla, N. R., Koolmees, D. S., Montgomery, Z. A., Ravi, K., & Day, C. S. (2021). Manufacturing Workers Have a Higher Incidence of Carpal Tunnel Syndrome. *Journal of occupational and environmental medicine*, *63*(3), e120-e126.
+
+[^17]:	 Wright, A. R., & Atkinson, R. E. (2019). Carpal tunnel syndrome: An update for the primary care physician. *Hawai'i journal of health & social welfare*, *78*(11 Suppl 2), 6.
+
+[^18]:	 Battista, E. B., Yedulla, N. R., Koolmees, D. S., Montgomery, Z. A., Ravi, K., & Day, C. S. (2021). Manufacturing Workers Have a Higher Incidence of Carpal Tunnel Syndrome. *Journal of occupational and environmental medicine*, *63*(3), e120-e126.
+
+[^19]:	 Thomsen, J. F., Gerr, F., & Atroshi, I. (2008). Carpal tunnel syndrome and the use of computer mouse and keyboard: a systematic review. *BMC musculoskeletal disorders*, *9*(1), 1-9.
+
+[^20]:	 Wright, A. R., & Atkinson, R. E. (2019). Carpal tunnel syndrome: An update for the primary care physician. *Hawai'i journal of health & social welfare*, *78*(11 Suppl 2), 6.
+
+[^21]:	 Wærsted, M., Hanvold, T. N., & Veiersted, K. B. (2010). Computer work and musculoskeletal disorders of the neck and upper extremity: a systematic review. *BMC musculoskeletal disorders*, *11*(1), 1-15.
+
+[^22]:	 Trillos-Chacón, M. C., Castillo-M, J. A., Tolosa-Guzman, I., Medina, A. F. S., & Ballesteros, S. M. (2021). Strategies for the prevention of carpal tunnel syndrome in the workplace: A systematic review. *Applied Ergonomics*, *93*, 103353.
+
+[^23]:	 Pan, C. S., & Schleifer, L. M. (1996). An exploratory study of the relationship between biomechanical factors and right-arm musculoskeletal discomfort and fatigue in a VDT data-entry task. *Applied ergonomics*, *27*(3), 195-200.
+
+[^24]:	 Feng, B., Chen, K., Zhu, X., Ip, W. Y., Andersen, L. L., Page, P., & Wang, Y. (2021). Prevalence and risk factors of self-reported wrist and hand symptoms and clinically confirmed carpal tunnel syndrome among office workers in China: a cross-sectional study. *BMC Public Health*, *21*(1), 1-10.
+
+[^25]:	 Kinkead, R. (1975, October). Typing speed, keying rates, and optimal keyboard layouts. In *Proceedings of the Human Factors Society Annual Meeting* (Vol. 19, No. 2, pp. 159-161). Sage CA: Los Angeles, CA: SAGE Publications.
+
+[^26]:	 ibid.
+
+[^27]:	 ibid.
+
+[^28]:	 Liebowitz, S. J., & Margolis, S. E. (1990). The fable of the keys. *The Journal of Law and Economics*, *33*(1), 1-25.
+
+[^29]:	 ibid.
+
+[^30]:	 Cho, H. (2014). *Comparing QWERTY and Dvorak Keyboard Speed: a Pilot Study* (Doctoral dissertation, 서울대학교 대학원).
+
+[^31]:	 ibid.
+
+[^32]:	 ibid.
+
+[^33]:	 ibid.
+
+[^34]:	 Liebowitz, S. J., & Margolis, S. E. (1990). The fable of the keys. *The Journal of Law and Economics*, *33*(1), 1-25.

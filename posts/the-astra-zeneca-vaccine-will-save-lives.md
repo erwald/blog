@@ -7,7 +7,7 @@ tags: post
 
 # The AstraZeneca Vaccine Will Save Lives
 
-I don't usually like to comment on current affairs as it makes me feel stressed to _get my take out_ while it's still newsworthy and before it has been swallowed by all the other takes out there, but I will make an exception today in order to register my discontent with recent decisions made by some leaders of European nations.
+I don't usually like to comment on current affairs as it makes me feel stressed to *get my take out* while it's still newsworthy and before it has been swallowed by all the other takes out there, but I will make an exception today in order to register my discontent with recent decisions made by some leaders of European nations.
 
 In the past couple of days, a large number of European nations have decided to suspend usage of the AstraZeneca vaccine after seeing cases of side effects such as blood clots. The reason is spelled out clearly. "The decision today is purely precautionary. It is a purely technical and not a political decision", said Jens Spahn. "The decision is a precautionary measure", said Anders Tegnell. This, of course, after months of delayed vaccination drives due to AstraZeneca's own failure in delivering the expected quantities of doses. But in life you cannot manufacture a success by adding one failure to another.
 
@@ -36,25 +36,25 @@ These countries, to their credit, have decided to keep vaccinating:
 - Czechia
 - Belgium[^2]
 
-This is so stupid. What are they talking about, "precautionary measure"? You are supposed to use precautionary measures in order to avoid death and other disasters. Well, guess what! Many hundreds of people are dying every day in Europe! The time for precaution _was in spring of last year_! Now the disaster is already here, engulfing our continent.
+This is so stupid. What are they talking about, "precautionary measure"? You are supposed to use precautionary measures in order to avoid death and other disasters. Well, guess what! Many hundreds of people are dying every day in Europe! The time for precaution *was in spring of last year*! Now the disaster is already here, engulfing our continent.
 
 I am very sorry for those who have gotten blood clots and other vaccine side effects (if they are side effects), but their number is vanishingly small compared to the hundreds or thousands of people who will die for each day that we don't vaccinate. Here is Alex Tabarrok on [Twitter](https://twitter.com/ATabarrok/status/1371506507062276098):
 
 > Pfizer, All UK spontaneous reports received between 9/12/20 and 28/02/21
->
+> 
 > - Deep vein thrombosis 8
 > - Pulmonary embolism 15
 > - Thrombocytopenia 13
->
+> 
 > AZ, All UK spontaneous reports received between 4/01/21and 28/02/21
->
+> 
 > - Deep vein thrombosis 14
 > - Pulmonary embolism 13
 > - Thrombocytopenia 12
->
+> 
 > As of 28 Feb, an estimated 10.7 million first doses of the Pfizer/BioNTech vaccine and 9.7 million doses of the Oxford University/AstraZeneca vaccine had been administered, and around 0.8 million second doses, mostly the Pfizer/BioNTech vaccine, had been administered.
 
-That means the chance of getting one of these conditions after taking the AstraZeneca vaccine was 1 in 248,717 in the U.K. Meanwhile, _during the last week alone_ in that country, 1 in 76,304 people died of Covid-19.[^3]
+That means the chance of getting one of these conditions after taking the AstraZeneca vaccine was 1 in 248,717 in the U.K. Meanwhile, *during the last week alone* in that country, 1 in 76,304 people died of Covid-19.[^3]
 
 ```shell-session
 $ bc <<< "9700000 / (14 + 13 + 12)"
@@ -76,6 +76,8 @@ Let me finish by making some predictions. By July 1, 2021,
 
 This is all so draining. I am European. I love Europe. But this is a frustrating mess.
 
-[^1]: My source here and below is [Die Zeit](https://www.zeit.de/politik/ausland/2021-03/astrazeneca-corona-impfstoff-impfungen-gestoppt-thrombose-nebenwirkungen). Belgium's health minister has [spoken out](https://twitter.com/BNODesk/status/1371563480449486848) in favor of continuing vaccination, so I added it to the list of the praiseworthy.
-[^2]: ibid.
-[^3]: My source here is Worldometer [1](https://www.worldometers.info/coronavirus/country/uk/) and [2](https://www.worldometers.info/world-population/uk-population/).
+[^1]:	 My source here and below is [Die Zeit](https://www.zeit.de/politik/ausland/2021-03/astrazeneca-corona-impfstoff-impfungen-gestoppt-thrombose-nebenwirkungen). Belgium's health minister has [spoken out](https://twitter.com/BNODesk/status/1371563480449486848) in favor of continuing vaccination, so I added it to the list of the praiseworthy.
+
+[^2]:	 ibid.
+
+[^3]:	 My source here is Worldometer [1](https://www.worldometers.info/coronavirus/country/uk/) and [2](https://www.worldometers.info/world-population/uk-population/).

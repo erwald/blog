@@ -23,7 +23,7 @@ FRUNIMIUS: No, no, don't get me wrong, it's all right to feel sorry about what o
 
 ENDEQUINA: Is it not the lack of some ability -- the absence of a capacity to do something?
 
-FRUNIMIUS: But you, dear Endequina, are perfectly tone-deaf. Are you disabled? If you move to a village that values musicianship deeply, that makes sure good things and prestige go to great musicians, that calls everyone who's tone-deaf _disabled_, would you not be the one to suffer? Would you be disabled then? No, your tone-deafness would be bad for you only because the village would make it bad. This is my situation in our village.
+FRUNIMIUS: But you, dear Endequina, are perfectly tone-deaf. Are you disabled? If you move to a village that values musicianship deeply, that makes sure good things and prestige go to great musicians, that calls everyone who's tone-deaf *disabled*, would you not be the one to suffer? Would you be disabled then? No, your tone-deafness would be bad for you only because the village would make it bad. This is my situation in our village.
 
 ENDEQUINA: I can imagine living in such a place, and the thought doesn't please me. Still, isn't it good to have the ability to do something? It's good to be able to tell one musical note from another, isn't it?
 
@@ -59,7 +59,7 @@ FRUNIMIUS: Finally these two blockheads are getting somewhere! Well, let's take 
 
 ENDEQUINA: You are a most cheerful fellow.
 
-FRUNIMIUS: That's right. You know me. I'm not bitter -- or well, maybe I'm bitter, but I'm not angry. I think if you took any number of people, you would not be able to predict their happiness any better after learning that they are or are not disabled ... True, once in a while a maidservant shows up to ruin one's day. But there aren't that many maidservants in this world. You probably feel that you wouldn't want to be of my height, but that is because it would involve a major change for you -- it would disrupt your sense of self. _I_ was born like me, and would not want to, and cannot, be otherwise ... Besides, it's not the sort of thing you should be doing to someone without their permission.
+FRUNIMIUS: That's right. You know me. I'm not bitter -- or well, maybe I'm bitter, but I'm not angry. I think if you took any number of people, you would not be able to predict their happiness any better after learning that they are or are not disabled ... True, once in a while a maidservant shows up to ruin one's day. But there aren't that many maidservants in this world. You probably feel that you wouldn't want to be of my height, but that is because it would involve a major change for you -- it would disrupt your sense of self. *I* was born like me, and would not want to, and cannot, be otherwise ... Besides, it's not the sort of thing you should be doing to someone without their permission.
 
 ENDEQUINA: I agree: becoming the thing and being the thing are not the same. But me being the thing and you being the thing are also not the same ... If you ask someone how they're doing, their answer will always be relative to how well or badly they expect they might do. You can't compare across people. There can still be vast chasms of differences in how they actually feel. You may be absolutely happy, and I may be absolutely happy, but your absolute happiness may be more than mine.
 
@@ -77,7 +77,7 @@ ENDEQUINA: This is all very confusing, by the way. How's business?
 
 FRUNIMIUS: Well, you know, you make do ... There's no cause for complaint ... The Señora's maidservant returned soon enough and made the order -- a grand table and twelve dining chairs -- we'll be living nicely enough during the coming weeks.
 
-_This dialogue was inspired by the philosopher Elizabeth Barnes, whose ideas are probably best presented in Barnes (2016), though I haven't read it myself. The dialogue is an attempt at understanding. I am not disabled and do not speak for anyone but myself, if that._
+*This dialogue was inspired by the philosopher Elizabeth Barnes, whose ideas are probably best presented in Barnes (2016), though I haven't read it myself. The dialogue is an attempt at understanding. I am not disabled and do not speak for anyone but myself, if that.*
 
 ## References
 

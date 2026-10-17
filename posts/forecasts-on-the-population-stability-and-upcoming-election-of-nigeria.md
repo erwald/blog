@@ -52,7 +52,6 @@ I'll suppose the probability that Nigeria's population exceeds >400M by 2050 is 
 <th scope="col" class="org-right">Prediction</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td class="org-left">Me</td>
@@ -91,7 +90,6 @@ So I adjust down to 8%.
 <th scope="col" class="org-right">Prediction</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td class="org-left">Me</td>
@@ -114,7 +112,7 @@ Nigeria has a fascinating and important presidential election (to be held on Feb
 - Nigeria is Africa's largest country by population, and sub-Saharan Africa's largest economy measured by PPP-adjusted GDP.
 - For the first time since the restoration of democracy in 1999, there are three credible candidates vying for the presidency.
 - In particular, there's a youth-led movement, sprung from the [End SARS](https://en.wikipedia.org/wiki/End_SARS) protests, supporting an unexpectedly competitive third candidate, Peter Obi.
-- This _may_ change the dynamics of Nigerian politics, for example to shift it away to some degree from its customary ethnic and religious voting patterns.
+- This *may* change the dynamics of Nigerian politics, for example to shift it away to some degree from its customary ethnic and religious voting patterns.
 
 The main candidates are:
 
@@ -143,7 +141,6 @@ The main candidates are:
 <th scope="col" class="org-left">Notable experience</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td class="org-left">Atiku Abubakar</td>
@@ -225,24 +222,24 @@ Reasons to be bearish on Abubakar:
 - I just don't see any advantage of his over Tinubu or Obi, except perhaps a little name recognition and hailing from the north.
 - He's a perennial loser, having run for president of Nigeria five times before and lost (1993, 2007, 2011, 2015, and 2019).[^3]
 
-<div class="edit" id="orged8a4d4">
+<div class="edit">
 <p>
 Edit 2023-02-07: Stears, a <a href="https://archive.is/GDpNy">Lagos-based data analytics company</a>, released the <a href="https://www.stears.co/premium/article/stears-poll-predicts-nigerias-next-president/">results</a> of a new poll today. Their baseline scenario has Obi with 39.8% of votes, Tinubu with 30.6%, Abubakar with 17.9%, and Kwankwaso with 2%. Obi somewhat increases his margin of victory in the high-turnout scenario, but Tinubu beats him solidly in the more realistic low-turnout scenario. (They have more interesting nuggets in the report, but you need to register to see it and I don’t want to leak all their findings.) The sample size is good (>6,000 respondents), and it looks like they’re analyzing the data sensibly.
 </p>
 
 <p>
-I think the low-turnout scenario is too pessimistic: the inclusion criteria -- it includes only respondents who "have their [voter registration card], [...] state they are certain about their chosen candidate, [...] feel very confident in the electoral process, [...] are sure they will vote, and [...] feel safe or very safe going to vote" -- seem somewhat too strict to me. So <b>I now think Obi is likelier to win than Tinubu</b>. The reasoning is still the same, only the new poll adds extra evidence. (I still have this nagging feeling that Tinubu will win due to the advantage his political machine brings, but I’m letting the polling data weigh heavier than that feeling; it’ll be interesting to see if that’s a mistake.) I’ve updated my predictions below, and have also updated the Metaculus community prediction and the bookies’ odds.
+I think the low-turnout scenario is too pessimistic: the inclusion criteria – it includes only respondents who “have their [voter registration card], […] state they are certain about their chosen candidate, […] feel very confident in the electoral process, […] are sure they will vote, and […] feel safe or very safe going to vote” – seem somewhat too strict to me. So <strong>I now think Obi is likelier to win than Tinubu</strong>. The reasoning is still the same, only the new poll adds extra evidence. (I still have this nagging feeling that Tinubu will win due to the advantage his political machine brings, but I’m letting the polling data weigh heavier than that feeling; it’ll be interesting to see if that’s a mistake.) I’ve updated my predictions below, and have also updated the Metaculus community prediction and the bookies’ odds.
 </p>
 
 </div>
 
-<div class="edit" id="org6cc3c9e">
+<div class="edit">
 <p>
-Edit 2023-03-01: It appears that, pending court challenges, <a href="https://archive.is/FZ3tG">Bola Tinubu has won the election</a> with 37% against Abubakar’s 29% and Obi’s 25%. Tinubu and Abubakar did somewhat better than I expected, while Obi did substantially worse than I expected. 
+Edit 2023-03-01: It appears that, pending court challenges, <a href="https://archive.is/FZ3tG">Bola Tinubu has won the election</a> with 37% against Abubakar’s 29% and Obi’s 25%. Tinubu and Abubakar did somewhat better than I expected, while Obi did substantially worse than I expected.
 </p>
 
 <p>
-<b>I count this as a failure of prediction</b>; in particular, (1) I expected high turnout, whereas turnout was abysmal (27% is the lowest in Nigerian history, possibly in part due to naira and/or petrol scarcities), (2), relatedly, I expected the election to be well run, whereas INEC failed in many ways (delays, violence, suppression, irregularities, utter lack of transparency), and (3) I thought that Obi would pick up some votes at least in the north, whereas he was hardly a rounding error there.
+<strong>I count this as a failure of prediction</strong>; in particular, (1) I expected high turnout, whereas turnout was abysmal (27% is the lowest in Nigerian history, possibly in part due to naira and/or petrol scarcities), (2), relatedly, I expected the election to be well run, whereas INEC failed in many ways (delays, violence, suppression, irregularities, utter lack of transparency), and (3) I thought that Obi would pick up some votes at least in the north, whereas he was hardly a rounding error there.
 </p>
 
 <p>
@@ -275,7 +272,6 @@ To sum up:
 <th scope="col" class="org-right">Kwankwaso</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td class="org-left">Me</td>
@@ -303,6 +299,8 @@ To sum up:
 </tbody>
 </table>
 
-[^1]: The data actually comes not only from censuses, but also surveys, population registers, and so on. But "census" is right to a first approximation.
-[^2]: I count 6 [coups since independence](https://en.wikipedia.org/wiki/Military_coups_in_Nigeria) (1960), 63 × 24 + 1 = 1,513 months since independence and 47 months remaining until the year is 2025.
-[^3]: That is, Abubakar has either run as a candidate for president, or participated in the primaries to be nominated as a candidate.
+[^1]:	 The data actually comes not only from censuses, but also surveys, population registers, and so on. But "census" is right to a first approximation.
+
+[^2]:	 I count 6 [coups since independence](https://en.wikipedia.org/wiki/Military_coups_in_Nigeria) (1960), 63 × 24 + 1 = 1,513 months since independence and 47 months remaining until the year is 2025.
+
+[^3]:	 That is, Abubakar has either run as a candidate for president, or participated in the primaries to be nominated as a candidate.

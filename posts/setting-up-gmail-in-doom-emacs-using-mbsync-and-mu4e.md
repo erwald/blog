@@ -9,7 +9,7 @@ tags: post
 
 <div class="edit">
 <p>
-Edit 2022-10-20: I no longer use mbsync/mu4e, mainly because (1) mu4e was buggy (or I used it badly) and (2) I never managed to integrate it with org-mode in a way that enhanced my productivity. That means (a) doing all this was indeed a waste of time and (b) <b>this guide may be outdated or broken</b> when you read this, as I am no longer maintaining it. That said, it might still be the best guide out there – only use at your own risk.
+Edit 2022-10-20: I no longer use mbsync/mu4e, mainly because (1) mu4e was buggy (or I used it badly) and (2) I never managed to integrate it with org-mode in a way that enhanced my productivity. That means (a) doing all this was indeed a waste of time and (b) <strong>this guide may be outdated or broken</strong> when you read this, as I am no longer maintaining it. That said, it might still be the best guide out there – only use at your own risk.
 </p>
 
 </div>
@@ -20,7 +20,7 @@ It felt necessary to exorcise this demon by way of a blog post. And who knows? I
 
 The set-up has three main components. First there is a tool for downloading emails, for we shall mirror our inboxes, which are stored in the cloud somewhere, locally. For this we use [mbsync](https://isync.sourceforge.io/mbsync.html). Second, we need to index those locally stored emails so that we can quickly search through them. For this we use [mu](https://www.djcbsoftware.nl/code/mu/). Third, we need a way of viewing the emails and maybe even writing and sending new ones. For this we use [mu4e](https://www.djcbsoftware.nl/code/mu/mu4e.html), which comes bundled with mu.
 
-Two small warnings. First, you are going to need to configure your Gmail account to allow "less secure app access". This allows third parties to access your email even if they are not on Google's list of approved consumers, so long as they have the account's password. Second, depending on the size of your inbox, your emails may take up quite a bit of disk space – around 15 GB for me.
+Two small warnings. First, you are going to need to configure your Gmail account to allow "less secure app access". This allows third parties to access your email even if they are not on Google's list of approved consumers, so long as they have the account's password. Second, depending on the size of your inbox, your emails may take up quite a bit of disk space -- around 15 GB for me.
 
 Most of this, by the way, is outlined in the relevant Doom [docs](https://github.com/hlissner/doom-emacs/blob/develop/modules/email/mu4e/README.org), though I found it a little hard to follow. Certainly if there are any discrepancies between those docs and my instructions here, I am in the wrong and they are not.
 
@@ -28,8 +28,8 @@ Most of this, by the way, is outlined in the relevant Doom [docs](https://github
 
 1. Go to [this Google support page](https://support.google.com/accounts/answer/6010255?hl=en) and enable "Less secure app access".
 2. Go to your Gmail account and open Settings and make sure "Forwarding and POP/IMAP" has these options configured:
-   - For "When I mark a message in IMAP as deleted", choose "Auto-Expunge off - Wait for the client to update the server."
-   - For "When a message is marked as deleted and expunged from the last visible IMAP folder", choose "Move the message to the Bin."
+    - For "When I mark a message in IMAP as deleted", choose "Auto-Expunge off - Wait for the client to update the server."
+    - For "When a message is marked as deleted and expunged from the last visible IMAP folder", choose "Move the message to the Bin."
 
 ## II. Install mbsync and mu/mu4e
 
@@ -112,7 +112,7 @@ $ hexdump ~/.mbsync-pw-mailbox.gpg
 
 ### (Optionally) Store Your Password in an Obfuscated File
 
-If it feels icky to put down your password _in plaintext_ in `.mbsyncrc`, you can instead store it with Base64 encoding. Note that this does not really provide more security than storing your password in plaintext.
+If it feels icky to put down your password *in plaintext* in `.mbsyncrc`, you can instead store it with Base64 encoding. Note that this does not really provide more security than storing your password in plaintext.
 
 1. Store the encoded password to a file: `echo "my-password" | base64 > ~/.mbsync-pw-mailbox`.
 2. In `~/.mbsyncrc`, remove `Pass <INSERT YOUR PASSWORD HERE>` and replace it with `PassCmd "base64 -d ~/.mbsync-pw-mailbox"`.
@@ -136,11 +136,11 @@ If it feels icky to put down your password _in plaintext_ in `.mbsyncrc`, you ca
 (setq mu4e-get-mail-command "mbsync gmail"
       ;; get emails and index every 5 minutes
       mu4e-update-interval 300
-	  ;; send emails with format=flowed
-	  mu4e-compose-format-flowed t
-	  ;; no need to run cleanup after indexing for gmail
-	  mu4e-index-cleanup nil
-	  mu4e-index-lazy-check t
+      ;; send emails with format=flowed
+      mu4e-compose-format-flowed t
+      ;; no need to run cleanup after indexing for gmail
+      mu4e-index-cleanup nil
+      mu4e-index-lazy-check t
       ;; more sensible date format
       mu4e-headers-date-format "%d.%m.%y")
 ```
@@ -149,4 +149,4 @@ If it feels icky to put down your password _in plaintext_ in `.mbsyncrc`, you ca
 3. Open up mu4e using `M-x =mu4e` (`C-c M M`) and enjoy. Consult [the manual](https://www.djcbsoftware.nl/code/mu/mu4e/) for learning the ropes.
 4. When sending your first email, you will be prompted for an SMTP host and port. Enter host `smtp.gmail.com` and port `587`. (Here I got an error related to the macOS Keychain. What solved it for me was adding `(after! auth-source (setq auth-sources (nreverse auth-sources)))` to my `config.el` as per [here](https://github.com/zzamboni/dot-doom/blob/master/doom.org).)
 
-[^1]: The project is called `isync` although the executable is called `mbsync`, apparently as part of a migration from the former to the latter.
+[^1]:	 The project is called `isync` although the executable is called `mbsync`, apparently as part of a migration from the former to the latter.

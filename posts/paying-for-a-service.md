@@ -4,9 +4,10 @@ title: Paying for a Service
 date: 2021-02-26
 tags: post
 ---
+
 # Paying for a Service
 
-<div class="edit" id="org5758336">
+<div class="edit">
 <p>
 Addendum 2024-06-13: This post used to be a series of posts, but I have now consolidated it, added a summary, edited the combined text for clarity and readability, and softened some assertions in it. I now feel somewhat conflicted about it. I still think the arguments in it make sense from a Kantian perspective, but I am more conflicted about how Kantian my ethics should be than I was when I originally wrote it (and I was conflicted then, too).
 </p>
@@ -161,13 +162,13 @@ But it's also the case that this thought experiment and this ethical framework a
 ## References
 
 <style>.csl-entry{text-indent: -2em; margin-left: 2em;}</style><div class="csl-bib-body">
-  <div class="csl-entry">Abramovich, Evelyn. 2005. “Childhood Sexual Abuse as a Risk Factor for Subsequent Involvement in Sex Work: A Review of Empirical Findings.” <i>Journal of Psychology & Human Sexuality</i> 17 (1-2): 131--46.</div>
+  <div class="csl-entry">Abramovich, Evelyn. 2005. “Childhood Sexual Abuse as a Risk Factor for Subsequent Involvement in Sex Work: A Review of Empirical Findings.” <i>Journal of Psychology & Human Sexuality</i> 17 (1-2): 131–46.</div>
   <div class="csl-entry">Kant, Immanuel. 2012. <i>Groundwork of the Metaphysics of Morals</i>. Cambridge University Press.</div>
   <div class="csl-entry">Korsgaard, Christine M. 1985. “Kant’s Formula of Universal Law.”</div>
-  <div class="csl-entry">------. 1996. <i>Creating the Kingdom of Ends</i>. Cambridge University Press.</div>
-  <div class="csl-entry">------. 2018. <i>Fellow Creatures: Our Obligations to the Other Animals</i>. Oxford University Press.</div>
+  <div class="csl-entry">———. 1996. <i>Creating the Kingdom of Ends</i>. Cambridge University Press.</div>
+  <div class="csl-entry">———. 2018. <i>Fellow Creatures: Our Obligations to the Other Animals</i>. Oxford University Press.</div>
   <div class="csl-entry">Platt, Lucy, Pippa Grenfell, Rebecca Meiksin, Jocelyn Elmes, Susan G Sherman, Teela Sanders, Peninah Mwangi, and Anna-Louise Crago. 2018. “Associations between Sex Work Laws and Sex Workers’ Health: A Systematic Review and Meta-Analysis of Quantitative and Qualitative Studies.” <i>Plos Medicine</i> 15 (12): e1002680.</div>
-  <div class="csl-entry">Toro, Paul A, Carolyn J Tompsett, Sylvie Lombardo, Pierre Philippot, Hilde Nachtergael, Benoit Galand, Natascha Schlienz, et al. 2007. “Homelessness in Europe and the United States: A Comparison of Prevalence and Public Opinion.” <i>Journal of Social Issues</i> 63 (3): 505--24.</div>
+  <div class="csl-entry">Toro, Paul A, Carolyn J Tompsett, Sylvie Lombardo, Pierre Philippot, Hilde Nachtergael, Benoit Galand, Natascha Schlienz, et al. 2007. “Homelessness in Europe and the United States: A Comparison of Prevalence and Public Opinion.” <i>Journal of Social Issues</i> 63 (3): 505–24.</div>
 </div>
 
 [^1]:	 We could also ask them, but I'm not sure we can always expect a truthful response. Because they will be incentivized to say whatever will make them more likely to get money, especially if they are destitute. And who can blame them for lying! Well, I guess Kant could.

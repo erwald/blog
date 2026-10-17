@@ -12,7 +12,7 @@ tags: post
 Six months ago [I vowed]({{ '/posts/my-path-towards-veganism/' | url }}) to adopt the vegan diet and set up a step-by-step plan to get there. I also made six predictions about how things would turn out. I prophesied:
 
 > On February 1, 2022,
->
+> 
 > 1. I will not have purchased any non-vegan cosmetics, carmine, beeswax, wool, silk, or down after August 1, 2021 ⇒ 90%
 > 2. I will not have consumed honey (except to finish the jar we already have at home) after September 1, 2021 ⇒ 60%
 > 3. I will not have consumed any dairy product (except for cheese) after October 1, 2021 ⇒ 50%

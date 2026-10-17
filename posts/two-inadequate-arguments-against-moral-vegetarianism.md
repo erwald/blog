@@ -10,10 +10,10 @@ eaf_link: https://forum.effectivealtruism.org/posts/dWRFwwcQCmz5z7mub/two-inadeq
 
 > Faintly are heard the ploughmen at their ploughs,  
 > But not an eye can find its way to see.[^1]
->
+> 
 > -- John Clare
 
-Of all the positions I hold strongly, the one that says it’s morally right and good to practice vegetarianism and veganism is, in a way, I think (and I hope this doesn't reek too pungently of hubris) the easiest one to argue for. (That does not mean it's the one I'm most certain is true.) Most people already have intuitions pushing in this direction, though they apply them inconsistently. They feel that we have some duties and obligations toward our pets and other companion animals, for example. They would also most of them admit that what goes on in factory farms today is less than perfect. And then, having not quite forgotten this state of affairs, whenever they happen to be _used_ by someone, they complain of having been _treated like an animal_, suggesting that animals are treated in a way that we find utterly unacceptable (if they are in fact the sorts of creatures that _can_ be mistreated).[^2]
+Of all the positions I hold strongly, the one that says it's morally right and good to practice vegetarianism and veganism is, in a way, I think (and I hope this doesn't reek too pungently of hubris) the easiest one to argue for. (That does not mean it's the one I'm most certain is true.) Most people already have intuitions pushing in this direction, though they apply them inconsistently. They feel that we have some duties and obligations toward our pets and other companion animals, for example. They would also most of them admit that what goes on in factory farms today is less than perfect. And then, having not quite forgotten this state of affairs, whenever they happen to be *used* by someone, they complain of having been *treated like an animal*, suggesting that animals are treated in a way that we find utterly unacceptable (if they are in fact the sorts of creatures that *can* be mistreated).[^2]
 
 That said, as with everything else, so with vegetarianism and veganism: there are arguments for and against it and some of those are good and some are bad. I am going to describe two (fairly good) arguments against moral vegetarianism and explain why I think they are inadequate. What they have in common is that they argue not that reducing animal suffering is not a worthwhile end but that vegetarianism (and veganism, but I'll stop saying that) is an ineffectual means of achieving that end. They do this on empirical consequentialist[^3] grounds, giving essentially economical reasons for why it is so.
 
@@ -27,17 +27,18 @@ It's true that the cattle rancher maximizes production in the area they have and
 
 <div class="edit">
 <p>
-Edit 2023-07-07: <b>I still think this is broadly right, but less clear-cut than I made it appear when writing this post.</b> If meat prices are relatively inelastic and demand for meat drops, you would see marginal producers exit the market, new producers being deterred from entering, and remaining producers lower their prices. But that could also mean increased pressure on remaining producers to improve efficiency, which usually spells bad news for animals. On balance, though, I do think we should expect prices to drop less than demand drops, and that this would eventually reduce animal suffering in factory farms on the margin.
+Edit 2023-07-07: <strong>I still think this is broadly right, but less clear-cut than I made it appear when writing this post.</strong> If meat prices are relatively inelastic and demand for meat drops, you would see marginal producers exit the market, new producers being deterred from entering, and remaining producers lower their prices. But that could also mean increased pressure on remaining producers to improve efficiency, which usually spells bad news for animals. On balance, though, I do think we should expect prices to drop less than demand drops, and that this would eventually reduce animal suffering in factory farms on the margin.
 </p>
+
 </div>
 
 There are also strong regional differences that we wouldn't expect to see if this argument were true. For instance, in India, which has a strong vegetarian culture, meat consumption per capita is [one quarter](https://en.wikipedia.org/wiki/List_of_countries_by_meat_consumption) of what it is in neighboring Pakistan, even though GDP per capita [is much higher in India](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PK-IN-BD). So the difference from many Indians eating less meat isn't made up by remaining Indians eating more of cheap meat. Though I'm sure there are many confounds here.
 
 ## The Argument from Supply Chain Buffers
 
-The second argument begins with the observation that, when one buys a piece of meat, whatever animal it came from has already suffered and died for it -- whatever good or bad comes from the purchase must be good or bad _for future animals_. In other words, if there's any effect at all, it must be an effect on future meat production. But we know that any one individual purchase is exceedingly unlikely to have that kind of an effect.[^9]
+The second argument begins with the observation that, when one buys a piece of meat, whatever animal it came from has already suffered and died for it -- whatever good or bad comes from the purchase must be good or bad *for future animals*. In other words, if there's any effect at all, it must be an effect on future meat production. But we know that any one individual purchase is exceedingly unlikely to have that kind of an effect.[^9]
 
-Now you may object that, sure, the chance that a single purchase will affect future production is very low, but when it happens (as it will) the effect will be very large indeed. But I can refine my argument. I can say, as Mark Budolfson does[^10], that we know something about meat-producing supply chains. We know that meat producers always produce a bit more than is normally sold (which goes to waste or is repurposed when it expires on the supermarket shelves) and moreover generally that there are small but reliable buffers at every step of the supply chain. This introduces more than enough noise in the signal to make any one purchase invisible to the producer's eyes.[^11] The signal is "absorbed" by the buffers. Put differently, in deciding _not_ to buy a piece of meat, one has no greater chance of making a difference than does the person who casts a vote in a U.S. presidential election from a state like Vermont or Wyoming.[^12]
+Now you may object that, sure, the chance that a single purchase will affect future production is very low, but when it happens (as it will) the effect will be very large indeed. But I can refine my argument. I can say, as Mark Budolfson does[^10], that we know something about meat-producing supply chains. We know that meat producers always produce a bit more than is normally sold (which goes to waste or is repurposed when it expires on the supermarket shelves) and moreover generally that there are small but reliable buffers at every step of the supply chain. This introduces more than enough noise in the signal to make any one purchase invisible to the producer's eyes.[^11] The signal is "absorbed" by the buffers. Put differently, in deciding *not* to buy a piece of meat, one has no greater chance of making a difference than does the person who casts a vote in a U.S. presidential election from a state like Vermont or Wyoming.[^12]
 
 So goes the argument from supply chain buffers. Here's why I think it's wrong. Imagine a scenario where the populace of some city or country decides, for cultural reasons, one by one to stop buying meat. If the inefficacy argument were true, the first person's doing so would not affect meat production, because the signal would be lost in the noise, absorbed by supply chain buffers. The second person's doing so would also not affect meat production, and the third's, and the fourth's, and so on. Gradually consumption would drop toward zero but meat producers, having not at any point in time discerned a significant drop in demand, would cheerfully go on producing the same amount that they always produced.[^13]
 
@@ -55,17 +56,30 @@ McMullen & Halteman[^14] mention some further reasons to believe that moral vege
 
 We are fewer than 8B people in this world but every year we slaughter [nearly 80B non-human animals](https://ourworldindata.org/meat-production#number-of-animals-slaughtered) -- mostly chicken -- for meat. (That's excluding fish and insects, which both dwarf that number.) If that's wrong, it's a wrong of truly staggering proportions. In fact, if animals are creatures that can be mistreated (and I think they are), it's insane and beastly. And the appetite is growing and will continue to grow as humans across the world get more prosperous. So it seems good that philosophers are engaging with this problem, and important to get this right.
 
-[^1]: Clare, J. & Farley, P. (2011). _John Clare: poems_. London: Faber and Faber.
-[^2]: I owe this observation to Korsgaard, _[Getting Animals in View](https://thepointmag.com/examined-life/getting-animals-view/)_.
-[^3]: Specifically they concern act consequentialism. Other variants, like rule consequentialism, escape unharmed from these arguments.
-[^4]: Gallet, C. A. (2010). _Meat Meets Meta: A Quantitative Review of the Price Elasticity of Meat_. American Journal of Agricultural Economics, 92(1), 258–272.
-[^5]: Selvanathan, E. A., Jayasinghe, M., Hossain, M. M., & Selvanathan, S. (2020). _Modelling the Demand for Meat in Bangladesh_. In Science and Technology Innovation for a Sustainable Economy (pp. 135–151). Springer International Publishing.
-[^6]: McMullen, S., & Halteman, M. C. (2018). _Against Inefficacy Objections: the Real Economic Impact of Individual Consumer Choices on Animal Agriculture_. Food Ethics, 2(2–3), 93–110.
-[^7]: ibid.
-[^8]: ibid.
-[^9]: Kagan, S. (2011). _Do I Make a Difference?_ Philosophy & Public Affairs, 39(2), 105–141.
-[^10]: Budolfson, M. B. (2018). _The inefficacy objection to consequentialism and the problem with the expected consequences response_. Philosophical Studies, 176(7), 1711–1724.
-[^11]: ibid.
-[^12]: ibid.
-[^13]: It's almost as if the argument is that the demand signal is a kind of emergent phenomenon -- it's there in the aggregate but invisible at the individual level. That makes me wonder whether there are general preconditions for emergence and, if so, what those preconditions are.
-[^14]: McMullen, S., & Halteman, M. C. (2018). _Against Inefficacy Objections: the Real Economic Impact of Individual Consumer Choices on Animal Agriculture_. Food Ethics, 2(2–3), 93–110.
+[^1]:	 Clare, J. & Farley, P. (2011). *John Clare: poems*. London: Faber and Faber.
+
+[^2]:	 I owe this observation to Korsgaard, *[Getting Animals in View](https://thepointmag.com/examined-life/getting-animals-view/)*.
+
+[^3]:	 Specifically they concern act consequentialism. Other variants, like rule consequentialism, escape unharmed from these arguments.
+
+[^4]:	 Gallet, C. A. (2010). *Meat Meets Meta: A Quantitative Review of the Price Elasticity of Meat*. American Journal of Agricultural Economics, 92(1), 258--272.
+
+[^5]:	 Selvanathan, E. A., Jayasinghe, M., Hossain, M. M., & Selvanathan, S. (2020). *Modelling the Demand for Meat in Bangladesh*. In Science and Technology Innovation for a Sustainable Economy (pp. 135--151). Springer International Publishing.
+
+[^6]:	 McMullen, S., & Halteman, M. C. (2018). *Against Inefficacy Objections: the Real Economic Impact of Individual Consumer Choices on Animal Agriculture*. Food Ethics, 2(2--3), 93--110.
+
+[^7]:	 ibid.
+
+[^8]:	 ibid.
+
+[^9]:	 Kagan, S. (2011). *Do I Make a Difference?* Philosophy & Public Affairs, 39(2), 105--141.
+
+[^10]:	 Budolfson, M. B. (2018). *The inefficacy objection to consequentialism and the problem with the expected consequences response*. Philosophical Studies, 176(7), 1711--1724.
+
+[^11]:	 ibid.
+
+[^12]:	 ibid.
+
+[^13]:	 It's almost as if the argument is that the demand signal is a kind of emergent phenomenon -- it's there in the aggregate but invisible at the individual level. That makes me wonder whether there are general preconditions for emergence and, if so, what those preconditions are.
+
+[^14]:	 McMullen, S., & Halteman, M. C. (2018). *Against Inefficacy Objections: the Real Economic Impact of Individual Consumer Choices on Animal Agriculture*. Food Ethics, 2(2--3), 93--110.
