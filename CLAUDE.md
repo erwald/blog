@@ -37,11 +37,20 @@ npx @11ty/eleventy
 ## Architecture
 
 - `.eleventy.js` — all site configuration: markdown-it setup (footnotes, anchors, sub/sup, typographer), custom filters (`readableDate`, `pathify`, `apostrophy`, `removeTitle`, `getSeries`, `featuredPosts`), plugins (syntax highlighting, RSS, read time). The `featuredPosts` filter hardcodes the "start here" post list — adding a featured post means editing this file.
-- `posts/*.md` — one file per post; the filename is the URL slug (kebab-case).
+- `posts/*.md` — one file per post, generated from Org (see below); the filename is the URL slug (kebab-case).
 - `_includes/layouts/` — `base.njk` and `post.njk` Nunjucks layouts.
 - `_data/metadata.json` — site metadata; `_data/series.json` — post series definitions, matched to posts by slug via the `getSeries` filter.
 - `img_original/` — source images (also zipped in `img_original.zip`); `img/` — web-ready images. Hero images get a black-and-white dithered treatment via `dither_convert.sh`, which produces three sizes: main (660px), `_substack` (730px), `_thumbnail` (300px).
 - `_site/` — build output; never edit by hand.
+
+## Posts are generated from Org
+
+Every published post has an Org source in `~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/org/projects/blog/` (found by its `#+slug:` line). A background service, `blog-export.el` in `~/Documents/doom-config/`, exports each Org file marked `#+status: ready` to `posts/<slug>.md`, plus a plain-Markdown copy for LessWrong and the EA Forum in `crossposts/<slug>.md` (generated, ignored by git). Files marked `#+status: draft` are never exported. The Org folder has no version history; git history of `posts/` is the only record.
+
+- When Erich asks for a change to a post, make it in the post's Org file, and the service updates `posts/<slug>.md` within seconds. Edit `posts/*.md` directly only for a post that has no Org file.
+- Never edit an Org file unless Erich has explicitly asked for that change. The Org files are his words.
+- Never hand-edit `posts/*.md` for a post that has an Org file, or anything in `crossposts/`: the exporter refuses to overwrite uncommitted hand edits, and overwrites committed ones on the next export.
+- The service log is `~/Library/Logs/blog-export.log`; in Emacs, `M-x blog-export-install-service` (re)installs the service.
 
 ## Post conventions
 
