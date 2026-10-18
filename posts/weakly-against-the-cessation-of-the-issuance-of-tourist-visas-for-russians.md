@@ -33,7 +33,7 @@ The reason I mention this is to assure you that I'm not a Kremlin supporter. I j
 
 Let's set the scene ...
 
-**Exhibit 1.** On August 8, the Washington Post [reported](https://archive.ph/59rfp#selection-929.16-944.0):
+**Exhibit 1.** On August 8, the Washington Post [reported](https://www.washingtonpost.com/world/2022/08/08/ukraine-zelensky-interview-ban-russian-travelers/):
 
 > The way to stop Russia from annexing any more of Ukraine's territory, President Volodymyr Zelensky said Monday, is for Western countries to announce that they would ban all Russian citizens in response.
 > 
@@ -43,7 +43,7 @@ The piece goes on to quote Zelensky as saying:
 
 > Whichever kind of Russian ... make them go to Russia. [...] They'll understand then. They'll say, "This [war] has nothing to do with us. The whole population can't be held responsible, can it?" It can. The population picked this government and they're not fighting it, not arguing with it, not shouting at it.
 
-**Exhibit 2.** On August 18, the AP [reported](https://archive.ph/6qsp2#selection-848.0-848.1):
+**Exhibit 2.** On August 18, the AP [reported](https://www.ksat.com/news/world/2022/08/18/estonian-minister-defends-visa-ban-against-russian-tourists/):
 
 > Estonia's foreign minister on Thursday defended his country's decision to bar Russian tourists, saying they are shirking their "moral responsibility" to stand up to Russian President Vladimir Putin's regime and its "genocidal war" in Ukraine. [...] "Our idea is to give a signal to all our European partners, all our Western community partners, to close down our borders to Russian citizens, except humanitarian cases", Foreign Minister Urmas Reinsalu told The Associated Press in an interview in Tallinn. "Russian citizens are not welcome in Europe. Their country is committing a genocidal war against an innocent people." [...] Reinsalu said "hundreds of thousands" of Russian citizens passing through Estonian soil posed an "evident security threat" and dismissed concerns that the visa ban could backfire by turning ordinary Russians against Europe and the West.
 
@@ -51,7 +51,7 @@ The piece goes on to quote Reinsalu as saying:
 
 > [Though the legal responsibility for the war lies with Putin,] there is also a [...] moral responsibility of Russian citizens as citizens of [the] aggressor state. [...] They have to wake up and protest against the regime's atrocities. Their tax money literally is used to buy rockets and bombs to kill children in Ukraine.
 
-**Exhibit 3.** On August 17, Bloomberg published [an opinion piece by Leonid Bershidsky](https://archive.ph/GBRsm) that argued that the Russian opposition shouldn't criticize these demands. (They have.) Bershidsky writes:
+**Exhibit 3.** On August 17, Bloomberg published [an opinion piece by Leonid Bershidsky](https://www.bloomberg.com/opinion/articles/2022-08-17/russian-emigres-should-keep-silent-on-possible-eu-tourist-visa-bans) that argued that the Russian opposition shouldn't criticize these demands. (They have.) Bershidsky writes:
 
 > We anti-Putin Russians are missing a great chance to keep mum. Instead, the volume of media and social network commentary suggests that we are putting our concern over the possible loss of travel to Europe (with no effect on visa-free travel to dozens of other countries) at least on a par with our concern over what our birth country is perpetrating daily in Ukraine. This loss of face and show of selfishness is one the emigre community cannot afford.
 > 
@@ -61,7 +61,7 @@ The piece goes on to quote Reinsalu as saying:
 
 (I don't have a strong opinion on whether the Russian opposition should or should not criticize this. That's a strategic and empirical question I don't know much about.)
 
-Since then European foreign ministers [have convened in Prague](https://archive.ph/xPhKW) to discuss the matter, though the Union remains partly divided.
+Since then European foreign ministers [have convened in Prague](https://mzv.gov.cz/jnp/en/issues_and_press/archive/events_and_issues/x2022/informal_meeting_of_the_eu_foreign.html) to discuss the matter, though the Union remains partly divided.
 
 ## The Arguments and What I Think about Them
 
@@ -93,7 +93,7 @@ I think the effects of doing so are unclear or even negative. Specifically, look
 
 It does feel weird and unseemly, as Bershidsky says, for wealthy, pro-regime Russians to tour Europe while their compatriots are warring in Ukraine. I wouldn't do it if I were them. But I'm against bans on weird and unseemly.
 
-More importantly, the wealthy and pro-regime are not the only Russians who want to enter the EU, and people don't only use tourists visas for leisure (despite what [foreign policy connoisseurs say](https://nitter.net/MacaesBruno/status/1563615396942745600#m)). They also use them to visit family, friends, and loved ones, they use them to do entry exams at European universities, they use them to emigrate, etc. Migrating and studying abroad are not the tourist visa's intended purpose, but it's a common use.[^8] I know ≥3 (dissenting) Russians who have lived in Europe ≥5 years and who all initially came here using tourist visas.
+More importantly, the wealthy and pro-regime are not the only Russians who want to enter the EU, and people don't only use tourists visas for leisure (despite what [foreign policy connoisseurs say](https://x.com/MacaesBruno/status/1563615396942745600)). They also use them to visit family, friends, and loved ones, they use them to do entry exams at European universities, they use them to emigrate, etc. Migrating and studying abroad are not the tourist visa's intended purpose, but it's a common use.[^8] I know ≥3 (dissenting) Russians who have lived in Europe ≥5 years and who all initially came here using tourist visas.
 
 (After Ukrainian asylum applications in the EU peaked in March and April, there have been as many Russian applications as Ukrainian.[^9] Many Russian emigrants are skilled laborers: Iontsev, Ryazantsev, and Iontseva (2016) says the share of specialists went "from 14% in 1992 to 31% in 1999 and to 47% in 2012"; as of five years ago, >1M Russians worked abroad, many of them young. People who move away from Russia are likely less supportive of the regime than those who stay behind.)
 
@@ -117,11 +117,11 @@ I hope and believe that at some point in the coming decades relations between Ru
 
 [^1]:	 I'm not an expert on foreign policy, Russia, or anything else that's relevant here. I estimate I did <3 hours of research when writing this. I know more Russians than Ukrainians, and it's possible that my personal relationships are clouding my judgment.
 
-[^2]:	 For example as [expressed](https://nitter.it/bctallis/status/1557382680257478660) by Benjamin Tallis: "[W]ithdrawing this privilege is one the things we *can* meaningfully do to show 'ordinary' Russians that they too must bear the costs of their (repeatedly) chosen leader's brutality. This is about sticks, not carrots, now. After too long of playing nice it's time to increase the squeeze on the dictator and his everyday enablers." (I think Tallis seriously overestimates both the extent to which Russian elections have been fair these past two decades and the extent to which the West has been "playing nice".)
+[^2]:	 For example as [expressed](https://x.com/bctallis/status/1557382680257478660) by Benjamin Tallis: "[W]ithdrawing this privilege is one the things we *can* meaningfully do to show 'ordinary' Russians that they too must bear the costs of their (repeatedly) chosen leader's brutality. This is about sticks, not carrots, now. After too long of playing nice it's time to increase the squeeze on the dictator and his everyday enablers." (I think Tallis seriously overestimates both the extent to which Russian elections have been fair these past two decades and the extent to which the West has been "playing nice".)
 
-[^3]:	 Also as [expressed](https://archive.ph/3U11J) by Benjamin Tallis: "[A] visa ban would be an investment in our own security and the resilience of our democracies. It would directly block a channel through which Russian agents of influence can move into our societies."
+[^3]:	 Also as [expressed](https://www.themoscowtimes.com/2022/08/24/why-europe-should-ban-russian-tourists-a78639) by Benjamin Tallis: "[A] visa ban would be an investment in our own security and the resilience of our democracies. It would directly block a channel through which Russian agents of influence can move into our societies."
 
-[^4]:	 Once again [in the words](https://archive.ph/3U11J) of Benjamin Tallis: "[T]he visa ban would be a powerful show of Europe's resolve to support Ukraine and stand up to Russia's vicious revanchism. The prohibition is something Ukraine's leaders have asked for and which is in our power to enact. Doing so would demonstrate our dedication to their cause at a time when Ukrainians may feel nervous about Europeans' sticking power. [...] [E]nacting the tourist visa ban would be a step towards unleashing the EU states' latent power and putting it to good purpose. For too long [have we] only half-heartedly tried to stand up to Russia[.]"
+[^4]:	 Once again [in the words](https://www.themoscowtimes.com/2022/08/24/why-europe-should-ban-russian-tourists-a78639) of Benjamin Tallis: "[T]he visa ban would be a powerful show of Europe's resolve to support Ukraine and stand up to Russia's vicious revanchism. The prohibition is something Ukraine's leaders have asked for and which is in our power to enact. Doing so would demonstrate our dedication to their cause at a time when Ukrainians may feel nervous about Europeans' sticking power. [...] [E]nacting the tourist visa ban would be a step towards unleashing the EU states' latent power and putting it to good purpose. For too long [have we] only half-heartedly tried to stand up to Russia[.]"
 
 [^5]:	 That said, the long-run consequences of the war could be very large, e.g. if it leads to a [great power conflict](https://forum.effectivealtruism.org/posts/aSzxoj7irC5jNHceB/how-likely-is-world-war-iii) or anything of that sort. It seems extremely hard to know even the sign of that effect.
 

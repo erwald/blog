@@ -25,7 +25,7 @@ He then presents us with this screenshot:
 
 It is not easy to deconstruct a masterpiece, but if I had to pick a favorite thing about this site it would have to be the vast pale-blue sidebar, the space of which is expertly used to display two tiny links. (I would have picked the repeating background gradient, but it does not actually repeat when viewed in a browser; I assume this is an artifact of Bruenig's having stitched together two screenshots in order to cover the whole height of the page.) Here is Bruenig again:
 
-> As Michelle Singletary reported at the Washington Post, this website is a [disaster](https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2021%2F06%2F15%2Firs-child-tax-credit-tool%2F). Among other things:
+> As Michelle Singletary reported at the Washington Post, this website is a [disaster](https://www.washingtonpost.com/business/2021/06/15/irs-child-tax-credit-tool/). Among other things:
 > 
 > 1. The website is not hosted on a .gov address. Instead, it is hosted at freefilefillableforms.com.
 > 2. The website's URL, design, and lack of any indication that it has a formal affiliation with the IRS makes it look like a phishing scam.

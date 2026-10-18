@@ -68,7 +68,7 @@ If anything matters at all, objectively, then our task must be to find a moral s
 
 [^1]:	 Bensinger, *[What I'd change about different philosophy fields](https://www.lesswrong.com/posts/3Lyki5DCHnJgeNXww/what-i-d-change-about-different-philosophy-fields)*.
 
-[^2]:	 Williams, *[Utilitarianism](https://www.youtube.com/watch?v=H6fejg5A1bU)*.
+[^2]:	 Williams, *[Utilitarianism](https://www.open.ac.uk/library/digital-archive/video:FOUA228W)*.
 
 [^3]:	 McElreath, *Statistical Rethinking: A Bayesian Course with Examples in R and Stan*.
 

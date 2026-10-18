@@ -37,6 +37,6 @@ Arthur Schopenhauer described pedantry as what happens when people "lack confide
 
 [^5]:	 Chesterton, *The Collected Works of G.K. Chesterton*.
 
-[^6]:	 [DePonySum brings up](https://deponysum.com/2020/01/05/chestertons-fence-and-thinking-using-sayings/) one problem with Chesterton's fence. It sees change as something exogenous. So current best practices is something that *just is over here*, and somebody wanting to change them *is coming from outside*. Whereas, in practice, these conventions are constantly evolving and it is only thanks to constant change and variation that they have improved and do continue to improve.
+[^6]:	 [DePonySum brings up](https://web.archive.org/web/20210331/https://deponysum.com/2020/01/05/chestertons-fence-and-thinking-using-sayings/) one problem with Chesterton's fence. It sees change as something exogenous. So current best practices is something that *just is over here*, and somebody wanting to change them *is coming from outside*. Whereas, in practice, these conventions are constantly evolving and it is only thanks to constant change and variation that they have improved and do continue to improve.
 
 [^7]:	 Schopenhauer, *The World as Will and Representation*.

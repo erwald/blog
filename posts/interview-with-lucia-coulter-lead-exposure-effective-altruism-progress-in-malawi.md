@@ -58,7 +58,7 @@ LUCIA: Firstly they provided a two-month full-time incubation program, which I w
 
 ## LEEP's Progress
 
-ERICH: Besides LEEP, there are also a few other organizations working in this space, notably [Pure Earth](https://www.pureearth.org/global-lead-program/). How does your work differ from theirs?
+ERICH: Besides LEEP, there are also a few other organizations working in this space, notably [Pure Earth](https://www.pureearth.org/global-lead-program/strategy-and-approach/). How does your work differ from theirs?
 
 LUCIA: Pure Earth focuses on other sources of lead exposure, for example toxic hotspots caused by informal lead-acid battery recycling and lead-contaminated spices. We currently focus on lead paint, but would be open to targeting other sources of lead exposure if the evidence is strong enough for the sources being important and tractable to address.
 

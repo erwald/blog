@@ -11,7 +11,7 @@ Tomorrow the Swedish General Election takes place. It got me wondering. In order
 
 So I see:
 
-- Nooshi Dadgostar (Left Party) [joined](https://archive.ph/S2Bgi) the Youth Left at age 14.
+- Nooshi Dadgostar (Left Party) [joined](https://www.svt.se/nyheter/inrikes/de-kan-bli-vansterpartiets-nya-ledare) the Youth Left at age 14.
 - Jimmie Åkesson (Sweden Democrats) [decided](https://sv.wikipedia.org/wiki/Jimmie_%C3%85kesson#Politisk_karri%C3%A4r) to become active in the Sweden Democratic Youth Party at age 15.
 - Ulf Kristersson (Moderate Party) [formed](https://sv.wikipedia.org/wiki/Ulf_Kristersson#Politisk_karri%C3%A4r) a Moderate School Association with friends at his upper-secondary school, making him 15-19 at the time.
 - Magdalena Andersson (Social Democrats) [joined](https://sv.wikipedia.org/wiki/Magdalena_Andersson#Politisk_karri%C3%A4r) the Social Democratic Youth Party at age 16.

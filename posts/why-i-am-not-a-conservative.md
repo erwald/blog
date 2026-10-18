@@ -71,7 +71,7 @@ Now whether or not we can stand a utopia is not really of interest to me. What m
 
 Besides being impossible to attain, utopia is also harmful to try to attain. "To seek for utopia is to end in disaster [...] we are not made for perfect things", Kirk writes. Utopias are almost infinitely valuable. The most famous utopia in the Western world, the Christian Heaven, certainly is, since it is full of bliss and lasts forever. If someone is a perfectly normal utilitarian and believes that there is a non-zero probability of bringing such a utopia about, then it may be rational for them to put all other considerations aside when making decisions involving this utopia (cf. [Pascal's mugging](https://www.lesswrong.com/tag/pascal-s-mugging)). But if we look back on history we see that utopia has never been brought about, whereas the quest for utopia has often brought humanity closer to dystopia.
 
-This impulse, by the way, is [still alive today](https://nitter.net/existentialcoms/status/1505256759123841025):
+This impulse, by the way, is [still alive today](https://x.com/existentialcoms/status/1505256759123841025):
 
 > Am I a communist?
 > 

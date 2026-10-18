@@ -41,7 +41,7 @@ Another [estimation](https://voxeu.org/article/cost-benefit-analysis-and-covid-v
 
 There is also some evidence that the suspension eroded trust in the AZ vaccine. One study estimates that the suspension in Italy led to vaccine hesitancy and 662,760 lost doses in just three weeks.[^10] Another study (well, somebody's Bachelor's Thesis) found that Germans had lower confidence in AZ than in the other major Western vaccines.[^11] We have similar anecdotal reports from Australia, with one doctor [saying](https://twitter.com/gsoh31/status/1409860592354091011): "The horse has already bolted [...] People talk about hesitancy or reluctance. It is well beyond that: it is a refusal."
 
-Even more serious may be the fact that these events [have damaged confidence](https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.deccanherald.com%2Finternational%2Fwestern-warnings-tarnish-covid-19-vaccines-the-world-badly-needs-974398.html) in AZ in the developing world, which is sorely in need of effective vaccines:
+Even more serious may be the fact that these events [have damaged confidence](https://www.deccanherald.com/international/western-warnings-tarnish-covid-19-vaccines-the-world-badly-needs-974398.html) in AZ in the developing world, which is sorely in need of effective vaccines:
 
 > In Malawi, people are asking doctors how to flush the AstraZeneca vaccine from their bodies. In South Africa, health officials have stopped giving the Johnson & Johnson shot, two months after dropping the AstraZeneca vaccine. And in the Democratic Republic of Congo, 1.7 million AstraZeneca doses have gone unused. [...] "We fought so hard with vaccine messaging, but what has happened this past week has brought us back to square zero." [...] Health officials fear that any setbacks in vaccinations could sow the seeds of the next calamitous outbreak, one that deluges hospitals and exports new mutations around the world. In those places, doctors said, the math is obvious: Many more people will die without the AstraZeneca and Johnson & Johnson vaccines than with them.
 
@@ -70,7 +70,7 @@ As far as I can tell, out of the 16 countries that I mentioned as having suspend
 
 ## Prediction #3: the FDA Will Approve the AZ Vaccine, 95%
 
-This did not happen. An [article](https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2021%2Fjun%2F26%2Fthe-oxford-vaccine-the-trials-and-tribulations-of-a-world-saving-jab) by Sarah Boseley provides some of the story. It seems that the initial trials were partly flawed, and partly tailored for scientific research, not for regulatory approval:
+This did not happen. An [article](https://www.theguardian.com/world/2021/jun/26/the-oxford-vaccine-the-trials-and-tribulations-of-a-world-saving-jab) by Sarah Boseley provides some of the story. It seems that the initial trials were partly flawed, and partly tailored for scientific research, not for regulatory approval:
 
 > By the time AstraZeneca got involved, Oxford's scientists had already set up the early trials. That meant [...] that the studies were not tailored to the needs of regulators in the way that big drug companies would have done it.
 > 
@@ -102,7 +102,7 @@ As it turned out, the increased efficacy was due to the larger gap between the t
 
 ## Prediction #4: an Elected Official Will Admit that Suspension Was a Mistake, 70%
 
-I did not really find any record of an official having stated this, though I am limited somewhat by my knowing only a few languages. To take one example, [this](https://web.archive.org/web/20210710071154/https://www.nytimes.com/2021/05/07/world/europe/germany-vaccines-astrazeneca.html) was the closest that Jens Spahn, the Health Minister of Germany, came to admitting his mistake:
+I did not really find any record of an official having stated this, though I am limited somewhat by my knowing only a few languages. To take one example, [this](https://www.nytimes.com/2021/05/07/world/europe/germany-vaccines-astrazeneca.html) was the closest that Jens Spahn, the Health Minister of Germany, came to admitting his mistake:
 
 > In announcing the government's latest policy change on AstraZeneca, Mr. Spahn did not make a scientific argument, though anyone under 60 who takes the shot will have to discuss the risks with a doctor. Instead, he emphasized the need for flexibility and getting more people vaccinated.
 > 
@@ -110,7 +110,7 @@ I did not really find any record of an official having stated this, though I am 
 > 
 > "We will make a lot more flexibility possible", Mr. Spahn told the public television station WDR on Wednesday. "Many people want to have their second shot earlier, with an eye on summer, and that is possible with Astra."
 
-To the question of whether a suspension causes more deaths than it prevents, the website of the Bundesministerium für Gesundheit (the German Federal Ministry of Health) gave the following [answer](https://archive.is/20210318193643/https://www.bundesgesundheitsministerium.de/coronavirus/faq-covid-19-impfung/faq-impfung-astrazeneca.html#selection-3678.0-3678.5) back in March (original German in the footnote):
+To the question of whether a suspension causes more deaths than it prevents, the website of the Bundesministerium für Gesundheit (the German Federal Ministry of Health) gave the following [answer](https://web.archive.org/web/20210318193643/https://www.bundesgesundheitsministerium.de/coronavirus/faq-covid-19-impfung/faq-impfung-astrazeneca.html) back in March (original German in the footnote):
 
 > This is a statistical (and legitimate) aspect. But the state is legally obliged in particular to the individual citizen who is vaccinated in a state vaccination campaign! The state provides the vaccine and thus has special duties of care. Officials of the [Federal Ministory of Health] and [Paul-Ehrlich-Institut] are obliged to monitor the safety of the vaccine and to react in case of relevant signals. If these duties are neglected and the vaccination campaign continues without properly informing the population and the persons to be vaccinated, there could also be legal consequences.[^12]
 
@@ -130,7 +130,7 @@ But that was an artless dodge, and not anything close to an admission of oversig
 
 [^5]:	 ibid.
 
-[^6]:	 My source here is an [article](https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.texastribune.org%2F2021%2F07%2F21%2Fcoronavirus-texas-vaccinated-deaths%2F) in The Texas Tribune. Note that the numbers are preliminary and that the article states "at least 43", whatever that means. Even if the number were twice as high, the vaccines' effect would still be plain.
+[^6]:	 My source here is an [article](https://www.texastribune.org/2021/07/21/coronavirus-texas-vaccinated-deaths/) in The Texas Tribune. Note that the numbers are preliminary and that the article states "at least 43", whatever that means. Even if the number were twice as high, the vaccines' effect would still be plain.
 
 [^7]:	 Faranda, D., Alberti, T., Arutkin, M., Lembo, V., & Lucarini, V. (2021). Interrupting vaccination policies can greatly spread SARS-CoV-2 and enhance mortality from COVID-19 disease: The AstraZeneca case for France and Italy\<? A3B2 show [feature]?\>. *Chaos: An Interdisciplinary Journal of Nonlinear Science*, *31*(4), 041105.
 

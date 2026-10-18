@@ -19,15 +19,15 @@ This post explains my reasoning on three forecasts I made on questions that have
 
 [Will Nigeria's population exceed 400 million before 2050?](https://www.metaculus.com/questions/2632/will-nigerias-population-exceed-400-million-before-2050/)
 
-As of 2021, Nigeria has a population of 213.4M, making it the sixth most populous nation. (That's an estimate; Nigeria [hasn't had a census since 2006](https://archive.ph/FRbfL), though it's [planning one this year](https://archive.is/zzrIv).) Out of the ten most populous countries, Nigeria has the highest year-on-year growth rate at +2.4%, with a comfortable lead. But that growth rate has been mostly slowing since at least 1980, and so has its [death rate](https://ourworldindata.org/grapher/crude-death-rate-the-share-of-the-population-that-dies-per-year?tab=chart&country=NGA) since at least 1950, pointing to a [demographic transition](https://en.wikipedia.org/wiki/Demographic_transition).
+As of 2021, Nigeria has a population of 213.4M, making it the sixth most populous nation. (That's an estimate; Nigeria [hasn't had a census since 2006](https://nigeria.unfpa.org/en/node/78080), though it's [planning one this year](https://www.channelstv.com/2023/01/20/npc-fixes-march-29-for-nationwide-census).) Out of the ten most populous countries, Nigeria has the highest year-on-year growth rate at +2.4%, with a comfortable lead. But that growth rate has been mostly slowing since at least 1980, and so has its [death rate](https://ourworldindata.org/grapher/crude-death-rate-the-share-of-the-population-that-dies-per-year?tab=chart&country=NGA) since at least 1950, pointing to a [demographic transition](https://en.wikipedia.org/wiki/Demographic_transition).
 
 ![img]({{ '/img/nigeria_population_growth_rate.jpeg' | url }})
 
-There's no point beating around the bush. The [UN population projection](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/566) has a median estimate of 372M for 2049
+There's no point beating around the bush. The [UN population projection](https://ourworldindata.org/grapher/un-population-2024-vs-2022?country=~NGA) has a median estimate of 372M for 2049
 
 ![img]({{ '/img/nigeria_population_projection.png' | url }})
 
-with a [steadily declining growth rate](https://population.un.org/wpp/Graphs/Probabilistic/POP/GrowthRate/566)
+with a steadily declining growth rate
 
 ![img]({{ '/img/nigeria_population_growth_rate_projection.png' | url }})
 
@@ -72,7 +72,7 @@ I'll suppose the probability that Nigeria's population exceeds >400M by 2050 is 
 Using the [time-invariant version of Laplace's rule of succession](https://epochai.org/blog/a-time-invariant-version-of-laplace-s-rule), the base rate (depending on how you tally historical coups) using the record since independence (1960-2023) suggests there's a ~19% probability that there's a successful coup before 2025 (so, this year or next).[^2] But:
 
 - There have been no coups in the last ~30 years or since the restoration of democracy in 1999. (There was apparently one foiled coup plot in 2004.)
-- Lucky Irabor (head of the Nigerian Armed Forces) [said last month](https://archive.ph/yOtws): "Never again will we see men in uniform take power. [...] Democracy has come to stay; a government of the people, by the people and for the people has come to stay. That is an assurance, and then of course for the elections, I am sure you know that the police are on the lead."
+- Lucky Irabor (head of the Nigerian Armed Forces) [said last month](https://www.vanguardngr.com/2023/01/remembrance-day-coup-cant-happen-again-cds-irabor/): "Never again will we see men in uniform take power. [...] Democracy has come to stay; a government of the people, by the people and for the people has come to stay. That is an assurance, and then of course for the elections, I am sure you know that the police are on the lead."
 - Most of the probability mass is probably around this year's election (see next section). For example, there could be widespread protests as a result of election fraud, causing the military to take over in response (in the style of the 2020 Malian coup d'état, sort of). But this seems like it'll be the best-run election since the establishment of democracy in Nigeria.
 
 So I adjust down to 8%.
@@ -180,9 +180,9 @@ The main candidates are:
 </tbody>
 </table>
 
-There's no perfect candidate in any political race, but there's especially no perfect candidate in this race. My impression (and this is truly a low-confidence take) is that Peter Obi is pretty competent and honorable. Kwankwaso I don't know much about. Tinubu and Abubakar are antique and ["tainted by the system"](https://archive.is/TCKaQ). Even Obi has been [implicated](https://archive.is/DFa2r) in shell corporation shenanigans, though at least he didn't have [armored vehicles bring cash to his residence](https://archive.is/Y8T1F) at the height of an election season ... I could of course be wrong about any of them.
+There's no perfect candidate in any political race, but there's especially no perfect candidate in this race. My impression (and this is truly a low-confidence take) is that Peter Obi is pretty competent and honorable. Kwankwaso I don't know much about. Tinubu and Abubakar are antique and ["tainted by the system"](https://www.ft.com/content/5bb32825-0b5b-461d-946e-1a8e3915220c). Even Obi has been [implicated](https://www.premiumtimesng.com/news/headlines/487997-pandora-papers-inside-peter-obis-secret-businesses-and-how-he-broke-the-law.html) in shell corporation shenanigans, though at least he didn't have [armored vehicles bring cash to his residence](https://thecable.ng/is-it-govt-money-what-is-your-headache-tinubu-speaks-on-two-bullion-vans-at-bourdillon) at the height of an election season ... I could of course be wrong about any of them.
 
-Either way, whoever wins won't be much worse than what came before, for there's a widespread sense that the outgoing president, Muhammadu Buhari, [has done a bad job of it](https://archive.is/7v77V#selection-677.132-677.743):
+Either way, whoever wins won't be much worse than what came before, for there's a widespread sense that the outgoing president, Muhammadu Buhari, [has done a bad job of it](https://www.economist.com/middle-east-and-africa/2023/01/09/after-eight-dismal-years-nigeria-prepares-to-replace-president-buhari):
 
 > [Buhari] has floundered on almost every measure. Between 2015 and 2020 the average income per person (adjusted for local purchasing power) slid from $5,400 to $4,900 a year. The share of Nigerians living on less than $1.90 a day, which had fallen from about 43% to 37% in the previous five years, increased to almost 40% in 2019, before covid-19 hit. Violence has spread across the country. Last year jihadists, bandits, and separatists hit at least 550 of the country's 774 local government areas. More than 3,000 people were kidnapped last year, an almost thirty-fold increase on 2016. Many were children.
 
@@ -190,15 +190,15 @@ Bola Tinubu is the candidate for Buhari's party, and I expect his predecessor's 
 
 Tinubu gives the impression of one who thinks he is due the presidency. In one sense at least he is right. Nigeria is about half Christian, half Muslim (49.3% Christian, 48.8% Muslim). The north is generally more Muslim, poor, and rural. The south has four of the nation's five largest cities, including the massive Lagos metropolitan area. The custom has been for every other president to be a northern Muslim, and every other a Christian from the south. Tinubu is a southerner, so he is due in that sense, though he is also a Muslim.
 
-He's got other advantages too. Here's [Ebenezer Obadare](https://archive.ph/AXFD2):
+He's got other advantages too. Here's [Ebenezer Obadare](https://www.cfr.org/articles/tinubus-challenge):
 
 > Patronage and politics are Siamese twins in (Nigerian) politics, and, with the possible exception of Abubakar, arguably no other Nigerian politician of his generation has spent more resources than Tinubu to lubricate the great machine of political patronage. Yet, not only, invariably, has Tinubu been unable to pacify every segment of the Nigerian society, but the source of his stupendous wealth is also a perennial bone of contention. For every Nigerian who insists that Tinubu's wealth is ill-gotten, there is another one who counters that he merely typifies a political class that is rotten to the bone.
 
-Connections, favors, organization, and money [matter](https://archive.ph/tubqd):
+Connections, favors, organization, and money [matter](https://www.premiumtimesng.com/opinion/578344-multiple-factors-could-shape-the-outcome-of-nigerias-2023-elections-3-by-uche-igwe.html):
 
 > Nigeria is a complex heterogeneous country where winning elections often involve building a financial war chest, which can be utilised to lubricate alliances of loyalty and patronage. These structures are expected to provide the necessary leverage for winning elections. For instance, Nigeria's ruling All Progressives Congress (APC) is currently in charge in 22 out of 36 states of the country. The constitutional requirement for the winner of the presidential election is that the individual must score the highest number of votes and a required 25% of the votes in at least 24 (two-thirds) of the states in the country. Coming into the contest with 22 governors confers a considerable advantage on the ruling party's candidate.
 
-While most pundits think Tinubu will win, the second strongest contender is generally seen to be Atiku Abubakar. Abubakar has been running in Nigerian national elections for decades, and was vice president of Nigeria between 1999 and 2007. (That was under president Olusegun Obasanjo, who'd previously led the country under military rule in the 70s; Obasanjo, whom I've seen described as a "wannabe Mandela", made a bit of a splash recently when he endorsed Peter Obi.) Here's [Ebenezer Obadare](https://archive.ph/pbFr3) again:
+While most pundits think Tinubu will win, the second strongest contender is generally seen to be Atiku Abubakar. Abubakar has been running in Nigerian national elections for decades, and was vice president of Nigeria between 1999 and 2007. (That was under president Olusegun Obasanjo, who'd previously led the country under military rule in the 70s; Obasanjo, whom I've seen described as a "wannabe Mandela", made a bit of a splash recently when he endorsed Peter Obi.) Here's [Ebenezer Obadare](https://www.cfr.org/articles/abubakars-endgame) again:
 
 > [Abubakar] is a known quantity to the political elite, among whom he is openly extolled for his generosity and unswerving loyalty to friends and political associates. Furthermore, and not unlike Bola Tinubu, the All Progressives Congress (APC) candidate with whom he is most often compared, Abubakar is a man of means; although, again similar to Tinubu, the source of his wealth is a subject of controversy. Finally, Abubakar has also managed to build an extensive political network. That he has, somehow, not been able to construct a distinct lineage, at least not in the manner of Tinubu, is one of the key differences between the two.
 
@@ -224,7 +224,7 @@ Reasons to be bearish on Abubakar:
 
 <div class="edit">
 <p>
-Edit 2023-02-07: Stears, a <a href="https://archive.is/GDpNy">Lagos-based data analytics company</a>, released the <a href="https://www.stears.co/premium/article/stears-poll-predicts-nigerias-next-president/">results</a> of a new poll today. Their baseline scenario has Obi with 39.8% of votes, Tinubu with 30.6%, Abubakar with 17.9%, and Kwankwaso with 2%. Obi somewhat increases his margin of victory in the high-turnout scenario, but Tinubu beats him solidly in the more realistic low-turnout scenario. (They have more interesting nuggets in the report, but you need to register to see it and I don’t want to leak all their findings.) The sample size is good (>6,000 respondents), and it looks like they’re analyzing the data sensibly.
+Edit 2023-02-07: Stears, a <a href="https://techcrunch.com/2022/10/10/nigerian-data-and-intelligence-company-stears-raises-3-3m-backed-by-mac-vc-and-serena-ventures/">Lagos-based data analytics company</a>, released the <a href="https://www.stears.co/premium/article/stears-poll-predicts-nigerias-next-president/">results</a> of a new poll today. Their baseline scenario has Obi with 39.8% of votes, Tinubu with 30.6%, Abubakar with 17.9%, and Kwankwaso with 2%. Obi somewhat increases his margin of victory in the high-turnout scenario, but Tinubu beats him solidly in the more realistic low-turnout scenario. (They have more interesting nuggets in the report, but you need to register to see it and I don’t want to leak all their findings.) The sample size is good (>6,000 respondents), and it looks like they’re analyzing the data sensibly.
 </p>
 
 <p>
@@ -235,7 +235,7 @@ I think the low-turnout scenario is too pessimistic: the inclusion criteria – 
 
 <div class="edit">
 <p>
-Edit 2023-03-01: It appears that, pending court challenges, <a href="https://archive.is/FZ3tG">Bola Tinubu has won the election</a> with 37% against Abubakar’s 29% and Obi’s 25%. Tinubu and Abubakar did somewhat better than I expected, while Obi did substantially worse than I expected.
+Edit 2023-03-01: It appears that, pending court challenges, <a href="https://apnews.com/article/nigeria-election-bola-tinubu-ba7614246d47b92f2da36e2a5af1f52e">Bola Tinubu has won the election</a> with 37% against Abubakar’s 29% and Obi’s 25%. Tinubu and Abubakar did somewhat better than I expected, while Obi did substantially worse than I expected.
 </p>
 
 <p>

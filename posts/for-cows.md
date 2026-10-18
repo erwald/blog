@@ -7,7 +7,7 @@ tags: post
 
 # For Cows
 
-Sara Cravatts, reporter at The Hustle, has [the scoop](https://cc.bingj.com/cache.aspx?q=url:https%3A%2F%2Fthehustle.co%2F11192021-cow-smart-collar%2F&d=1827724598948&mkt=en-WW&setlang=en-US&w=7qhyrGk3KV-yJG3ss4GwsHeH9GZ03vHv):
+Sara Cravatts, reporter at The Hustle, has [the scoop](https://thehustle.co/11192021-cow-smart-collar/):
 
 > [A smart collar for cows could revolutionize farming.] A high-tech system that can control your farm from your phone? Holy cow! New Zealand agtech startup Halter is bringing farming into the future with GPS-enabled solar-powered collars for dairy cows that connect to a smartphone app. The collars gently vibrate to lead the cows, and the company says cows can be trained to navigate using the collar within 4-5 days. Virtual fences keep the cows in designated areas, and audio cues from the collar will alert cows if they're nearing a fence – a short pulse will stop a cow from exiting should they keep moving. Total automation over cows' movements allows farmers to save 20-40 hours per week and increase pasture utilization by up to 10%.
 

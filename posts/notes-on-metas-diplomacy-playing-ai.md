@@ -70,7 +70,7 @@ The extent to which CICERO actually did pick up deceptive heuristics is unclear 
 
 ## Is CICERO Dangerous?
 
-Some people who are concerned with risks from advanced AI seem to find CICERO an unusually bad idea. E.g. [Form of Plato](https://twitter.com/FormOfPlato/status/1595095880868282371) (1.9K likes):
+Some people who are concerned with risks from advanced AI seem to find CICERO an unusually bad idea. E.g. [Form of Plato](https://web.archive.org/web/20221222/https://twitter.com/FormOfPlato/status/1595095880868282371) (1.9K likes):
 
 > Yudkowsky: In my blogging I invented AI-boxing as a cautionary tale.
 > 

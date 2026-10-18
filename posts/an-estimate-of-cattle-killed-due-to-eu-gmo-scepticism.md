@@ -19,7 +19,7 @@ To make beef, you need to grow cattle.[^1] Most cattle in the developed world is
 
 So in my view it would be good if people ate less meat, beef included. One way of doing that is by replacing meat consumption with good plant-based alternatives. In Europe, for example, we've had the Beyond Burger for a few years now. It's a fine product. I eat it regularly. But from what I hear, there's an even better plant-based burger out there: the Impossible Burger. I say *hear* because I haven't yet had the chance to taste it: the Impossible Burger is unfortunately stuck awaiting EFSA's approval and therefore hasn't yet been introduced into the European market.
 
-Flora Southey [reports](https://archive.ph/CTS3k):
+Flora Southey [reports](https://www.foodnavigator.com/Article/2022/04/14/Regulating-precision-fermentation-Challenges-and-opportunities-in-marketing-microbially-derived-foods-in-Europe/):
 
 > The Impossible Burger first launched in 2016, having been approved [by the Food and Drug Administration]. In Europe, on the other hand, the company was required to submit a [GMO] dossier to the European Commission, because its soy leghemoglobin contains host proteins in the final product. This means, explained the regulatory expert, that the product is not "absolutely pure". Due to the presence of host DNA in the final product, it is classified as a GMO in the EU.
 > 
@@ -54,8 +54,8 @@ I'm obviously really uncertain about all this, but if I were to venture a guess,
 
 [^5]:	 That is, Impossible Foods would have sold more than 50% of Beyond Meat's actual volume, but some of that would just have replaced other plant-based beef products.
 
-	This guesstimate seems reasonable to me, though it's really hard to know for sure. I'll note that Beyond Meat seems to have a [somewhat larger market share](https://archive.ph/uxNYC) in the US than Impossible Foods. It's possible that the gap created by the Impossible Burger's absence in the EU has been almost entirely filled by the Beyond Burger and other plant-based competitors.
+	This guesstimate seems reasonable to me, though it's really hard to know for sure. I'll note that Beyond Meat seems to have a [somewhat larger market share](https://frb.mydigitalpublication.com/january-february-2022/page-36) in the US than Impossible Foods. It's possible that the gap created by the Impossible Burger's absence in the EU has been almost entirely filled by the Beyond Burger and other plant-based competitors.
 
-[^6]:	 My source here is [this article](https://archive.ph/N9Fmg): "Chicago-based analytics company Numerator analyzed consumer buying habits of the Impossible Burger in the most recent 13-week period. [...] Impossible Burger is displacing animal-derived foods for 72% of total purchases."
+[^6]:	 My source here is [this article](https://cleantechnica.com/2020/09/20/impossible-burger-sales-replace-72-of-traditional-burger-sales/): "Chicago-based analytics company Numerator analyzed consumer buying habits of the Impossible Burger in the most recent 13-week period. [...] Impossible Burger is displacing animal-derived foods for 72% of total purchases."
 
 [^7]:	 See [this Faunalytics article](https://faunalytics.org/global-cow-slaughter-statistics-and-charts/).

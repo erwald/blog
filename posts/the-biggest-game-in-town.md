@@ -28,7 +28,7 @@ While I agree that collective action problems (broadly construed) are crucial in
 
 ## Game B: What It Is
 
-The project of Game B was conceived about a decade ago by one Jim Rutt, a cheery businessman and later chairman of the Santa Fe Institute, and a group of collaborators.[^2] They'd originally wanted to start a new political party -- the [Emancipation Party](http://emancipationparty.org/) -- but soon pivoted to the project that's now known as Game B, partly because they realized that no Gen Yers would be interested in joining something so dinosaurian as a new political party.[^2] Nowadays the project is connected with the Daniel Schmachtenberger/[Rebel Wisdom](https://rebelwisdom.co.uk/) cluster of "sensemakers" and with the intellectual dark web, though it has a vibe of its own.[^3]
+The project of Game B was conceived about a decade ago by one Jim Rutt, a cheery businessman and later chairman of the Santa Fe Institute, and a group of collaborators.[^2] They'd originally wanted to start a new political party -- the [Emancipation Party](https://web.archive.org/web/20220618/http://emancipationparty.org/) -- but soon pivoted to the project that's now known as Game B, partly because they realized that no Gen Yers would be interested in joining something so dinosaurian as a new political party.[^2] Nowadays the project is connected with the Daniel Schmachtenberger/[Rebel Wisdom](https://rebelwisdom.co.uk/) cluster of "sensemakers" and with the intellectual dark web, though it has a vibe of its own.[^3]
 
 The philosophy of Game B is basically what you'd get if you designed a worldview around the [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons).
 

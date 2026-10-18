@@ -9,7 +9,7 @@ tags: post
 
 ![Photograph of Arnold Rosner.]({{ '/img/hero/rosner.png' | url }})
 
-Musicologist, critic, and indomitable champion of neglected music Walter Simmons has [written](https://archive.is/20210729125355/https://harpers.org/archive/2021/06/arnold-rosner-requiem-op-59/) about the American composer Arnold Rosner in *Harper's Magazine*. I [wrote]({{ '/posts/good-works-by-lesser-known-composers/#arnold' | url }}) about Rosner myself in a post about lesser-known composers:
+Musicologist, critic, and indomitable champion of neglected music Walter Simmons has [written](https://harpers.org/archive/2021/06/arnold-rosner-requiem-op-59/) about the American composer Arnold Rosner in *Harper's Magazine*. I [wrote]({{ '/posts/good-works-by-lesser-known-composers/#arnold' | url }}) about Rosner myself in a post about lesser-known composers:
 
 > Around the time that Harold Shapero wrote his *Variations*, a Jewish boy named Arnold Rosner was born in New York City.[^1] Arnold Rosner was an exile in his own land. He refused the fashions of the time -- serialism, minimalism, and all the others -- and instead turned his eyes on the past, on the music of the Renaissance and the late Romantics.[^2] He never got the breakthrough that he desired. The bitterness seeped into his music.
 

@@ -81,7 +81,7 @@ One takeaway from all this is that it is a lot easier to increase diversity for 
 
 But I think my main takeaway here is that it will be a long road ahead if the tech industry is ever to reach gender parity, assuming it does not start implementing some sort of affirmative action. Given reasonable assumptions about company growth, attrition rates, and demographics of companies and graduates today, even if there is no bias in hiring, it still takes many years to approach parity.
 
-[^1]:	 This was the estimate in the US Equal Employment Opportunity Commission's [Diversity in High Tech](https://www.eeoc.gov/special-report/diversity-high-tech) report. The number may be larger in Northern Europe. For example, Spotify in 2018 [had a workforce](https://hrblog.spotify.com/2018/07/09/say-hi-to-the-spotify-diversity-data/) with 39% women. At the end of 2020, they were at 44%, but since they have an unusual focus on diversity, I think the earlier figure is more in line with the Northern European tech industry in general.
+[^1]:	 This was the estimate in the US Equal Employment Opportunity Commission's [Diversity in High Tech](https://web.archive.org/web/20211002/https://www.eeoc.gov/special-report/diversity-high-tech) report. The number may be larger in Northern Europe. For example, Spotify in 2018 [had a workforce](https://hrblog.spotify.com/2018/07/09/say-hi-to-the-spotify-diversity-data/) with 39% women. At the end of 2020, they were at 44%, but since they have an unusual focus on diversity, I think the earlier figure is more in line with the Northern European tech industry in general.
 
 [^2]:	 This seems to be the case for STEM in Sweden these days. (Universitetskanslersämbetet, published in *SCB Jämställdhet*.)
 

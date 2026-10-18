@@ -56,7 +56,7 @@ Thinking about it this way, I think it's clear that such a central planner would
 
 ## Letting Down Those Who Came Before
 
-In making her argument, Korsgaard references Scheffler (2013), which points out that many of our long-term goals would become meaningless if we were the last generation of humans. In a [review of *The Precipice*](https://archive.ph/UnOsH#selection-2243.0-2249.413), Jim Holt writes:
+In making her argument, Korsgaard references Scheffler (2013), which points out that many of our long-term goals would become meaningless if we were the last generation of humans. In a [review of *The Precipice*](https://www.nybooks.com/articles/2021/02/25/power-catastrophic-thinking-toby-ord-precipice/), Jim Holt writes:
 
 > [The prospect of imminent human extinction] would be 'profoundly depressing' [according to Scheffler]. And the reason is that the meaning and value of our own lives depend on their being situated in an ongoing flow of generations. Humanity's extinction soon after we ourselves are gone would render our lives today in great measure pointless. Whether you are searching for a cure for cancer, or pursuing a scholarly or artistic project, or engaged in establishing more just institutions, a threat to the future of humanity is also a threat to the significance of what you do. True, there are some aspects of our lives -- friendship, sensual pleasures, games -- that would retain their value even in an imminent doomsday scenario. But our long-term, goal-oriented projects would be robbed of their point.
 

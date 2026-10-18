@@ -19,7 +19,7 @@ Marilynne Robinson argues that cost-benefit analysis (CBA) is bad. I argue that 
 
 ## On Cost-Benefit Analysis
 
-In an [essay](https://archive.is/20211011103314/https://www.nybooks.com/articles/2020/06/11/what-kind-of-country-do-we-want/) for the New York Review of Books titled *What Kind of Country Do We Want?*, Marilynne Robinson argues that:
+In an [essay](https://www.nybooks.com/articles/2020/06/11/what-kind-of-country-do-we-want/) for the New York Review of Books titled *What Kind of Country Do We Want?*, Marilynne Robinson argues that:
 
 1. The state of things in America is bad. Life expectancies are down, suicides are up, optimism is gone, and there is a "decline in hope and purpose" which amounts to a "crisis of civilization". America is the wealthiest nation ever to exist, but still budget cuts are made in education, infrastructure, national parks, and the postal service.
 2. The reason that things are bad is the profit motive. For example, low-income workers have no hope for fair compensation. That is because companies optimize for profit at the expense of everything else, for example moving production to countries like China (as Robinson puts it, "American workers have been competing against expatriated American capital").

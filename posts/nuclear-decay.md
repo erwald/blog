@@ -43,7 +43,7 @@ Am I being unfair criticizing something that someone wrote over 30 years ago? Ma
 
 > If I could only have written one book, that would have been the book. [...] [I]f I had not written that book, I would not have been able to live with myself. I would have felt that I was doing what we are all doing, which dooms the world. [...] I was angry when I wrote that book. Nothing has happened to make me feel otherwise about the issues I raised in it. Sellafield is only larger now.
 
-She has also [remarked](https://web.archive.org/web/20210116032235/http://farefwd.com/index.php/2020/09/30/the-anger-of-marilynne-robinson/):
+She has also [remarked](http://farefwd.com/index.php/2020/09/30/the-anger-of-marilynne-robinson/):
 
 > The world's most favored public, our own, is educated thoroughly and badly, starved of information, and flattered as to its own importance. While it is made incompetent in the use of the power it has. There is no agora, where issues are really sorted out on their merits and decisions are made which, at best and worst, give permission to political leaders to carry out policies the public has approved. This model assumes information of a quality that is by no means readily available to us. It assumes a reasonableness and objectivity which allow information to be taken in and assimilated to our understanding, and in this we are also thoroughly deficient.
 
