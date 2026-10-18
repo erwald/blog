@@ -56,7 +56,7 @@ Sometimes companies grow, and sometimes they shrink. Sometimes employees are mor
 
 Here are the results of the nine runs I made. They show the average proportion of women in a company over time.
 
-![Plots of results of nine simulations of diversity hiring.]({{ '/img/diversity_hiring_simulations.png' | url }})
+![Share of women in the workforce, by scenario: percent of employees, average of 100 simulated companies, years 0–25. Nine small line charts, one per scenario (baseline, high growth, negative growth, halved attrition, doubled attrition, equal attrition, equal hiring, affirmative action, small hiring pool), each with the baseline as a dashed line for comparison. All start at 36% women. The share falls with negative growth, rises a little with a small hiring pool, rises to between 43% and 47% in the other six, and reaches 49% with affirmative action.]({{ '/img/diversity_hiring_simulations.png' | url }})
 
 Looking at each of these in turn:
 
