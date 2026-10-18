@@ -72,7 +72,7 @@ The main strands of argument for why the EU should stop issuing Russian tourist 
 3. This will send a strong, galvanizing message. It will show Ukraine that the EU's support doesn't waver, and it'll show the EU itself that it's able to act meaningfully.[^4]
 4. This will be an act of justice. All Russians are responsible for the invasion, and should be punished the way a person is punished for being an accomplice to a crime. And as with any crime, the punishment here acts as a deterrence against future crimes. (This argument is somewhat rarer but not uncommon.)
 
-In addition, advocates of a visa ban assert that getting to visit Europe is a privilege, not a human right, and one that can be revoked if warranted. (I concur.) They may agree that the default should be to allow people to visit Europe, since it's beneficial to visitors (who get to see the Louvre or whatever) and to the hosts (who get money for it) and freedom of movement in general seems like a good thing. But, they'd say, in this case the benefits of barring Russians tourists far outweigh the costs.
+In addition, advocates of a visa ban assert that getting to visit Europe is a privilege, not a human right, and one that can be revoked if warranted. (I concur.) They may agree that the default should be to allow people to visit Europe, since it's beneficial to visitors (who get to see the Louvre or whatever) and to the hosts (who get money for it) and freedom of movement in general seems like a good thing. But, they'd say, in this case the benefits of barring Russian tourists far outweigh the costs.
 
 I think the effects of doing so are unclear or even negative. Specifically, looking at each of the four arguments in turn:
 
@@ -93,7 +93,7 @@ I think the effects of doing so are unclear or even negative. Specifically, look
 
 It does feel weird and unseemly, as Bershidsky says, for wealthy, pro-regime Russians to tour Europe while their compatriots are warring in Ukraine. I wouldn't do it if I were them. But I'm against bans on weird and unseemly.
 
-More importantly, the wealthy and pro-regime are not the only Russians who want to enter the EU, and people don't only use tourists visas for leisure (despite what [foreign policy connoisseurs say](https://x.com/MacaesBruno/status/1563615396942745600)). They also use them to visit family, friends, and loved ones, they use them to do entry exams at European universities, they use them to emigrate, etc. Migrating and studying abroad are not the tourist visa's intended purpose, but it's a common use.[^8] I know ≥3 (dissenting) Russians who have lived in Europe ≥5 years and who all initially came here using tourist visas.
+More importantly, the wealthy and pro-regime are not the only Russians who want to enter the EU, and people don't only use tourist visas for leisure (despite what [foreign policy connoisseurs say](https://x.com/MacaesBruno/status/1563615396942745600)). They also use them to visit family, friends, and loved ones, they use them to do entry exams at European universities, they use them to emigrate, etc. Migrating and studying abroad are not the tourist visa's intended purpose, but it's a common use.[^8] I know ≥3 (dissenting) Russians who have lived in Europe ≥5 years and who all initially came here using tourist visas.
 
 (After Ukrainian asylum applications in the EU peaked in March and April, there have been as many Russian applications as Ukrainian.[^9] Many Russian emigrants are skilled laborers: Iontsev, Ryazantsev, and Iontseva (2016) says the share of specialists went "from 14% in 1992 to 31% in 1999 and to 47% in 2012"; as of five years ago, >1M Russians worked abroad, many of them young. People who move away from Russia are likely less supportive of the regime than those who stay behind.)
 
@@ -125,11 +125,11 @@ I hope and believe that at some point in the coming decades relations between Ru
 
 [^5]:	 That said, the long-run consequences of the war could be very large, e.g. if it leads to a [great power conflict](https://forum.effectivealtruism.org/posts/aSzxoj7irC5jNHceB/how-likely-is-world-war-iii) or anything of that sort. It seems extremely hard to know even the sign of that effect.
 
-[^6]:	 The average annual salary of an EU worker [is](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Wages_and_labour_costs) €24,947. EUR/USD is at pretty much $1 right now. €5,000 ÷ (10% × $24,947) = 2.00 years.
+[^6]:	 The average annual salary of an EU worker [is](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Wages_and_labour_costs) €24,947. EUR/USD is at pretty much $1 right now. $5,000 ÷ (10% × €24,947) = 2.00 years.
 
 [^7]:	 There's an interesting analogy here to vegetarianism.
 
-	You might argue that each decision to purchase plant-based products instead of meat won't affect the actual number farmed animals, since the supermarket or restaurant purchases a certain amount of stock, which a non-purchase is unlikely to affect. The response to that is that, yes, it's unlikely to affect the next purchase, but when it does it'll have an outsize effect: maybe only the 100th or 1,000th customer going vegetarian causes the supermarket to change their order sizes, but then they'll change them to a quantity tailored to 100 or 1,000 fewer consumers. (I've written about this [here]({{ '/posts/two-inadequate-arguments-against-moral-vegetarianism/' | url }}).)
+	You might argue that each decision to purchase plant-based products instead of meat won't affect the actual number of farmed animals, since the supermarket or restaurant purchases a certain amount of stock, which a non-purchase is unlikely to affect. The response to that is that, yes, it's unlikely to affect the next purchase, but when it does it'll have an outsize effect: maybe only the 100th or 1,000th customer going vegetarian causes the supermarket to change their order sizes, but then they'll change them to a quantity tailored to 100 or 1,000 fewer consumers. (I've written about this [here]({{ '/posts/two-inadequate-arguments-against-moral-vegetarianism/' | url }}).)
 
 	Likewise, you might argue that each decision to protest the Russian government won't affect the Russian government. A response to that is that, yes, one decision to protest won't affect it alone, but a tipping point of protestors can bring about a regime change.
 

@@ -28,7 +28,7 @@ These countries have ceased or paused administering the AstraZeneca vaccine so f
 - Portugal
 - Latvia
 - Cyprus
-- Luxemburg[^1]
+- Luxembourg[^1]
 
 These countries, to their credit, have decided to keep vaccinating:
 

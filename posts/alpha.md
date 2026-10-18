@@ -12,7 +12,7 @@ lw_link: https://www.lesswrong.com/posts/yGzgyasdHTHRc4rDe/alpha
 
 ## Summary
 
-In the first half of this essay, I recount two anecdotes. (The impatient reader can skip these.) First, Gerald Murnane tries, around Melbourne in the 1950s, to find a system that'll make him money betting on horse races. Then, Bill Benter, in Hong Kong in the 1990s, comes up with a system for picking horses that makes him nearly $1B.
+In the first half of this essay, I recount two anecdotes. (The impatient reader can skip these.) First, Gerald Murnane tries, around Melbourne in the 1950s, to find a system that'll make him money betting on horse races. Then, Bill Benter, in Hong Kong in the 1980s and 1990s, comes up with a system for picking horses that makes him nearly $1B.
 
 In the second half of this essay, I discuss alpha:
 
@@ -54,7 +54,7 @@ A decade and a half after Faithful City won the race at Moonee Valley, a horse r
 > 
 > By then, Beyer was already a successful gambler, in large part because his private calculations gave him a healthy edge. His books' publication educated the market and eroded his advantage. Beyer accepted this trade-off because he wanted to be a published author.
 
-Later on, in Hong Kong in the 1990s, Bill Benter, formerly an advantage player in Las Vegas, [earned](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code) nearly $1B betting on horses. (Hong Kong had a vibrant, high-liquidity betting market for horse racing at the time.) The way he did it -- inspired by Brecher (1980) and Bolton and Chapman (1986) -- was by programming and continuously refining a computer model which at its most complex regressed >100 variables and comprised thousands of lines of code (Benter 2008). Benter's crowning glory was when he, on November 3, 2001, won the Triple Trio (worth ~$13M) by placing a bet correctly calling the top three horses (in any order) in three different races; the story goes (and here we should exercise skepticism) that he chose not to collect the winnings, instead letting the Hong Kong Jockey Club do with them what it always does with unclaimed winnings: give them to charity.
+Later on, in Hong Kong in the 1980s and 1990s, Bill Benter, formerly an advantage player in Las Vegas, [earned](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code) nearly $1B betting on horses. (Hong Kong had a vibrant, high-liquidity betting market for horse racing at the time.) The way he did it -- inspired by Brecher (1980) and Bolton and Chapman (1986) -- was by programming and continuously refining a computer model which at its most complex regressed >100 variables and comprised thousands of lines of code (Benter 2008). Benter's crowning glory was when he, on November 6, 2001, won the Triple Trio (worth ~$13M) by placing a bet correctly calling the top three horses (in any order) in three different races; the story goes (and here we should exercise skepticism) that he chose not to collect the winnings, instead letting the Hong Kong Jockey Club do with them what it always does with unclaimed winnings: give them to charity.
 
 Like Murnane fearing Form-Plan's spread throughout Victoria, Benter too speculated that his edge would disappear as others adopt his methods (Benter 2008):
 
@@ -112,7 +112,7 @@ The history of humanity is crowded with seekers of alpha. Financial schemes have
 
 With all that in mind, what can we say about finding alpha? The first thing we can say is that one should view any guide to finding alpha with a measure of skepticism, at least if one intends to compete in a crowded field.
 
-But keeping Hamming's advice in mind, at a high level, the sources of alpha are information and circumstances, and talent maybe, that allow one to consistently take actions that successfully achieve certain ends. (This notion of alpha applies not only to zero-sum competitions, but to altruistic markets, too.) Bill Benter's end was to pick winning horses (or maybe to make money, or more likely both), and the system he developed (the intricate regression model) and the context in which he deployed it (Hong Kong in the 1990s) allowed him to do that well and consistently.
+But keeping Hamming's advice in mind, at a high level, the sources of alpha are information and circumstances, and talent maybe, that allow one to consistently take actions that successfully achieve certain ends. (This notion of alpha applies not only to zero-sum competitions, but to altruistic markets, too.) Bill Benter's end was to pick winning horses (or maybe to make money, or more likely both), and the system he developed (the intricate regression model) and the context in which he deployed it (Hong Kong in the 1980s and 1990s) allowed him to do that well and consistently.
 
 I can think of a bunch of things that may plausibly help me find alpha (though to be clear I'm not confident in any of these, and even if some correlate with or even cause us to find alpha they may not constitute effective practical advice):
 

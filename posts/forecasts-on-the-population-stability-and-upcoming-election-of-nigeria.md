@@ -206,7 +206,7 @@ Abubakar has four wives and twenty-eight children. "I felt extremely lonely as a
 
 Another Nigerian convention is to have a split Muslim-Christian ticket. If the presidential candidate is a Muslim, the vice presidential candidate is a Christian, and vice versa. The Tinubu and Abubakar tickets are both Muslim-Muslim. That means the only credible ticket with a Christian is Peter Obi's. Peter Obi is an interesting candidate. His popularity transcends religion: he generates considerable excitement wherever he goes, but especially among the urban and the young. The "Obidient" cheer him at airports, mob his car, and turn up in large numbers at rallies and town halls. If you search Spotify for "Obidient" you will find about fifty songs in his honor.
 
-Peter Obi is first in most opinion polls, but everyone says Nigerian polls are unreliable, and there aren't many of them anyway. An example is [this December poll](http://anapfoundation.com/press-releases/peter-obi-consolidates-lead-in-a-fragmented-presidential-race) which has Obi at 23%, Tinubu at 13%, Abubakar at 10%, and Kwakwaso at 2% (with 29% undecideds), though a lot of people in the south-west (38% of respondents there) refused to share who they'd vote for, which may indicate an undercount in the Tinubu number. I looked at a couple of older polls by the same organization and they seemed pretty ok, enough that I think this is a fairly good signal.
+Peter Obi is first in most opinion polls, but everyone says Nigerian polls are unreliable, and there aren't many of them anyway. An example is [this December poll](http://anapfoundation.com/press-releases/peter-obi-consolidates-lead-in-a-fragmented-presidential-race) which has Obi at 23%, Tinubu at 13%, Abubakar at 10%, and Kwankwaso at 2% (with 29% undecideds), though a lot of people in the south-west (38% of respondents there) refused to share who they'd vote for, which may indicate an undercount in the Tinubu number. I looked at a couple of older polls by the same organization and they seemed pretty ok, enough that I think this is a fairly good signal.
 
 The bookies give Tinubu 35%, Abubakar 32%, Obi 25%, and Kwankwaso 1% (as of January 30). I'm more bullish on Obi than they are, and more bearish on Abubakar.
 
@@ -301,6 +301,6 @@ To sum up:
 
 [^1]:	 The data actually comes not only from censuses, but also surveys, population registers, and so on. But "census" is right to a first approximation.
 
-[^2]:	 I count 6 [coups since independence](https://en.wikipedia.org/wiki/Military_coups_in_Nigeria) (1960), 63 × 24 + 1 = 1,513 months since independence and 47 months remaining until the year is 2025.
+[^2]:	 I count 6 [coups since independence](https://en.wikipedia.org/wiki/Military_coups_in_Nigeria) (1960), 62 × 12 + 4 = 748 months since independence and 23 months remaining until the year is 2025.
 
 [^3]:	 That is, Abubakar has either run as a candidate for president, or participated in the primaries to be nominated as a candidate.

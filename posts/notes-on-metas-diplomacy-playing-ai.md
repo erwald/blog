@@ -98,7 +98,7 @@ The reason why I think (1) and (2) are false is not that CICERO isn't good at st
 
 > The strategic engine, as I evaluated it based on a sample game with six bots and a human, seemed to me to be mediocre at tactics and lousy at strategy. Humans are bad at tactics (and often strategy) in games and Diplomacy is no exception. Diplomacy's tactics [are] a good match for [an] AI. Anticipating other players proved harder. The whole thing feels like it is "missing a step".
 
-Though he has since edited his post to amend a qualification:
+Though he has since edited his post to append a qualification:
 
 > An author of the paper, however, points out that this engine entered and won a No-Press (Gunboat) Diplomacy Tournament, and won it, with one expert saying it was top-5 in the world at that. Perhaps my threshold for tactics is unfair here, or I happen to disagree with the key decisions I examined, or I am sufficiently rusty (or uneducated?) that I am neglecting other considerations and reaching wrong conclusions.
 
@@ -169,6 +169,6 @@ What I'm less sure about is how much time and money Meta and its competitors are
 
 [^6]:	 Meta Fundamental AI Research Diplomacy Team (FAIR) et al. (2022): "One challenge in doing self-play in *Diplomacy* is that players may adapt their actions substantially on the basis of dialogue with other players, including coordinating joint actions. Explicitly simulating conversations would be extremely expensive in [reinforcement learning]. However, a key insight is that a joint, shared [behavioral cloning] policy trained on the joint action distribution of the human data already implicitly captures the effects of dialogue on the action distribution of human players by modeling that action distribution directly."
 
-[^7]:	 Cotra's report doesn't assume that an AI would be trained in simulated environments (generally unsupervised learning); it could also be trained on data (generally supervised learning).
+[^7]:	 Cotra's report doesn't assume that an AI would be trained in simulated environments (generally reinforcement learning); it could also be trained on data (generally supervised learning).
 
 [^8]:	 I do think Diplomacy is more complex than chess or go in the sense that its branching factor is many orders of magnitude larger, however I don't think it's orders of magnitude more difficult to simulate. This may be a point in favor of the "we can fairly simply simulate fairly complex worlds" thesis.

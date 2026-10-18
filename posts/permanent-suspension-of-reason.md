@@ -9,7 +9,7 @@ tags: post
 
 <div class="edit">
 <p>
-Edit 2022-10-23: I’ve revised this post to tone down some stylistic excesses. I’m still of the opinion that dominant tech companies shouldn’t take it upon themseles to censor politically unappealing speech and people. I think censorship is wrong. And doing so doesn’t seem to have stopped <a href="https://www.pewresearch.org/politics/2022/08/09/as-partisan-hostility-grows-signs-of-frustration-with-the-two-party-system/">the increasing polarization of U.S. politics</a> anyway. However, while I express the view that the social media bans may have helped Trump’s popularity in the post (arguing that he was shooting himself in the foot at the time), I’m now unsure whether this was true.
+Edit 2022-10-23: I’ve revised this post to tone down some stylistic excesses. I’m still of the opinion that dominant tech companies shouldn’t take it upon themselves to censor politically unappealing speech and people. I think censorship is wrong. And doing so doesn’t seem to have stopped <a href="https://www.pewresearch.org/politics/2022/08/09/as-partisan-hostility-grows-signs-of-frustration-with-the-two-party-system/">the increasing polarization of U.S. politics</a> anyway. However, while I express the view that the social media bans may have helped Trump’s popularity in the post (arguing that he was shooting himself in the foot at the time), I’m now unsure whether this was true.
 </p>
 
 </div>
@@ -43,7 +43,7 @@ So Trump and his followers will continue their exodus to so-called free-speech a
 
 <div class="edit">
 <p>
-Addendum 2022-10-22: Apple eventually followed through, banning Parler from its App Store. However, after adding censorship of certain posts to the app, Parler was allowed back on Apple’s App Store in May 2021 and on Google Play in September 2021. (This month it was announced that Ye aka Kanye West, having recently been blocked from Instagram and Twitter for making anti-Semitic posts, had agreed to buy Parler.)
+Addendum 2022-10-22: Apple eventually followed through, banning Parler from its App Store. However, after adding censorship of certain posts to the app, Parler was allowed back on Apple’s App Store in May 2021 and on Google Play in September 2022. (This month it was announced that Ye aka Kanye West, having recently been blocked from Instagram and Twitter for making anti-Semitic posts, had agreed to buy Parler.)
 </p>
 
 </div>

@@ -127,7 +127,7 @@ Because norms differ across different communities, knowing someone's community m
 
 [^3]:	 Henrich, J. (2015). *The secret of our success*. Princeton University Press.
 
-[^4]:	 Davis, J. T., & Hines, M. (2020). How large are gender differences in toy preferences? A systematic review and meta-analysis of toy preference research. *Archives of Sexual Behavior*, /49/(2), 373-394.
+[^4]:	 Davis, J. T., & Hines, M. (2020). How large are gender differences in toy preferences? A systematic review and meta-analysis of toy preference research. *Archives of Sexual Behavior*, 49(2), 373-394.
 
 [^5]:	 Jussim, L., Crawford, J. T., Anglin, S. M., Chambers, J. R., Stevens, S. T., & Cohen, F. (2016). Stereotype accuracy: One of the largest and most replicable effects in all of social psychology.
 
@@ -135,7 +135,7 @@ Because norms differ across different communities, knowing someone's community m
 
 	"McCauley and Stitt (1978) examined white Americans' stereotypes of black Americans[.] The subjects answered questions like 'What percent of adult Americans have completed high school?' and 'What percent of black Americans have completed high school?' The ratio of these two answers serves as a rough measure of correlation. A ratio of one means no correlation. When the study was done, the ratio of these questions was .65: Blacks were less likely to have completed high school. Mean ratios from the responses of different groups of white Americans ranged from .60 (social work students) to .74 (social workers). For this question and most of the other questions (illegitimate children, unemployment, victim of crime, on welfare, four or more children, female head of family), the average ratios of the respondents were in the same direction as the true ratios based on census data and somewhat less extreme -- closer to 1.0. In other words, this kind of 'stereotype' is fairly accurate, and people judge the correlation correctly between (for example) being black and having completed high school."
 
-[^7]:	 Bordalo, P., Coffman, K., Gennaioli, N., & Shleifer, A. (2016). Stereotypes. *The Quarterly Journal of Economics*, /131/(4), 1753-1794.
+[^7]:	 Bordalo, P., Coffman, K., Gennaioli, N., & Shleifer, A. (2016). Stereotypes. *The Quarterly Journal of Economics*, 131(4), 1753-1794.
 
 [^8]:	 Korsgaard, C. M. (1995). A note on the value of gender-identification. *Women, Culture, and Development: A Study of Human Capabilities*, *1*, 401.
 

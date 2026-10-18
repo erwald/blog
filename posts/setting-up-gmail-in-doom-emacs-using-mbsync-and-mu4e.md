@@ -88,7 +88,7 @@ $ echo "my-password" > ~/.mbsync-pw-mailbox
 $ gpg --encrypt --recipient "example@gmail.com" ~/.mbsync-pw-mailbox
 ```
 
-5. This will generate an encrypted version of that file called `~/mbsync-pw-mailbox.gpg`. If you are curious, as I was, you can have a look at its contents:
+5. This will generate an encrypted version of that file called `~/.mbsync-pw-mailbox.gpg`. If you are curious, as I was, you can have a look at its contents:
 
 ```shell-session
 $ hexdump ~/.mbsync-pw-mailbox.gpg
@@ -107,15 +107,15 @@ $ hexdump ~/.mbsync-pw-mailbox.gpg
 00000b7
 ```
 
-6. Delete the file storing your password in plain text: `rm ~/mbsync-pw-mailbox`. You now have your email password stored in a safely encrypted file, and can pull it out at any time using your GPG key: `gpg --decrypt ~/.mbsync-pw-mailbox.gpg`
-7. In `~/.mbsyncrc`, remove `Pass <INSERT YOUR PASSWORD HERE>` and replace it with `PassCmd "gpg --quiet --for-your-eyes-only --no-tty --decrypt \~/.mbsync-pw-mailbox.gpg"`.
+6. Delete the file storing your password in plain text: `rm ~/.mbsync-pw-mailbox`. You now have your email password stored in a safely encrypted file, and can pull it out at any time using your GPG key: `gpg --decrypt ~/.mbsync-pw-mailbox.gpg`
+7. In `~/.mbsyncrc`, remove `Pass PutYourPasswordHere` and replace it with `PassCmd "gpg --quiet --for-your-eyes-only --no-tty --decrypt \~/.mbsync-pw-mailbox.gpg"`.
 
 ### (Optionally) Store Your Password in an Obfuscated File
 
 If it feels icky to put down your password *in plaintext* in `.mbsyncrc`, you can instead store it with Base64 encoding. Note that this does not really provide more security than storing your password in plaintext.
 
 1. Store the encoded password to a file: `echo "my-password" | base64 > ~/.mbsync-pw-mailbox`.
-2. In `~/.mbsyncrc`, remove `Pass <INSERT YOUR PASSWORD HERE>` and replace it with `PassCmd "base64 -d ~/.mbsync-pw-mailbox"`.
+2. In `~/.mbsyncrc`, remove `Pass PutYourPasswordHere` and replace it with `PassCmd "base64 -d ~/.mbsync-pw-mailbox"`.
 
 ## IV. Sync Your Local Mailbox with Your Remote Mailbox
 

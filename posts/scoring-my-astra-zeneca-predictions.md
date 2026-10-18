@@ -112,7 +112,7 @@ I did not really find any record of an official having stated this, though I am 
 
 To the question of whether a suspension causes more deaths than it prevents, the website of the Bundesministerium für Gesundheit (the German Federal Ministry of Health) gave the following [answer](https://web.archive.org/web/20210318193643/https://www.bundesgesundheitsministerium.de/coronavirus/faq-covid-19-impfung/faq-impfung-astrazeneca.html) back in March (original German in the footnote):
 
-> This is a statistical (and legitimate) aspect. But the state is legally obliged in particular to the individual citizen who is vaccinated in a state vaccination campaign! The state provides the vaccine and thus has special duties of care. Officials of the [Federal Ministory of Health] and [Paul-Ehrlich-Institut] are obliged to monitor the safety of the vaccine and to react in case of relevant signals. If these duties are neglected and the vaccination campaign continues without properly informing the population and the persons to be vaccinated, there could also be legal consequences.[^12]
+> This is a statistical (and legitimate) aspect. But the state is legally obliged in particular to the individual citizen who is vaccinated in a state vaccination campaign! The state provides the vaccine and thus has special duties of care. Officials of the [Federal Ministry of Health] and [Paul-Ehrlich-Institut] are obliged to monitor the safety of the vaccine and to react in case of relevant signals. If these duties are neglected and the vaccination campaign continues without properly informing the population and the persons to be vaccinated, there could also be legal consequences.[^12]
 
 But that was an artless dodge, and not anything close to an admission of oversight.
 
@@ -132,7 +132,7 @@ But that was an artless dodge, and not anything close to an admission of oversig
 
 [^6]:	 My source here is an [article](https://www.texastribune.org/2021/07/21/coronavirus-texas-vaccinated-deaths/) in The Texas Tribune. Note that the numbers are preliminary and that the article states "at least 43", whatever that means. Even if the number were twice as high, the vaccines' effect would still be plain.
 
-[^7]:	 Faranda, D., Alberti, T., Arutkin, M., Lembo, V., & Lucarini, V. (2021). Interrupting vaccination policies can greatly spread SARS-CoV-2 and enhance mortality from COVID-19 disease: The AstraZeneca case for France and Italy\<? A3B2 show [feature]?\>. *Chaos: An Interdisciplinary Journal of Nonlinear Science*, *31*(4), 041105.
+[^7]:	 Faranda, D., Alberti, T., Arutkin, M., Lembo, V., & Lucarini, V. (2021). Interrupting vaccination policies can greatly spread SARS-CoV-2 and enhance mortality from COVID-19 disease: The AstraZeneca case for France and Italy. *Chaos: An Interdisciplinary Journal of Nonlinear Science*, *31*(4), 041105.
 
 [^8]:	 ibid.
 
