@@ -90,7 +90,7 @@ Take for example the last one, with a population of 50K and a detection probabil
 
 We can visualize this volatility by making a bunch of counterfactual experiments. For any given set of simulated data, we can calculate how far off the correct estimate we would be for k = 1, k = 2, k = 3, and so on. If the range of k values that give us a good estimate is really narrow, we can't trust the results of a Lincoln-Petersen estimate, because normal variation will cause the estimate to fluctuate wildly. Here are these counterfactuals for each of the four experiments I ran above:
 
-![Four small charts, one per simulated experiment, showing how far off the Lincoln-Petersen estimate would have been for every number of recaptured marked individuals k from 1 to 200, with the experiment's actual k marked and the other experiments' curves in grey. For N = 500, p = 10% and N = 50,000, p = 1% the error is lowest at k = 4 or 5 and grows steadily beyond it; for N = 500, p = 50% and N = 5,000, p = 10% it falls steeply at small k and stays near zero over most of the range.]({{ '/img/lp_captures_counterfactual.png' | url }})
+![Error of the Lincoln-Petersen estimate, by marked recaptures k]({{ '/img/lp_captures_counterfactual.png' | url }})
 
 The y-axis shows the squared log error -- when this is 0, the estimation is perfect, but the higher it is, the further away the estimation is from the target. We can see that N = 500, p = 10% and N = 50,000, p = 1% are both estimated correctly for a narrow range of values of k -- the squared log error dips down quickly before quickly rising again -- whereas the other two scenarios, for which correct estimations require much higher values of k, give us much more room for error.
 
@@ -98,7 +98,7 @@ If I am correct about this, then I think the Lincoln-Petersen method alone does 
 
 Another way of visualizing this is by running a lot of [simulations for different population sizes and detection probabilities](https://github.com/erwald/capture-recapture-simulations/blob/master/simple_sims.R#L50-L92), calculating the Lincoln-Petersen estimates, and seeing how far off they are from the true population sizes. (Actually, in the following experiments I run the simulation for each combination five times and take the mean of the estimates, in order to smooth things out.) Plotting each combination's error against the number of marked individuals we would expect to recapture, N × p², we get this:
 
-![Scatter plot of the percentage error of Lincoln-Petersen estimates for 689 simulated combinations of population size and detection probability, against the expected number of marked recaptures (N × p²) on a log scale. Errors are large and scattered below about 25 expected recaptures and close to zero above 100; six combinations with fewer than five expected recaptures gave infinite estimates.]({{ '/img/lp_estimates.png' | url }})
+![Error of Lincoln-Petersen estimates, by expected marked recaptures]({{ '/img/lp_estimates.png' | url }})
 
 Whatever the population size and detection probability, how far off the estimates are depends mainly on the expected number of recaptures: three in four combinations with fewer than ten expected recaptures are off by 10% or more, against one in ten of those with 25 to 100 and none above 100.
 

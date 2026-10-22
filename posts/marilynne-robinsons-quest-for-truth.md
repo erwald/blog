@@ -73,9 +73,9 @@ I am shocked to read a passage so full of contempt for people in poverty. I thin
 
 The World Bank defines extreme poverty as living with an income of less than $58 per month (around two dollars per day). Before the Industrial Revolution, 19 out of 20 people lived on less than that amount (adjusted for inflation and purchasing power); now one in ten do (Ord 2020). And as Toby Ord writes, "People in richer countries are sometimes disbelieving of these statistics, on the grounds that they can't see how someone could live at all in their town with just $2 each day. But sadly the statistics are true, and even adjust for the fact that money can go further in poorer countries. The answer is that people below the line have to live with accommodation and food of such a poor standard, that equivalents are not even offered by the market in richer countries." So the fact that this sort of thing has happened
 
-![img]({{ '/img/global_poverty_1.png' | url }})
+![Share of the world population living in poverty, 1820–2015]({{ '/img/global_poverty_1.png' | url }})
 
-![img]({{ '/img/global_poverty_2.png' | url }})
+![Number of people by daily income, world, 1981–2017]({{ '/img/global_poverty_2.png' | url }})
 
 is not something to be dismissed as "enjoy[ing] the comforts of unmodified poverty", is not an improvement to be grudgingly admitted, but, on the contrary, is something truly great, a thing that should fill our hearts with joy and gratitude and inspiration.
 
@@ -85,9 +85,9 @@ In a conversation with Barack Obama that took place seven years ago, Robinson sa
 
 Here is what running China into the ground (as if the Chinese have no autonomy at all) looks like:
 
-![img]({{ '/img/china_poverty.png' | url }})
+![Share of people by daily income, China, 1981–2017]({{ '/img/china_poverty.png' | url }})
 
-![img]({{ '/img/china_life_expectancy.png' | url }})
+![Child mortality in China, the US, the UK, France and Sweden, 1800–2016]({{ '/img/china_life_expectancy.png' | url }})
 
 Now, I don't know what variables Robinson refers to, nor which old answers are now merely hypothetical, nor what all that is meant to signify, but I do know that these changes are real and important and need to be taken seriously. Robinson does not take them seriously, because numbers are mere ornaments to her.
 
@@ -101,27 +101,23 @@ I said I was not really interested in Robinson's argument that the state of thin
 
 One, Robinson mentions "reports of declines of life expectancy in America". Is American life expectancy down? I would say it looks more like the increase has plateaued (whereas it is steadily rising in the world in general) (Roser, Ortiz-Ospina, and Ritchie 2013):
 
-![img]({{ '/img/life_expectancy_america.png' | url }})
+![Life expectancy at birth, United States and world, 1950–2019]({{ '/img/life_expectancy_america.png' | url }})
 
 Two, Robinson mentions "rising rates of suicide". Suicide has been increasing in America recently, but is now at rates comparable to those in the early 1990s (Ruch et al. 2019). Here is a graph showing suicide rates among youths (but I believe the trend is similar for the general population):
 
-![img]({{ '/img/suicide_rate_american_teens.png' | url }})
+![Suicide rate among US youth, by age and sex, 1975–2016]({{ '/img/suicide_rate_american_teens.png' | url }})
 
-Three, Robinson mentions a "decline in hope and purpose". I wasn't able to find data about optimism over time in America, but there is a slight decline in self-reported happiness in America (Ortiz-Ospina and Roser 2013):
+Three, Robinson mentions a "decline in hope and purpose". I wasn't able to find data about optimism over time in America, but there is a slight decline in self-reported happiness in America (Ortiz-Ospina and Roser 2013), while trust seems stable (Ortiz-Ospina and Roser 2016):
 
-![img]({{ '/img/self_reported_happiness_america.png' | url }})
-
-But trust seems stable (Ortiz-Ospina and Roser 2016):
-
-![img]({{ '/img/trust_america.png' | url }})
+![Happiness and trust in the United States, 1993–2014]({{ '/img/happiness_and_trust_america.png' | url }})
 
 Finally, what about Americans' economic situation? Robinson writes that "workers' real wages have fallen for decades in America". It looks more correct to me to say that they have stagnated:
 
-![img]({{ '/img/american_wage_stagnation.png' | url }})
+![Inflation-adjusted hourly wages by wage level, United States, 1979–2013]({{ '/img/american_wage_stagnation.png' | url }})
 
 The shockingly large number of homeless people is decreasing (Ortiz-Ospina and Roser 2017):
 
-![img]({{ '/img/homelessness_america.png' | url }})
+![Homeless people by shelter status, United States, 2007–2016]({{ '/img/homelessness_america.png' | url }})
 
 In sum, I think things have plateaued or declined in America recently, though it doesn't quite look catastrophic, let alone like a "crisis of civilization" (and the trend does not hold for the world as a whole). Robinson comes off okay here, but not great.
 

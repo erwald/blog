@@ -15,11 +15,11 @@ In this post I will describe a Bayesian model for estimating killings by each fa
 
 Remember, the problem is this. We have three factions -- the Angu rebels, the king's forces, and the Zid separatists. Each of these took part in a devastating civil war and killed a certain number of people during it. Information on these killings comes from two sources: the official military records and a census carried out some years after the civil war had ended. Each of these lists contains the name and birthplace of the slain, so we know how many people are mentioned in both of these sources. That will be important later.
 
-![Three panels, one per faction, with three thin bars per province: killings in the military records, in the census, and in both. The king's forces' killings are well recorded, most of them in Hoshtengu; the Angu and Zid killings appear far less often in either source, and seldom in both.]({{ '/img/tamego_killings_recorded.png' | url }})
+![Killings in Tamego recorded by the military and by the census]({{ '/img/tamego_killings_recorded.png' | url }})
 
 From this data, we were able to calculate the minimum number of killings by each faction and in each region with the formula `recorded + census - both`. We were also able to calculate [Lincoln-Petersen estimates](https://en.wikipedia.org/wiki/Mark_and_recapture#Lincoln%E2%80%93Petersen_estimator) with the formula `recorded * census / both`.
 
-![Three panels, one per faction, comparing the minimum estimate of killings in each province (everyone named in either source) with the Lincoln-Petersen estimate. The Lincoln-Petersen estimates are about 30% higher for the king's forces, about twice as high for the Zid and four to five times as high for the Angu rebels.]({{ '/img/tamego_killings_estimates.png' | url }})
+![Estimated killings in Tamego, by faction and province]({{ '/img/tamego_killings_estimates.png' | url }})
 
 Now, we could have just [encoded that formula](https://mc-stan.org/docs/2_22/stan-users-guide/mark-recapture-models.html) in Stan. However, Kéry & Schaub's model works differently. It uses something called **data augmentation** (a different sort from the one used to increase training sets in deep learning). The idea here is that you encode the capture-recapture data in a matrix, where each row is one individual and each column one observation (in our case, there would be one column for the official records and one column for the census data). Say for example that we have observed four individuals across two observations. We saw the first individual on both occasions, the second and third only on the first occasion, and the fourth only on the second occasion. That would give us this matrix:
 
@@ -192,7 +192,7 @@ generated quantities {
 
 So what happens if we run this model using the Kingdom of Tamego data? This happens:
 
-![Three panels, one per faction, with actual killings in each province as grey bars, the Lincoln-Petersen estimate as a filled dot and the Bayesian estimate as an open dot on its 89% interval. The two estimates nearly coincide; the intervals are narrow for the king's forces and the Zid and wide for the Angu rebels, whose estimates miss most.]({{ '/img/tamego_killings_bayesian_estimate.png' | url }})
+![Estimated and actual killings in Tamego, by faction and province]({{ '/img/tamego_killings_bayesian_estimate.png' | url }})
 
 The model produces results basically identical to the much simpler Lincoln-Petersen estimates, but with the additional advantage of allowing us to compute uncertainty intervals. In the graph above I show 89% uncertainty intervals for the Bayesian estimate (the horizontal line). These are much wider for the Angu rebel estimates, indicating that mean estimates for that faction are less reliable than for the other factions, which we also know to be true, because we have simulated the data and can see how far off the estimates are from the true values.
 

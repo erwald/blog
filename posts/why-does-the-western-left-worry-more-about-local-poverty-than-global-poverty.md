@@ -13,9 +13,9 @@ tags: post
 
 George Steiner once said that hope has always been on the Left. I suppose what he meant was that utopian thinking, and especially opposition to old social hierarchies, almost necessarily requires a break with tradition. Utopias on the Left have often been visions of more egalitarian worlds, and Leftist manifestos usually highlight injustice, especially economic injustice, including injustices that stretch across national borders. But in this century the Western Left's focus is almost always on the marginalized in their own countries, and almost never, with the exceptions of anti-war opposition and climate change perhaps, on international solidarity. Why?
 
-Inequalities between countries are far more substantial than inequalities within countries. Here is a plot of 179 countries, sorted by average national income per adult, using data from the [World Inequality Database](https://wid.world/data). It shows, for each country, the span between the average income of the bottom 50% of earners and the average income of the top 50% of earners (the spans are represented by thin vertical lines). If I have calculated this correctly, that means the working classes of many European, Australasian, and North American nations have significantly higher incomes than even the wealthier halves of the poorest nations. The poorest people in this world, those who are most in need of support, do not live in Europe, Australasia, or North America; they live in South America, Asia, and especially Africa: the poorest 15 in this data set are all African nations.
+Inequalities between countries are far more substantial than inequalities within countries. Here is a plot of 179 countries, sorted by average national income per adult, using data from the [World Inequality Database](https://wid.world/data). It shows, for each country, the span between the average income of the bottom 50% of earners and the average income of the top 50% of earners (the spans are represented by thin vertical lines), on a linear scale in the upper panel and a logarithmic one in the lower. If I have calculated this correctly, that means the working classes of many European, Australasian, and North American nations have significantly higher incomes than even the wealthier halves of the poorest nations. The poorest people in this world, those who are most in need of support, do not live in Europe, Australasia, or North America; they live in South America, Asia, and especially Africa: the poorest 15 in this data set are all African nations.
 
-![Plot showing gaps between average income of bottom 50% of earners and average income of the top 50% of earners in different countries.]({{ '/img/global_income_inequality_0_50_100_avg.png' | url }})
+![Average income of the bottom and top halves of adults, by country, 2019]({{ '/img/global_income_inequality.png' | url }})
 
 *But look at how much wider the gaps are in the rich nations! That means there is more income inequality in wealthier places.*
 
@@ -23,9 +23,7 @@ Well, yes, that is true in absolute numbers, for the simple reason that there is
 
 I can go on. In the United States, the average income of a non-Hispanic white worker is one and a half times the average income of a Black worker.[^2] But the average income of a Black worker in the United States is six times that of a working-age person from Africa![^3] I am not saying that Black workers in America do not experience injustice or anything of that sort; I am saying that workers in Africa and other poor regions have really, really low incomes.
 
-This becomes clear when we look at the same plot but with a logarithmic scale on the y-axis:
-
-![Plot showing gaps between average income of bottom 50% of earners and average income of the top 50% of earners in different countries; logarithmic scale.]({{ '/img/global_income_inequality_0_50_100_avg_log.png' | url }})
+This becomes clear in the lower panel of the plot above, which uses a logarithmic scale on the y-axis.
 
 *All right, but a euro goes much further in Malawi than it does in Sweden. A person with a poverty wage in the United States might do pretty well with that same wage in the Democratic Republic of Congo.*
 
