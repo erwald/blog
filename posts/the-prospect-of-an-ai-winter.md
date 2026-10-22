@@ -51,7 +51,7 @@ Improving these days means scaling up. One reason why scaling might fail is if t
 
 I'm no expert at semiconductors or GPUs, but as I understand things it's (1) not a given that Moore's Law will fail in the next decade and (2) quite possible that, even if it does, hardware performance will keep running on improvements other than increased transistor density. It wouldn't be the first time something like this happened: single-thread performance went off-trend as Dennard scaling failed around 2005, but transistor counts kept rising thanks to [increasing numbers of cores](https://enccs.github.io/OpenACC-CUDA-beginners/1.01_gpu-introduction/):
 
-![img]({{ '/img/microprocessor_trends.png' | url }})
+![Microprocessor trends, 1971–2019]({{ '/img/microprocessor_trends.png' | url }})
 
 Some of the technologies that could [keep GPU performance going](https://www.semianalysis.com/p/a-century-of-moores-law) as the atom limit approaches include vertical scaling, advanced packaging, new transistor designs, and 2D materials as well as improved architectures and connectivity. (To be clear, I don't have a detailed picture of what these things are, I'm mostly just deferring to the linked source.) TSMC, Samsung, and Intel all have plans for <2 nm process nodes (the current SOTA is 3 nm). Some companies are exploring more out-there solutions, like [analog computing](https://mythic.ai/) for speeding up low-precision matrix multiplication. Technologies on exponential trajectories are always out of far-frontier ideas, until they aren't (at least so long as there is immense pressure to innovate, as for semiconductors there is). Peter Lee [said in 2016](https://www.economist.com/technology-quarterly/2016-03-12/after-moores-law), "The number of people predicting the death of Moore's law doubles every two years." By the end of 2019, the Metaculus community gave "Moore's Law will end by 2025" 58%, whereas now one oughtn't give it more than a few measly percent.[^6]
 
@@ -69,9 +69,9 @@ Entertain that notion and make the following assumptions:
 - Algorithmic progress on ImageNet seems to effectively halve compute requirements every 4 to 25 months (Erdil and Besiroglu 2022); assume that the doubling time is 50% longer for transformers.[^7]
 - Spending on training runs for ML systems seems to roughly double every 6 to 10 months; assume that that'll continue until we reach a maximum of $10B.[^8]
 
-What all that gives you is 50% probability of TAI by 2040, and 80% by 2045:
+What all that gives you is 55% probability of TAI by 2040, and 79% by 2045:
 
-![img]({{ '/img/flop_tai.png' | url }})
+![Compute for transformative AI, 2022–2046]({{ '/img/flop_tai.png' | url }})
 
 That is a simple model of course. There's a far more sophisticated and rigorous version, namely Cotra (2020) which gives a median of ~2050 (though she's since [changed her best guess](https://www.alignmentforum.org/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines) to a median of ~2040). There are many reasons why my simple model might be wrong:
 

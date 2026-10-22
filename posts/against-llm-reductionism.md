@@ -65,9 +65,11 @@ First take the implications that LLMs are only doing clever parlor tricks, only 
 
 ### LLMs Can Learn General Analytic Capabilities
 
-Lewkowycz et al. (2022) fine tunes a version of PaLM (an LLM created by Google) on technical content (for example, arXiv preprints), getting it to perform decently well (~50% success rate) on the [MATH dataset](https://github.com/hendrycks/math/). The problems are not trivial (right-hand panel):
+Lewkowycz et al. (2022) fine tunes a version of PaLM (an LLM created by Google) on technical content (for example, arXiv preprints), getting it to perform decently well (~50% success rate) on the [MATH dataset](https://github.com/hendrycks/math/). The problems are not trivial. Here is one of the examples the [dataset's authors](https://arxiv.org/abs/2103.03874) give, with its worked solution:
 
-![img]({{ '/img/math_dataset.png' | url }})
+> **Problem:** If 1 + cos² θ + cos⁴ θ + cos⁶ θ + … = 5, what is cos 2θ?
+> 
+> **Solution:** This geometric series is 1 + cos² θ + cos⁴ θ + … = 1/(1 − cos² θ) = 5. Hence, cos² θ = 4/5. Then cos 2θ = 2 cos² θ − 1 = **3/5**.
 
 The authors take steps to find out whether the model achieved these results through mere rote memorization. First they look at the 100 problems for which the model does the best and search through the training set for traces of them, but they find none. Then they modify problems (adjusting phrasing and/or numbers) to see whether the model will do worse, but it does not. Finally they compare the model's solutions to the ground-truth solutions provided in the dataset to see whether they are similarly phrased, but, except for questions with very short answers, they are not.
 
@@ -75,9 +77,9 @@ That, to me, suggests their model really does learn rules or algorithms that are
 
 ### LLMs Can Learn Fully General Algorithms
 
-Nanda et al. (2023) trains a tiny (~200K parameters if my count is correct) [transformer](https://transformer-circuits.pub/2021/framework/index.html#transformer-overview) on modular addition (that is, addition where the result "wraps around" to start at 0 again if it would ever exceed the maximum number the model can handle, in this case 113) and finds that, after quickly reducing its train error (blue line) to near 0, the model is stuck with a high test error (red line) for a long while until suddenly that, too, diminishes to near 0:
+Nanda et al. (2023) trains a tiny (~200K parameters if my count is correct) [transformer](https://transformer-circuits.pub/2021/framework/index.html#transformer-overview) on modular addition (that is, addition where the result "wraps around" to start at 0 again if it would ever exceed the maximum number the model can handle, in this case 113) and finds that, after quickly reducing its train error (solid line) to near 0, the model is stuck with a high test error (dashed line) for a long while until suddenly that, too, diminishes to near 0:
 
-![img]({{ '/img/nanda_grokking.png' | url }})
+![Loss of a transformer learning modular addition, by training epoch]({{ '/img/nanda_grokking.png' | url }})
 
 This phenomenon is called *grokking* (Power et al. 2022), and the sudden improvement on test data is called a *phase change*. It's as if the model initially merely memorizes the training data answers, but eventually finds a fully general algorithm, allowing it to generalize ~perfectly to test data. And, in fact, it turns out that this model "uses discrete Fourier transforms and trigonometric identities to convert addition to rotation about a circle" (Nanda et al. 2023).[^10] This algorithm is pretty complicated; it proceeds in multiple steps spread out over successive layers, and is utterly different from how addition normally works in computers at a low level; it's frankly incredible to me that an ML model can find it through gradient descent, but there it is.[^11]
 
@@ -87,11 +89,11 @@ This phenomenon is called *grokking* (Power et al. 2022), and the sudden improve
 
 The two addition experiments seem, since, though they weren't done on LLMs, one of them *was* done on a model with a similar architecture, like strong evidence that LLMs *can in principle and practice* find fully general algorithms. The evidence for actual algorithms found within LLMs is scantier, for LLMs are mind-bogglingly enormous. But there is some evidence of phase changes, either as a result of more training or of larger models, in LLMs.[^12] For example, the language model studied in Olsson et al. (2022) undergoes a phase change markedly improving its in-context learning:
 
-![img]({{ '/img/olsson_phase_change.png' | url }})
+![In-context learning score of small transformers, by training tokens]({{ '/img/olsson_phase_change.png' | url }})
 
-And the BIG-bench dataset from Srivastava et al. (2022), comprising tasks designed to not show up in LLMs' training data, shows that, for some tasks, and in particular tasks that *don't* seem to rely on knowledge/memorization, like arithmetics, LLMs undergo model-size-scaling phase changes (middle panel):
+And the BIG-bench dataset from Srivastava et al. (2022), comprising tasks designed to not show up in LLMs' training data, shows that, for some tasks, and in particular tasks that *don't* seem to rely on knowledge/memorization, like arithmetics, LLMs undergo model-size-scaling phase changes (right-hand panel):
 
-![img]({{ '/img/big_bench_phase_change.png' | url }})
+![Scores of language models on BIG-bench tasks, by model size]({{ '/img/big_bench_phase_change.png' | url }})
 
 It's not clear to me what exactly happens in these cases:
 
