@@ -26,7 +26,7 @@ ERICH: How does the evidence for the lead paint to blood lead levels (BLLs) path
 
 LUCIA: There is good evidence that lead in paint on walls is associated with raised blood lead levels in humans. In the US lead paint is thought to account for up to 70% of elevated blood lead levels[^8] and US children in houses with lead paint were found to be almost ten times more likely to have elevated BLLs than children in similar housing without lead paint[^9]. The condition of the paint seems to be an important predictor of blood lead levels, not just the lead content of the paint.[^10] This relationship between lead in paint and blood lead levels appears to be mediated via lead in house dust, which makes sense because it's the lead paint dust and flakes that get from the floor onto children's hands and into their mouths. This nice graph from Dixon shows the relationship between house dust and BLLs.[^11]
 
-![Plot showing predicted PbB (μg/dL) based on floor PbD (μg/ft2) by data set, from Dixon.]({{ '/img/predicted_lead_based_on_floor_lead.jpg' | url }})
+![Children's blood lead by lead in floor dust, four US studies]({{ '/img/predicted_lead_based_on_floor_lead.png' | url }})
 
 What's more uncertain is how good a proxy lead levels in paint is for blood lead levels in low income countries. This has not been studied extensively. In many countries the only data we have is the amount of lead in the paint available on the market. It's not obvious how to relate this to the amount of lead paint actually on the walls in homes and other areas around children. It's also not obvious what the actual relationship is between lead paint on walls and lead dust on floors. This makes it difficult to quantify the impact of lead paint on blood lead levels in children in low income countries.
 
@@ -70,7 +70,7 @@ LUCIA: We carried out a paint sampling study that showed that solvent-based pain
 
 We have since run a paint sampling study in Botswana, which showed that household paint currently on the market is imported from South Africa (where there is lead paint regulation in place) and does not contain high levels of lead. We are currently running paint studies in Zimbabwe and Madagascar as well.
 
-![Map of countries with lead paint laws, 2020. Source is the United Nations Environment Programme's 2020 report on lead-based paint.]({{ '/img/countries_with_lead_paint_laws_2020.png' | url }})
+![Countries without legal limits on lead in paint, December 2020]({{ '/img/countries_with_lead_paint_laws_2020.png' | url }})
 
 ERICH: So it sounds as if you've begun picking the low-hanging fruit by going to countries that are likely to have lots of lead-based paint, that you think are willing to listen, and where no one else is doing similar work. Do you have any sense of whether it'll be possible (or desirable -- I guess at some point lead-based paint will be all but gone) to scale your operations up?
 

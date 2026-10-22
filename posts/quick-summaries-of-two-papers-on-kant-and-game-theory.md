@@ -18,7 +18,7 @@ A "Kantian" player asks: "Which strategy is best if both players use it?"; the a
 
 In a dynamic model, a "selfish" player optimizes their own evolutionary fitness (by changing their strategy as they see fit). Without Kantians, the dynamic model reaches an equilibrium of hare hunting if a certain proportion of the initial population are hare hunters, and of stag hunting otherwise. With Kantians, either the selfish players outcompete the Kantians, or they reach an equilibrium with both Kantians and selfish players, again depending on the initial populations, as seen in these plots (where the selfish players adapt their strategy quickly on the left, and slowly on the right):
 
-![img]({{ '/img/kantian_stag_hunt.png' | url }})
+![Dynamics of the stag hunt with Kantian and selfish players]({{ '/img/kantian_stag_hunt.png' | url }})
 
 My commentary: "Kantian" is a stretch term here: in deontology, an action can't be justified based on its consequences. (The next paper makes this difference clear.)
 
