@@ -1,13 +1,13 @@
 ---
 layout: layouts/post.njk
-title: Attention on Existential Risk from AI Likely Hasn't Distracted from Current Harms from AI
+title: Attention on X-Risk from AI Likely Hasn't Distracted from Current Harms from AI
 date: 2023-12-21
 tags: post
 lw_link: https://www.lesswrong.com/posts/5rexNxtZgkEQBi3Sd/attention-on-ai-x-risk-likely-hasn-t-distracted-from-current
 eaf_link: https://forum.effectivealtruism.org/posts/hXzB72kfdAk6PTzio/attention-on-existential-risk-from-ai-likely-hasn-t
 ---
 
-# Attention on Existential Risk from AI Likely Hasn't Distracted from Current Harms from AI
+# Attention on X-Risk from AI Likely Hasn't Distracted from Current Harms from AI
 
 ![img]({{ '/img/hero/datacenter_2.png' | url }})
 
