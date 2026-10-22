@@ -19,15 +19,15 @@ to humanize the MIDI file at `/path/to/input.mid`, saving the humanized file to 
 
 I have worked on this tool on and off for the past five years, and have now gotten it to a state with which I am quite happy. It performs well, at least for solo piano works of roughly the type it was trained on, i.e., from the Baroque, Classical, and especially Romantic periods of Western art music. For example, the following plot shows the actual and predicted velocities for nine randomly chosen (not cherry-picked) performances from the validation set. (Each dot is a MIDI "note on" event, i.e., a note being sounded. The notes shown are a randomly sampled subset of those in the composition, to avoid cluttering the plot.) There is a strong correlation between the predicted and actual velocities.[^1]
 
-![img]({{ '/img/midihum_velocity_scatter.png' | url }})
+![Predicted and actual note velocities in nine performances]({{ '/img/midihum_velocity_scatter.png' | url }})
 
 For the same nine pieces, the model also captures the dynamics over the course of the composition well. (It appears less accurate for the Chopin and Haydn pieces below, likely because they are shorter, and less dynamically expressive, than the others shown here.) That is, the tool seems to correctly identify peaks and valleys in the music's intensity, at the macro level.
 
-![img]({{ '/img/midihum_velocities_over_time.png' | url }})
+![Note velocity over the course of nine performances]({{ '/img/midihum_velocities_over_time.png' | url }})
 
-You can also see that the velocities predicted by midihum are more extreme, in the sense that they tend more toward very high and very low values, than those performed by humans. I tuned the model that way because it suits my taste, but this is the result of a scaling factor applied in post-processing, and could easily be toned down to make the two line up better. The difference is especially obvious when comparing the distributions of velocity values, where the tails are somewhat fatter for the distribution of predicted velocities, as shown below.
+You can also see that the velocities predicted by midihum are more extreme, in the sense that they tend more toward very high and very low values, than those performed by humans. I tuned the model that way because it suits my taste, but this is the result of a scaling factor applied in post-processing, and could easily be toned down to make the two line up better. The difference is especially obvious when comparing the distributions of velocity values, where, for most of the pieces, the tails are somewhat fatter for the distribution of predicted velocities, as shown below.
 
-![img]({{ '/img/midihum_velocity_distributions.png' | url }})
+![Distribution of note velocities in nine performances]({{ '/img/midihum_velocity_distributions.png' | url }})
 
 As mentioned, midihum uses gradient boosted trees (via [XGBoost](https://xgboost.readthedocs.io/)) for its model, where each observation is one MIDI "note on" event, with a large (~400, narrowed down from ~1K) set of engineered features. midihum's predictive power is mostly a product of the engineered features, which were largely inspired by instruments used in [technical analysis](https://en.wikipedia.org/wiki/Technical_analysis) of stocks and other securities. Some of the most important features, according to the XGBoost `feature_importances_` attribute, are:
 

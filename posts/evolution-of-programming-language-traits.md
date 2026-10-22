@@ -80,16 +80,9 @@ Here's a rough empirical test of the two hypotheses, that (1) string interpolati
 
 I use [this PYPL data set](https://raw.githubusercontent.com/pypl/pypl.github.io/master/PYPL/All.js) to get a measure of the popularity of 28 different programming languages between 2004 and 2020. Then I calculate, for each year, the sum of popularity scores of the languages that supported string interpolation that year as a proportion of the sum of popularity scores of all languages that year. (You can find the R code [on GitHub](https://github.com/erwald/string-interpolation-prevalence/tree/master).) Here is the result:
 
-![Relative prevalence of string interpolation over time.]({{ '/img/relative_prevalence.png' | url }})
+![Programming languages supporting string interpolation, 2004–2020]({{ '/img/relative_prevalence.png' | url }})
 
-<div class="edit">
-<p>
-Edit 2023-07-06: I have since updated the plot using a new script written in Python, but the new graphs show essentially the same thing as the old graph.
-</p>
-
-</div>
-
-This admittedly limited approach gives evidence compatible with hypothesis 1 but not with hypothesis 2. There was a gradual drop-off in string interpolation prevalence from 2007--14 as use of two of the main languages supporting it then, Perl and PHP, declined. In 2015--16 there was however a sharp increase in prevalence, as popular languages like C#, JavaScript, and Python added support for it. Why do the graphs not show the expected S-shaped curve?
+This admittedly limited approach gives evidence compatible with hypothesis 1 but not with hypothesis 2. There was a gradual drop-off in string interpolation prevalence from 2007--14 as use of two of the main languages supporting it then, Perl and PHP, declined. In 2015--16 there was however a sharp increase in prevalence, as popular languages like C#, JavaScript, and Python added support for it. Why does neither line show the expected S-shaped curve?
 
 - Maybe the sample size is just too small for us to expect any kind of smooth curve. It's a pretty noisy signal.[^9]
 - Maybe it's that my methodology makes things appear less continuous than they were. For example, Python added support for string interpolation in version 3.6, but it surely took time for Python users to migrate to that version, so in reality access to string interpolation increased more smoothly than my plot shows.

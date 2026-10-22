@@ -21,15 +21,15 @@ Humankind needs a certain amount of energy in order to thrive. You can argue tha
 
 If you prefer graphs, here is one showing average fatalities per TWh of energy produced (Ritchie and Roser 2020):
 
-![img]({{ '/img/energy_death_rates.png' | url }})
+![Deaths from accidents and air pollution, by energy source]({{ '/img/energy_death_rates.png' | url }})
 
 The reason that energy sources like coal and oil are harmful is that they pollute the air (Ritchie and Roser 2020). Air pollution is a major cause of death, mainly in Africa and Asia (Ritchie and Roser 2020):
 
-![img]({{ '/img/air_pollution_deaths.png' | url }})
+![Share of deaths attributed to air pollution, 2019]({{ '/img/air_pollution_deaths.png' | url }})
 
 Objection: The first graph shows that nuclear energy is more harmful than renewables like wind, solar, and hydropower. Instead of ramping up nuclear energy production, we should replace coal and oil with renewables. Reply: We are already straining to increase production of renewables, but it will take a long time until they can replace coal, oil, and gas completely. These days, nearly 80% of our energy comes from oil, coal, or gas (Ritchie and Roser 2020). Renewables are safe and clean, but today they produce only something like 11% of energy (Ritchie and Roser 2020). Imagine, looking at this graph of electricity production by energy source, if we had ramped up nuclear in the 2000s instead of ramping down, how much less reliant on fossil fuels we would have been (Ritchie and Roser 2020):
 
-![img]({{ '/img/electricitry_production_energy_source.png' | url }})
+![World electricity production by source, 1985–2020]({{ '/img/electricity_production_energy_source.png' | url }})
 
 That is, nuclear energy, far from being a public health hazard, has actually saved (and can still save) lives, by replacing far more dangerous energy sources like coal and gas (Ritchie and Roser 2020). Apart from safety considerations, nuclear also emits far less greenhouse gas than does coal, oil, natural gas, or even hydropower (Ritchie and Roser 2020).
 
