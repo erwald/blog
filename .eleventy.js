@@ -118,7 +118,7 @@ export default function (eleventyConfig) {
             },
             {
                 slug: "alpha",
-                image: "/img/hero/gorilla_thumbnail.png",
+                image: "/img/hero/alpha_thumbnail.png",
             },
             {
                 slug: "the-prospect-of-an-ai-winter",
