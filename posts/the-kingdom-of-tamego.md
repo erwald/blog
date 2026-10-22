@@ -11,13 +11,13 @@ Imagine a country with four provinces. We can call it the Kingdom of Tamego. Its
 
 After the war ended, the king, having carried out and completed his life's work, died and passed away. His daughter became queen. The queen sought a path of reconciliation. As part of the reconciliatory process, she asked a trusted official to find out how many had been killed by each side during the war, in order that the communities of the slain could be recompensed. The official, unable to think of a greater duty than to serve the queen of Tamego, agreed.
 
-![Population of each of the provinces of Tamego.]({{ '/img/tamego_population.png' | url }})
+![Bar chart of the population of Tamego's four provinces: Chaka 9,000, Wengti 46,000, Mujol 22,000 and Hoshtengu 23,000.]({{ '/img/tamego_population.png' | url }})
 
 The official went to all the ministries and asked to see their records. He found first the military's own records of those who had died. These records were considerable. But everybody knew that, though the military recorded soldiers' deaths ably though not perfectly, their records of civilian deaths were erratic at best. The military records had gaping, rebel-shaped holes in them.
 
 Then the official remembered that the last census, carried out in the previous year, had included questions on how many in each family had fought in the war, which side they had fought on, whether they had been killed, and which side had killed them. This seemed like a promising source. But everybody knew that the census response rate was low and lower still among the Zid and among Angu sympathizers. The census was not a representative sample.
 
-![Recorded killings by each faction in each of the provinces of Tamego as taken down by each method.]({{ '/img/tamego_killings_recorded.png' | url }})
+![Three panels, one per faction, with three thin bars per province: killings in the military records, in the census, and in both. The king's forces' killings are well recorded, most of them in Hoshtengu; the Angu and Zid killings appear far less often in either source, and seldom in both.]({{ '/img/tamego_killings_recorded.png' | url }})
 
 All this happened during winter. The cold air felt like porcelain on one's skin. Rain swept in from the sea and battered the fields, the woods, the plains, and the mountains incessantly. People had a hard time going out at all, enduring the sunless days; and they would wonder, how is it that something which in small doses is not only bearable but even essential to life, when its dosage is increased, can become fiendishly unbearable to it?
 
@@ -51,10 +51,10 @@ Then the plain-dwellers went home, but they returned the following year, again s
 
 All this the official remembered and, remembering, he rejoiced at his having found at last a method to solve all his problems. He got up and eked out a living on the dirt-ridden streets of the town, now determined to return to his queen with the answers he had sought for so long. But the wound where his hand had been had begun to rot and fester and within the month he had died a pauper, forgotten by everyone.
 
-![Recorded and estimated killings by each faction in each of the provinces of Tamego.]({{ '/img/tamego_killings_estimates.png' | url }})
+![Three panels, one per faction, comparing the minimum estimate of killings in each province (everyone named in either source) with the Lincoln-Petersen estimate. The Lincoln-Petersen estimates are about 30% higher for the king's forces, about twice as high for the Zid and four to five times as high for the Angu rebels.]({{ '/img/tamego_killings_estimates.png' | url }})
 
 *(Postscript: This was a tale about [capture-recapture](https://en.wikipedia.org/wiki/Mark_and_recapture) methods in population ecology. Specifically, the formula used by the plain-dwellers is the Lincoln-Petersen method of estimating population size based on capture-recapture data. These methods have also been used in other domains, e.g. for estimating killings in a civil war or the number of daily drug injections in a city. As you can see in the graph below, the Lincoln-Petersen estimate for the simulated Tamego data is quite accurate, though [my simulations](https://github.com/erwald/capture-recapture-simulations/blob/master/capture_recapture_sims.R#L7-L24) probably underestimate the measurement error we'd see in real data.)*
 
-![Estimated and actual killings by each faction in each of the provinces of Tamego.]({{ '/img/tamego_killings_true.png' | url }})
+![Three panels, one per faction, with the actual number of killings in each province as grey bars and the two estimates as dots. The Lincoln-Petersen estimates sit close to the bar ends for the king's forces and the Zid and miss more for the Angu rebels (by about 600 in Mujol); the minimum estimates fall well short everywhere.]({{ '/img/tamego_killings_true.png' | url }})
 
 [^1]:	 So if, for instance, there were 500 birds, and they captured and marked 100 of those, then one fifth of the population is marked. After a year has passed and the birds have mixed, they capture another 100 -- this time, because the marked birds have mixed with the unmarked birds, they will find, out of those they have caught, 20 birds that are marked, because each bird has a one-in-five chance of being marked. And because `100/500 = 20/100`, they can derive the bird population (500) from the other three numbers.
