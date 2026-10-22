@@ -7,11 +7,13 @@ tags: post
 
 # Mysteries of the Unknown and the Unknowable
 
+![img]({{ '/img/hero/mysteries_of_the_unknown.png' | url }})
+
 > The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.[^1]
 > 
 > -- H. P. Lovecraft
 
-The first thing you think of when you hear the word **mystery** is probably the sort you find in detective novels or police procedurals. It's the kind of thing that Arthur Conan Doyle and Raymond Chandler were concerned with. Then, as you delve into the deeper recesses of your mind, you may think of religious or transcendental mysticism. Now it seems like the kind of thing that the Gnostics were concerned with. And the word's root is religious in nature, descending as it does from μυστήριον *(mustḗrion)*, from μύστης *(mústēs)*, "initiated one", from μυέω *(muéō)*, "I initiate", from μύω *(múō)*, "I shut".[^2] But there's nothing godly about it, nor anything furtive, nor cryptic.
+The first thing you think of when you hear the word *mystery* is probably the sort you find in detective novels or police procedurals. It's the kind of thing that Arthur Conan Doyle and Raymond Chandler were concerned with. Then, as you delve into the deeper recesses of your mind, you may think of religious or transcendental mysticism. Now it seems like the kind of thing that the Gnostics were concerned with. And the word's root is religious in nature, descending as it does from μυστήριον *(mustḗrion)*, from μύστης *(mústēs)*, "initiated one", from μυέω *(muéō)*, "I initiate", from μύω *(múō)*, "I shut".[^2] But there's nothing godly about it, nor anything furtive, nor cryptic.
 
 This text is a commentary on H. P. Lovecraft's story *The Call of Cthulhu*. And I will get to that one soon enough. But first we must do a little groundwork, by making a distinction between two kinds of mysteries.
 
@@ -41,8 +43,6 @@ It seems to me that the mysteries Elytis has in mind are those of the unknowable
 
 *The Call of Cthulhu* tells the tale of a man -- the narrator -- who, finding "[a] queer clay bas-relief and [...] disjointed jottings, ramblings, and cuttings" among the papers of his grand-uncle, a professor of Semitic languages who has recently died under suspicious circumstances, follows in the deceased one's footsteps as he pieces together clues gathered from the dream reports of a young, unstable artist, press cuttings describing strange incidents from all corners of the world, and a night raid in the swamps outside New Orleans led by an unwitting police inspector. These clues hint at obscure cults worshipping ancient beings known as the Great Old Ones. In the third and final act, the narrator comes across by chance a news report of the misfortunes of the crew of a New Zealand steam yacht, out of which only one man survived, an incident that leads the narrator to sense at last the full extent of everything that has happened.
 
-![Illustration by Dan Hillier from the Folio Society edition of The Call of Cthulhu & Other Weird Stories.]({{ '/img/hero/call_of_cthulhu_1.png' | url }})
-
 Now you will see why I took that long detour before. I think that this story, in my view the finest that Lovecraft ever wrote, is extraordinary because it revolves around both kinds of mystery. There is the unknown, which is summoned by the narrator's gradually learning what his grand-uncle learned and then finding out what happened to the New Zealand steamer. There is the unknowable, which is the nature and history of Cthulhu, which nature and history, in the narrator's view and in the view of the implied author[^12], are the stuff of nightmarish horror, as is made clear in the story's famous opening paragraph:
 
 > The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the deadly light into the peace and safety of a new dark age.[^13]
@@ -58,8 +58,6 @@ But he does have many more artful ways of doing it, too. One is through **anomal
 > There are vocal qualities peculiar to men, and vocal qualities peculiar to beasts; and it is terrible to hear the one when the source should yield the other.[^15]
 
 -- the same cult-members which the narrator (and it may be worth pointing out here that Lovecraft had deep-seated prejudices) describes as "mongrel" and of "mixed blood", highlighting their ambiguous nature. Of which origin are the cultists? Why are these people making sounds like animals? The young artist claims that R'lyeh, the sunken, "nightmare corpse-city" in which Cthulhu rests, in his dream-visions, had a geometry that was "all wrong" -- "abnormal, non-Euclidean, and loathsomely redolent of spheres and dimensions apart from ours". This is later confirmed by the surviving seaman, who speaks of "vast angles" and of an angle "which was acute, but behaved as if it were obtuse". And so on.
-
-![Illustration by Dan Hillier from the Folio Society edition of The Call of Cthulhu & Other Weird Stories.]({{ '/img/hero/call_of_cthulhu_2.png' | url }})
 
 Another technique that Lovecraft uses is **paradox**. A paradox is a seeming contradiction that may, upon investigation, not be a contradiction after all. A paradox poses a question, too: it asks, "If both parts of me cannot be true, which is wrong?" The Gnostics realized this and used paradox freely, for example the author of *Thunder, Perfect Mind*:
 
