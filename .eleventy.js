@@ -47,30 +47,31 @@ export default function (eleventyConfig) {
     // configure footnotes.
     // i got this from here (thanks!):
     // http://dirtystylus.com/2020/06/15/eleventy-markdown-and-footnotes/
-    let markdownLibrary = markdownIt({
-        html: true,
-        breaks: true,
-        linkify: true,
-        typographer: true,
-    })
-        .use(markdownItAnchor, {
-            permalink: markdownItAnchor.permalink.linkInsideHeader({
-                class: "direct-link",
-                symbol: "#",
-            }),
+    eleventyConfig.amendLibrary("md", (markdownLibrary) => {
+        markdownLibrary.set({
+            html: true,
+            breaks: true,
+            linkify: true,
+            typographer: true,
         })
-        .use(markdownItFootnote)
-        .use(markdownItSup)
-        .use(markdownItSub);
-    markdownLibrary.linkify.set({ fuzzyLink: true });
+            .use(markdownItAnchor, {
+                permalink: markdownItAnchor.permalink.linkInsideHeader({
+                    class: "direct-link",
+                    symbol: "#",
+                }),
+            })
+            .use(markdownItFootnote)
+            .use(markdownItSup)
+            .use(markdownItSub);
+        markdownLibrary.linkify.set({ fuzzyLink: true });
 
-    markdownLibrary.renderer.rules.footnote_block_open = () =>
-        "<h2 id='footnotes'>Footnotes <a class='direct-link' href='#footnotes'>#</a></h2>\n" +
-        "<ol class='footnotes-list'>\n";
-    markdownLibrary.renderer.rules.footnote_block_close = () => "</ol>\n";
+        markdownLibrary.renderer.rules.footnote_block_open = () =>
+            "<h2 id='footnotes'>Footnotes <a class='direct-link' href='#footnotes'>#</a></h2>\n" +
+            "<ol class='footnotes-list'>\n";
+        markdownLibrary.renderer.rules.footnote_block_close = () => "</ol>\n";
 
-    eleventyConfig.setLibrary("md", markdownLibrary);
-    eleventyConfig.amendLibrary("md", (mdLib) => mdLib.enable("code"));
+        markdownLibrary.enable("code");
+    });
 
     // add filter for removing title header from content.
     eleventyConfig.addNunjucksFilter("removeTitle", (str) => removeTitle(str));
