@@ -21,9 +21,9 @@ Edit 2022-10-23: I’ve revised this post to tone down some stylistic excesses. 
 
 The storming of the U.S. Capitol was a spectacle, a farce, and an embarrassment all at once, bundled, packaged, and distributed for an international audience. What was surprising about it was the fact that news, in this day and age, can in fact appear spontaneously, without human intervention. Good thing for the West that our revolutionaries only plan far enough to get themselves up on the barricade; having reached that place, they forget at once why they climbed it in the first place. But that is only a minor consolation.
 
-The tech behemoths, meanwhile, feeling that they are under pressure, and feeling somehow that people -- we don't know who -- need to be protected, or at any rate that something has to be done, reach for the tool at hand. Thus on January 7, Facebook suspended Donald Trump's account until the end of his term or longer; and on January 8, Twitter, having previously awarded him a 12-hour ban, suspended his account permanently due to two tweets he had posted after regaining access that day.
+The tech behemoths, meanwhile, feeling that they are under pressure, and feeling somehow that people -- we don't know who -- need to be protected, or at any rate that something has to be done, reach for the tool at hand. Thus on January 7, Facebook suspended Donald Trump's account until the end of his term or longer; and on January 8, Twitter, having previously awarded him a 12-hour ban, suspended his account permanently due to two tweets he had posted that day, after regaining access.
 
-The tweets, beautifully expressed as always, were:
+The tweets were:
 
 > The 75,000,000 great American Patriots who voted for me, AMERICA FIRST, and MAKE AMERICA GREAT AGAIN, will have a GIANT VOICE long into the future. They will not be disrespected or treated unfairly in any way, shape or form!!!
 
@@ -35,15 +35,15 @@ It's funny that the President of the United States should get kicked out of Twit
 
 > Under this policy, you can't glorify, celebrate, praise or condone violent crimes, violent events where people were targeted because of their membership in a protected group, or the perpetrators of such acts. We define glorification to include praising, celebrating, or condoning statements, such as "I'm glad this happened", "This person is my hero", "I wish more people did things like this", or "I hope this inspires others to act".
 
-What violence was Trump glorifying? I presume the storming of the U.S. Capitol. But neither tweet made any reference to that event. Instead, they give me at least the impression of a man who has realized that the sustained temper tantrum in which he's been indulging has resulted only in ridicule and begrudgingly decided to go away and sulk. But they don't refer to the events of January 6, let alone glorify, celebrate, praise, or condone those events, let alone do any of those things for the violent elements in them.[^2]
+What violence was Trump glorifying? I presume the storming of the U.S. Capitol. But neither tweet made any reference to that event. Instead, they give me at least the impression of a man who has realized that the sustained fit of rage in which he's been indulging has resulted only in ridicule and begrudgingly decided to go away and sulk. But they don't refer to the events of January 6, let alone glorify, celebrate, praise, or condone those events, let alone do any of those things for the violent elements in them.[^2]
 
 So how does Twitter read these tweets as glorification of violence? They do it by interpreting every word in the least charitable way possible, so that Trump saying he won't attend the inauguration "may also serve as encouragement to those potentially considering violent acts that the Inauguration would be a 'safe' target" and his saying that his supporters will have a "GIANT VOICE long into the future" and that they "will not be disrespected or treated unfairly in any way, shape or form" is "being interpreted as further indication that President Trump does not plan to facilitate an 'orderly transition'". Whatever this is, it is not incitement to violence.
 
-So Trump and his followers will continue their exodus to so-called free-speech alternatives like Parler. Except, yesterday [Google removed Parler from its Play Store](https://www.bloomberg.com/news/articles/2021-01-08/apple-threatens-to-remove-parler-after-app-used-in-capital-riot) due to insufficiently "robust moderation for egregious content". Apple, taking the moderate line, announced that it would only follow suit if Parler did not "improve moderation and content filtering". Remember that this is a duopoly: if you are shut out of these two places, you are shut out period.[^3] And later that day [Amazon Web Services, too, suspended Parler](https://www.bloomberg.com/news/articles/2021-01-10/apple-removes-parler-from-app-store-after-use-in-capital-riot), leaving it without a web host.
+So Trump and his followers will continue their exodus to so-called free-speech alternatives like Parler. Except, on January 8, [Google removed Parler from its Play Store](https://www.bloomberg.com/news/articles/2021-01-08/apple-threatens-to-remove-parler-after-app-used-in-capital-riot) due to insufficiently "robust moderation for egregious content". Apple, taking the moderate line, announced that it would only follow suit if Parler did not "improve moderation and content filtering". Remember that this is a duopoly: if you are shut out of these two places, you are shut out period.[^3] And the next day [Amazon Web Services, too, suspended Parler](https://www.bloomberg.com/news/articles/2021-01-10/apple-removes-parler-from-app-store-after-use-in-capital-riot), leaving it without a web host.
 
 <div class="edit">
 <p>
-Addendum 2022-10-22: Apple eventually followed through, banning Parler from its App Store. However, after adding censorship of certain posts to the app, Parler was allowed back on Apple’s App Store in May 2021 and on Google Play in September 2022. (This month it was announced that Ye aka Kanye West, having recently been blocked from Instagram and Twitter for making anti-Semitic posts, had agreed to buy Parler.)
+Addendum 2022-10-22: Apple followed through the next day, banning Parler from its App Store. However, after adding censorship of certain posts to the app, Parler was allowed back on Apple’s App Store in May 2021 and on Google Play in September 2022. (This month it was announced that Ye aka Kanye West, having recently been blocked from Instagram and Twitter for making anti-Semitic posts, had agreed to buy Parler.)
 </p>
 
 </div>
@@ -62,7 +62,7 @@ It reminds me of how Sir Thomas More, or St Thomas More if you want, in *A Man f
 > 
 > WILLIAM ROPER: Yes, I'd cut down every law in England to do that!
 > 
-> SIR THOMAS MORE: Oh? And when the last law was down, and the Devil turned 'round on you, where would you hide, Roper, the laws all being flat.
+> SIR THOMAS MORE: Oh? And when the last law was down, and the Devil turned 'round on you, where would you hide, Roper, the laws all being flat?
 
 But why should I care? I'm not a conservative, let alone a Trumpist, let alone the sort of Trumpist who thinks it's a fine idea to storm the Capitol. Only, as Rosa Luxemburg wrote, "Freedom is always the freedom of those who think differently." And consider the passage in which that famous quote appears. Luxemburg is setting out on a critique of totalitarian tendencies in the Russian revolution. She is saying that the Bolshevik suppression of democratic processes like [the Constituent Assembly](https://en.wikipedia.org/wiki/Russian_Constituent_Assembly) (this was written from jail in 1918) prevents the proletariat from getting the political training and education that it needs to govern. She goes on to write:
 
@@ -72,7 +72,7 @@ But why should I care? I'm not a conservative, let alone a Trumpist, let alone t
 
 I know that I risk provoking laughter by saying that I think deplatforming today, one century later, is also hindering people from getting the political training and education that they need. But I do. It prevents them from seeing possible objections to their arguments (and there are fair objections to every argument). It creates the kind of climate where [they are afraid to criticize what others in the movement say](https://medium.com/@jesse.singal/of-course-theres-the-backchannel-762790f9fce2). It is hindering them from being able to truly participate in political processes.[^7]
 
-[Liberals](https://www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/) and [conservatives](https://web.archive.org/web/20220114023447/https://twitter.com/RepKenBuck/status/1347686574612475909) alike now issue calls for "reckonings" -- what is one to do? The events of January 6 and the responses that have followed have produced in me a mixture of feelings best put into words by [Freddie DeBoer](https://freddiedeboer.substack.com/p/there-is-no-such-thing-as-justice):
+[Liberals](https://www.washingtonpost.com/business/2021/01/08/trump-policies-corporate-america/) and [conservatives](https://web.archive.org/web/20220114023447/https://twitter.com/RepKenBuck/status/1347686574612475909) alike now issue calls for "reckonings" -- what is one to do? The events of January 6 and the responses that have followed have produced in me a mixture of feelings best put into words by [Freddie deBoer](https://freddiedeboer.substack.com/p/there-is-no-such-thing-as-justice):
 
 > True to form, my disgust with the right is balanced -- not matched, but balanced -- by my despair over the response from the left, if that's what we want to call it. What I saw yesterday was a liberalism/Democratic party/left that is not just ignorance towards what power is, how to gain it, and how to wield it, but [seemingly] uninterested in power at all.
 > 
@@ -94,7 +94,7 @@ These are reactions to powerlessness. If you see an injustice and feel powerless
 
 [^1]:	 Laertius, D., Mensch, P. & Miller, J. (2018). *Lives of the Eminent Philosophers*. New York, NY: Oxford University Press.
 
-[^2]:	 As it happens, I think that some of the things that Trump (who shortly thereafter, like a coward, broke the promise he'd just made of marching with his supporters) said at the rally that day in a real way *did* incite his followers to storm the Capitol. And I think it was fair for Twitter to give him a temporary suspension for that.
+[^2]:	 As it happens, I think that some of the things that Trump (who shortly thereafter broke the promise he'd just made of marching with his supporters) said at the rally that day in a real way *did* incite his followers to storm the Capitol. And I think it was fair for Twitter to give him a temporary suspension for that.
 
 [^3]:	 I am not saying that these companies are breaking the law or violating the First Amendment. But there is the law of free speech and there is the spirit of free speech. I am concerned with the spirit of free speech. Incitement to imminent violence is already a crime in the U.S.; Americans don't need Facebook and Twitter to help enforce it.
 
