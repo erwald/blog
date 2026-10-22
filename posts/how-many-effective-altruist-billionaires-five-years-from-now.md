@@ -51,9 +51,9 @@ Let's make the following assumptions:
 
 ## Implications
 
-Given these (pretty generous, in my opinion) assumptions, the probability that we'll have ≥10 additional effective altruist billionaires in 2027 is roughly 14% (with 37% of ≥5 and 76% of ≥1). That's way less than Patel's proposed 50% (or the market's 38% as of my writing this). Instead, the model predicts we'll get 3 or 4 additional effective altruist billionaires in that time (which is not bad).[^4]
+Given these (pretty generous, in my opinion) assumptions, the probability that we'll have ≥10 additional effective altruist billionaires in 2027 is roughly 14% (with 36% of ≥5 and 77% of ≥1). That's way less than Patel's proposed 50% (or the market's 38% as of my writing this). Instead, the model predicts we'll get 3 or 4 additional effective altruist billionaires in that time (which is not bad).[^4]
 
-![img]({{ '/img/ea_billionaires.png' | url }})
+![Predicted number of EA billionaires, 2022 and 2027]({{ '/img/ea_billionaires.png' | url }})
 
 Even if we say with certainty that P(billionaire|effective altruist) is 0.0526%, ignoring the Ivy League base rate, the probability that we'll have ≥10 additional billionaires in 2027 is roughly 31%. Either way, 50% looks improbable to me: in order to get there, you'd need to assume both P(billionaire|effective altruist) = 0.0526% and a ~25% annual growth rate of engaged effective altruists (meaning we expect the number of effective altruists to triple in five years).
 
@@ -119,13 +119,13 @@ I'll end with two more speculative thoughts.
 
 First, I'm not sure there's more glory in effective altruist ventures than there is in traditional start-ups. Trying to think of various founders, of course the effective altruists are more famous within effective altruism and in adjacent spheres, but more broadly I don't really see a difference; I see successful non-effective-altruist start-up founders getting lots of prestige and attention. This matters because Patel's first (and to a lesser extent second and third) argument is premised on effective altruism being unusually prestigious.
 
-![img]({{ '/img/ea_billionaire_trends.png' | url }})
+![Google searches for Facebook co-founders and crypto founders, 2017–2022]({{ '/img/ea_billionaire_trends.png' | url }})
 
 Second, I think the distinction between "effective altruist → billionaire" and "billionaire → effective altruist" is important. I'd guess that, if we do get ≥10 additional effective altruist billionaires in the next five years, some of them will have become effective altruists only after getting rich (at least one-third, let's say). But that would not really vindicate Patel's arguments, which are all reasons to think that effective altruists will become billionaires, not the other way around.
 
 That said, the number of billionaires is steadily increasing, and that's one reason to think there will be more effective altruist billionaires in the future. There will just be more billionaires period. In fact, if we extrapolate the trends a little more, we'll all be billionaires one day.
 
-![img]({{ '/img/ea_billionaires_total_vs_inflation.png' | url }})
+![Billionaires per person and the real value of a billion dollars, 2000–2021]({{ '/img/ea_billionaires_total_vs_inflation.png' | url }})
 
 ## Appendix: Squiggle Model
 

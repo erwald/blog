@@ -21,15 +21,15 @@ This post explains my reasoning on three forecasts I made on questions that have
 
 As of 2021, Nigeria has a population of 213.4M, making it the sixth most populous nation. (That's an estimate; Nigeria [hasn't had a census since 2006](https://nigeria.unfpa.org/en/node/78080), though it's [planning one this year](https://www.channelstv.com/2023/01/20/npc-fixes-march-29-for-nationwide-census).) Out of the ten most populous countries, Nigeria has the highest year-on-year growth rate at +2.4%, with a comfortable lead. But that growth rate has been mostly slowing since at least 1980, and so has its [death rate](https://ourworldindata.org/grapher/crude-death-rate-the-share-of-the-population-that-dies-per-year?tab=chart&country=NGA) since at least 1950, pointing to a [demographic transition](https://en.wikipedia.org/wiki/Demographic_transition).
 
-![img]({{ '/img/nigeria_population_growth_rate.jpeg' | url }})
+![Population growth rate, ten most populous countries, 1950–2021]({{ '/img/nigeria_population_growth_rate.png' | url }})
 
 There's no point beating around the bush. The [UN population projection](https://ourworldindata.org/grapher/un-population-2024-vs-2022?country=~NGA) has a median estimate of 372M for 2049
 
-![img]({{ '/img/nigeria_population_projection.png' | url }})
+![Population of Nigeria, 1950–2100]({{ '/img/nigeria_population_projection.png' | url }})
 
 with a steadily declining growth rate
 
-![img]({{ '/img/nigeria_population_growth_rate_projection.png' | url }})
+![Population growth rate of Nigeria, 1950–2100]({{ '/img/nigeria_population_growth_rate_projection.png' | url }})
 
 which makes for about 35% probability of >400M before 2050 (reconstructing their probability distribution using the median and 80% confidence interval numbers and assuming a not-quite-correct normal distribution). That's for their medium-fertility scenario, which I think is the most plausible one.
 
