@@ -9,7 +9,7 @@ tags: post
 
 <div class="edit">
 <p>
-Edit 2022-10-23: I’ve revised this post to tone down some stylistic excesses. I’m still of the opinion that dominant tech companies shouldn’t take it upon themselves to censor politically unappealing speech and people. I think censorship is wrong. And doing so doesn’t seem to have stopped <a href="https://www.pewresearch.org/politics/2022/08/09/as-partisan-hostility-grows-signs-of-frustration-with-the-two-party-system/">the increasing polarization of U.S. politics</a> anyway. However, while I express the view that the social media bans may have helped Trump’s popularity in the post (arguing that he was shooting himself in the foot at the time), I’m now unsure whether this was true.
+Edit 2022-10-23: I’ve revised this post to tone down some stylistic excesses. I’m still of the opinion that dominant tech companies shouldn’t take it upon themselves to censor politically unappealing speech and people. I think censorship is wrong. And doing so doesn’t seem to have stopped <a href="https://www.pewresearch.org/politics/2022/08/09/as-partisan-hostility-grows-signs-of-frustration-with-the-two-party-system/">the increasing polarization of US politics</a> anyway. However, while I express the view that the social media bans may have helped Trump’s popularity in the post (arguing that he was shooting himself in the foot at the time), I’m now unsure whether this was true.
 </p>
 
 </div>
@@ -19,7 +19,7 @@ Edit 2022-10-23: I’ve revised this post to tone down some stylistic excesses. 
 > 
 > -- Plato (or elsewhere Statyllius Flaccus)
 
-The storming of the U.S. Capitol was a spectacle, a farce, and an embarrassment all at once, bundled, packaged, and distributed for an international audience. What was surprising about it was the fact that news, in this day and age, can in fact appear spontaneously, without human intervention. Good thing for the West that our revolutionaries only plan far enough to get themselves up on the barricade; having reached that place, they forget at once why they climbed it in the first place. But that is only a minor consolation.
+The storming of the US Capitol was a spectacle, a farce, and an embarrassment all at once, bundled, packaged, and distributed for an international audience. What was surprising about it was the fact that news, in this day and age, can in fact appear spontaneously, without human intervention. Good thing for the West that our revolutionaries only plan far enough to get themselves up on the barricade; having reached that place, they forget at once why they climbed it in the first place. But that is only a minor consolation.
 
 The tech behemoths, meanwhile, feeling that they are under pressure, and feeling somehow that people -- we don't know who -- need to be protected, or at any rate that something has to be done, reach for the tool at hand. Thus on January 7, Facebook suspended Donald Trump's account until the end of his term or longer; and on January 8, Twitter, having previously awarded him a 12-hour ban, suspended his account permanently due to two tweets he had posted that day, after regaining access.
 
@@ -35,7 +35,7 @@ It's funny that the President of the United States should get kicked out of Twit
 
 > Under this policy, you can't glorify, celebrate, praise or condone violent crimes, violent events where people were targeted because of their membership in a protected group, or the perpetrators of such acts. We define glorification to include praising, celebrating, or condoning statements, such as "I'm glad this happened", "This person is my hero", "I wish more people did things like this", or "I hope this inspires others to act".
 
-What violence was Trump glorifying? I presume the storming of the U.S. Capitol. But neither tweet made any reference to that event. Instead, they give me at least the impression of a man who has realized that the sustained fit of rage in which he's been indulging has resulted only in ridicule and begrudgingly decided to go away and sulk. But they don't refer to the events of January 6, let alone glorify, celebrate, praise, or condone those events, let alone do any of those things for the violent elements in them.[^2]
+What violence was Trump glorifying? I presume the storming of the US Capitol. But neither tweet made any reference to that event. Instead, they give me at least the impression of a man who has realized that the sustained fit of rage in which he's been indulging has resulted only in ridicule and begrudgingly decided to go away and sulk. But they don't refer to the events of January 6, let alone glorify, celebrate, praise, or condone those events, let alone do any of those things for the violent elements in them.[^2]
 
 So how does Twitter read these tweets as glorification of violence? They do it by interpreting every word in the least charitable way possible, so that Trump saying he won't attend the inauguration "may also serve as encouragement to those potentially considering violent acts that the Inauguration would be a 'safe' target" and his saying that his supporters will have a "GIANT VOICE long into the future" and that they "will not be disrespected or treated unfairly in any way, shape or form" is "being interpreted as further indication that President Trump does not plan to facilitate an 'orderly transition'". Whatever this is, it is not incitement to violence.
 
@@ -96,7 +96,7 @@ These are reactions to powerlessness. If you see an injustice and feel powerless
 
 [^2]:	 As it happens, I think that some of the things that Trump (who shortly thereafter broke the promise he'd just made of marching with his supporters) said at the rally that day in a real way *did* incite his followers to storm the Capitol. And I think it was fair for Twitter to give him a temporary suspension for that.
 
-[^3]:	 I am not saying that these companies are breaking the law or violating the First Amendment. But there is the law of free speech and there is the spirit of free speech. I am concerned with the spirit of free speech. Incitement to imminent violence is already a crime in the U.S.; Americans don't need Facebook and Twitter to help enforce it.
+[^3]:	 I am not saying that these companies are breaking the law or violating the First Amendment. But there is the law of free speech and there is the spirit of free speech. I am concerned with the spirit of free speech. Incitement to imminent violence is already a crime in the US; Americans don't need Facebook and Twitter to help enforce it.
 
 [^4]:	 I also think, for similar reasons, that calling for his impeachment is a mistake politically.
 

@@ -18,7 +18,7 @@ I think the arguments I made in that post are sound and that ultimately I was ri
 > 
 > 1. the expert consensus will be that continuing with the AstraZeneca vaccinations would have saved more lives than pausing it ⇒ 95%
 > 2. a majority of the listed countries will have resumed administering the AstraZeneca vaccine ⇒ 90%.
-> 3. the FDA will have approved the AstraZeneca vaccine for use in the U.S. ⇒ 95%
+> 3. the FDA will have approved the AstraZeneca vaccine for use in the US ⇒ 95%
 > 4. at least one elected official from one of the listed countries will have admitted that it was a mistake to suspend vaccinations ⇒ 70%
 
 Let us review these one by one.
@@ -84,7 +84,7 @@ This did not happen. An [article](https://www.theguardian.com/world/2021/jun/26/
 > 
 > Pangalos described it as serendipity. Regulatory bodies such as the Food and Drug Administration in the US don't like serendipity. They like predictability and no surprises. The oddity of the information sowed doubt at the FDA.
 
-As it turned out, the increased efficacy was due to the larger gap between the two shots in that group, not the lower dosage. In September of last year, the FDA was unhappy about what they perceived as lack of transparency with regard to two cases of possible side-effects (these later proved to be unrelated to the vaccine); this slowed down trials significantly in the U.S. The article continues:
+As it turned out, the increased efficacy was due to the larger gap between the two shots in that group, not the lower dosage. In September of last year, the FDA was unhappy about what they perceived as lack of transparency with regard to two cases of possible side-effects (these later proved to be unrelated to the vaccine); this slowed down trials significantly in the US. The article continues:
 
 > When the US trials eventually reported in March, AstraZeneca's top executives thought they were home and dry. They reported good results: 79% efficacy against symptomatic illness and 100% against deaths. They had hardly had time to pop a champagne cork before the world turned upside down again. They were accused by experts in the US of massaging the data to give a more favourable result.
 > 
@@ -98,7 +98,7 @@ As it turned out, the increased efficacy was due to the larger gap between the t
 
 **Verdict:** False.
 
-**Discussion:** If I recall correctly, I mostly deferred to Metaculus here. On March 16, the day that I published my predictions, the [median prediction on Metaculus](https://www.metaculus.com/questions/6124/astrazenecaoxford-vaccine-us-eua-date/) was April 16, two and a half months ahead of July 1. But I have only myself to blame; I was far too confident. For one, I was not really aware of the bad history between AZ and the FDA. I also did not consider the fact that another vaccine, also based on an adenovirus vector, was being ramped up in the U.S. around that time, reducing the need for AZ. Bad and lazy prediction.
+**Discussion:** If I recall correctly, I mostly deferred to Metaculus here. On March 16, the day that I published my predictions, the [median prediction on Metaculus](https://www.metaculus.com/questions/6124/astrazenecaoxford-vaccine-us-eua-date/) was April 16, two and a half months ahead of July 1. But I have only myself to blame; I was far too confident. For one, I was not really aware of the bad history between AZ and the FDA. I also did not consider the fact that another vaccine, also based on an adenovirus vector, was being ramped up in the US around that time, reducing the need for AZ. Bad and lazy prediction.
 
 ## Prediction #4: an Elected Official Will Admit that Suspension Was a Mistake, 70%
 

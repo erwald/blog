@@ -71,7 +71,7 @@ Let me finish by making some predictions. By July 1, 2021,
 
 1. the expert consensus will be that continuing with the AstraZeneca vaccinations would have saved more lives than pausing it ⇒ 95%
 2. a majority of the listed countries will have resumed administering the AstraZeneca vaccine ⇒ 90%.
-3. the FDA will have approved the AstraZeneca vaccine for use in the U.S. ⇒ 95%
+3. the FDA will have approved the AstraZeneca vaccine for use in the US ⇒ 95%
 4. at least one elected official from one of the listed countries will have admitted that it was a mistake to suspend vaccinations ⇒ 70%
 
 This is all so draining. I am European. I love Europe. But this is a frustrating mess.
