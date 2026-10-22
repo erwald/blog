@@ -45,7 +45,7 @@ So given these and other studies, it seems possible that veganism/vegetarianism 
 
 Those are some possibilities I thought of, but Hopwood (2022) has another explanation: it suggests the link is caused not by the diets' nutritional features or anything else on my list, but by cognitive dissonance in those who try to reduce the amount of meat they eat. To me it's prima facie plausible that there is an effect like this, though if so I have no idea how large it is. (I could also imagine the opposite effect, i.e. meat-reducers feeling better about themselves for trying to reduce their meat intake.) The study surveyed two samples of 759/766 meat-eating, 186/188 meat-reducing, and 58/54 vegan/vegetarian Americans and found that the second group scored highest on various depression (or depressivity or depressiveness; it seems psychologists are quite inventive) surveys (my plot, based on data from Hopwood (2022)):
 
-![img]({{ '/img/meat_eating_veg_depression.png' | url }})
+![Depression scores compared with meat-eaters, by diet]({{ '/img/meat_eating_veg_depression.png' | url }})
 
 Interestingly, Çınar et al. (2022) analyzes a sample of 9,319 Finnish twins and siblings of twins and finds that veganism/vegetarianism is 76% (!) heritable. Another study of 367,198 Brits identified a gene associated with vegetarianism (Fensom et al. 2020). I don't know if this suggests there are some (heritable) psychological traits that influence whether one becomes vegan/vegetarian or not, i.e. in accordance with the "unknown factor → depression and veganism/vegetarianism" hypothesis. Maybe? I don't actually know whether different heritable traits of this sort tend to be clustered in larger populations.
 

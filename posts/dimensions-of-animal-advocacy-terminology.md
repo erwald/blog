@@ -18,9 +18,9 @@ From a pretty cursory look at the research, I gather that several attempts have 
 
 ## Status Quo
 
-Let us quickly survey the current landscape. Here are some common overarching terms used in animal advocacy, with frequency of use on the y-axis, courtesy of Google Ngram. The plot shows "animal welfare" overtaking "animal rights" in frequency in the late 1990s. The gap has again widened significantly starting around 2015, which is not long after effective altruism (EA) got off the ground as a movement (though I think it unlikely that effective altruism is behind the recent change; EA seems far too niche).
+Let us quickly survey the current landscape. Here are some common overarching terms used in animal advocacy, with frequency of use on the y-axis, courtesy of Google Ngram. The plot shows "animal welfare" overtaking "animal rights" in frequency in the late 1990s. The gap has again widened significantly since 2017, a few years after effective altruism (EA) got off the ground as a movement (though I think it unlikely that effective altruism is behind the recent change; EA seems far too niche).
 
-![Plot of Google Ngram frequencies of various animal ethics terms during the last 220 years.]({{ '/img/animal_ethics_ngrams.png' | url }})
+![Frequency of animal advocacy terms in English books, 1950–2019]({{ '/img/animal_ethics_ngrams.png' | url }})
 
 Note however that there are likely marked regional differences, [as hinted at in Google Trends](https://trends.google.com/trends/explore?q=animal%20welfare,animal%20rights,animal%20suffering,animal%20ethics,animal%20protection). In Protestant Europe and Canada, for example, it seems that people frequently search for "animal protection"; compare with common terms like *djurskydd* in Swedish or *Tierschutz* in German, as seen for example in [Djurskyddsföreningen](https://www.djurskydd.org/) *(The Animal Protection Association)* and the [Deutsche Tierschutzbund](https://www.tierschutzbund.de/) *(The German Animal Protection Association)*. The term "animal rights" seems prevalent in the Slavic world, though my wife, who is Russian, tells me that the most commonly used Russian term translates to "animal protection", so I am not sure about this. Either way, globally, and especially in the Anglo world, it seems that "animal welfare" is now the dominant term.
 
@@ -39,7 +39,7 @@ As for the relics, Williams identifies five themes in messaging by People for th
 
 For a very rough look at which terms are used in the wild, I scraped [r/changemyview](https://www.reddit.com/r/changemyview/), looking at the first 500 comments within the 20 all-time top voted animal ethics-related threads (of which 13 ended up containing at least one post that included at least one of the search terms). I then manually went through the comments to see if they seemed to argue against animals, for animals, or if they were neutral.
 
-![Plot of occurrence counts of various animal ethics terms in some posts to r/changemyview.]({{ '/img/animal_ethics_cmv_occurences.png' | url }})
+![Comments using each term on r/changemyview, by stance]({{ '/img/animal_ethics_cmv_occurences.png' | url }})
 
 This is of course a super rough proxy for what terminology people use online when discussing animal ethics, but the phrase that appeared in most comments in my sample, and used especially by people arguing for animals, was "animal cruelty" (30 comments), followed by the triad of "animal suffering" (23), "animal rights" (20), and "animal welfare" (18).
 
