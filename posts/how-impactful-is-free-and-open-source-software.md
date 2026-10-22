@@ -23,7 +23,7 @@ Austin Vernon [is more bearish](https://austinvernon.site/blog/softwareisprocess
 
 In [Evolution of Programming Language Traits]({{ '/posts/evolution-of-programming-language-traits/' | url }}), I wrote about research showing that innovation rates are largely driven by a group of people's interconnectedness. I wrote:
 
-> [W]hat greatly affects a population's rate of innovation is its **interconnectedness**, in other words how widely ideas, information and tools are shared.[^5] In a culture that is deeply interconnected, where information is widely shared, innovations are **observable** and shared tools and standards mean that innovations are also more likely to be **compatible**. Most importantly, interconnectedness provides each individual with a large pool of ideas from which they can select the most attractive to modify, recombine, extend and spread in turn.
+> [W]hat greatly affects a population's rate of innovation is its **interconnectedness**, in other words how widely ideas, information, and tools are shared.[^5] In a culture that is deeply interconnected, where information is widely shared, innovations are **observable** and shared tools and standards mean that innovations are also more likely to be **compatible**. Most importantly, interconnectedness provides each individual with a large pool of ideas from which they can select the most attractive to modify, recombine, extend, and spread in turn.
 
 I then went on to quote Richard Stallman:
 

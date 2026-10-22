@@ -31,7 +31,7 @@ With (I believe) moderate assumptions and a simple model, I predict 3.5 addition
 
 If we want to predict how many effective altruist billionaires there will be in 2027, we should attend to base rates.
 
-As far as I know, there are [~five](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation) effective altruist billionaires right now, depending on how you count. They are Jaan Tallinn (Skype), Dustin Moskovitz/Cari Tuna (Facebook), Sam Bankman-Fried (FTX), Gary Wang (FTX) and one unknown person doing earning to give. It's possible that someone else from FTX is also an effective altruist and a billionaire. Of these, as far as I know only Sam Bankman-Fried and Gary Wang were effective altruists prior to becoming billionaires (the others never had the chance, since effective altruism wasn't a thing when they made their fortunes).
+As far as I know, there are [~five](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation) effective altruist billionaires right now, depending on how you count. They are Jaan Tallinn (Skype), Dustin Moskovitz/Cari Tuna (Facebook), Sam Bankman-Fried (FTX), Gary Wang (FTX), and one unknown person doing earning to give. It's possible that someone else from FTX is also an effective altruist and a billionaire. Of these, as far as I know only Sam Bankman-Fried and Gary Wang were effective altruists prior to becoming billionaires (the others never had the chance, since effective altruism wasn't a thing when they made their fortunes).
 
 William MacAskill [writes](https://forum.effectivealtruism.org/posts/cfdnJ3sDbCSkShiSZ/ea-and-the-current-funding-situation):
 

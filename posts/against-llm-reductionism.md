@@ -81,7 +81,7 @@ Nanda et al. (2023) trains a tiny (~200K parameters if my count is correct) [tra
 
 This phenomenon is called *grokking* (Power et al. 2022), and the sudden improvement on test data is called a *phase change*. It's as if the model initially merely memorizes the training data answers, but eventually finds a fully general algorithm, allowing it to generalize ~perfectly to test data. And, in fact, it turns out that this model "uses discrete Fourier transforms and trigonometric identities to convert addition to rotation about a circle" (Nanda et al. 2023).[^10] This algorithm is pretty complicated; it proceeds in multiple steps spread out over successive layers, and is utterly different from how addition normally works in computers at a low level; it's frankly incredible to me that an ML model can find it through gradient descent, but there it is.[^11]
 
-[This blog post](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/) tells a similar story: the author trains an extremely tiny (422 parameters) neural network to perform binary addition, peers inside and discovers a clever algorithm.
+[This blog post](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/) tells a similar story: the author trains an extremely tiny (422 parameters) neural network to perform binary addition, peers inside, and discovers a clever algorithm.
 
 ### LLMs Can Learn Rapidly
 

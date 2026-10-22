@@ -18,7 +18,7 @@ Here's an Emacs Lisp function for getting a BibTeX entry from a URL (like those 
 
 It's very simple: `interactive` allows the user to enter a URL, `get-bibtex-url-contents` fetches the contents of that URL, and `write-bibtex-entry` appends the contents to my `references.bib` file.
 
-Now a somewhat less simple function. This one takes a [Digital Object Identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI), fetches the corresponding BibTeX entry from the [Crossref](https://www.crossref.org/) API and, again, appends the entry to `references.bib`. (I adapted this from [Pavel Iosad's original](https://www.anghyflawn.net/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/).) The returned entry contains the DOI (as a full URL) with a URL-encoded (percent-encoded) slash -- the `%2F` there -- so the function also replaces that with a decoded slash.
+Now a somewhat less simple function. This one takes a [Digital Object Identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI), fetches the corresponding BibTeX entry from the [Crossref](https://www.crossref.org/) API, and, again, appends the entry to `references.bib`. (I adapted this from [Pavel Iosad's original](https://www.anghyflawn.net/blog/2014/emacs-give-a-doi-get-a-bibtex-entry/).) The returned entry contains the DOI (as a full URL) with a URL-encoded (percent-encoded) slash -- the `%2F` there -- so the function also replaces that with a decoded slash.
 
 ```emacs-lisp
 (defun get-bibtex-from-doi (doi)
@@ -34,7 +34,7 @@ Now a somewhat less simple function. This one takes a [Digital Object Identifier
     (write-bibtex-entry bibtex-entry)))
 ```
 
-Okay, how do `get-bibtex-url-contents` and `write-bibtex-entry` work? Let's look at the first one first. The `with-temp-buffer` macro takes one or more functions, creates a temporary buffer and evaluates the functions as if the temporary buffer were the current buffer. The `url-insert-file-contents` function takes a URL, calls it and puts the response body in a buffer, which it returns. So now `get-bibtex-url-contents` has the response body in the current (temporary) buffer. It then takes the value of that buffer (using `buffer-string`) and stores it in the `result` variable, which it returns.
+Okay, how do `get-bibtex-url-contents` and `write-bibtex-entry` work? Let's look at the first one first. The `with-temp-buffer` macro takes one or more functions, creates a temporary buffer, and evaluates the functions as if the temporary buffer were the current buffer. The `url-insert-file-contents` function takes a URL, calls it, and puts the response body in a buffer, which it returns. So now `get-bibtex-url-contents` has the response body in the current (temporary) buffer. It then takes the value of that buffer (using `buffer-string`) and stores it in the `result` variable, which it returns.
 
 ```emacs-lisp
 (defun get-bibtex-url-contents (url)

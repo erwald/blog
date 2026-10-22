@@ -24,7 +24,7 @@ I won't make any authoritative recommendations here, and I don't speak for the e
 
 I think:
 
-- Intelligence is real, to a large degree determined by genes and an important driver (though not the only one) of how much good one can do.
+- Intelligence is real, to a large degree determined by genes, and an important driver (though not the only one) of how much good one can do.
     - That means some people are by nature better positioned to do good. This is unfair, but it is what it is.
 - Somewhere there's a trade-off between getting more people into a community, and keeping a high average level of ability in the community, in other words to do with selectivity. The optimal solution is neither to allow no one in nor to allow everyone in, but somewhere in between.
     - Being welcoming and accommodating can allow you to get more impact with a more permissive threshold, but you still need to set the threshold somewhere.

@@ -42,7 +42,7 @@ to get a nice visual representation:
 
 ![Plot showing utility distribution of baseline world.]({{ '/img/utilitarianism_baseline_world_utility_distribution.png' | url }})
 
-So there are a bunch of receptacles living normal lives around the baseline value, some lucky few with utilities of three or four and some poor devils with utilities below one or even in the negative.
+So there are a bunch of receptacles living normal lives around the baseline value, some lucky few with utilities of three or four, and some poor devils with utilities below one or even in the negative.
 
 ## Classical Utilitarianism
 

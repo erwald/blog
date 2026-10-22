@@ -47,7 +47,7 @@ My fourth candidate feature is plain **beauty**. I'm including this as a sort of
 
 ### Information Processing Theory
 
-Then there is this whole thing, developed by Rachael and Stephen Kaplan in the 1980s, called information processing theory. The idea here is that "environments that provide increased opportunities for gathering or discovering information allow for improved living conditions including heightened safety" (Dosen and Ostwald 2016). A merit of this theory is that it takes seriously the fact that experiencing a landscape is an *activity*, where we continuously search, move around and notice new things. It rests on four pillars:
+Then there is this whole thing, developed by Rachael and Stephen Kaplan in the 1980s, called information processing theory. The idea here is that "environments that provide increased opportunities for gathering or discovering information allow for improved living conditions including heightened safety" (Dosen and Ostwald 2016). A merit of this theory is that it takes seriously the fact that experiencing a landscape is an *activity*, where we continuously search, move around, and notice new things. It rests on four pillars:
 
 - **Coherence** is the property of structure, order, and harmony -- think symmetry and repeating elements, textures, patterns, and so on -- how easy is the landscape to understand? An empty steppe is more coherent than a busy rainforest.
 - **Complexity** is the property of information density -- think variety and diversity -- how well does the landscape keep your interest? A mountainous landscape with a mixture of rock, woods, lakes, and meadows is more complex than a featureless desert.
@@ -60,7 +60,7 @@ Maybe some case studies will serve.
 
 ![img]({{ '/img/landscape-friedrich.jpeg' | url }})
 
-This is a painting by Caspar David Friedrich. It is, in my judgment, coherent (it is, being a painting and a masterwork, extremely well composed and balanced), complex (there are trees, bushes, meadows, ponds, mountains, clouds) and fairly mysterious (what lies behind the trees and beyond the mountains?) but not very legible (there is no clear path, though neither does it seem easy to get lost).
+This is a painting by Caspar David Friedrich. It is, in my judgment, coherent (it is, being a painting and a masterwork, extremely well composed and balanced), complex (there are trees, bushes, meadows, ponds, mountains, clouds), and fairly mysterious (what lies behind the trees and beyond the mountains?) but not very legible (there is no clear path, though neither does it seem easy to get lost).
 
 ![img]({{ '/img/landscape-constable.jpeg' | url }})
 
@@ -68,7 +68,7 @@ Here is a different painting, by John Constable. This one, unlike the previous, 
 
 ![img]({{ '/img/landscape-corot.jpeg' | url }})
 
-A third painting, Camille Corot. This scene is very legible (there's a path taking us deeper into the environment) and very mysterious (lots of little hiding-places, not to mention a whole village, to explore). It seems coherent too, but not very complex (there are the houses, the path, yellow grass, green foliage and blue skies and not much else).
+A third painting, Camille Corot. This scene is very legible (there's a path taking us deeper into the environment) and very mysterious (lots of little hiding-places, not to mention a whole village, to explore). It seems coherent too, but not very complex (there are the houses, the path, yellow grass, green foliage, and blue skies and not much else).
 
 I know what you're thinking right now. How legible is a steppe, which seems easy to explore and equally easy to get lost in? What *is* harmony, structure, order? This all seems mortally subjective, doesn't it? I agree but, given that I don't have a solution for this, will simply note the difficulty and power on.
 

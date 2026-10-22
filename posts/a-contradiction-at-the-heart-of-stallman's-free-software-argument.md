@@ -24,14 +24,14 @@ I’ve now re-read the post and some of Stallman’s articles, and I stand by it
 > 
 > -- Snorri Sturluson
 
-Let me begin with a throat clearing. I'm all for free (as in free speech) software. I have contributed, in small ways at least, to free and open source projects, I admire many of its proponents and contributors and am increasingly trading out proprietary tools and services for free ones. The [code for this website](https://github.com/erwald/blog) is free. Nearly every other software project I have undertaken privately is free. I think that making software free is [good for innovation]({{ '/posts/evolution-of-programming-language-traits/' | url }}), good for programmers, and good for people. It's the kind of thing that everybody can get behind.
+Let me begin with a throat clearing. I'm all for free (as in free speech) software. I have contributed, in small ways at least, to free and open source projects, I admire many of its proponents and contributors, and am increasingly trading out proprietary tools and services for free ones. The [code for this website](https://github.com/erwald/blog) is free. Nearly every other software project I have undertaken privately is free. I think that making software free is [good for innovation]({{ '/posts/evolution-of-programming-language-traits/' | url }}), good for programmers, and good for people. It's the kind of thing that everybody can get behind.
 
 But (and you knew there was going to be a "but") I think there's a contradiction in the argument that Richard Stallman presents in *[Why Software Should Be Free](https://www.gnu.org/philosophy/shouldbefree.en.html)*. The argument goes something like this:
 
 1. When somebody has tailored themselves a jacket, they own that jacket. They are justified in controlling it because if they were not, somebody else could do something with it which would be bad for its owner, or somebody else could steal it which, again, would be bad for its owner as it would deprive them of a jacket. The same isn't true for software. If someone copies your program, you still have your program. If someone modifies the copy, your program is still unmodified.
 2. Hence no creator is justified, when their created thing is immaterial, in controlling that thing. The two are separate from one another. The creator is entitled to credit and gratitude for their work but they are not -- no matter how much time, skill, or effort was involved in creating it -- justified in controlling its spread or use.
 3. Proprietary software is like private roads. Free software is like public roads. Either we could have a world where all roads are privately built and funded by tolls, such that private actors would be incentivized to build roads because they profit directly from it; or we could have a world where all roads are publicly funded and freely available to whoever wishes to use them. The latter is more beneficial to society and less costly for it.
-4. We gain more from allowing free access to a program than from restricting access to it. The latter actually causes harm, e.g. by preventing others from learning about it, by preventing them from building on it, by reducing innovation or by damaging social cohesion. Therefore, each person is not only justified but even obliged to spread programs freely, no matter who created them. As Stallman writes:
+4. We gain more from allowing free access to a program than from restricting access to it. The latter actually causes harm, e.g. by preventing others from learning about it, by preventing them from building on it, by reducing innovation, or by damaging social cohesion. Therefore, each person is not only justified but even obliged to spread programs freely, no matter who created them. As Stallman writes:
 
 <blockquote>
 
@@ -58,7 +58,7 @@ Let's say that the scenario with the studio executive, if it [seems wrong intuit
 - include information about where to find the original software,
 - include information about how the software has been modified,
 - include installation instructions,
-- retain the GPLv3 license and
+- retain the GPLv3 license, and
 - retain the original copyright.
 
 All of these are ways in which the owner, who selected the license, exerts control over the program and the user, who is bound by it. In other words, GPLv3 and its ancestor licenses recognize the creator's right to a measure of control over the thing they created even after it's out there in the world. That seems to be in tension with some of Stallman's arguments, such as the example of the neighbors that I quoted earlier.[^2]

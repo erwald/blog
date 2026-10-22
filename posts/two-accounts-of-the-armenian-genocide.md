@@ -81,7 +81,7 @@ I found this book in a cramped, drab bookstore in Tbilisi. It's a heartbreaking 
 
 [^4]:	 Though according to the editors' introduction, those who carried out the survey aimed "to make sure that the accounts were not skewed by any judgment or prescriptive philosophy" and, so the editors continue, "it was also imperative that the witnesses be deterred from allusions to literary works or making exaggerations; instead solely facts were to be clearly and concisely recorded under the relevant name and date". And the accounts are indeed quite unimpassioned and matter-of-fact, or at least they have that tone.
 
-[^5]:	 I recognize that the fact that the two accounts I cover here were related on the same day, to the same scribe(s) and by some of the same people means that they aren't fully independent accounts. It should not be surprising if they mostly agree with each other.
+[^5]:	 I recognize that the fact that the two accounts I cover here were related on the same day, to the same scribe(s), and by some of the same people means that they aren't fully independent accounts. It should not be surprising if they mostly agree with each other.
 
 [^6]:	 The maps in this post came with the book.
 

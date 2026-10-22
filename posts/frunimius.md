@@ -11,7 +11,7 @@ tags: post
 
 ENDEQUINA: Dear cousin, dear Frunimius, don't you think I see, in those tired eyes, in those pursed lips, in those slumped shoulders, that you are not quite all right? You look like a rainy day, that's just it. No, no, that's not it, you look like a small, tired animal in its burrow, like an old rabbit lying down somewhere to die ... I spoke to your lovely wife yesterday, who painted a picture of bliss and sunshine. What gives?
 
-FRUNIMIUS: Hm! You know, Endequina, the most disagreeable thing happened to me this morning. A new maidservant in the Señora's castle, an out-of-towner, came into my workshop to order one thing or another. She came in, but the moment she cast eyes on me, turned pale and said nothing. I said, "A dwarf can make furniture just as well as any other man." But she gasped, made the sign of the cross and bolted out of there, like a hind ... She didn't even give me the chance to ask what was the matter ... Of course I didn't need to ask, it was obvious.
+FRUNIMIUS: Hm! You know, Endequina, the most disagreeable thing happened to me this morning. A new maidservant in the Señora's castle, an out-of-towner, came into my workshop to order one thing or another. She came in, but the moment she cast eyes on me, turned pale and said nothing. I said, "A dwarf can make furniture just as well as any other man." But she gasped, made the sign of the cross, and bolted out of there, like a hind ... She didn't even give me the chance to ask what was the matter ... Of course I didn't need to ask, it was obvious.
 
 ENDEQUINA: I'm sorry to hear that, Frunimius.
 

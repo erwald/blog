@@ -29,7 +29,7 @@ One would not be too far off the mark were one to call the first kind *enlighten
 
 What if the prescribed beliefs are false? What if, as a result, the prescribed actions are not effective? I don't think these ideologies have a good answer to these questions. The beliefs they prescribe are the reason they exist. If you don't accept most of the things in the Nicene Creed, why bother with Christianity?
 
-In other words, these ideologies are inflexible. As soon as you say that the Christian religion is true, there are all these other, related beliefs that must also be true, and you feel urged to believe these too. But some of the beliefs probably aren't true, or at least it's far from obvious that they are. Now you are stuck trying to justify shaky beliefs, telling yourself you believe things that you don't really find plausible and in general having a hard time whenever you are confronted with evidence contrary to your beliefs.
+In other words, these ideologies are inflexible. As soon as you say that the Christian religion is true, there are all these other, related beliefs that must also be true, and you feel urged to believe these too. But some of the beliefs probably aren't true, or at least it's far from obvious that they are. Now you are stuck trying to justify shaky beliefs, telling yourself you believe things that you don't really find plausible, and in general having a hard time whenever you are confronted with evidence contrary to your beliefs.
 
 This is essentially the point made in Zmigrod (2020):
 

@@ -30,7 +30,7 @@ Or to borrow someone else's words:
 > 
 > It's as if large parts of humankind were familiar with civil engineering jargon because collapsing bridges were a daily occurrence.[^2]
 
-What, then, to do? In general, you can get better at not writing bugs (a) by practicing writing code, (b) by changing the conditions that make them more likely and/or (c\) by figuring out which sorts of behaviors can prevent them. Here I want to discuss (c\): how should we write code so as to reduce the risk of introducing bugs? That means I won't discuss tooling, learning, project management, or anything of that sort: I will limit my discussion to the activity of programming and will consider this in the context of software that is running in production systems, serving >1K users and for which defects can have serious adverse consequences.
+What, then, to do? In general, you can get better at not writing bugs (a) by practicing writing code, (b) by changing the conditions that make them more likely, and/or (c\) by figuring out which sorts of behaviors can prevent them. Here I want to discuss (c\): how should we write code so as to reduce the risk of introducing bugs? That means I won't discuss tooling, learning, project management, or anything of that sort: I will limit my discussion to the activity of programming and will consider this in the context of software that is running in production systems, serving >1K users, and for which defects can have serious adverse consequences.
 
 ## 1. Consider Not Writing the Code in the First Place
 

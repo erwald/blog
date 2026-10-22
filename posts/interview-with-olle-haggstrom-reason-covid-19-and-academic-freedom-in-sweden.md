@@ -54,7 +54,7 @@ OLLE: Nobody will be surprised to hear that it is exceedingly unlikely that I wo
 
 ## Writing and Thinking
 
-ERICH: Having read your blog posts, including comments, about [Göran Lambertz](https://en.wikipedia.org/wiki/G%C3%B6ran_Lambertz)'s theory of probability, I am equally horrified that a man in such a high position can make so many mistakes, impressed by his seemingly inexhaustible energy and almost inclined to pity him. What can we learn from his failures?
+ERICH: Having read your blog posts, including comments, about [Göran Lambertz](https://en.wikipedia.org/wiki/G%C3%B6ran_Lambertz)'s theory of probability, I am equally horrified that a man in such a high position can make so many mistakes, impressed by his seemingly inexhaustible energy, and almost inclined to pity him. What can we learn from his failures?
 
 OLLE: I actually had dinner with Göran Lambertz in the fall of 2016, when most of our fights over his bizarre new probability calculus in *Quickologi* were done with, and I found that his personality is in some ways similar to mine. A high self-confidence on intellectual matters is part of that. So for me personally, the *Quickologi* incident is an alarm call for being on guard against making similar mistakes to what Lambertz has done. In particular, to avoid making confident proclamations in a field which is not my own without proper respect for the available body of knowledge in the field and without having first learned what the experts say.
 

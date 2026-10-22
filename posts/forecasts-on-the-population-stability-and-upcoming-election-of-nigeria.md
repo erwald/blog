@@ -301,6 +301,6 @@ To sum up:
 
 [^1]:	 The data actually comes not only from censuses, but also surveys, population registers, and so on. But "census" is right to a first approximation.
 
-[^2]:	 I count 6 [coups since independence](https://en.wikipedia.org/wiki/Military_coups_in_Nigeria) (1960), 62 × 12 + 4 = 748 months since independence and 23 months remaining until the year is 2025.
+[^2]:	 I count 6 [coups since independence](https://en.wikipedia.org/wiki/Military_coups_in_Nigeria) (1960), 62 × 12 + 4 = 748 months since independence, and 23 months remaining until the year is 2025.
 
 [^3]:	 That is, Abubakar has either run as a candidate for president, or participated in the primaries to be nominated as a candidate.

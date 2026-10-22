@@ -21,7 +21,7 @@ The problem is this: given two sorted integer lists, calculate the median value 
 ;Value: 5/2
 ```
 
-Let us start by implementing a kind of naïve, slow version. Getting the median of a single sorted list is trivial: it is either the central value if the list has an odd-numbered length, or the mean of the two central values otherwise. So the naïve approach is to combine the two lists, sort the combined list and get the median from the combined and sorted list. An implementation could look something like this:
+Let us start by implementing a kind of naïve, slow version. Getting the median of a single sorted list is trivial: it is either the central value if the list has an odd-numbered length, or the mean of the two central values otherwise. So the naïve approach is to combine the two lists, sort the combined list, and get the median from the combined and sorted list. An implementation could look something like this:
 
 ```scheme
 ;; Returns the median value of two sorted integer lists.
@@ -77,7 +77,7 @@ What's more, though there is a procedure for getting the first (or the eighth!) 
 (define (vector-last v) (vector-ref v (- (vector-length v) 1)))
 ```
 
-Finally, we will implement a procedure for doing a pairwise concatenation of two pairs of vectors. That is, we concatenate the first elements of both pairs, then concatenate the second elements of both pairs and return a pair with the two concatenations. `cons` here is a procedure for creating a new pair; `car` gets the first element in a pair; `cdr` gets the second element.[^1]
+Finally, we will implement a procedure for doing a pairwise concatenation of two pairs of vectors. That is, we concatenate the first elements of both pairs, then concatenate the second elements of both pairs, and return a pair with the two concatenations. `cons` here is a procedure for creating a new pair; `car` gets the first element in a pair; `cdr` gets the second element.[^1]
 
 ```scheme
 ;; Returns the pairwise concatenations of two pairs of vectors.

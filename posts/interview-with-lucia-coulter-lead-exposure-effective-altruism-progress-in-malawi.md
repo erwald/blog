@@ -40,7 +40,7 @@ LUCIA: First we identify countries where we expect there to be a lot of lead pai
 
 ERICH: You founded LEEP together with Jack Rafferty. Could you say a few words about your background? What brought you to effective altruism generally and to lead exposure as a cause area specifically?
 
-LUCIA: I've been on board with the basic ideas of effective altruism for many years (in fact, ever since I first read *Famine, Affluence and Morality* by Peter Singer when I was 12!). I became more seriously involved when I was at university and co-ran the Cambridge chapter of [Giving What We Can](https://www.givingwhatwecan.org/). I volunteered for EA-related organisations throughout my time at medical school and during my first two years working as a doctor.
+LUCIA: I've been on board with the basic ideas of effective altruism for many years (in fact, ever since I first read *Famine, Affluence, and Morality* by Peter Singer when I was 12!). I became more seriously involved when I was at university and co-ran the Cambridge chapter of [Giving What We Can](https://www.givingwhatwecan.org/). I volunteered for EA-related organisations throughout my time at medical school and during my first two years working as a doctor.
 
 After my second year working as a doctor it felt like a good time to try something new and more impactful. I had some friends who had started [Charity Entrepreneurship](https://www.charityentrepreneurship.com/) incubated charities and thought it sounded like a very high impact option, as well as a great opportunity to learn a load of new cross-applicable skills in a short space of time.
 

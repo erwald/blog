@@ -38,7 +38,7 @@ Richard McElreath, in his textbook on Bayesian statistics, likens statistical mo
 
 Moral systems are a little bit like statistical models in that they are constructs that take some input, do some computation, and produce some output. The input is the proposed action and the situation in which it happens; the output is the rightness or wrongness of that action.
 
-The point is that the golem is dumb. It produces answers that are true only in its own small world. This small world is necessarily limited. It's limited by the assumptions baked into the model, by the data that is fed into it and so on.
+The point is that the golem is dumb. It produces answers that are true only in its own small world. This small world is necessarily limited. It's limited by the assumptions baked into the model, by the data that is fed into it, and so on.
 
 The golem will always do what it's told. You can improve it, perhaps, by giving it more detailed instructions. But then you are tethering it to a specific environment. If you transport the golem to a different place, it will probably do worse with the more detailed instructions and better with the simpler instructions, in the same way that more complex statistical models can produce worse predictions when moved to a different context due to [overfitting](https://statisticsbyjim.com/regression/overfitting-regression-models/).
 

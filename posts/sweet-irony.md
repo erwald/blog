@@ -17,7 +17,7 @@ I interpret "error" here not only to mean "mistake", but more broadly, and mirro
 
 ## "Arnheim Could Also Make the Claim that He Thought like a Socialist ..."
 
-There's a lovely passage in Robert Musil's *The Man without Qualities* that describes Paul Arnheim's views on money. Arnheim is a wealthy, famous, and highly cultured industrialist. Ruminating on the hardships of being rich, Arnheim considers the fact that young people with no money but "only plans and talent" often ask them (the rich) for financial aid, not understanding that the real support the rich can give them is through "their ideas, their knowledge and their personal gravity"; and of course they (the supplicants) may also spend or invest a donation badly, leaving everyone worse off than before. "Perhaps these ends are good and these people incomparable; in that case you should assist them with all means, only not with money", he concludes.
+There's a lovely passage in Robert Musil's *The Man without Qualities* that describes Paul Arnheim's views on money. Arnheim is a wealthy, famous, and highly cultured industrialist. Ruminating on the hardships of being rich, Arnheim considers the fact that young people with no money but "only plans and talent" often ask them (the rich) for financial aid, not understanding that the real support the rich can give them is through "their ideas, their knowledge, and their personal gravity"; and of course they (the supplicants) may also spend or invest a donation badly, leaving everyone worse off than before. "Perhaps these ends are good and these people incomparable; in that case you should assist them with all means, only not with money", he concludes.
 
 The next paragraph reads:
 
